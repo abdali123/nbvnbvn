@@ -1,36 +1,27 @@
 const translations = {
     ar: { title: "خطط لرحلة أحلامك الآن", search: "ابحث الآن", landmark: "المعالم التاريخية", cuisine: "المطبخ المحلي", activity: "أنشطة سياحية", green: "الطبيعة والمنتزهات", notFound: "نعتذر، هذه المدينة غير متوفرة حالياً وسوف تضاف قريباً.", countryP: "اكتب الدولة...", cityP: "اكتب المدينة...", dir: "rtl" },
-    en: { title: "Plan Your Dream Trip Now", search: "Search Now", landmark: "Historical Landmarks", cuisine: "Local Cuisine", activity: "Tourist Activities", green: "Nature & Parks", notFound: "Sorry, this city is not available yet and will be added soon.", countryP: "Type country...", cityP: "Type city...", dir: "ltr" },
-    fr: { title: "Planifiez votre voyage de rêve", search: "Rechercher", landmark: "Monuments Historiques", cuisine: "Cuisine Locale", activity: "Activités", green: "Espaces Verts", notFound: "Désolé, cette ville sera bientôt disponible.", countryP: "Pays...", cityP: "Ville...", dir: "ltr" }
-    // أضف باقي اللغات بنفس الطريقة...
+    en: { title: "Plan Your Dream Trip Now", search: "Search Now", landmark: "Historical Landmarks", cuisine: "Local Cuisine", activity: "Tourist Activities", green: "Nature & Parks", notFound: "Sorry, this city is not available yet.", countryP: "Type country...", cityP: "Type city...", dir: "ltr" },
+    fr: { title: "Planifiez votre voyage", search: "Rechercher", landmark: "Monuments", cuisine: "Cuisine", activity: "Activités", green: "Espaces Verts", notFound: "Désolé, ville non disponible.", countryP: "Pays...", cityP: "Ville...", dir: "ltr" }
 };
 
 const langSelect = document.getElementById('langSelect');
 
-langSelect.addEventListener('change', () => {
-    const lang = langSelect.value;
-    const t = translations[lang] || translations['en'];
-    
-    document.documentElement.lang = lang;
-    document.documentElement.dir = t.dir;
-    
-    document.getElementById('ui-title').innerText = t.title;
-    document.getElementById('ui-search-text').innerText = t.search;
-    document.getElementById('ui-landmarks').innerText = t.landmark;
-    document.getElementById('ui-cuisine').innerText = t.cuisine;
-    document.getElementById('ui-activities').innerText = t.activity;
-    document.getElementById('ui-green').innerText = t.green;
-    document.getElementById('ui-not-found').innerText = t.notFound;
-    document.getElementById('countryInput').placeholder = t.countryP;
-    document.getElementById('cityInput').placeholder = t.cityP;
-});
+// دالة البحث الذكي عن المفاتيح داخل الكائن
+function getValueByKey(obj, keyName) {
+    const keys = Object.keys(obj);
+    const foundKey = keys.find(k => k.trim().toLowerCase() === keyName.toLowerCase());
+    return foundKey ? obj[foundKey] : null;
+}
 
 document.getElementById('searchBtn').addEventListener('click', async () => {
     const lang = langSelect.value;
     const countryQ = document.getElementById('countryInput').value.trim().toLowerCase();
     const cityQ = document.getElementById('cityInput').value.trim().toLowerCase();
     
-    if(!countryQ || !cityQ) return;
+    if(!countryQ || !cityQ) {
+        alert("يرجى إدخال الدولة والمدينة");
+        return;
+    }
 
     const resultsDiv = document.getElementById('results');
     const notFoundDiv = document.getElementById('not-found');
@@ -38,31 +29,43 @@ document.getElementById('searchBtn').addEventListener('click', async () => {
     resultsDiv.classList.add('hidden');
     notFoundDiv.classList.add('hidden');
 
-    let cityData = null;
+    let cityFound = null;
     const groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'i'];
 
     for (let g of groups) {
         try {
-            const res = await fetch(`data/${lang}/fr group ${g}.json`); // تأكد من مسميات المجلدات لديك
+            // المسار يجب أن يطابق تماماً أسماء ملفاتك على GitHub
+            const fileName = `data/${lang}/${lang} group ${g}.json`;
+            const res = await fetch(fileName);
+            if (!res.ok) continue;
+
             const data = await res.json();
             
             for (let item of data) {
-                if (item.Country_Name.toLowerCase().includes(countryQ)) {
-                    const cities = item.Cities || item[" Cities"];
-                    cityData = cities.find(c => c.City_Name.toLowerCase().includes(cityQ));
-                    if (cityData) break;
+                const countryName = getValueByKey(item, "Country_Name");
+                if (countryName && countryName.toLowerCase().includes(countryQ)) {
+                    // البحث عن قائمة المدن سواء كان اسمها "Cities" أو " Cities"
+                    const citiesList = getValueByKey(item, "Cities");
+                    if (citiesList && Array.isArray(citiesList)) {
+                        cityFound = citiesList.find(c => 
+                            getValueByKey(c, "City_Name").toLowerCase().includes(cityQ)
+                        );
+                    }
                 }
+                if (cityFound) break;
             }
-        } catch(e) { console.log("File not found or error in group " + g); }
-        if (cityData) break;
+        } catch(e) { 
+            console.error("خطأ في قراءة المجموعة " + g, e); 
+        }
+        if (cityFound) break;
     }
 
-    if (cityData) {
-        document.getElementById('cityNameDisplay').innerText = cityData.City_Name;
-        document.getElementById('res-landmarks').innerText = cityData.Historical_Landmarks;
-        document.getElementById('res-cuisine').innerText = cityData.Local_Cuisine;
-        document.getElementById('res-activities').innerText = cityData.Tourist_Activities || cityData[" Tourist_Activities"] || "---";
-        document.getElementById('res-green').innerText = cityData.Green_Spaces;
+    if (cityFound) {
+        document.getElementById('cityNameDisplay').innerText = getValueByKey(cityFound, "City_Name");
+        document.getElementById('res-landmarks').innerText = getValueByKey(cityFound, "Historical_Landmarks") || "---";
+        document.getElementById('res-cuisine').innerText = getValueByKey(cityFound, "Local_Cuisine") || "---";
+        document.getElementById('res-activities').innerText = getValueByKey(cityFound, "Tourist_Activities") || "---";
+        document.getElementById('res-green').innerText = getValueByKey(cityFound, "Green_Spaces") || "---";
         resultsDiv.classList.remove('hidden');
     } else {
         notFoundDiv.classList.remove('hidden');

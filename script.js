@@ -1,17 +1,22 @@
+// قائمة المجموعات المتاحة لديك
 const groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'i'];
-let allData = []; // سنخزن البيانات هنا لسرعة البحث
+let allCountriesData = []; 
 
-// دالة لتنظيف المفاتيح من المسافات الزائدة (مثل " Cities")
-function cleanKey(obj, target) {
-    const key = Object.keys(obj).find(k => k.trim().toLowerCase() === target.toLowerCase());
-    return key ? obj[key] : null;
+// دالة سحرية للوصول للمفاتيح حتى لو بها مسافات (مثل " Cities" أو "Cities")
+function getSafeKey(obj, keyName) {
+    const keys = Object.keys(obj);
+    const found = keys.find(k => k.trim().toLowerCase() === keyName.toLowerCase());
+    return found ? obj[found] : null;
 }
 
-// 1. تحميل كل البيانات فور فتح الصفحة وتعبئة الاقتراحات
-async function loadSuggestions() {
-    const lang = document.getElementById('langSelect').value;
-    const countryListEl = document.getElementById('countriesList');
-    countryListEl.innerHTML = ""; // تفريغ القائمة
+// 1. تحميل كل البيانات فور فتح الموقع لتعبئة الاقتراحات
+async function preloadData() {
+    const lang = document.getElementById('langSelect').value || 'ar';
+    const countryDatalist = document.getElementById('countriesList');
+    
+    // تصفير البيانات القديمة
+    allCountriesData = [];
+    countryDatalist.innerHTML = "";
 
     for (let g of groups) {
         try {
@@ -19,75 +24,69 @@ async function loadSuggestions() {
             if (!response.ok) continue;
             const data = await response.json();
             
-            data.forEach(item => {
-                const cName = cleanKey(item, "Country_Name");
-                if (cName) {
-                    // إضافة الدولة للاقتراحات
+            data.forEach(country => {
+                const name = getSafeKey(country, "Country_Name");
+                if (name) {
+                    allCountriesData.push(country);
+                    // إضافة اسم الدولة لقائمة الاقتراحات
                     let option = document.createElement('option');
-                    option.value = cName;
-                    countryListEl.appendChild(option);
-                    
-                    // تخزين البيانات في الذاكرة للبحث السريع لاحقاً
-                    allData.push(item);
+                    option.value = name;
+                    countryDatalist.appendChild(option);
                 }
             });
-        } catch (e) { console.log("Error loading group " + g); }
+        } catch (e) {
+            console.error("خطأ في تحميل الملف:", g);
+        }
     }
 }
 
-// تنفيذ التحميل عند تشغيل الصفحة أو تغيير اللغة
-window.onload = loadSuggestions;
-document.getElementById('langSelect').onchange = () => {
-    allData = [];
-    loadSuggestions();
-};
-
-// 2. تحديث قائمة المدن بناءً على الدولة المختارة
-document.getElementById('countryInput').addEventListener('input', function() {
+// 2. تحديث قائمة المدن بناءً على الدولة التي اختارها المستخدم
+document.getElementById('countryInput').addEventListener('change', function() {
     const selectedCountry = this.value;
-    const cityListEl = document.getElementById('citiesList');
-    cityListEl.innerHTML = "";
-
-    const countryObj = allData.find(item => cleanKey(item, "Country_Name") === selectedCountry);
+    const cityDatalist = document.getElementById('citiesList');
+    cityDatalist.innerHTML = ""; // تصفير المدن
+    
+    const countryObj = allCountriesData.find(c => getSafeKey(c, "Country_Name") === selectedCountry);
+    
     if (countryObj) {
-        const cities = cleanKey(countryObj, "Cities");
+        const cities = getSafeKey(countryObj, "Cities");
         if (Array.isArray(cities)) {
             cities.forEach(city => {
+                const cityName = getSafeKey(city, "City_Name");
                 let option = document.createElement('option');
-                option.value = cleanKey(city, "City_Name");
-                cityListEl.appendChild(option);
+                option.value = cityName;
+                cityDatalist.appendChild(option);
             });
         }
     }
 });
 
-// 3. دالة البحث النهائية
+// 3. وظيفة البحث وعرض النتائج
 document.getElementById('searchBtn').addEventListener('click', () => {
-    const countryVal = document.getElementById('countryInput').value;
-    const cityVal = document.getElementById('cityInput').value;
+    const countryName = document.getElementById('countryInput').value;
+    const cityName = document.getElementById('cityInput').value;
     const resultsDiv = document.getElementById('results');
-    const notFound = document.getElementById('not-found');
 
-    let foundCity = null;
-
-    // البحث في البيانات المحملة مسبقاً
-    const countryObj = allData.find(item => cleanKey(item, "Country_Name") === countryVal);
+    const countryObj = allCountriesData.find(c => getSafeKey(c, "Country_Name") === countryName);
     if (countryObj) {
-        const cities = cleanKey(countryObj, "Cities");
-        foundCity = cities.find(c => cleanKey(c, "City_Name") === cityVal);
-    }
+        const cities = getSafeKey(countryObj, "Cities");
+        const cityData = cities.find(ct => getSafeKey(ct, "City_Name") === cityName);
 
-    if (foundCity) {
-        document.getElementById('cityNameDisplay').innerText = cleanKey(foundCity, "City_Name");
-        document.getElementById('res-landmarks').innerText = cleanKey(foundCity, "Historical_Landmarks") || "---";
-        document.getElementById('res-cuisine').innerText = cleanKey(foundCity, "Local_Cuisine") || "---";
-        document.getElementById('res-activities').innerText = cleanKey(foundCity, "Tourist_Activities") || "---";
-        document.getElementById('res-green').innerText = cleanKey(foundCity, "Green_Spaces") || "---";
-        
-        resultsDiv.classList.remove('hidden');
-        notFound.classList.add('hidden');
+        if (cityData) {
+            document.getElementById('cityNameDisplay').innerText = getSafeKey(cityData, "City_Name");
+            document.getElementById('res-landmarks').innerText = getSafeKey(cityData, "Historical_Landmarks") || "غير متوفر";
+            document.getElementById('res-cuisine').innerText = getSafeKey(cityData, "Local_Cuisine") || "غير متوفر";
+            document.getElementById('res-activities').innerText = getSafeKey(cityData, "Tourist_Activities") || "غير متوفر";
+            document.getElementById('res-green').innerText = getSafeKey(cityData, "Green_Spaces") || "غير متوفر";
+            
+            resultsDiv.classList.remove('hidden');
+        } else {
+            alert("يرجى اختيار مدينة من القائمة");
+        }
     } else {
-        resultsDiv.classList.add('hidden');
-        notFound.classList.remove('hidden');
+        alert("يرجى اختيار دولة من القائمة");
     }
 });
+
+// تشغيل التحميل عند فتح الصفحة
+window.onload = preloadData;

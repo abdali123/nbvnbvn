@@ -1,0 +1,1318 @@
+[
+  {
+    "Country_Name": "Gabon",
+    "Cities": [
+      {
+        "City_Name": "Libreville",
+        "Historical_Landmarks": "彫刻された木製の柱を持つ聖ミカエル教会、モダンスタイルの大統領宮殿。",
+        "Tourist_Activities": "太平洋のプロムナードを散策、ガボンの芸術と伝統博物館を訪問、賑やかなモン・ビュイ市場で買い物。",
+        "Local_Cuisine": "ニエンブイ（パームソースのチキン）と茹でプランテン、ビーチでの新鮮な焼き魚。",
+        "Green_Spaces": "市内のボンスアン小公園（ボンスアン）、市内の静かなビーチ。"
+      },
+      {
+        "City_Name": "Port-Gentil",
+        "Historical_Landmarks": "サンルイ大聖堂、植民地時代の市街地。",
+        "Tourist_Activities": "ルメングイビーチを楽しむ、イルカウォッチングツアー、大西洋での釣り。",
+        "Local_Cuisine": "新鮮なカキと味付けされたカニ、揚げキャッサバパンケーキ。",
+        "Green_Spaces": "市周辺のマングローブ林、オグオイ湾。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Cities": [
+      {
+        "City_Name": "Antananarivo",
+        "Historical_Landmarks": "ロバ宮殿（王宮複合体）、独立通り（アベニュー・ド・リンデペンダンス）。",
+        "Tourist_Activities": "女王宮殿（ロバ）を探索、ゾマ市場を訪問、アノシー湖周辺を散策。",
+        "Local_Cuisine": "ロマザバ（肉と野菜のスープ煮）、ラフィトト（キャッサバの葉と肉の煮込み）。",
+        "Green_Spaces": "少し離れた場所にあるレムールパーク、ツィンバザザパーク。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bahrain",
+    "Cities": [
+      {
+        "City_Name": "Manama",
+        "Historical_Landmarks": "バーレーンゲート、バーレーン国立博物館、アル・ファテフ・グランドモスク、ベイト・アル・クラン。",
+        "Tourist_Activities": "古いマナマ・スークを散策、博物館を訪問、コルニッシュを楽しむ。",
+        "Local_Cuisine": "マクブース、バーレーンの甘いもの、ムタバック、マフマル。",
+        "Green_Spaces": "アル・アマナ公園、アル・ファテフ・コルニッシュ、バーレーン・ベイ公園。"
+      },
+      {
+        "City_Name": "Muharraq",
+        "Historical_Landmarks": "シェイク・イサ・ビン・アリ・ハウス、ブ・マヘル要塞、真珠の道（世界遺産）。",
+        "Tourist_Activities": "真珠漁の歴史を探索、博物館を訪問、古い路地を散策。",
+        "Local_Cuisine": "ラカックパン、ベルニーシュ（伝統的な魚料理）、新鮮なシーフード。",
+        "Green_Spaces": "アル・コルニッチ・アル・ハド公園、ムハラクのビーチ。"
+      },
+      {
+        "City_Name": "Riffa",
+        "Historical_Landmarks": "リッファ要塞（シェイク・サルマン・ビン・アフメド・アル・ファテフ）、アスカル歴史村。",
+        "Tourist_Activities": "歴史的な要塞を訪問、ロイヤルクラブでゴルフをプレー。",
+        "Local_Cuisine": "フィッシュ・ムタバック、フンフルーシュ（揚げ甘いもの）。",
+        "Green_Spaces": "アイン・アダリ公園、ナツメヤク農場、ロイヤルゴルフクラブ。"
+      },
+      {
+        "City_Name": "Isa Town",
+        "Historical_Landmarks": "バーレーン国立スタジアム、主要なモスク。",
+        "Tourist_Activities": "人気の市場で買い物、スポーツイベントに参加。",
+        "Local_Cuisine": "バラリート（甘いビルクーニ）、イシュ・アル・マシュクール。",
+        "Green_Spaces": "イサ・タウン・グランドパーク。"
+      },
+      {
+        "City_Name": "Zallaq",
+        "Historical_Landmarks": "バーレーン・インターナショナル・サーキット、バーレーン・タワー。",
+        "Tourist_Activities": "F1レースに参加、アル・ジャジラビーチでリラックス。",
+        "Local_Cuisine": "アル・ハビサ（甘い料理）、シーフード。",
+        "Green_Spaces": "アル・ジャジラビーチ、沿岸公園。"
+      },
+      {
+        "City_Name": "Sitra",
+        "Historical_Landmarks": "シトラ橋、古い家、アル・ハミス・モスク。",
+        "Tourist_Activities": "釣り、地元の市場を訪問、島を散策。",
+        "Local_Cuisine": "アル・マラクーク（生地とスープ）、焼きサフィ魚。",
+        "Green_Spaces": "シトラ・コルニッシュ、沿岸農場。"
+      },
+      {
+        "City_Name": "Al Hadd",
+        "Historical_Landmarks": "ブルネイ・カーズ博物館、バーレーン・ゲート。",
+        "Tourist_Activities": "カーミュージアムを訪問、コルニッシュを楽しむ。",
+        "Local_Cuisine": "焼き肉、シーフード。",
+        "Green_Spaces": "アル・ハッド・コルニッシュ公園、ビーチ。"
+      },
+      {
+        "City_Name": "Al Juffair",
+        "Historical_Landmarks": "バーレーン・シティセンター、ジュファイア・タワーズ。",
+        "Tourist_Activities": "高級ショッピング、高級レストランで食事。",
+        "Local_Cuisine": "国際料理、冷たい飲み物。",
+        "Green_Spaces": "ジュファイア庭園、コルニッシュ。"
+      },
+      {
+        "City_Name": "Al Badie",
+        "Historical_Landmarks": "バーレーン国際展示センター、アル・バディ・ゲート。",
+        "Tourist_Activities": "展示会や会議に参加、農家市場で買い物。",
+        "Local_Cuisine": "新鮮なデーツ、天然ジュース。",
+        "Green_Spaces": "ナツメヤク農場、農家市場（緑地）。"
+      },
+      {
+        "City_Name": "Ali",
+        "Historical_Landmarks": "ナツメヤク農場、古いモスク。",
+        "Tourist_Activities": "農場を訪問、田舎の生活を探索。",
+        "Local_Cuisine": "デーツ、デーツ製品。",
+        "Green_Spaces": "広大なナツメヤク農場、谷。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bangladesh",
+    "Cities": [
+      {
+        "City_Name": "Dhaka",
+        "Historical_Landmarks": "ラルバグ要塞、16ドームモスク、国立国会議事堂（ルイス・カーン設計）。",
+        "Tourist_Activities": "リクシャに乗る、博物館を訪問、ダッカの市場を散策。",
+        "Local_Cuisine": "イリシュ・マッ（ヒルサカレー）、ダッカ・ビリヤニ、ベタ（漬物野菜）。",
+        "Green_Spaces": "ラムナ公園、ダンモンディ湖。"
+      },
+      {
+        "City_Name": "Chittagong",
+        "Historical_Landmarks": "第二次世界大戦墓地、ハズラト・ビビ・マリアムの聖地。",
+        "Tourist_Activities": "戦争墓地を訪問、チッタゴン丘を探索、カルナフリ川でのボート旅行。",
+        "Local_Cuisine": "ミガン（辛い肉カレー）、ショトキ（干し魚）、エビカレー。",
+        "Green_Spaces": "フォイ湖、チッタゴン丘。"
+      },
+      {
+        "City_Name": "Cox's Bazar",
+        "Historical_Landmarks": "世界最長の自然砂浜、アジャンタ仏教寺院。",
+        "Tourist_Activities": "ビーチでリラックス、ボート旅行、仏教寺院を訪問。",
+        "Local_Cuisine": "エビカレー、新鮮なシーフード、辛く味付けされたライス。",
+        "Green_Spaces": "コックス・バザールビーチ、ヒムシャリ滝、メヒ丘。"
+      },
+      {
+        "City_Name": "Sylhet",
+        "Historical_Landmarks": "ハズラト・シャー・ジャラルの聖地、ジャファル庭園。",
+        "Tourist_Activities": "茶農園を訪問、スルマ川でのボート旅行。",
+        "Local_Cuisine": "ネパ肉カレー、シルヘティライス、ベタ。",
+        "Green_Spaces": "茶農園、ラタグル湿原、ラワカラ森林。"
+      },
+      {
+        "City_Name": "Kulna",
+        "Historical_Landmarks": "カーン・ジャハン・アリ宮殿、カーン・ジャハン廟。",
+        "Tourist_Activities": "歴史的な宮殿を訪問、スンダルバンズでの川サファリ旅行。",
+        "Local_Cuisine": "巨大エビカレー、揚げパン（ルビ）。",
+        "Green_Spaces": "ルプサ川、近くのスンダルバンズ森林。"
+      },
+      {
+        "City_Name": "Rajshahi",
+        "Historical_Landmarks": "ボティヤ・ラジ・バリ宮殿、ラジシャヒ博物館。",
+        "Tourist_Activities": "シルクを購入、博物館を訪問、パドマ川岸を散策。",
+        "Local_Cuisine": "ラジシャヒの甘いもの、ランガパツ（甘いライス料理）。",
+        "Green_Spaces": "バルー・バーグ公園、パドマ川岸。"
+      },
+      {
+        "City_Name": "Bogra",
+        "Historical_Landmarks": "マハスタンジャラ（歴史遺跡）、考古学博物館。",
+        "Tourist_Activities": "考古学的場所を訪問、古代バングラデシュの歴史を探索。",
+        "Local_Cuisine": "ドイ（甘いヨーグルト）、ヤギ肉カレー。",
+        "Green_Spaces": "緑豊かな農村地域。"
+      },
+      {
+        "City_Name": "Parisal",
+        "Historical_Landmarks": "ブチャンゲル要塞、ダキモスク。",
+        "Tourist_Activities": "浮きグアバ市場ツアー、ガンジスデルタでのボート旅行。",
+        "Local_Cuisine": "塩辛いエリシュ・マッカレー、ガンジスデルタの野菜。",
+        "Green_Spaces": "浮きグアバ市場、ガンジスデルタの川。"
+      },
+      {
+        "City_Name": "Rangamati",
+        "Historical_Landmarks": "ロジバギ宮殿、部族博物館。",
+        "Tourist_Activities": "カプタイ湖ツアー、吊り橋を訪問、部族の生活を探索。",
+        "Local_Cuisine": "竹チキン（竹で調理されたチキン）、地元の部族料理。",
+        "Green_Spaces": "カプタイ湖、吊り橋、ランガマティ丘。"
+      },
+      {
+        "City_Name": "Komila",
+        "Historical_Landmarks": "マイン・マティ仏教遺跡、セルバン・フィハラ宿。",
+        "Tourist_Activities": "仏教考古学的場所を訪問、地域の歴史を探索。",
+        "Local_Cuisine": "ラス・マライ（練乳の甘いもの）、コミラライス。",
+        "Green_Spaces": "コミラ軍事公園。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bhutan",
+    "Cities": [
+      {
+        "City_Name": "Thimphu",
+        "Historical_Landmarks": "ブッダ・ドルデンマ像、ティンプー・ゾン、総合郵便局。",
+        "Tourist_Activities": "寺院を訪問、切手を購入、伝統的なダンスを鑑賞。",
+        "Local_Cuisine": "エマ・ダトシ（辛い唐辛子とチーズ）、モモ（詰め物入り餃子）。",
+        "Green_Spaces": "タキン保護区、ティンプー国立公園。"
+      },
+      {
+        "City_Name": "Paro",
+        "Historical_Landmarks": "イーグルズ・ネスト（タクツァン）、リンブン・ゾン、国立博物館。",
+        "Tourist_Activities": "イーグルズ・ネストを登る、博物館を訪問、パロ渓谷を散策。",
+        "Local_Cuisine": "バクシャ・バ（ベーコンと胡椒）、甘いお茶。",
+        "Green_Spaces": "パロ渓谷、パロ丘。"
+      },
+      {
+        "City_Name": "Bumthang",
+        "Historical_Landmarks": "ブムタン・ゾン（要塞）、シミ・ラコン（出産の寺院）。",
+        "Tourist_Activities": "要塞を訪問、吊り橋を渡る、川下り。",
+        "Local_Cuisine": "ザウ（甘いライス）、ホンツィ（家庭料理）。",
+        "Green_Spaces": "モ・チュとボ・チュ川の合流点、吊り橋。"
+      },
+      {
+        "City_Name": "Bumthang (Jakar)",
+        "Historical_Landmarks": "ジャカル・ゾン宮殿、古い寺院、ダンバラ・ラカン。",
+        "Tourist_Activities": "地元の祭りに参加、チーズ工場を訪問。",
+        "Local_Cuisine": "ヤクバーガー、ブムタン・スイスチーズ。",
+        "Green_Spaces": "肥沃なブムタン渓谷、そば畑。"
+      },
+      {
+        "City_Name": "Phuntsholing",
+        "Historical_Landmarks": "ブータン・ゲート、国境市場。",
+        "Tourist_Activities": "国境を越えた買い物、プンツォリン自然公園を訪問。",
+        "Local_Cuisine": "スイスドーナツ、インド料理。",
+        "Green_Spaces": "プンツォリン自然公園。"
+      },
+      {
+        "City_Name": "Gangkha (Phobjiika)",
+        "Historical_Landmarks": "ガンカ修道院、フォブジーカ村。",
+        "Tourist_Activities": "クロネックツルを観察、長距離ハイキング。",
+        "Local_Cuisine": "エマ・ダトシ、モモ。",
+        "Green_Spaces": "フォブジーカ渓谷、鳥の通り道。"
+      },
+      {
+        "City_Name": "Trongsa",
+        "Historical_Landmarks": "トロンサ・ゾン（最大の要塞）、博物館の塔。",
+        "Tourist_Activities": "要塞を訪問、山道を探索。",
+        "Local_Cuisine": "シャバラ（肉詰めパイ）。",
+        "Green_Spaces": "山道、渓谷。"
+      },
+      {
+        "City_Name": "Mongar",
+        "Historical_Landmarks": "モンガル・ゾン。",
+        "Tourist_Activities": "曲がりくねった山道を楽しむ、地元の市場を訪問。",
+        "Local_Cuisine": "新鮮なモンガル・レモネード、エマ・ダトシ。",
+        "Green_Spaces": "東部の山の風景。"
+      },
+      {
+        "City_Name": "Trashigang",
+        "Historical_Landmarks": "トラシガン・ゾン。",
+        "Tourist_Activities": "ゾンを訪問、部族の生活を探索。",
+        "Local_Cuisine": "地元の部族料理、ジンジャーティー。",
+        "Green_Spaces": "カムリ川、東ブータンの森林。"
+      },
+      {
+        "City_Name": "Samdrup Jongkhar",
+        "Historical_Landmarks": "ヨンフラ空港、滝。",
+        "Tourist_Activities": "世界最高の空港を訪問、熱帯林を探索。",
+        "Local_Cuisine": "地元の料理、インド料理。",
+        "Green_Spaces": "熱帯林、滝。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Saudi Arabia",
+    "Cities": [
+      {
+        "City_Name": "Riyadh",
+        "Historical_Landmarks": "キングダムタワー、キング・アブドゥッラー・ファイナンシャル・ディストリクト、アル・トゥリフ地区（アル・ディリーヤ）、自然史博物館。",
+        "Tourist_Activities": "ディリーヤを訪問、モール・オブ・アラビアで買い物、リヤド・シーズン。",
+        "Local_Cuisine": "カブサ、ジャリーシュ、クルサン、ムタバック。",
+        "Green_Spaces": "キング・アブドゥッラー公園、ワジ・ハニファ。"
+      },
+      {
+        "City_Name": "Jeddah",
+        "Historical_Landmarks": "歴史的なジェッダ（アル・バラド）、キング・ファハド噴水、アル・ラフマモスク、キング・ファハド研究センター。",
+        "Tourist_Activities": "歴史的なジェッダを散策、コルニッシュ、紅海でのダイビング。",
+        "Local_Cuisine": "サヤディーヤ（魚とライス）、アル・マブシュール、ヒジャジ魚。",
+        "Green_Spaces": "ジェッダ・コルニッシュ、レッドシー・モール・ビーチ。"
+      },
+      {
+        "City_Name": "Mecca",
+        "Historical_Landmarks": "マスジド・アル・ハラム、ジャバル・アル・ヌール、ヒラ洞窟、ジャバル・アラファト、ブルジ・アル・ベイト。",
+        "Tourist_Activities": "ウムラを行う、宗教的な場所を訪問。",
+        "Local_Cuisine": "ファットット（メッカパン）、マントゥとヤグマシュ、カブサ。",
+        "Green_Spaces": "アル・シャライーヤ公園。"
+      },
+      {
+        "City_Name": "Medina",
+        "Historical_Landmarks": "アル・マスジド・アン・ナバウィ、クバモスク、ジャバル・ウフド、クバ要塞。",
+        "Tourist_Activities": "預言者のモスク、クバモスク、アル・アキーク市場を訪問。",
+        "Local_Cuisine": "アル・メディニ（肉とライス料理）、アジュワデーツ。",
+        "Green_Spaces": "ジャバル・ウフド、アル・アキーク公園。"
+      },
+      {
+        "City_Name": "Dammam",
+        "Historical_Landmarks": "ダンマム地域博物館、キング・アブドゥルアジズ世界文化センター（イスラ）、ダンマム・コルニッシュ。",
+        "Tourist_Activities": "イスラを訪問、モールで買い物、コルニッシュでリラックス。",
+        "Local_Cuisine": "ホブシ・ガルフ、ズベイディ・ムタバック、焼き魚。",
+        "Green_Spaces": "ダンマム・コルニッシュ、キング・ファハド公園。"
+      },
+      {
+        "City_Name": "Abha",
+        "Historical_Landmarks": "リジャル・アルマア遺産村、シャムサン城、アル・ソダ公園。",
+        "Tourist_Activities": "リジャル・アルマアを訪問、アル・ソダへのケーブルカー、山を探索。",
+        "Local_Cuisine": "アル・アリカ、南部ハニド、アシダ。",
+        "Green_Spaces": "アル・ソダ公園、ダラ山、アシール山脈。"
+      },
+      {
+        "City_Name": "Taif",
+        "Historical_Landmarks": "シュブラ歴史的宮殿、ウカズ市場、アル・ハダとアル・シファ。",
+        "Tourist_Activities": "バラ農園を訪問、ウカズ市場、アル・ハダとアル・シファでリラックス。",
+        "Local_Cuisine": "カブリ・アル・タイフィ、タイフ・ローズウォーター、バクラバ。",
+        "Green_Spaces": "アル・ハダとアル・シファ（山岳地帯）、バラ農園。"
+      },
+      {
+        "City_Name": "Tabuk",
+        "Historical_Landmarks": "タブク歴史的城、ヒジャーズ鉄道、ワジ・アル・ディッサ。",
+        "Tourist_Activities": "ワジ・アル・ディッサを訪問、ヒジャーズ鉄道の歴史を探索。",
+        "Local_Cuisine": "シャラクパン、マフルーカ、マンディ。",
+        "Green_Spaces": "ワジ・アル・ディッサ、ハスマ山脈。"
+      },
+      {
+        "City_Name": "Hail",
+        "Historical_Landmarks": "アイルフ城、ジュッバ岩刻画、アジャージとサルマ山脈。",
+        "Tourist_Activities": "山を訪問、岩刻画を探索。",
+        "Local_Cuisine": "アル・タシュリーブ（パンスープ）、ハリース、ジャリーシュ。",
+        "Green_Spaces": "アジャージとサルマ山脈、アル・マグワ公園。"
+      },
+      {
+        "City_Name": "Najran",
+        "Historical_Landmarks": "ナジュラン首長国宮殿、アル・アダグ要塞、ナジュラン考古学的場所。",
+        "Tourist_Activities": "歴史的な宮殿を訪問、考古学的場所を探索。",
+        "Local_Cuisine": "アル・ラズビ（ヨーグルトとライス）、リーカイマット、マフルーカ。",
+        "Green_Spaces": "ナジュラン渓谷、ナジュラン山脈。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Qatar",
+    "Cities": [
+      {
+        "City_Name": "Doha",
+        "Historical_Landmarks": "イスラム美術館、スーク・ワキフ、ザ・パール・カタール、カタール国立コンベンションセンター。",
+        "Tourist_Activities": "スーク・ワキフで買い物、博物館を訪問、コルニッシュでのボート旅行。",
+        "Local_Cuisine": "アル・マドルーバ、タリード、マクブース、ムタバック。",
+        "Green_Spaces": "ドーハ・コルニッシュ、アル・バデア公園、アサイル。"
+      },
+      {
+        "City_Name": "Al Wakrah",
+        "Historical_Landmarks": "古いアル・ワクラ市場、アル・ジャヌーブ・スタジアム、アル・ワクラ要塞。",
+        "Tourist_Activities": "古い市場を訪問、ビーチでリラックス。",
+        "Local_Cuisine": "カタール・カブサ、ハッスー（デーツとセモリナ料理）。",
+        "Green_Spaces": "アル・ワクラのファミリービーチ。"
+      },
+      {
+        "City_Name": "Al Khor",
+        "Historical_Landmarks": "アル・ホール要塞、アル・ホール・グランドモスク。",
+        "Tourist_Activities": "要塞を訪問、アル・ホール・マングローブを探索。",
+        "Local_Cuisine": "カタール・マフシ、焼き魚。",
+        "Green_Spaces": "アル・ダキラのアル・ホール・マングローブ林、アル・ホール・コルニッシュ。"
+      },
+      {
+        "City_Name": "Mesiad",
+        "Historical_Landmarks": "メシアド港、セリンリゾート。",
+        "Tourist_Activities": "セリンでキャンプ、内海（ホール・アル・ナディル）を訪問。",
+        "Local_Cuisine": "伝統的なベドウィン料理、アラビックティー。",
+        "Green_Spaces": "セリン（砂丘）、ホール・アル・ナディル（内海）。"
+      },
+      {
+        "City_Name": "Al Rayyan",
+        "Historical_Landmarks": "エデュケーションシティ、カタール国立図書館、アル・ラヤン・スポーツセンター。",
+        "Tourist_Activities": "エデュケーションシティを訪問、カタールモールで買い物。",
+        "Local_Cuisine": "ラカックパン、アラビックコーヒー。",
+        "Green_Spaces": "アル・ラヤン公園。"
+      },
+      {
+        "City_Name": "Al Shamal",
+        "Historical_Landmarks": "アル・ズバラ要塞（世界遺産）、アル・ルワイス要塞。",
+        "Tourist_Activities": "アル・ズバラ要塞を訪問、ビーチでリラックス。",
+        "Local_Cuisine": "地元の魚カブサ、シーフード。",
+        "Green_Spaces": "アル・ルワイスビーチ。"
+      },
+      {
+        "City_Name": "Dukhan",
+        "Historical_Landmarks": "ドゥカン考古学博物館、ドゥカンモスク。",
+        "Tourist_Activities": "博物館を訪問、西のビーチでリラックス。",
+        "Local_Cuisine": "西部シーフード料理、ムタバック。",
+        "Green_Spaces": "ドゥカンビーチ。"
+      },
+      {
+        "City_Name": "Lusail",
+        "Historical_Landmarks": "ルサイル・スタジアム、ルサイル・マリーナ・ウォーク、プラザ・ヴァンドーム。",
+        "Tourist_Activities": "プラザ・ヴァンドームで買い物、マリーナを散策。",
+        "Local_Cuisine": "豪華なルサイルの甘いもの、国際料理。",
+        "Green_Spaces": "ルサイルの近代的な公園。"
+      },
+      {
+        "City_Name": "Um Salal",
+        "Historical_Landmarks": "バルザン・タワーズ（歴史的）、ウム・サラル・スポーツクラブ。",
+        "Tourist_Activities": "バルザン・タワーズを訪問。",
+        "Local_Cuisine": "ルカイマット（揚げ甘いもの）、ムタバック。",
+        "Green_Spaces": "ウム・サラル公園・アリ。"
+      },
+      {
+        "City_Name": "Al Daayen",
+        "Historical_Landmarks": "ルサイル・タワーズ（建築）、カタール・エクエストリアン・クラブ。",
+        "Tourist_Activities": "馬術クラブを訪問、近代的な都市を探索。",
+        "Local_Cuisine": "アル・マラクーク、カブサ。",
+        "Green_Spaces": "アル・ダーイェン公園。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Cities": [
+      {
+        "City_Name": "Kyiv",
+        "Historical_Landmarks": "キエフ・ペチェルスク・ラヴラ、聖ソフィア大聖堂、独立広場、黄金の門、ウクライナ国立歴史博物館。",
+        "Tourist_Activities": "正教会の建築を探索、芸術と文化ツアー。",
+        "Local_Cuisine": "ボルシチ（ビートスープ）、ヴァレニキ（詰め物入り餃子）、コトレータ（ハンバーグ）、ホルブツィ（詰め物キャベツ）、ピロジキ（焼き肉パイ）。",
+        "Green_Spaces": "マリインスキー公園、グロビツキー公園、ヴィドホヴィッチ公園。"
+      },
+      {
+        "City_Name": "Kharkiv",
+        "Historical_Landmarks": "自由広場、ゴールキー公園、受胎告知大聖堂、美術館。",
+        "Tourist_Activities": "大きな広場を散策、博物館と劇場を訪問。",
+        "Local_Cuisine": "ボルシチ、ヴァレニキ。",
+        "Green_Spaces": "中央ゴールキー公園、シェフチェンコ公園。"
+      },
+      {
+        "City_Name": "Odessa",
+        "Historical_Landmarks": "オデッサ国立歌劇場、ポチョムキンの階段、デリバソフスカヤ通り。",
+        "Tourist_Activities": "黒海での沿岸観光、劇場の公演に参加。",
+        "Local_Cuisine": "サロ（野菜とひき肉サラダ）、ブラチン（パイ）。",
+        "Green_Spaces": "ヒーローズ公園、シェフチェンコ公園。"
+      },
+      {
+        "City_Name": "Lviv",
+        "Historical_Landmarks": "リノク広場、リヴィウ歌劇場、ハイ・キャッスル・ヒル。",
+        "Tourist_Activities": "旧市街（世界遺産）を探索、地元のコーヒーとチョコレートを味わう。",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "リチャキフスキー公園、スティルスキー公園。"
+      },
+      {
+        "City_Name": "Dnipro",
+        "Historical_Landmarks": "コルニッシュ、宇宙博物館、修道院島、ドニプロ川。",
+        "Tourist_Activities": "ドニプロ川岸を散策、ウクライナの宇宙史を探索。",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "ラザル・グロブ、修道院ビーチ。"
+      },
+      {
+        "City_Name": "Donetsk",
+        "Historical_Landmarks": "フォルシュチコバ公園、ドンバス・アリーナ、美術館。",
+        "Tourist_Activities": "博物館と公園を訪問（安全状況による）。",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "フォルシュチコバ公園、シリメトフ公園。"
+      },
+      {
+        "City_Name": "Sevastopol",
+        "Historical_Landmarks": "クリミア半島、セヴァストポリ・パノラマ、黒海博物館。",
+        "Tourist_Activities": "海事史を探索。",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "アクロポリス公園、オフィゴルビーチ。"
+      },
+      {
+        "City_Name": "Zaporozhye",
+        "Historical_Landmarks": "ホルティツィア島、ザポロージエ・コサック博物館。",
+        "Tourist_Activities": "コサックに関する歴史ツアー、川の自然を探索。",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "ホルティツィア島自然保護区、ドゥビア公園。"
+      },
+      {
+        "City_Name": "Mykolaiv",
+        "Historical_Landmarks": "ムィコラーイフ天文台、造船・海事博物館。",
+        "Tourist_Activities": "科学的・歴史的場所を訪問。",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "ベルジョフスキー公園、ヒーローズ公園。"
+      },
+      {
+        "City_Name": "Korsun",
+        "Historical_Landmarks": "オリガ公妃風呂公園、戦略ミサイル複合施設。",
+        "Tourist_Activities": "歴史的・軍事的場所を探索。",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "オリガ公妃風呂公園。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eritrea",
+    "Cities": [
+      {
+        "City_Name": "Asmara",
+        "Historical_Landmarks": "聖ヨセフ大聖堂、帝国劇場、イタリア総督宮殿、モダニスト（アールデコ）建築、アスマラ国立博物館。",
+        "Tourist_Activities": "アールデコ建築（世界遺産）を探索、国立博物館を訪問、イタリアのカフェを散策。",
+        "Local_Cuisine": "ジグニ（肉煮込み）、インジェラ（スポンジ状のパン）、ガアット（穀物粥）、ティガビザ。",
+        "Green_Spaces": "マリア公園、アスマラの並木道。"
+      },
+      {
+        "City_Name": "Massawa",
+        "Historical_Landmarks": "歴史的なマッサワ港、旧市街、オスマンとエジプトの遺跡。",
+        "Tourist_Activities": "歴史的な沿岸建築を探索、紅海でのダイビング。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "砂浜、周囲の島々。"
+      },
+      {
+        "City_Name": "Keren",
+        "Historical_Landmarks": "ラクダ市場、ビゼン要塞、マリアム・シェナ聖地、旧市街。",
+        "Tourist_Activities": "伝統的な市場を訪問、宗教的な場所を探索。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "海岸を囲む山々、ビーチ。"
+      },
+      {
+        "City_Name": "Dekemhare",
+        "Historical_Landmarks": "イタリア植民地時代の建築、デケマーレ市場。",
+        "Tourist_Activities": "高地のイタリア遺跡を探索。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "山の風景、周囲の農場。"
+      },
+      {
+        "City_Name": "Adi Keih",
+        "Historical_Landmarks": "考古学的遺跡、アディ・ケイフ博物館。",
+        "Tourist_Activities": "考古学的場所を訪問、村を探索。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "周囲の丘と谷。"
+      },
+      {
+        "City_Name": "Tsni",
+        "Historical_Landmarks": "ツニ川、国境の町。",
+        "Tourist_Activities": "西部地域を探索。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "ツニ川岸、サバンナ。"
+      },
+      {
+        "City_Name": "Qanda",
+        "Historical_Landmarks": "沿岸の村々、紅海のビーチ。",
+        "Tourist_Activities": "ビーチ観光と釣り。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "ビーチ、サンゴ礁の島々。"
+      },
+      {
+        "City_Name": "Agordat",
+        "Historical_Landmarks": "主要市場、歴史的な軍事施設。",
+        "Tourist_Activities": "地元の市場を散策。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "農地、丘。"
+      },
+      {
+        "City_Name": "Mendefera",
+        "Historical_Landmarks": "古代考古学的場所（マタラ）。",
+        "Tourist_Activities": "遺跡を探索。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "岩が多い丘、考古学的場所。"
+      },
+      {
+        "City_Name": "Barentu",
+        "Historical_Landmarks": "鉱山の町、平野。",
+        "Tourist_Activities": "自然地域を訪問。",
+        "Local_Cuisine": "ジグニ、インジェラ。",
+        "Green_Spaces": "平野、農地。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Spain",
+    "Cities": [
+      {
+        "City_Name": "Madrid",
+        "Historical_Landmarks": "王宮、プラド美術館、マヨール広場、プエルタ・デル・ソル、レティーロ公園。",
+        "Tourist_Activities": "芸術と文化ツアー、グラビアで買い物、タパスを味わう、サッカー観戦。",
+        "Local_Cuisine": "パエリア、タパス、ガスパチョ、スペインオムレツ（ポテトオムレツ）、チョリソ（辛いソーセージ）。",
+        "Green_Spaces": "レティーロ公園、カサ・デ・カンポ公園、フアン・カルロス1世公園。"
+      },
+      {
+        "City_Name": "Barcelona",
+        "Historical_Landmarks": "サグラダ・ファミリア、ゴシック地区、グエル公園、ラ・ランブラ、カサ・バトリョ。",
+        "Tourist_Activities": "ガウディの作品を探索、ビーチ観光、古い通りを散策。",
+        "Local_Cuisine": "フィデウス、パン・コン・トマテ、クレマ・カタラーナ。",
+        "Green_Spaces": "グエル公園、シウタデリャ公園、モンジュイック公園。"
+      },
+      {
+        "City_Name": "Seville",
+        "Historical_Landmarks": "セビリアのアルカサル、セビリア大聖堂、プラサ・デ・エスパーニャ、サンタ・クルス地区。",
+        "Tourist_Activities": "フラメンコショー、アンダルシア建築を探索、歴史ツアー。",
+        "Local_Cuisine": "バレンシア・パエリア（特別版）、ピカディージョ。",
+        "Green_Spaces": "マリア・ルイサ公園、メリタ公園。"
+      },
+      {
+        "City_Name": "Valencia",
+        "Historical_Landmarks": "芸術科学都市、中央市場、バレンシア大聖堂、バレンシア港。",
+        "Tourist_Activities": "未来的な都市を訪問、本物のパエリアを味わう、地中海沿岸を楽しむ。",
+        "Local_Cuisine": "オリジナル・パエリア、ファバーダ（豆スープ）、チョリソ。",
+        "Green_Spaces": "トゥリア庭園、中央バレンシア公園。"
+      },
+      {
+        "City_Name": "Malaga",
+        "Historical_Landmarks": "アルカサバ要塞、チバル要塞、ピカソ美術館、マルボルゴ港。",
+        "Tourist_Activities": "コスタ・デル・ソルでの沿岸観光、美術館を訪問。",
+        "Local_Cuisine": "ビージャ（焼き肉スライス）、ブケレケス（揚げアンチョビ）。",
+        "Green_Spaces": "中央マラガ公園、モンテス公園。"
+      },
+      {
+        "City_Name": "Córdoba",
+        "Historical_Landmarks": "モスク（メスキータ）、キリスト教徒の王宮、ユダヤ人地区。",
+        "Tourist_Activities": "イスラムとキリスト教の遺産を探索、パティオ祭（パティオス）に参加。",
+        "Local_Cuisine": "サラムリゴ、ポリート。",
+        "Green_Spaces": "パラダイス庭園、ビクトリア公園。"
+      },
+      {
+        "City_Name": "Granada",
+        "Historical_Landmarks": "アルハンブラ宮殿、ヘネラリーフェ、アルバイシン地区。",
+        "Tourist_Activities": "アンダルシアの宮殿を探索、アルバイシンから日没を鑑賞。",
+        "Local_Cuisine": "パタタス・ア・ロ・ポブレ、レモホン・グラナディーノ。",
+        "Green_Spaces": "ヘネラリーフェ、カルメン・デ・ロス・マルティレス公園。"
+      },
+      {
+        "City_Name": "Bilbao",
+        "Historical_Landmarks": "グッゲンハイム美術館、カスコ・ビエホ（旧市街）、スビスリ橋。",
+        "Tourist_Activities": "近代建築ツアー、ピンチョス（バスク風タパス）を味わう。",
+        "Local_Cuisine": "ピンチョス、ビルバオ風バカラオ（タラ）。",
+        "Green_Spaces": "ドイナ・カシルダ公園、イブロアルデ公園。"
+      },
+      {
+        "City_Name": "Alicante",
+        "Historical_Landmarks": "サンタ・バルバラ城、エスプラナーダ・デ・エスパーニャ、サンタ・クルス地区。",
+        "Tourist_Activities": "ビーチを楽しむ、港で買い物とエンターテイメント。",
+        "Local_Cuisine": "アロス・ア・バンダ、トゥロン（アーモンドの甘いもの）。",
+        "Green_Spaces": "カニャリチャス公園、エル・パルマル公園。"
+      },
+      {
+        "City_Name": "Las Palmas (Canary Islands)",
+        "Historical_Landmarks": "テイデ山火山、ラス・カンテラスビーチ、コロンバスの家、ドーロ公園。",
+        "Tourist_Activities": "地質・火山観光、ユネスコ遺産を探索。",
+        "Local_Cuisine": "パパス・アルガーダス（しわじゃがいも）、モホ（ソース）。",
+        "Green_Spaces": "ドーロ公園、テリトル公園。"
+      },
+      {
+        "City_Name": "Marbella",
+        "Historical_Landmarks": "バヌス港、フォス・デ・ラ・フォスビーチ、旧市街、緑の庭園。",
+        "Tourist_Activities": "高級ビーチ観光、買い物、穏やかな気候を楽しむ。",
+        "Local_Cuisine": "パエリア、タパス。",
+        "Green_Spaces": "保護公園、アルフォンソ公園。"
+      },
+      {
+        "City_Name": "Toledo",
+        "Historical_Landmarks": "トレド大聖堂、ユダヤ教シナゴーグ、アルカサル宮殿、サン・マルティン橋。",
+        "Tourist_Activities": "共有の宗教的・文化的遺産を探索。",
+        "Local_Cuisine": "カルカモサ、マルツァパーネ（アーモンドの甘いもの）。",
+        "Green_Spaces": "ファド公園、タグス川岸。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Estonia",
+    "Cities": [
+      {
+        "City_Name": "Tallinn",
+        "Historical_Landmarks": "旧市街（世界遺産）、トームペア城、乙女の塔、聖オラフ教会。",
+        "Tourist_Activities": "中世時代を探索、美術館ツアー、手工芸市場で買い物。",
+        "Local_Cuisine": "ヴェリヴォルスト（ブラッドソーセージ）、ライマイス（黒ライ麦パン）、シラフ（ニシン）、ムルギ・カプサド（酸キャベツ）。",
+        "Green_Spaces": "カドリオルグ公園、タリン植物園。"
+      },
+      {
+        "City_Name": "Tartu",
+        "Historical_Landmarks": "タルトゥ大学、キス（キス）橋、科学博物館。",
+        "Tourist_Activities": "教育・文化センターを訪問、新古典主義建築を探索。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "トフヴァーラ公園、エマヨギ川岸。"
+      },
+      {
+        "City_Name": "Pärnu",
+        "Historical_Landmarks": "パルヌビーチ、保養地、近代美術センター。",
+        "Tourist_Activities": "沿岸観光、「夏の首都」の称号を楽しむ。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "パルヌ公園、砂浜。"
+      },
+      {
+        "City_Name": "Narva",
+        "Historical_Landmarks": "ナルヴァ城（ヘルマン城）、ナルヴァ川、旧ソビエト地区。",
+        "Tourist_Activities": "国境地域を探索、歴史的な城を訪問。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "ヘルマン公園、ナルヴァ川岸。"
+      },
+      {
+        "City_Name": "Kütla Järve",
+        "Historical_Landmarks": "キュトラ・ヤルベ・シェールオイル博物館、ソビエト時代の市街地。",
+        "Tourist_Activities": "産業的・歴史的遺産を探索。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "中央公園。"
+      },
+      {
+        "City_Name": "Viljandi",
+        "Historical_Landmarks": "ヴィリャンディ城、湖。",
+        "Tourist_Activities": "ヴィリャンディ民俗祭に参加、ボートに乗る。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "ヴィリャンディ城公園、湖岸。"
+      },
+      {
+        "City_Name": "Saaremaa",
+        "Historical_Landmarks": "クーリサーレ司教座城、カリ隕石場。",
+        "Tourist_Activities": "エストニアの島々を探索、珍しい地質学的場所を訪問。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "ヴィリャンディ国立公園、岩が多い海岸。"
+      },
+      {
+        "City_Name": "Sillamäe",
+        "Historical_Landmarks": "スターリン様式建築、ビーチ。",
+        "Tourist_Activities": "計画的なソビエト建築を探索。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "シッラメービーチ、モスクワ公園。"
+      },
+      {
+        "City_Name": "Rakvere",
+        "Historical_Landmarks": "ラクヴェレ城、ヴェイスンベルク公園。",
+        "Tourist_Activities": "廃墟になった城と考古学的場所を訪問。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "ヴェイスンベルク公園。"
+      },
+      {
+        "City_Name": "Valga",
+        "Historical_Landmarks": "ヴァルガ城（廃墟）、ヴァルガ博物館。",
+        "Tourist_Activities": "地元の歴史と田舎の生活を探索。",
+        "Local_Cuisine": "ヴェリヴォルスト、ライマイス、シラフ。",
+        "Green_Spaces": "ヴァルガ公園、ガウヤ川岸。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eswatini",
+    "Cities": [
+      {
+        "City_Name": "Mabane",
+        "Historical_Landmarks": "スワジランド国立博物館、ムリバ自然公園、地元の市場。",
+        "Tourist_Activities": "文化と伝統を探索、市場を訪問。",
+        "Local_Cuisine": "シザマボ（トウモロコシ粥）、インクホ（肉煮込み）、インビラ（ピーナッツ煮込み）、シポポ。",
+        "Green_Spaces": "ムリバ自然公園。"
+      },
+      {
+        "City_Name": "Manzini",
+        "Historical_Landmarks": "オープン市場、マンジニ手工芸センター。",
+        "Tourist_Activities": "手工芸品の買い物、2番目に大きな都市を散策。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "マンジニ中央公園。"
+      },
+      {
+        "City_Name": "Lobamba",
+        "Historical_Landmarks": "王宮、国立博物館、フラン王立国立公園。",
+        "Tourist_Activities": "王宮と立法の中心地を訪問、サファリ旅行と野生生物観察。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "フラン王立国立公園。"
+      },
+      {
+        "City_Name": "Big Bend",
+        "Historical_Landmarks": "サトウキビ農場、グレート・スワジランド川。",
+        "Tourist_Activities": "農業観光、川下り。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "サトウキビ農場、川岸。"
+      },
+      {
+        "City_Name": "Sihui",
+        "Historical_Landmarks": "工業複合施設、貿易センター。",
+        "Tourist_Activities": "工業地域を探索。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "周囲の農村地域。"
+      },
+      {
+        "City_Name": "Big Boy",
+        "Historical_Landmarks": "自然保護区、山の風景。",
+        "Tourist_Activities": "長距離ハイキング、エコツーリズム。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "自然保護区、山々。"
+      },
+      {
+        "City_Name": "Sitikila",
+        "Historical_Landmarks": "シティキラ博物館、農村地域。",
+        "Tourist_Activities": "地元の遺産を探索。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "農村地域、丘。"
+      },
+      {
+        "City_Name": "Mhlokoe",
+        "Historical_Landmarks": "ムカヤ保護区（野生生物）、保護観光。",
+        "Tourist_Activities": "野生生物とサイを観察、サファリ旅行。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "ムカヤ保護区。"
+      },
+      {
+        "City_Name": "Sekoya",
+        "Historical_Landmarks": "伝統的な村々、文化センター。",
+        "Tourist_Activities": "スワジ文化を学ぶ。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "周囲の伝統的な村々。"
+      },
+      {
+        "City_Name": "Lobatsi",
+        "Historical_Landmarks": "ダイヤモンド採掘地域、高地。",
+        "Tourist_Activities": "地理と採掘を探索。",
+        "Local_Cuisine": "シザマボ、インクホ、インビラ。",
+        "Green_Spaces": "高地、山の風景。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Indonesia",
+    "Cities": [
+      {
+        "City_Name": "Jakarta",
+        "Historical_Landmarks": "国立記念塔（モナス）、タマン・ミニ・インドネシア・インダー公園、ジャカルタ歴史博物館。",
+        "Tourist_Activities": "大都市を探索、博物館を訪問。",
+        "Local_Cuisine": "ナシ・ゴレン（炒め飯）、サテ（焼き肉串）、ガド・ガド（ピーナッツソースのサラダ）、ソト（スープ）。",
+        "Green_Spaces": "タマン・ミニ・インドネシア・インダー公園、メルデカ公園。"
+      },
+      {
+        "City_Name": "Surabaya",
+        "Historical_Landmarks": "スラ橋、独立モスク、海事博物館。",
+        "Tourist_Activities": "2番目に大きな都市を散策、国家の歴史と独立戦争を探索、買い物。",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、ガド・ガド。",
+        "Green_Spaces": "ボンコル公園、スンブ公園。"
+      },
+      {
+        "City_Name": "Medan",
+        "Historical_Landmarks": "グレート・マフディーヤモスク、マエムン宮殿、トバ湖（市の近く）。",
+        "Tourist_Activities": "歴史的な宮殿を訪問、北スマトラを探索。",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、ガド・ガド。",
+        "Green_Spaces": "トバ湖。"
+      },
+      {
+        "City_Name": "Makassar",
+        "Historical_Landmarks": "ロッテルダム要塞、ロサリビーチ、アブドゥッラー王子モスク。",
+        "Tourist_Activities": "海事と貿易の歴史を探索、沿岸観光。",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、ガド・ガド。",
+        "Green_Spaces": "アカリア公園、ロサリビーチ。"
+      },
+      {
+        "City_Name": "Semarang",
+        "Historical_Landmarks": "サム・ボ・コン寺院、旧市街、グレート・中央ジャワモスク。",
+        "Tourist_Activities": "歴史的な寺院を訪問、中国系インドネシア建築を探索。",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、ガド・ガド。",
+        "Green_Spaces": "ウォーターパーク、タマン・ブディ公園。"
+      },
+      {
+        "City_Name": "Bokor (Buncheak)",
+        "Historical_Landmarks": "サファリ動物園、花園、七つの滝。",
+        "Tourist_Activities": "茶園を訪問、自然観光。",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、ガド・ガド。",
+        "Green_Spaces": "花園、滝、茶畑。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Italy",
+    "Cities": [
+      {
+        "City_Name": "Rome",
+        "Historical_Landmarks": "コロッセオ、トレヴィの泉、バチカン、パンテオン、ローマ・フォーラム、バチカン美術館。",
+        "Tourist_Activities": "ローマ遺跡を探索、独立国家（バチカン）を訪問、アイスクリームを味わう。",
+        "Local_Cuisine": "カルボナーラ・パスタ、ロマーナ・ピザ、サルティンボッカ、アランチーニ。",
+        "Green_Spaces": "ヴィラ・ボルゲーゼ公園、オレンジ公園。"
+      },
+      {
+        "City_Name": "Florence",
+        "Historical_Landmarks": "フィレンツェ大聖堂（ドゥオーモ）、ヴェッキオ橋、ウフィッツィ美術館、ピッティ宮殿。",
+        "Tourist_Activities": "芸術的・歴史的ツアー（ルネサンスの首都）、革の市場で買い物。",
+        "Local_Cuisine": "ビステッカ・アッラ・フィオレンティーナ（ステーキ）、リボッリータ、ジョット。",
+        "Green_Spaces": "ボボリ庭園、ボボリ庭園、バルディーニ庭園。"
+      },
+      {
+        "City_Name": "Venice (Venezia)",
+        "Historical_Landmarks": "サン・マルコ広場、リアルト橋、ドージェ宮殿、ヴェネツィアの運河。",
+        "Tourist_Activities": "ゴンドラに乗る、島を探索、歴史的なランドマークを訪問。",
+        "Local_Cuisine": "サルデ・イン・サオル、ビゴリ・イン・ソース。",
+        "Green_Spaces": "パパドポリ庭園、サン・ジョルジョ・マッジョーレ島。"
+      },
+      {
+        "City_Name": "Milan",
+        "Historical_Landmarks": "ミラノ大聖堂（ドゥオーモ）、ヴィットーリオ・エマヌエーレ2世ギャラリー、スカラ座、スフォルツェスコ城。",
+        "Tourist_Activities": "世界クラスの買い物（ファッションの首都）、オペラ鑑賞。",
+        "Local_Cuisine": "ミラネーゼ・リゾット、コトレッタ・アッラ・ミラネーゼ、オッソブーコ。",
+        "Green_Spaces": "センピオーネ公園、モンテ・ステッラ公園。"
+      },
+      {
+        "City_Name": "Naples",
+        "Historical_Landmarks": "ナポリの歴史地区、サン・カルロ劇場、国立考古学博物館、ヴェスヴィオ（市の近く）。",
+        "Tourist_Activities": "ピザの発祥地を探索、ポンペイとヘルクラネウムを訪問。",
+        "Local_Cuisine": "オリジナル・ナポリピザ、ラグー付きパスタ、ババ（デザート）、リゾット。",
+        "Green_Spaces": "ヴィラ・フロリディアーナ公園、カポディモンテ公園。"
+      },
+      {
+        "City_Name": "Bologna",
+        "Historical_Landmarks": "マッジョーレ広場、二つの塔、サン・ペトロニオ教会。",
+        "Tourist_Activities": "フードツアー（美食の首都）、歴史的なアーケードを探索。",
+        "Local_Cuisine": "ボロネーゼ・ラグー、ブロード・イン・ブロード、ラザーニャ。",
+        "Green_Spaces": "モンタニョーラ公園、マルゲリータ公園。"
+      },
+      {
+        "City_Name": "Genoa",
+        "Historical_Landmarks": "古いジェノバ港、ドージェ宮殿、海事博物館、ガリバルディ通り（世界遺産）。",
+        "Tourist_Activities": "リグリア港を探索、世界遺産を訪問。",
+        "Local_Cuisine": "ジェノバ風ペスト、ファリナータ、フォカッチャ。",
+        "Green_Spaces": "ヴィラ・ドゥラッツォ・パッラヴィチーニ公園、ネリ公園。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Argentina",
+    "Cities": [
+      {
+        "City_Name": "Buenos Aires",
+        "Historical_Landmarks": "カサ・ロサダ（大統領宮殿）、レコレタ（墓地）、ラ・ボカ地区、コロン劇場、プエルト・マデロ。",
+        "Tourist_Activities": "タンゴショーに参加、歴史的な地区でツアー、ストリートアートを探索。",
+        "Local_Cuisine": "アサード（焼き肉）、エンパナーダ、ドゥルセ・デ・レチェ、ミラネーサ。",
+        "Green_Spaces": "トレス・デ・フェブレロ公園、センテナリオ公園。"
+      },
+      {
+        "City_Name": "Cordoba",
+        "Historical_Landmarks": "イエズス会地区（世界遺産）、コルドバ大聖堂、サルミエント博物館。",
+        "Tourist_Activities": "宗教的・歴史的場所を探索、大学観光。",
+        "Local_Cuisine": "アサード、エンパナーダ、ドゥルセ・デ・レチェ。",
+        "Green_Spaces": "サルミエント公園、サン・マルティン公園。"
+      },
+      {
+        "City_Name": "Rosario",
+        "Historical_Landmarks": "国旗記念塔、オロニオ大通り、ラ・フロリダ・ビーチ公園、パラナ川。",
+        "Tourist_Activities": "パラナ川岸を散策、美術館を訪問。",
+        "Local_Cuisine": "アサード、エンパナーダ、ドゥルセ・デ・レチェ。",
+        "Green_Spaces": "ラ・フロリダ・ビーチ公園、インデペンデンシア公園。"
+      },
+      {
+        "City_Name": "Mendoza",
+        "Historical_Landmarks": "サン・マルティン将軍公園、アコンカグア山、ブドウ畑（ワイン地域）、独立広場。",
+        "Tourist_Activities": "ブドウ畑とワインテイスティングを探索、アンデス山脈での冒険。",
+        "Local_Cuisine": "アサード、エンパナーダ、ドゥルセ・デ・レチェ。",
+        "Green_Spaces": "サン・マルティン将軍公園、ブドウ畑。"
+      },
+      {
+        "City_Name": "San Carlos de Bariloche",
+        "Historical_Landmarks": "ナウエル・ウアピ湖、セロ・カンパナリオ・ケーブルカー、セロ・カテドラル・スキーリゾート、パタゴニア博物館。",
+        "Tourist_Activities": "ウィンタースポーツ、パタゴニアでの冒険観光。",
+        "Local_Cuisine": "アサード、エンパナーダ、ドゥルセ・デ・レチェ。",
+        "Green_Spaces": "ナウエル・ウアピ湖、ナウエル・ウアピ国立公園。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Jordan",
+    "Cities": [
+      {
+        "City_Name": "Amman",
+        "Historical_Landmarks": "ローマ円形劇場、シタデル・ヒル、ヨルダン博物館、王立自動車博物館、シティモール、ダウンタウン、アル・フーリヤット通り。",
+        "Tourist_Activities": "ダウンタウンを散策、博物館を訪問、買い物、死海とペトラへの旅行。",
+        "Local_Cuisine": "マンサフ（国民料理）、マクルバ、ラシューフ（豆とヨーグルトのスープ）、クナファ、ザラブ（砂の下に埋められた肉）。",
+        "Green_Spaces": "キング・フセイン公園、レッド・マウンテン公園。"
+      },
+      {
+        "City_Name": "Petra",
+        "Historical_Landmarks": "アル・シク、宝物庫、修道院、列柱通り、ジャラ墓、中庭。",
+        "Tourist_Activities": "バラ色の岩でできた都市を探索、アル・シクを通る長いハイキング。",
+        "Local_Cuisine": "マンサフ、マクルバ。",
+        "Green_Spaces": "ワディ・ムサ、周囲の砂漠地域。"
+      },
+      {
+        "City_Name": "Irbid",
+        "Historical_Landmarks": "イルビド考古学テル、ダル・アル・サラヤ博物館、ヤルムーク大学。",
+        "Tourist_Activities": "博物館と遺産地を訪問、ウム・カイスに近い、ティベリアス湖とヤルムーク川を眺める。",
+        "Local_Cuisine": "マンサフ、ラシューフ。",
+        "Green_Spaces": "シェイク・ハッサン公園、農村地域。"
+      },
+      {
+        "City_Name": "Aqaba",
+        "Historical_Landmarks": "アカバ・マムルーク城、アカバ考古学博物館、タラ・ベイビーチ、紅海。",
+        "Tourist_Activities": "紅海でのダイビングとシュノーケリング、沿岸都市を探索。",
+        "Local_Cuisine": "マンサフ、魚。",
+        "Green_Spaces": "アカバ公園、ダナ保護区（予定）。"
+      },
+      {
+        "City_Name": "Jerash",
+        "Historical_Landmarks": "ハドリアヌスの凱旋門、オーバル広場、南ジェラシュ劇場、列柱通り。",
+        "Tourist_Activities": "保存されたローマ遺跡を訪問。",
+        "Local_Cuisine": "マンサフ、マクルバ。",
+        "Green_Spaces": "遺跡周囲の緑地。"
+      },
+      {
+        "City_Name": "Al Salt",
+        "Historical_Landmarks": "アル・ハンママット通り、アル・エイザリヤ・ハウス、アル・サルト歴史博物館、オスマン建築。",
+        "Tourist_Activities": "オスマン建築を探索、遺産観光（ユネスコ世界遺産）。",
+        "Local_Cuisine": "マンサフ、ラシューフ。",
+        "Green_Spaces": "アル・サルト公園、山岳地域。"
+      },
+      {
+        "City_Name": "Umm Qais",
+        "Historical_Landmarks": "ローマ遺跡、西の劇場、ティベリアス湖とヤルムーク川の眺め。",
+        "Tourist_Activities": "歴史ツアー、国境の風景を眺める。",
+        "Local_Cuisine": "マンサフ、マクルバ。",
+        "Green_Spaces": "ウム・カイス考古学公園。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    "Cities": [
+      {
+        "City_Name": "Dubai",
+        "Historical_Landmarks": "ブルジュ・ハリファ、ブルジュ・アル・アラブ、ドバイモール、未来博物館、パーム・ジュメイラ（人工島）、ドバイ・ウォーター・カナル。",
+        "Tourist_Activities": "世界クラスの買い物、砂漠サファリ、人工島を訪問、近代的なエンターテイメント、近代建築を探索。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット（甘いもの）、ハミールパン、バラリート。",
+        "Green_Spaces": "ドバイ・サファリパーク、マシュレフパーク、ザビール。"
+      },
+      {
+        "City_Name": "Abu Dhabi",
+        "Historical_Landmarks": "シェイク・ザイード・グランドモスク、アル・ワタン宮殿、ルーブル・アブダビ、観光島、アブダビ・コルニッシュ、フェラーリ・ワールド。",
+        "Tourist_Activities": "文化的・宗教的観光、アートセンターを訪問、家族向けエンターテイメント。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "アル・ハレージ公園、ヤス島、アル・アマナ公園。"
+      },
+      {
+        "City_Name": "Sharjah",
+        "Historical_Landmarks": "シャルジャ・イスラム文明博物館、シャルジャ・ハート、アイ・オブ・ジ・エミレーツ。",
+        "Tourist_Activities": "芸術・文化博物館を訪問、古い遺産を探索。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "ハリド公園、アル・マジャス公園。"
+      },
+      {
+        "City_Name": "Ajman",
+        "Historical_Landmarks": "アジュマーン要塞、アジュマーン・コルニッシュ、アジュマーン博物館。",
+        "Tourist_Activities": "ビーチを楽しむ、博物館を訪問。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "アジュマーン公園、コルニッシュ。"
+      },
+      {
+        "City_Name": "Ras Al Khaimah",
+        "Historical_Landmarks": "ジェベル・ジャイス（UAE最高峰）、ラス・アル・カイマ国立博物館。",
+        "Tourist_Activities": "山岳登りの冒険、ジップラインスキー。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "サアド公園、ワジ・ハイ。"
+      },
+      {
+        "City_Name": "Fujairah",
+        "Historical_Landmarks": "フジャイラ要塞、アル・バディーヤモスク、オマーン湾のビーチ。",
+        "Tourist_Activities": "ダイビングとシュノーケリング、山岳観光。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "フジャイラ公園、ワジ・ウリア。"
+      },
+      {
+        "City_Name": "Umm Al Quwain",
+        "Historical_Landmarks": "ドリームランド・ウォーターパーク、シニア島、旧要塞。",
+        "Tourist_Activities": "ウォーター・エンターテイメント、鳥と野生生物観察。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "ドリームランド公園、シニア島。"
+      },
+      {
+        "City_Name": "Khor Fakkan",
+        "Historical_Landmarks": "ホール・ファッカンビーチ、リファダム、シャーク島。",
+        "Tourist_Activities": "山岳と沿岸観光、リファダムを訪問。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "ホール・ファッカン公園、ビーチ。"
+      },
+      {
+        "City_Name": "Diba Al Husan",
+        "Historical_Landmarks": "ディバ港、ビーチ、魚市場。",
+        "Tourist_Activities": "地元の市場と海洋活動を訪問。",
+        "Local_Cuisine": "ハリース、マブース、ルカイマット。",
+        "Green_Spaces": "ビーチ、山岳地域。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ecuador",
+    "Cities": [
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "旧市街（世界遺産）、赤道線（ミタッド・デル・ムンド）、ラ・コンパニーア教会、カロンデレ宮殿。",
+        "Tourist_Activities": "高地を探索、植民地時代のランドマークを訪問、赤道線を探索。",
+        "Local_Cuisine": "セビーチェ（シーフード）、ロクロ・デ・パパ（ポテトスープ）、オルナド（焼き豚）、エンパナーダ（ペストリー）。",
+        "Green_Spaces": "ラ・カロリーナ公園、エコパーク。"
+      },
+      {
+        "City_Name": "Guayaquil",
+        "Historical_Landmarks": "マレコン2000、ラス・ペニャス地区、イグアナ公園、サンタ・アナ丘。",
+        "Tourist_Activities": "川岸を散策、歴史的な階段を登る。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "シモン・ボリバル公園、マレコン2000。"
+      },
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "旧市街（世界遺産）、キト大聖堂、花市場。",
+        "Tourist_Activities": "植民地時代の建築を探索、パナマハットを購入。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "カルデロン公園、トンパンバ川岸。"
+      },
+      {
+        "City_Name": "Galápagos",
+        "Historical_Landmarks": "ユニークな野生生物（巨大な亀）、シエラ・ネグラ火山、ダーウィン研究センター。",
+        "Tourist_Activities": "野生生物観察、ダイビングとシュノーケリング、島探索。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "国立公園、自然保護区。"
+      },
+      {
+        "City_Name": "Umbita",
+        "Historical_Landmarks": "山の頂、週間市場。",
+        "Tourist_Activities": "山での長距離ハイキング、ウンビタ市場（木曜日）で買い物。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "山々、谷。"
+      },
+      {
+        "City_Name": "Riobamba",
+        "Historical_Landmarks": "チンボラソ火山（太陽に最も近い）、悪魔の列車。",
+        "Tourist_Activities": "登山、列車旅行。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "チンボラソ国立公園。"
+      },
+      {
+        "City_Name": "Loja",
+        "Historical_Landmarks": "ボカルバ国立公園、フィルパンバ渓谷（市の近く）、ロハ博物館。",
+        "Tourist_Activities": "国立公園を訪問、南部地域を探索。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "ボカルバ国立公園。"
+      },
+      {
+        "City_Name": "Portoviejo",
+        "Historical_Landmarks": "ポルトビエホ博物館、中央公園。",
+        "Tourist_Activities": "マナビ地域を探索。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "ビーチ、公園。"
+      },
+      {
+        "City_Name": "Tena",
+        "Historical_Landmarks": "オニマ公園、ミサクウィリ川、熱帯雨林。",
+        "Tourist_Activities": "熱帯雨林観光、アマゾンでのボート旅行。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "オニマ公園、熱帯雨林。"
+      },
+      {
+        "City_Name": "Puerto Villamil (Galápagos)",
+        "Historical_Landmarks": "カメ繁殖センター、シエラ・ネグラ火山、ガラパゴスのビーチ。",
+        "Tourist_Activities": "ガラパゴス諸島を探索、ユニークな野生生物を見る。",
+        "Local_Cuisine": "セビーチェ、ロクロ・デ・パパ、オルナド、エンパナーダ。",
+        "Green_Spaces": "国立公園、自然保護区。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ireland",
+    "Cities": [
+      {
+        "City_Name": "Dublin",
+        "Historical_Landmarks": "ダブリン城、トリニティ・カレッジ、ギネス・ストアハウス、フェニックス公園、グラフトン通り。",
+        "Tourist_Activities": "文化的・文学的ツアー、歴史的なパブを訪問、公園を探索。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン（マッシュポテト）、ソーダブレッド。",
+        "Green_Spaces": "フェニックス公園、セント・スティーブンズ・グリーン。"
+      },
+      {
+        "City_Name": "Cork",
+        "Historical_Landmarks": "コーク・イングリッシュ・マーケット、セント・フィンバーズ大聖堂、フィッツジェラルド公園。",
+        "Tourist_Activities": "地元の市場を訪問、リー川沿いの都市を探索。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン、ソーダブレッド。",
+        "Green_Spaces": "フィッツジェラルド公園、ザ・ハウス公園。"
+      },
+      {
+        "City_Name": "Galway",
+        "Historical_Landmarks": "スペイン広場、シティ・アーチ、ゴールウェイ・シティ博物館。",
+        "Tourist_Activities": "祭りに参加、ゴールウェイ湾での沿岸観光。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン、ソーダブレッド。",
+        "Green_Spaces": "エイリーズ公園、シルバービーチ。"
+      },
+      {
+        "City_Name": "Limerick",
+        "Historical_Landmarks": "キング・ジョンズ城、聖ヨハネ・バプティスト大聖堂、ハント博物館。",
+        "Tourist_Activities": "城と博物館を訪問、シャノン川沿いを散策。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン、ソーダブレッド。",
+        "Green_Spaces": "ピープルズ公園、バーナード公園。"
+      },
+      {
+        "City_Name": "Kilkerry",
+        "Historical_Landmarks": "キルケリー城、セント・カニス大聖堂、スミス遺産センター。",
+        "Tourist_Activities": "キルケリー・アーツ・フェスティバル（4月～10月）に参加。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン、ソーダブレッド。",
+        "Green_Spaces": "キルケリー城公園、ノア川。"
+      },
+      {
+        "City_Name": "Waterford",
+        "Historical_Landmarks": "レジナルド塔、ウォーターフォード・トレジャーズ博物館、ヴァイキング地区。",
+        "Tourist_Activities": "ヴァイキング遺産を探索、ウォーターフォード・クリスタル工場を訪問。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン、ソーダブレッド。",
+        "Green_Spaces": "ウォーターフォード公園、トラモアビーチ。"
+      },
+      {
+        "City_Name": "Sligo",
+        "Historical_Landmarks": "ベンブルベン山、スライゴ修道院、ウィリアム・バトラー・イェーツ博物館。",
+        "Tourist_Activities": "周囲の風景を探索、文学ツアー（イェーツ遺産）。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン、ソーダブレッド。",
+        "Green_Spaces": "ガーファン公園、ラフ・ギル。"
+      },
+      {
+        "City_Name": "Athlone",
+        "Historical_Landmarks": "アスロン城、シャノン川、アイルランド最古のパブ。",
+        "Tourist_Activities": "歴史的・文化的場所を探索、周囲地域を探索するのに便利な拠点。",
+        "Local_Cuisine": "アイリッシュ・シチュー、コルキャノン、ソーダブレッド。",
+        "Green_Spaces": "アスロン公園、シャノン川岸。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Iceland",
+    "Cities": [
+      {
+        "City_Name": "Reykjavik",
+        "Historical_Landmarks": "ヘフジホール、ハルグリムス教会、ブルーラグーン（温泉湖）。",
+        "Tourist_Activities": "オーロラ鑑賞、ホエールウォッチングツアー、ゴールデンサークルを探索、歴史とバイキング博物館を訪問。",
+        "Local_Cuisine": "ハンギキョト（燻製ラム）、スキャイール（ヨーグルト）、KFC（魚サンドイッチ）。",
+        "Green_Spaces": "ラウガダルル公園、ヴィジー島。"
+      },
+      {
+        "City_Name": "Akureyri",
+        "Historical_Landmarks": "アークレイリ植物園、アークレイリ教会。",
+        "Tourist_Activities": "北アイスランドを探索、美術館を訪問。",
+        "Local_Cuisine": "ハンギキョト、スキャイール。",
+        "Green_Spaces": "アークレイリ植物園、ヴァズラヘイダル。"
+      },
+      {
+        "City_Name": "Keflavik",
+        "Historical_Landmarks": "バイキング博物館、大陸間橋、ブルーラグーンに近い。",
+        "Tourist_Activities": "温泉観光、海事史を探索。",
+        "Local_Cuisine": "ハンギキョト、スキャイール。",
+        "Green_Spaces": "ケフラヴィーク公園、ブルーラグーンビーチ。"
+      },
+      {
+        "City_Name": "Hvamm",
+        "Historical_Landmarks": "ヴァトナヨークトル国立公園、氷河の風景。",
+        "Tourist_Activities": "氷河ツアー、氷山を探索、地元のシーフードを味わう。",
+        "Local_Cuisine": "ハンギキョト、スキャイール。",
+        "Green_Spaces": "ヴァトナヨークトル国立公園、ヨークルスアウルロン湖。"
+      },
+      {
+        "City_Name": "Westman Islands (Vestmannaeyjar)",
+        "Historical_Landmarks": "火山博物館、活火山の火口、ツノメドリコロニー。",
+        "Tourist_Activities": "大西洋を横断するボート旅行、最近の火山活動を探索するハイキングコース。",
+        "Local_Cuisine": "ハンギキョト、スキャイール。",
+        "Green_Spaces": "エルドフェル山、フョルグーダル公園。"
+      },
+      {
+        "City_Name": "Svalnas",
+        "Historical_Landmarks": "半島、沿岸の崖。",
+        "Tourist_Activities": "長距離ウォーキング、白い砂浜を探索。",
+        "Local_Cuisine": "ハンギキョト、スキャイール。",
+        "Green_Spaces": "レニスフィラビーチ、ソルニル火山。"
+      },
+      {
+        "City_Name": "Grindavik",
+        "Historical_Landmarks": "天然温泉、地質学博物館。",
+        "Tourist_Activities": "天然の浴場を楽しむ。",
+        "Local_Cuisine": "ハンギキョト、スキャイール。",
+        "Green_Spaces": "グリンダヴィーク公園、グヌフヴェル火山。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ethiopia",
+    "Cities": [
+      {
+        "City_Name": "Addis Ababa",
+        "Historical_Landmarks": "エチオピア国立博物館（ルーシー）、聖三位一体教会、エントト山、メルカト市場。",
+        "Tourist_Activities": "国立博物館を訪問、市場ツアー、歴史的な場所を探索。",
+        "Local_Cuisine": "インジェラ（発酵穀物の平たいパン）、ワット（煮込み）、ティブス（炒め肉）、ドロ・ワット。",
+        "Green_Spaces": "ギヒエ公園、エントト山。"
+      },
+      {
+        "City_Name": "Lalibela",
+        "Historical_Landmarks": "岩で彫られた教会（世界遺産）。",
+        "Tourist_Activities": "岩で彫られた教会を訪問（世界の七不思議の一つ）。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "教会を囲む丘。"
+      },
+      {
+        "City_Name": "Axum",
+        "Historical_Landmarks": "アクスムのobelisks、聖マリア・オブ・シオン教会、古代宮殿の遺跡。",
+        "Tourist_Activities": "古代アクスム文明を探索。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "市を囲む丘。"
+      },
+      {
+        "City_Name": "Gonder",
+        "Historical_Landmarks": "ファシル・ゲビ（世界遺産）、ファシル浴場、デブレ・ビルハン・セラシエ教会。",
+        "Tourist_Activities": "古い王宮を訪問。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "タナ湖（近く）、公園。"
+      },
+      {
+        "City_Name": "Lake Tana",
+        "Historical_Landmarks": "青ナイルの滝、タナ湖、周囲の修道院。",
+        "Tourist_Activities": "湖上の修道院を訪問、滝を見る。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "タナ湖、青ナイルの滝。"
+      },
+      {
+        "City_Name": "Dire Dawa",
+        "Historical_Landmarks": "地元の市場、古い駅。",
+        "Tourist_Activities": "商業都市を探索。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "カフィラ公園。"
+      },
+      {
+        "City_Name": "Dessie",
+        "Historical_Landmarks": "デッシェ市場、周囲の山の風景。",
+        "Tourist_Activities": "自然観光、地域市場での買い物。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "山の風景。"
+      },
+      {
+        "City_Name": "Harar",
+        "Historical_Landmarks": "城壁都市（世界遺産）、リンバ・ハウス、アーサー・ランボー・ハウス。",
+        "Tourist_Activities": "古代イスラム都市を探索、ハイエナの餌付けを見る。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "市を囲む山々。"
+      },
+      {
+        "City_Name": "Shashamane",
+        "Historical_Landmarks": "ラスタファリアン・コミュニティ、文化センター。",
+        "Tourist_Activities": "ラスタファリアン文化を探索。",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "周囲の農村地域。"
+      }
+    ]
+  }
+]

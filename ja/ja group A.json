@@ -1,0 +1,1062 @@
+[
+  {
+    "Country_Name": "アゼルバイジャン",
+    " Cities": [
+      {
+        "City_Name": "バクー",
+        "Historical_Landmarks": "旧市街（イチェリシェヘル）、メイデン・タワー、シルヴァンシャー宮殿、フレーム・タワー、ヘイダル・アリエフ・センター、噴水広場、ミニ・ヴェネツィア、絨毯博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、アゼルバイジャン・ケバブ、ドゥシュバラ。",
+        "Green_Spaces": "バクー国立公園（ベルファル）、ジェイシュラル公園、ダイナモ公園、カスピ海の海岸風景。"
+      },
+      {
+        "City_Name": "ガンジャ",
+        "Historical_Landmarks": "ニザミ・ガンジャヴィ地区、歴史的モスク、霊廟。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ、ドゥシュバラ。",
+        "Green_Spaces": "美しい庭園（ファイルで言及）、ガンジャ川、周辺の緑豊かな農村地域。"
+      },
+      {
+        "City_Name": "シャキ",
+        "Historical_Landmarks": "シャキ・カーン宮殿、地元の工芸品市場、劇場。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "特産シャキ料理、プラフ。",
+        "Green_Spaces": "小カフカス山脈、シャキの森、緑の農村自然。"
+      },
+      {
+        "City_Name": "ガバラ",
+        "Historical_Landmarks": "（旧市街とガバラ・モスク）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ。",
+        "Green_Spaces": "北カフカス山脈、絵のように美しい風景、ノフール・ゴル湖（ノフール）。"
+      },
+      {
+        "City_Name": "クバ",
+        "Historical_Landmarks": "山岳地帯、山岳モスク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ。",
+        "Green_Spaces": "山岳地帯、自然公園、赤いカサバ森林とグディャルチャイ川。"
+      },
+      {
+        "City_Name": "ランカラン",
+        "Historical_Landmarks": "歴史的ランカラン城、灯台。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ。",
+        "Green_Spaces": "カスピ海の沿岸地域、近くのヒルカン国立公園。"
+      },
+      {
+        "City_Name": "スムガイト",
+        "Historical_Landmarks": "大規模な産業建物、時計塔。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ。",
+        "Green_Spaces": "カスピ海に面したスムガイトのビーチ、ファフレディン・アサド広場（中心公園）。"
+      },
+      {
+        "City_Name": "ミンゲオイル",
+        "Historical_Landmarks": "旧跡と歴史的建造物、水貯留池。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ。",
+        "Green_Spaces": "クーラ川、ミンゲオイル湖（水貯留池）、河岸の緑地。"
+      },
+      {
+        "City_Name": "ハンケンディ",
+        "Historical_Landmarks": "地域の歴史的遺跡、モスク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ。",
+        "Green_Spaces": "谷と周辺山岳（特にダッシュ・アルティン地域）、山岳風景。"
+      },
+      {
+        "City_Name": "ガザフ",
+        "Historical_Landmarks": "地域の建物と建築的ランドマーク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、ケバブ。",
+        "Green_Spaces": "クーラ川、広大なガザフ平原、肥沃な農村地域。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "アルメニア",
+    " Cities": [
+      {
+        "City_Name": "エレバン",
+        "Historical_Landmarks": "共和国広場、カスケード・コンプレックス、マテナダラン博物館、オペラ劇場、ブルーモスク、エレバン・ブランディー社、北通り、アルメニア歴史博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ、ラヴァシュパン、ドルマ、マンティ。",
+        "Green_Spaces": "恋人公園、ヴィクトリア公園、アルメニア山の眺めが広がる広場。"
+      },
+      {
+        "City_Name": "ギュムリ",
+        "Historical_Landmarks": "歴史的建造物とルスタヴェリ通り。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ、ラヴァシュパン。",
+        "Green_Spaces": "公共公園と周辺平原・高地の自然風景。"
+      },
+      {
+        "City_Name": "エチミアジン",
+        "Historical_Landmarks": "エチミアジン大聖堂、石の宮殿。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ、ラヴァシュパン。",
+        "Green_Spaces": "宗教施設周辺の緑地と広場、緑の牧草地。"
+      },
+      {
+        "City_Name": "セヴァン",
+        "Historical_Landmarks": "セヴァナヴァンク宗教複合施設。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "湖の魚、ホロヴァツ。",
+        "Green_Spaces": "セヴァン湖（最大の湖）、砂浜と透明な水。"
+      },
+      {
+        "City_Name": "ゴリス",
+        "Historical_Landmarks": "古代の石造建築。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ。",
+        "Green_Spaces": "ザンゲズール山脈に囲まれ、景観が美しい自然洞窟。"
+      },
+      {
+        "City_Name": "カパン",
+        "Historical_Landmarks": "歴史的ランドマーク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ。",
+        "Green_Spaces": "ザグロス山脈と緑地、風光明媚な自然、フクタン川。"
+      },
+      {
+        "City_Name": "オズン",
+        "Historical_Landmarks": "歴史的・文化的ランドマーク、オズン教会。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ。",
+        "Green_Spaces": "谷と山、静かな農村。"
+      },
+      {
+        "City_Name": "ディリジャン",
+        "Historical_Landmarks": "ディリジャン博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ。",
+        "Green_Spaces": "ディリジャン国立公園（絵のように美しい自然）、『アルメニアのスイス』と呼ばれる。"
+      },
+      {
+        "City_Name": "アララト",
+        "Historical_Landmarks": "アララト・ブランディー工場、アララト博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリッサ、ホロヴァツ。",
+        "Green_Spaces": "アララト山の全景（地域から見える）、平原。"
+      },
+      {
+        "City_Name": "アガヴァンドゾル",
+        "Historical_Landmarks": "（歴史的な村）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジンカロフ帽子。",
+        "Green_Spaces": "ベルニック歴史公園（静かな公園）、森林と崖。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "オーストラリア",
+    " Cities": [
+      {
+        "City_Name": "シドニー",
+        "Historical_Landmarks": "シドニー・オペラハウス、ハーバーブリッジ、ロックス地区、キャドマンズ・コテージ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ミートパイ、グリルステーキスライス、チキンパルミジャーナ、カンガルー肉、かぼちゃスープ。",
+        "Green_Spaces": "ボンダイとマンリーのビーチ、ロイヤル・ボタニック・ガーデン、ハイドパーク。"
+      },
+      {
+        "City_Name": "メルボルン",
+        "Historical_Landmarks": "ナショナル・ビクトリア・ギャラリー、クイーン・ビクトリア・マーケット、壁画とグラフィティ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ミートパイ、チキンパルミジャーナ、ラミントンズ。",
+        "Green_Spaces": "フィッツロイ・ガーデンズ、ロイヤル・ボタニック・ガーデンズ、ヤラ川。"
+      },
+      {
+        "City_Name": "ゴールドコースト",
+        "Historical_Landmarks": "シーワールド、ムービーワールド。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ミートパイ、グリルステーキスライス。",
+        "Green_Spaces": "サーフビーチ、スプリングブルック国立公園（近郊）と滝。"
+      },
+      {
+        "City_Name": "ブリスベン",
+        "Historical_Landmarks": "アート展覧会、サウスバンク・パークランズ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "かぼちゃスープ。",
+        "Green_Spaces": "クイーンズランド国立公園、ブリスベン川、ブリスベン植物園。"
+      },
+      {
+        "City_Name": "ニューカッスル",
+        "Historical_Landmarks": "歴史的建築。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ミートパイ。",
+        "Green_Spaces": "サーフスポット、周辺の山岳と農場、ブラックバット公共公園。"
+      },
+      {
+        "City_Name": "パース",
+        "Historical_Landmarks": "ベル・タワー。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "グリルと揚げ魚。",
+        "Green_Spaces": "キングス・パーク、スワン川、絶景のビーチ、ジャラ森林。"
+      },
+      {
+        "City_Name": "アデレード",
+        "Historical_Landmarks": "サウスオーストラリア博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ミートパイ。",
+        "Green_Spaces": "バロッサ・バレーのワイン産地、アデレード・ヒルズ、フルーリウ半島のビーチ。"
+      },
+      {
+        "City_Name": "ホバート",
+        "Historical_Landmarks": "タスマニアの観光・歴史的名所。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "料理の検索",
+        "Green_Spaces": "風光明媚な自然地域、ウェリントン山の登山…."
+      }
+    ]
+  },
+  {
+    "Country_Name": "アフガニスタン",
+    " Cities": [
+      {
+        "City_Name": "カブール",
+        "Historical_Landmarks": "ダル・アル・アマン宮殿、青モスク（フワジャ・アブドゥラ・アンサリ）、国立博物館、バーブル宮殿。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "カブリ・ピラフ、アフガニ・ケバブ、アシャク、ボラニ、コルマ。",
+        "Green_Spaces": "バーブル宮殿（庭園含む）、市を取り巻くヒンドゥークシュ山脈、シャーレ・アラ公園。"
+      },
+      {
+        "City_Name": "カンダハール",
+        "Historical_Landmarks": "アフマド・シャー・ドゥラニーの墓、シャリファ広場、ジャル・ジナ、ミルワイスの墓。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "カブリ・ピラフ、アフガニ・ケバブ。",
+        "Green_Spaces": "ブドウ園とサフラン農場の探検、アルガンダブ川、肥沃な平野。"
+      },
+      {
+        "City_Name": "ヘラート",
+        "Historical_Landmarks": "大モスク、ワリ・ウラ・アブドゥラ・アンサリの墓、旧モスクと学校複合体の遺跡。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "カブリ・ピラフ、アフガニ・ケバブ。",
+        "Green_Spaces": "ハリ川、周辺の緑谷、農業地域。"
+      },
+      {
+        "City_Name": "バーミヤン",
+        "Historical_Landmarks": "バーミヤン渓谷、古代仏教寺院（破壊された仏像を含む）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "カブリ・ピラフ。",
+        "Green_Spaces": "バーミヤン渓谷とその自然美、山岳風景の中の古代仏教寺院。"
+      },
+      {
+        "City_Name": "バドギス",
+        "Historical_Landmarks": "シャー・モスク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "カブリ・ピラフ、アフガニ・ケバブ。",
+        "Green_Spaces": "周辺の農村地域と山岳平野、肥沃な風景。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "アルバニア",
+    " Cities": [
+      {
+        "City_Name": "ティラナ",
+        "Historical_Landmarks": "スカンデルベグ広場、ティラナ国立博物館、時計塔、ダイティ山。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ビレク（パイ）、エンジュール（肉）。",
+        "Green_Spaces": "ティラナのグランドパーク、エルゼン川沿い。"
+      },
+      {
+        "City_Name": "ベラト",
+        "Historical_Landmarks": "歴史的ベラト城、旧市街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ビレク（パイ）、エンジュール（肉）。",
+        "Green_Spaces": "オスミ川を見渡す景観、トモリ山脈。"
+      },
+      {
+        "City_Name": "フローレ",
+        "Historical_Landmarks": "フローラ城、フローラ博物館、大フローラ・モスク、旧市街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ビレク（パイ）、エンジュール（肉）。",
+        "Green_Spaces": "アドリア海のビーチ、ロガラ高原、カリシュマ自然公園。"
+      },
+      {
+        "City_Name": "ドゥラス",
+        "Historical_Landmarks": "ドゥラスのローマ円形闘技場、歴史的ドゥラス城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シーフード、ビレク。",
+        "Green_Spaces": "ドゥラスビーチ、ドゥラス沿岸森林。"
+      },
+      {
+        "City_Name": "シュコドラ",
+        "Historical_Landmarks": "ロザファ城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ビレク（パイ）、エンジュール（肉）。",
+        "Green_Spaces": "シュコドラ湖（南ヨーロッパ最大の湖）、アルバニア・アルプス。"
+      },
+      {
+        "City_Name": "コルツェ",
+        "Historical_Landmarks": "（重要な文化・歴史的中心地）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ビレク（パイ）、エンジュール（肉）。",
+        "Green_Spaces": "コルツェ公共公園、近隣のフェル・ドリノヴァ国立公園。"
+      },
+      {
+        "City_Name": "デルミ",
+        "Historical_Landmarks": "デルミ教会。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ビレク（パイ）、エンジュール（肉）。",
+        "Green_Spaces": "海岸の村々、周辺の山岳景観、イオニア海のビーチ。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "ドイツ",
+    " Cities": [
+      {
+        "City_Name": "ハイデルベルク",
+        "Historical_Landmarks": "ハイデルベルク城、旧橋、ハウバート通り。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シュペッツレ、ローレーデン。",
+        "Green_Spaces": "哲学者の散歩道、ハイデルベルク城を囲む森林、ネッカー川。"
+      },
+      {
+        "City_Name": "ドレスデン",
+        "Historical_Landmarks": "バロック建築のランドマーク（ツヴィンガー宮殿）、歴史的建造物。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ソーセージ、ローレーデン。",
+        "Green_Spaces": "ズュートパーク（近郊）とエルベ川沿いの公園。"
+      },
+      {
+        "City_Name": "フライブルク",
+        "Historical_Landmarks": "フライブルク大聖堂、シャウインスランド、シュロスベルク（眺望丘）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "揚げジャガイモパンケーキ。",
+        "Green_Spaces": "ブラックフォレストに囲まれ、シュロスベルク丘。"
+      },
+      {
+        "City_Name": "ボン",
+        "Historical_Landmarks": "ベートーベンハウス、ボン大聖堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シュニッツェル、ソーセージ。",
+        "Green_Spaces": "ラインアウエ公園、ライン川沿い。"
+      },
+      {
+        "City_Name": "ヴィースバーデン",
+        "Historical_Landmarks": "クアハウス、ネルベルクバーン、ヴィルヘルム通り。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ソーセージ、シュニッツェル。",
+        "Green_Spaces": "クアパーク、ネルベルク丘、ローマ泉。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "アンゴラ",
+    " Cities": [
+      {
+        "City_Name": "ルアンダ",
+        "Historical_Landmarks": "アントニオ・ニト博士の墓、レメディオス教会、通貨博物館、人類学国立博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "モアムバ・デ・ガリンハ、フンゲ・デ・カルル、キサカ、カルル、ムフェテ。",
+        "Green_Spaces": "ルアンダ湾、ムッスロ島（ビーチ）、近隣のキッサマ国立公園。"
+      },
+      {
+        "City_Name": "ムバンザ・コンゴ",
+        "Historical_Landmarks": "歴史的遺跡（ユネスコ世界遺産）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "モアムバ・デ・ガリンハ、フンゲ・デ・カルル、キサカ、カルル、ムフェテ。",
+        "Green_Spaces": "周辺地域と熱帯雨林、手つかずの自然。"
+      },
+      {
+        "City_Name": "マラニジ",
+        "Historical_Landmarks": "歴史的ランドマーク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "モアムバ・デ・ガリンハ、フンゲ・デ・カルル、キサカ、カルル、ムフェテ。",
+        "Green_Spaces": "カランドラ滝、ルアラバ川、ミクソ自然保護区。"
+      },
+      {
+        "City_Name": "ベンゲラ",
+        "Historical_Landmarks": "人類学国立博物館、歴史的な街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シーフード。",
+        "Green_Spaces": "砂浜と大西洋の景観。"
+      },
+      {
+        "City_Name": "ルビト",
+        "Historical_Landmarks": "文化・歴史的ランドマーク、港湾。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "モアムバ・デ・ガリンハ、フンゲ・デ・カルル、キサカ、カルル、ムフェテ。",
+        "Green_Spaces": "港周辺の海岸自然、近隣の山岳。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "ウルグアイ",
+    " Cities": [
+      {
+        "City_Name": "モンテビデオ",
+        "Historical_Landmarks": "独立広場、サルヴォ宮殿、港市場、ソリス劇場。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード（バーベキュー）、チビト（ステーキサンドイッチ）、パステル・デ・カルネ。",
+        "Green_Spaces": "モンテビデオのランブラ（海岸散歩道）、バトレー・イ・オルデニェス公園。"
+      },
+      {
+        "City_Name": "ボカ・デル・エステ",
+        "Historical_Landmarks": "ボカ・デル・エステ港、ラ・マノ（有名な像）、ロボス島（アザラシ）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード（バーベキュー）、チビト（ステーキサンドイッチ）、パステル・デ・カルネ。",
+        "Green_Spaces": "大西洋のビーチと高級リゾート。"
+      },
+      {
+        "City_Name": "ピリアポリス",
+        "Historical_Landmarks": "パン・デ・アスーカール丘、ヴィラ・アルチェンティーナ宮殿。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード（バーベキュー）、チビト（ステーキサンドイッチ）、パステル・デ・カルネ。",
+        "Green_Spaces": "有名なビーチリゾート、丘陵と風景、サン・アントニオ丘。"
+      },
+      {
+        "City_Name": "サルト",
+        "Historical_Landmarks": "（農業センター）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード（バーベキュー）、チビト（ステーキサンドイッチ）、パステル・デ・カルネ。",
+        "Green_Spaces": "アルロヨ温泉、デイマ温泉、ウルグアイ川。"
+      },
+      {
+        "City_Name": "ラ・パロマ",
+        "Historical_Landmarks": "ラ・パロマ灯台。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード（バーベキュー）、チビト（ステーキサンドイッチ）、パステル・デ・カルネ。",
+        "Green_Spaces": "大西洋のビーチと沿岸リゾート、近くのラチャ・デ・ロチャ。"
+      },
+      {
+        "City_Name": "ボカ・デル・ディアブロ",
+        "Historical_Landmarks": "（小さな漁村）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード（バーベキュー）、チビト（ステーキサンドイッチ）、パステル・デ・カルネ。",
+        "Green_Spaces": "美しい砂浜と周辺の手つかずの自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "ウズベキスタン",
+    " Cities": [
+      {
+        "City_Name": "タシュケント",
+        "Historical_Landmarks": "アミール・ティムール広場、ハスタ・イマーム・コンプレックス、バラーク・ハン校。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、シャシリク（ケバブ）、サムサ。",
+        "Green_Spaces": "水路、バーバ公園、都市緑地。"
+      },
+      {
+        "City_Name": "サマルカンド",
+        "Historical_Landmarks": "レギスタン広場、グル・エ・アミル墓、ビビ・ハニムモスク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、シャシリク（ケバブ）、サムサ。",
+        "Green_Spaces": "レギスタン広場（考古遺跡）、サマルカンド郊外の緑地。"
+      },
+      {
+        "City_Name": "ブハラ",
+        "Historical_Landmarks": "ボロ・ハリヤン・コンプレックス、サマニド墓、ブハラ旧市街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、シャシリク（ケバブ）、サムサ。",
+        "Green_Spaces": "ラブ貯水池（水域と庭園）。"
+      },
+      {
+        "City_Name": "ホラズム",
+        "Historical_Landmarks": "イチャン・カラ要塞（近郊のホヴァ）、墓所とモスク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、シャシリク（ケバブ）、サムサ。",
+        "Green_Spaces": "アムーダリヤ川周辺の農業地域。"
+      },
+      {
+        "City_Name": "ナマンガン",
+        "Historical_Landmarks": "（史跡やランドマークが多い主要都市）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、シャシリク、マントゥ。",
+        "Green_Spaces": "肥沃な農業地域、シルダリヤ川近く。"
+      },
+      {
+        "City_Name": "アンディジャン",
+        "Historical_Landmarks": "（史跡やランドマークが多い主要都市）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "プラフ、シャシリク、サムサ。",
+        "Green_Spaces": "フェルガナ渓谷の肥沃な谷と農業地域。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "ウクライナ",
+    " Cities": [
+      {
+        "City_Name": "キエフ",
+        "Historical_Landmarks": "キエフ・ペチェルスク・ラヴラ修道院、聖ソフィア大聖堂、独立広場、ゴールデンゲート、ウクライナ歴史国立博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ（ビーツスープ）、バレニキ（詰め物入りダンプリング）、カツレツ（ハンバーグ）、ホルブツィ（千葉包み）、ピロシキ（焼き肉パイ）。",
+        "Green_Spaces": "国立植物園、ドニエプル川沿い。"
+      },
+      {
+        "City_Name": "ハルキウ",
+        "Historical_Landmarks": "自由広場、ゴルキー公園、受胎告知大聖堂、美術館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ、バレニキ。",
+        "Green_Spaces": "ゴルキー公園（中心部）、周辺の森林。"
+      },
+      {
+        "City_Name": "オデッサ",
+        "Historical_Landmarks": "オデッサ国立オペラハウス、ポチョムキン階段、デリバシフスカ通り。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "サロ（野菜とミンチ肉のサラダ）、ブリュヌエル（クレープ）。",
+        "Green_Spaces": "黒海沿岸の観光、アルカディアビーチ。"
+      },
+      {
+        "City_Name": "リヴィウ",
+        "Historical_Landmarks": "リーノック広場、リヴィウオペラハウス、ハイキャッスルヒル。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ、コーヒー。",
+        "Green_Spaces": "ヴィシュカ城公園、都市公園。"
+      },
+      {
+        "City_Name": "ドニプロ",
+        "Historical_Landmarks": "エンバンクメント、宇宙博物館、モナスティルスキー島。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "ドニエプル川沿いのエンバンクメント、都市公園。"
+      },
+      {
+        "City_Name": "ドネツク",
+        "Historical_Landmarks": "フォロシュコヴァ公園、レーニン広場、地方博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "フォロシュコヴァ公園、東部平原。"
+      },
+      {
+        "City_Name": "セヴァストポリ",
+        "Historical_Landmarks": "クリミア半島、セヴァストポリ防衛パノラマ、ヘルソネスス。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ、シーフード。",
+        "Green_Spaces": "クリミア半島（エイ・ペトリ山）、海上観光。"
+      },
+      {
+        "City_Name": "ザポリジャ",
+        "Historical_Landmarks": "ホルティツィア島、ザポロジヤ・コサック博物館、ザポロジヤ・ビーチ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "ホルティツィア島（最大の河川島）、ドニエプル川。"
+      },
+      {
+        "City_Name": "ミコライウ",
+        "Historical_Landmarks": "ミコライウ天文台、ミコライウ・エンバンクメント、造船博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ。",
+        "Green_Spaces": "天文台周辺の緑地、黒海平原。"
+      },
+      {
+        "City_Name": "コスティン",
+        "Historical_Landmarks": "オリガ・オリガ浴場公園、石博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボルシチ、ドラニキ（ジャガイモパンケーキ）。",
+        "Green_Spaces": "オリガ・オリガ浴場公園、農村地域。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "エリトリア",
+    " Cities": [
+      {
+        "City_Name": "アスマラ",
+        "Historical_Landmarks": "聖ヨセフ大聖堂、オペラハウス、エンパイア・シネマ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ（肉シチュー）、インジェラ（スポンジブレッド）、ティブシ（揚げスライス肉）。",
+        "Green_Spaces": "絵のように美しい公園と緑地、エリトリア高原。"
+      },
+      {
+        "City_Name": "ミツィワ",
+        "Historical_Landmarks": "歴史的マサワ港、シェイク・ハネフィ・モスク、ダラック諸島。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、シーフード。",
+        "Green_Spaces": "紅海のビーチ、グリーン島（シェイク・サイド）。"
+      },
+      {
+        "City_Name": "ケレン",
+        "Historical_Landmarks": "ラクダ市場、ベイジニ要塞、マリヤム・シユート墓。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、ティブシ。",
+        "Green_Spaces": "周辺の花崗岩山脈、魅力的な風景。"
+      },
+      {
+        "City_Name": "デクマハール",
+        "Historical_Landmarks": "イタリア植民地建築、カトリック教会。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、ティブシ。",
+        "Green_Spaces": "農村のイタリア建築、周辺平原。"
+      },
+      {
+        "City_Name": "アディ・クアル",
+        "Historical_Landmarks": "考古学遺跡、アディ・クアル博物館、近郊のマタラ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、ティブシ。",
+        "Green_Spaces": "高原の考古遺跡、山岳風景。"
+      },
+      {
+        "City_Name": "ツィニ",
+        "Historical_Landmarks": "ツィニ川、国境の町、オープンマーケット。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、ティブシ。",
+        "Green_Spaces": "ツィニ川、西部の緑地。"
+      },
+      {
+        "City_Name": "カンダ",
+        "Historical_Landmarks": "沿岸の村々、紅海のビーチ、自然景観。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、魚。",
+        "Green_Spaces": "沿岸の村々、紅海のビーチ。"
+      },
+      {
+        "City_Name": "アゴルダット",
+        "Historical_Landmarks": "メインマーケット、古い軍事遺跡。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、ティブシ。",
+        "Green_Spaces": "平原地域、川岸の密集した樹木。"
+      },
+      {
+        "City_Name": "メンデフェラ",
+        "Historical_Landmarks": "古代考古遺跡（マタラ近郊）、丘陵。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、ティブシ。",
+        "Green_Spaces": "古代遺跡（マタラ）、高原の農業地域。"
+      },
+      {
+        "City_Name": "バレントゥ",
+        "Historical_Landmarks": "鉱山町、広大な平原。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ジニ、インジェラ、ティブシ。",
+        "Green_Spaces": "平原の自然、川と放牧地。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "スペイン",
+    " Cities": [
+      {
+        "City_Name": "マドリード",
+        "Historical_Landmarks": "王宮、プラド美術館、プラサ・マヨール。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "パエリア、タパス、ガスパチョ、チュロス。",
+        "Green_Spaces": "レティーロ公園、王立植物園、カサ・デ・カンポ公園。"
+      },
+      {
+        "City_Name": "バルセロナ",
+        "Historical_Landmarks": "サグラダ・ファミリア、ゴシック地区、ラ・ランブラ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "フィデウア、パン・コン・トマテ、クレマ・カタラナ。",
+        "Green_Spaces": "パルク・グエル、モンセラット山、地中海のビーチ。"
+      },
+      {
+        "City_Name": "セビリア",
+        "Historical_Landmarks": "アルカサール・デ・セビリア、セビリア大聖堂、プラサ・デ・エスパーニャ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "バレンシア風パエリア、サルモレホ。",
+        "Green_Spaces": "セビリア宮殿の壁庭、マリア・ルイサ公園。"
+      },
+      {
+        "City_Name": "バレンシア",
+        "Historical_Landmarks": "シティ・オブ・アーツ・アンド・サイエンス、中央市場、バレンシア大聖堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "オリジナルパエリア、ファバダ、ホルチャタ。",
+        "Green_Spaces": "シティ・オブ・アーツ・アンド・サイエンス（水の装飾）、トゥリア・ガーデン。"
+      },
+      {
+        "City_Name": "マラガ",
+        "Historical_Landmarks": "アルカサバ、ヒラルデ・ジブラルファロ城、ピカソ美術館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボリート、ブチェローノス（揚げ魚）。",
+        "Green_Spaces": "コスタ・デル・ソルのビーチ、アルカサバ（眺望）。"
+      },
+      {
+        "City_Name": "コルドバ",
+        "Historical_Landmarks": "大モスク（メスキータ）、ユダヤ人地区、ビアナ宮殿。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "サルモレホ、ポリート。",
+        "Green_Spaces": "アルカサル庭園、大モスクの花園。"
+      },
+      {
+        "City_Name": "グラナダ",
+        "Historical_Landmarks": "アルハンブラ、ジェネラリフェ、アルバイシン地区。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "パタタス・ア・ラ・ロヴェリ、リボ・デ・トロ。",
+        "Green_Spaces": "アルハンブラとジェネラリフェ（水と農村庭園）。"
+      },
+      {
+        "City_Name": "ビルバオ",
+        "Historical_Landmarks": "グッゲンハイム美術館、カスコ・ビエホ（旧市街）、ズビズリ橋。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ビンチョス、バカラオ。",
+        "Green_Spaces": "海岸の崖、ドナ・カシルダ・イトゥリサール公園。"
+      },
+      {
+        "City_Name": "アリカンテ",
+        "Historical_Landmarks": "サンタ・バーバラ城、ポスティゲートビーチ、ヴァレー美術館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アロス・ア・バンダ、トゥロン。",
+        "Green_Spaces": "コスタ・ブランカのビーチ、ペニャゴロサ山（眺望）。"
+      },
+      {
+        "City_Name": "ラス・パルマス",
+        "Historical_Landmarks": "テイデ火山（テネリフェ）、ラス・カンテラスビーチ、ベギータ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "パパス・アリュガダス、モホソース。",
+        "Green_Spaces": "テイデ火山、ラス・カンテラスビーチ。"
+      },
+      {
+        "City_Name": "マルベラ",
+        "Historical_Landmarks": "バヌス港、プラヤ・デ・ラ・フォンテビーチ、旧市街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "パエリア、タパス、シーフード。",
+        "Green_Spaces": "バジリオ・マレティモ通り（樹木が並ぶ）、高級砂浜。"
+      },
+      {
+        "City_Name": "トレド",
+        "Historical_Landmarks": "トレド大聖堂、ユダヤ人シナゴーグ、カンタラ橋。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "コチニーヨ（ロースト）、マサパン（アーモンド菓子）。",
+        "Green_Spaces": "タホ川の河岸、周辺の農村地域。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "エストニア",
+    " Cities": [
+      {
+        "City_Name": "タリン",
+        "Historical_Landmarks": "旧市街（世界遺産）、アレクサンドル・ネフスキー大聖堂、聖オラフ塔。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ヴェリヴォルスト（血のソーセージ）、ライ麦パン。",
+        "Green_Spaces": "カドリオルグ公園、海岸の崖（パルヌ）。"
+      },
+      {
+        "City_Name": "タルトゥ",
+        "Historical_Landmarks": "タルトゥ大学、キス橋、芸術博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ヴェリヴォルスト（血のソーセージ）、ライ麦パン。",
+        "Green_Spaces": "タルトゥ植物園、河川景観。"
+      },
+      {
+        "City_Name": "パルヌ",
+        "Historical_Landmarks": "パルヌのビーチ、健康リゾート、パルヌ公園。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ヴェリヴォルスト（血のソーセージ）、ライ麦パン。",
+        "Green_Spaces": "パルヌの砂浜、近隣の森林にある健康リゾート。"
+      },
+      {
+        "City_Name": "ナルヴァ",
+        "Historical_Landmarks": "ナルヴァ城（ヘルマン）、芸術博物館、国境地域。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ヴェリヴォルスト（血のソーセージ）、ライ麦パン。",
+        "Green_Spaces": "ナルヴァ城（川の眺め）、緑の国境地域。"
+      },
+      {
+        "City_Name": "コトラ＝ヤルヴェ",
+        "Historical_Landmarks": "コトラ＝ヤルヴェシェール油博物館、ビジネス地区。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ヴェリヴォルスト（血のソーセージ）、ライ麦パン。",
+        "Green_Spaces": "工業地域（シェール油）と周辺の森林。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "エスワティニ",
+    " Cities": [
+      {
+        "City_Name": "ムババネ",
+        "Historical_Landmarks": "議会ビル、ムババネ市場。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シザマボ、インホ。",
+        "Green_Spaces": "エズルウィニ渓谷（近隣）、緑の丘陵地域。"
+      },
+      {
+        "City_Name": "マンジニ",
+        "Historical_Landmarks": "王宮、国立博物館、ハラン王立公園。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シザマボ、インホ。",
+        "Green_Spaces": "ハラン王立公園、山岳高原。"
+      },
+      {
+        "City_Name": "ビッグベンド",
+        "Historical_Landmarks": "サトウキビ農園、スワジランド川、ビッグベンド橋。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シザマボ、インホ。",
+        "Green_Spaces": "サトウキビ農園、スワジランド川（水景）。"
+      },
+      {
+        "City_Name": "セホイ",
+        "Historical_Landmarks": "産業複合体、貿易センター。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シザマボ、インホ。",
+        "Green_Spaces": "産業地域、農村自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "インドネシア",
+    " Cities": [
+      {
+        "City_Name": "ジャカルタ",
+        "Historical_Landmarks": "国立モニュメント（モナス）、旧市街（コタ・トゥア）、ジャカルタ博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、グデグ・サテ。",
+        "Green_Spaces": "タマン・ミニ・インドネシア・インダー公園、アンコール・ドリームランド。"
+      },
+      {
+        "City_Name": "スラバヤ",
+        "Historical_Landmarks": "英雄記念碑、チャン・ホー・モスク、海事博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、ルジャク・チングル。",
+        "Green_Spaces": "ブングクス・アサイ公園、東ジャワの緑自然。"
+      },
+      {
+        "City_Name": "ミダン",
+        "Historical_Landmarks": "グレート・マディア・モスク、メイムン宮殿、近郊のトバ湖。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、ソト・メダン。",
+        "Green_Spaces": "シナンブン山（活火山）、ブンダ公園。"
+      },
+      {
+        "City_Name": "マカッサル",
+        "Historical_Landmarks": "ロッテルダム要塞、ロサリビーチ、サンカラン島。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ナシ・ゴレン、サテ、シウィ（魚）。",
+        "Green_Spaces": "ロッテルダム要塞（海の眺め）、沿岸自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "イタリア",
+    " Cities": [
+      {
+        "City_Name": "ローマ",
+        "Historical_Landmarks": "コロッセオ、ローマンフォーラム、バチカン、トレビの泉。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "カルボナーラパスタ、スパゲッティ・カチョ・エ・ペペ、ローマ風ピザ。",
+        "Green_Spaces": "ヴィラ・ボルゲーゼ庭園、ピンチャーノテラスの庭園。"
+      },
+      {
+        "City_Name": "ミラノ",
+        "Historical_Landmarks": "ミラノ大聖堂（ドゥオーモ）、ヴィットリオ・エマヌエーレ2世ギャラリー、ラ・スカラ劇場。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ミラノ風リゾット、コトレッタ（仔牛肉）。",
+        "Green_Spaces": "センピオーネ公園、ナヴィリ運河。"
+      },
+      {
+        "City_Name": "ナポリ",
+        "Historical_Landmarks": "ナポリ歴史地区、カポディモンテ宮殿、近郊のポンペイ。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "本場ナポリピザ、スフォリアテッラ菓子。",
+        "Green_Spaces": "ベスビオ山（街の眺望）、アマルフィ海岸。"
+      },
+      {
+        "City_Name": "ボローニャ",
+        "Historical_Landmarks": "マッジョーレ広場、二塔、ネプチューン噴水。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ボロネーゼラグー（ソース）、トルテリーニ。",
+        "Green_Spaces": "マルゲリータ庭園（都市公園）、ポー川平野。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "アルゼンチン",
+    " Cities": [
+      {
+        "City_Name": "ブエノスアイレス",
+        "Historical_Landmarks": "メイ広場、ラ・ボカ（色彩豊かな地区）、エバ・ペロンの墓（レコレータ）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード、エンパナーダ、アルファホレス（デザート）。",
+        "Green_Spaces": "パルケ・デ・パレモ（パレモの森）、エコロジー保護区。"
+      },
+      {
+        "City_Name": "メンドーサ",
+        "Historical_Landmarks": "独立広場、国立歴史博物館。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード、エンパナーダ、マルベックワイン。",
+        "Green_Spaces": "サン・マルティン公園、メンドーサのブドウ畑。"
+      },
+      {
+        "City_Name": "サン・カルロス・デ・バリロチェ",
+        "Historical_Landmarks": "ヨーロッパ風の街中心部。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード、エンパナーダ、パタゴニアチョコレート。",
+        "Green_Spaces": "湖とアンデス山脈に囲まれる。"
+      },
+      {
+        "City_Name": "サルタ",
+        "Historical_Landmarks": "山岳考古博物館、サルタ大聖堂、サン・ベルナルド地区。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード、エンパナーダ、タマレス。",
+        "Green_Spaces": "北部アンデス山脈、レルマ谷。"
+      },
+      {
+        "City_Name": "ニュークウェイ",
+        "Historical_Landmarks": "ニュークウェイ博物館、ニュークウェイ川、センテニアル・パーク。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アサード、エンパナーダ。",
+        "Green_Spaces": "ニュークウェイ川、北パタゴニア自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "ヨルダン",
+    " Cities": [
+      {
+        "City_Name": "アンマン",
+        "Historical_Landmarks": "アンマン・ローマ円形劇場、城壁の丘、ヨルダン考古学博物館、レインボー・ストリート。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "マンサフ、マクルーバ、クナーファ。",
+        "Green_Spaces": "アル・フセイン国立公園、山の眺めが広がるアンマン郊外。"
+      },
+      {
+        "City_Name": "ペトラ",
+        "Historical_Landmarks": "宝蔵（アル＝シク）、修道院、柱廊通り。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "マンサフ、ザルブ（地下バーベキュー）。",
+        "Green_Spaces": "ワディ・ムーサ（岩の自然と彫刻）。"
+      },
+      {
+        "City_Name": "アカバ",
+        "Historical_Landmarks": "アカバ・マムルーク城、アカバ考古学博物館、アカバ市場。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "シーフード、フィッシュ・サヤディーヤ、マンサフ。",
+        "Green_Spaces": "紅海（ビーチとダイビングのサンゴ礁）。"
+      },
+      {
+        "City_Name": "ワディ・ラム",
+        "Historical_Landmarks": "砂と岩の山々、古代碑文、ベドウィンテント。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ザルブ、マンサフ。",
+        "Green_Spaces": "砂丘、砂と岩の山々。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "アラブ首長国連邦",
+    " Cities": [
+      {
+        "City_Name": "ドバイ",
+        "Historical_Landmarks": "ブルジュ・ハリファ、ブルジュ・アル・アラブ、ドバイ・モール、グローバル・ヴィレッジ、ドバイ・クリーク（旧市街）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリース、マチブース、ルカイマット。",
+        "Green_Spaces": "ドバイ・ミラクル・ガーデン、ジュメイラ・ビーチ、アル・クドラ湖（近郊）。"
+      },
+      {
+        "City_Name": "アブダビ",
+        "Historical_Landmarks": "シェイク・ザイード・グランド・モスク、ルーヴル・アブダビ博物館、エミレーツ・パレス。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリース、マチブース、ルカイマット。",
+        "Green_Spaces": "アブダビ・コーニッシュ、キャピタル・ガーデンズ、ヤス島（緑地）、ジェベル・ハフィート。"
+      },
+      {
+        "City_Name": "ウム・アル・カイワーン",
+        "Historical_Landmarks": "ドリームランド・ウォーターパーク、アル・シンニヤ島、旧市街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハリース、マチブース、ルカイマット。",
+        "Green_Spaces": "ウム・アル・カイワーン・ビーチ、アル・カルム地域（マングローブ）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "エクアドル",
+    " Cities": [
+      {
+        "City_Name": "キト",
+        "Historical_Landmarks": "旧市街（世界遺産）、赤道線（ミタド・デル・ムンド）、ピチンチャ火山。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "セビチェ、ロクロ・デ・パパ（ジャガイモスープ）、フリタダ。",
+        "Green_Spaces": "メトロポリタン・パーク、周囲のアンデス山脈、キト渓谷。"
+      },
+      {
+        "City_Name": "グアヤキル",
+        "Historical_Landmarks": "マレコン2000（散策路）、ラス・ペーニャス地区、イグアナ公園（パルケ・デ・ラス・イグアナス）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "セビチェ、ロクロ・デ・パパ、アロス・コン・サルサ。",
+        "Green_Spaces": "エマ・バルメソ公園、沿岸地域。"
+      },
+      {
+        "City_Name": "テナ",
+        "Historical_Landmarks": "オムナ公園、ミサウリ川、アマゾン森林。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "セビチェ、ロクロ・デ・パパ。",
+        "Green_Spaces": "オムナ公園（熱帯雨林）、ミサウリ川。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "アイルランド",
+    " Cities": [
+      {
+        "City_Name": "ダブリン",
+        "Historical_Landmarks": "ダブリン城、トリニティ・カレッジ（図書館）、聖パトリック大聖堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アイリッシュシチュー、コルカノン（マッシュポテト）、ソーダブレッド。",
+        "Green_Spaces": "セント・スティーブン・グリーン、パワーズコート・ガーデンズ（近郊）。"
+      },
+      {
+        "City_Name": "コーク",
+        "Historical_Landmarks": "イングリッシュ・マーケット、セント・フィン・バーの大聖堂、コーク・シティ・ゲイル。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アイリッシュシチュー、コルカノン。",
+        "Green_Spaces": "フィッツジェラルド・パーク、リー川、沿岸地域。"
+      },
+      {
+        "City_Name": "ゴールウェイ",
+        "Historical_Landmarks": "スペイン・アーチ、エイヤー広場、ダンガイア・キャッスル（近郊）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アイリッシュシチュー、コルカノン。",
+        "Green_Spaces": "セントラル・パーク、ゴールウェイ湾の海岸、クレア郡の自然。"
+      },
+      {
+        "City_Name": "アスロン",
+        "Historical_Landmarks": "アスロン城、聖ペトロ・ポール教会、旧橋。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "アイリッシュシチュー、コルカノン。",
+        "Green_Spaces": "ラフ・リー、アスロン城（川の景観）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "アイスランド",
+    " Cities": [
+      {
+        "City_Name": "レイキャヴィーク",
+        "Historical_Landmarks": "ハットルグリムスキルジャ教会、ペルラン、旧レイキャヴィーク港、ブルーラグーン（近郊）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハンキョット（燻製ラム肉）、スキール（ヨーグルト）、新鮮な魚。",
+        "Green_Spaces": "地熱公園、都市庭園、沿岸景観。"
+      },
+      {
+        "City_Name": "セイディスフィヨルズゥル",
+        "Historical_Landmarks": "色彩豊かな建築、アート博物館、グフス滝。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "ハンキョット、スキール。",
+        "Green_Spaces": "オーロラ（夜景）、東部フィヨルド。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "エチオピア",
+    " Cities": [
+      {
+        "City_Name": "アディスアベバ",
+        "Historical_Landmarks": "国立博物館、聖三位一体大聖堂、メネリク2世宮殿。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "インジェラ（スポンジブレッド）、ワット（辛いシチュー）、ティブス（炒め肉）、ドロ・ワット（チキンシチュー）。",
+        "Green_Spaces": "ユニティ・パーク、エントト山（パノラマ眺望）。"
+      },
+      {
+        "City_Name": "ラリベラ",
+        "Historical_Landmarks": "ラリベラの岩窟教会（世界遺産）、ベト・ギヨルジス教会。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "インジェラ、ワット、ティブス。",
+        "Green_Spaces": "教会を取り巻く岩の形成物、高地。"
+      },
+      {
+        "City_Name": "アクスム",
+        "Historical_Landmarks": "オベリスク（大オベリスク）、オベリスク公園、シバ女王の宮殿。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "インジェラ、ワット。",
+        "Green_Spaces": "広大な考古遺跡地域、山岳風景。"
+      }
+    ]
+  }
+]

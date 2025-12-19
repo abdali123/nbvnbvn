@@ -1,0 +1,1062 @@
+[
+  {
+    "Country_Name": "Azerbaijan",
+    " Cities": [
+      {
+        "City_Name": "Baku",
+        "Historical_Landmarks": "Città Vecchia (Icherisheher), Torre della Vergine, Palazzo dei Shirvanshah, Torri della Fiamma, Centro Heydar Aliyev, Piazza della Fontana, Mini Venezia, Museo del Tappeto.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab azero, Dushbara.",
+        "Green_Spaces": "Parco Nazionale di Baku (Belfar), Parco Jeyshlar, Parco Dynamo, paesaggio costiero del Mar Caspio."
+      },
+      {
+        "City_Name": "Ganja",
+        "Historical_Landmarks": "Distretto Nizami Ganjavi, moschee storiche, mausolei.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab, Dushbara.",
+        "Green_Spaces": "Bellissimi giardini (menzionati nel file), fiume Ganja e aree verdi rurali circostanti."
+      },
+      {
+        "City_Name": "Shaki",
+        "Historical_Landmarks": "Palazzo del Khan di Shaki, mercato dell'artigianato locale, teatro.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Cibo speciale di Shaki, plov.",
+        "Green_Spaces": "Montagne del Caucaso Minore, foreste di Shaki e natura rurale verde."
+      },
+      {
+        "City_Name": "Gabala",
+        "Historical_Landmarks": "(Città Vecchia e Moschea di Gabala).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab.",
+        "Green_Spaces": "Montagne del Caucaso del Nord, paesaggi pittoreschi, Lago Nohur Gol (Nohur)."
+      },
+      {
+        "City_Name": "Quba",
+        "Historical_Landmarks": "Aree montuose, moschea di montagna.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab.",
+        "Green_Spaces": "Aree montuose, parchi naturali, foreste Red Kasaba e fiume Gudyalchay."
+      },
+      {
+        "City_Name": "Lankaran",
+        "Historical_Landmarks": "Castello storico di Lankaran, Faro della Luce.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab.",
+        "Green_Spaces": "Aree costiere del Mar Caspio, vicino al Parco Nazionale Hyrcan."
+      },
+      {
+        "City_Name": "Sumqayit",
+        "Historical_Landmarks": "Grandi edifici industriali, Torre dell'Orologio.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab.",
+        "Green_Spaces": "Spiagge di Sumqayit sul Mar Caspio, Piazza Fakhreddin Asad (parco centrale)."
+      },
+      {
+        "City_Name": "Mingeooyr",
+        "Historical_Landmarks": "Monumenti vecchi e storici, serbatoio d'acqua.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab.",
+        "Green_Spaces": "Fiume Kura, Lago Mingeooyr (serbatoio d'acqua) e aree verdi lungo le rive del fiume."
+      },
+      {
+        "City_Name": "Khankendi",
+        "Historical_Landmarks": "Siti storici nella zona, moschea.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab.",
+        "Green_Spaces": "Valli e montagne circostanti (soprattutto zona Dash Altyn) e paesaggi montani."
+      },
+      {
+        "City_Name": "Gazakh",
+        "Historical_Landmarks": "Edifici e monumenti architettonici nella zona.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, kebab.",
+        "Green_Spaces": "Fiume Kura, vaste pianure di Gazakh e aree rurali fertili."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Armenia",
+    " Cities": [
+      {
+        "City_Name": "Yerevan",
+        "Historical_Landmarks": "Piazza della Repubblica, Complesso della Cascata, Museo Matenadaran, Teatro dell'Opera, Moschea Blu, Distilleria di Brandy Yerevan, Northern Avenue, Museo di Storia dell'Armenia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats, pane lavash, dolma, mantı.",
+        "Green_Spaces": "Parco degli Amanti, Parco Victoria e le ampie piazze con vista sul Monte Ararat."
+      },
+      {
+        "City_Name": "Gyumri",
+        "Historical_Landmarks": "Edifici storici e via Rustaveli.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats, pane lavash.",
+        "Green_Spaces": "Parchi pubblici e paesaggi naturali delle pianure e altopiani circostanti."
+      },
+      {
+        "City_Name": "Etchmiadzin",
+        "Historical_Landmarks": "Cattedrale di Etchmiadzin, Palazzo di Pietra.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats, pane lavash.",
+        "Green_Spaces": "Aree verdi e piazze attorno ai siti religiosi e prati verdi."
+      },
+      {
+        "City_Name": "Sevan",
+        "Historical_Landmarks": "Complesso religioso di Sevanavank.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pesce di lago, khorovats.",
+        "Green_Spaces": "Lago Sevan (il più grande lago), le sue spiagge sabbiose e acque limpide."
+      },
+      {
+        "City_Name": "Goris",
+        "Historical_Landmarks": "Antichi edifici in pietra.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats.",
+        "Green_Spaces": "Situato tra le montagne di Zangezur, paesaggi scenografici e grotte naturali."
+      },
+      {
+        "City_Name": "Kapan",
+        "Historical_Landmarks": "Monumenti storici.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats.",
+        "Green_Spaces": "Montagne Zagros e aree verdi, natura panoramica, fiume Fukhtan."
+      },
+      {
+        "City_Name": "Odzun",
+        "Historical_Landmarks": "Monumenti storici e culturali, Chiesa di Odzun.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats.",
+        "Green_Spaces": "Valli e montagne, e tranquilli villaggi rurali."
+      },
+      {
+        "City_Name": "Dilijan",
+        "Historical_Landmarks": "Museo di Dilijan.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats.",
+        "Green_Spaces": "Parco Nazionale di Dilijan (natura pittoresca), noto come \"Svizzera armena\"."
+      },
+      {
+        "City_Name": "Ararat",
+        "Historical_Landmarks": "Distilleria di Brandy Ararat, Museo di Ararat.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harissa, khorovats.",
+        "Green_Spaces": "Vedute panoramiche del Monte Ararat (visibile dalla zona) e le pianure."
+      },
+      {
+        "City_Name": "Agavandzor",
+        "Historical_Landmarks": "(Villaggio storico).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Cappelli Jinkalov.",
+        "Green_Spaces": "Parco storico di Berunik (parco tranquillo) e foreste e scogliere."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Australia",
+    " Cities": [
+      {
+        "City_Name": "Sydney",
+        "Historical_Landmarks": "Opera House di Sydney, Harbour Bridge, quartiere The Rocks, Cadmans Cottage.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paste di carne, fette di bistecca alla griglia, pollo alla parmigiana, carne di canguro, zuppa di zucca.",
+        "Green_Spaces": "Spiagge di Bondi e Manly, Royal Botanic Garden, Hyde Park."
+      },
+      {
+        "City_Name": "Melbourne",
+        "Historical_Landmarks": "National Victoria Gallery, Queen Victoria Market, murales e graffiti.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paste di carne, pollo alla parmigiana, lamingtons.",
+        "Green_Spaces": "Fitzroy Gardens, Royal Botanic Gardens, fiume Yarra."
+      },
+      {
+        "City_Name": "Gold Coast",
+        "Historical_Landmarks": "Sea World, Movie World.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paste di carne, fette di bistecca alla griglia.",
+        "Green_Spaces": "Spiagge da surf, Parco Nazionale di Springbrook (vicino) e cascate."
+      },
+      {
+        "City_Name": "Brisbane",
+        "Historical_Landmarks": "Esposizioni d'arte, South Bank Parklands.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zuppa di zucca.",
+        "Green_Spaces": "Parco Nazionale del Queensland, fiume Brisbane e Giardini Botanici di Brisbane."
+      },
+      {
+        "City_Name": "Newcastle",
+        "Historical_Landmarks": "Architettura storica.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paste di carne.",
+        "Green_Spaces": "Spot da surf, montagne e fattorie circostanti, Blackbutt Public Park."
+      },
+      {
+        "City_Name": "Perth",
+        "Historical_Landmarks": "Bell Tower.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pesce alla griglia e fritto.",
+        "Green_Spaces": "Kings Park, fiume Swan, spiagge spettacolari e foreste di Jarrah."
+      },
+      {
+        "City_Name": "Adelaide",
+        "Historical_Landmarks": "South Australian Museum.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paste di carne.",
+        "Green_Spaces": "Regione vinicola di Barossa Valley, Adelaide Hills e le spiagge della penisola di Fleurieu."
+      },
+      {
+        "City_Name": "Hobart",
+        "Historical_Landmarks": "Siti turistici e storici della Tasmania.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Cerca i piatti",
+        "Green_Spaces": "Aree naturali sceniche e scalata al Monte Wellington...."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Afghanistan",
+    " Cities": [
+      {
+        "City_Name": "Kabul",
+        "Historical_Landmarks": "Palazzo Dar al Aman, Moschea Blu (Khwaja Abdullah Ansari), Museo Nazionale, Palazzo di Babur.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pilaf Qabuli, kebab afgano, ashak, bolani, qorma.",
+        "Green_Spaces": "Palazzo di Babur (compresi i giardini), montagne Hindu Kush che circondano la città, parco Shahr-e-Ara."
+      },
+      {
+        "City_Name": "Kandahar",
+        "Historical_Landmarks": "Tomba di Ahmad Shah Durrani, Piazza Sharifa, Jahl Zina, Tomba di Mirwais.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pilaf Qabuli, kebab afgano.",
+        "Green_Spaces": "Vigneti e campi di zafferano, fiume Arghandab e pianure fertili."
+      },
+      {
+        "City_Name": "Herat",
+        "Historical_Landmarks": "Grande Moschea, Tomba di Wali-ullah Abdullah Ansari, resti di vecchie moschee e complessi scolastici.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pilaf Qabuli, kebab afgano.",
+        "Green_Spaces": "Fiume Hari, valli verdi circostanti e zone agricole."
+      },
+      {
+        "City_Name": "Bamyan",
+        "Historical_Landmarks": "Valle di Bamyan, antichi templi buddisti (incluse le statue di Buddha distrutte).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pilaf Qabuli.",
+        "Green_Spaces": "Valle di Bamyan e la sua bellezza naturale, antichi templi buddisti nel paesaggio montano."
+      },
+      {
+        "City_Name": "Badghis",
+        "Historical_Landmarks": "Moschea Shah.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pilaf Qabuli, kebab afgano.",
+        "Green_Spaces": "Aree rurali circostanti e pianure montuose, paesaggi fertili."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Albania",
+    " Cities": [
+      {
+        "City_Name": "Tirana",
+        "Historical_Landmarks": "Piazza Skanderbeg, Museo Nazionale di Tirana, Torre dell'Orologio, Monte Dajti.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Byrek (torta), Engjoul (carne).",
+        "Green_Spaces": "Grande Parco di Tirana, sponde del fiume Erzen."
+      },
+      {
+        "City_Name": "Berat",
+        "Historical_Landmarks": "Castello storico di Berat, Città Vecchia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Byrek (torta), Engjoul (carne).",
+        "Green_Spaces": "Vedute sul fiume Osumi e le montagne Tomori."
+      },
+      {
+        "City_Name": "Fllore",
+        "Historical_Landmarks": "Castello di Flora, Museo di Flora, Grande Moschea di Flora, Città Vecchia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Byrek (torta), Engjoul (carne).",
+        "Green_Spaces": "Spiagge del Mar Adriatico, Alture di Llogara, Parco Naturale Karishma."
+      },
+      {
+        "City_Name": "Durrës",
+        "Historical_Landmarks": "Anfiteatro romano di Durrës, Castello storico di Durrës.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Frutti di mare, byrek.",
+        "Green_Spaces": "Spiaggia di Durrës e le foreste costiere di Durrës."
+      },
+      {
+        "City_Name": "Shkodër",
+        "Historical_Landmarks": "Castello di Rozafa.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Byrek (torta), Engjoul (carne).",
+        "Green_Spaces": "Lago di Shkodër (il più grande lago dell'Europa meridionale), Alpi albanesi."
+      },
+      {
+        "City_Name": "Korce",
+        "Historical_Landmarks": "(Importante centro culturale e storico).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Byrek (torta), Engjoul (carne).",
+        "Green_Spaces": "Parco pubblico di Korce e il vicino Parco Nazionale Fer Drinova."
+      },
+      {
+        "City_Name": "Dhermi",
+        "Historical_Landmarks": "Chiesa di Dhermi.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Byrek (torta), Engjoul (carne).",
+        "Green_Spaces": "Villaggi costieri, paesaggi montani circostanti e spiagge del Mar Ionio."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Germany",
+    " Cities": [
+      {
+        "City_Name": "Heidelberg",
+        "Historical_Landmarks": "Castello di Heidelberg, Vecchio Ponte, Via Haubert.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Spätzle, rouladen.",
+        "Green_Spaces": "Passeggiata del Filosofo, foreste intorno al Castello di Heidelberg, fiume Neckar."
+      },
+      {
+        "City_Name": "Dresden",
+        "Historical_Landmarks": "Monumenti architettonici barocchi (Zwinger), edifici storici.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Salsicce, rouladen.",
+        "Green_Spaces": "Südpark (vicino) e parchi lungo il fiume Elba."
+      },
+      {
+        "City_Name": "Freiburg",
+        "Historical_Landmarks": "Cattedrale di Freiburg Minster, Schauinsland, Schlossberg (colle panoramico).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Frittelle di patate fritte.",
+        "Green_Spaces": "Foresta Nera circostante e collina Schlossberg."
+      },
+      {
+        "City_Name": "Bonn",
+        "Historical_Landmarks": "Casa di Beethoven, Cattedrale di Bonn.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Schnitzel, salsicce.",
+        "Green_Spaces": "Parco Rheinaue, sponde del fiume Reno."
+      },
+      {
+        "City_Name": "Wiesbaden",
+        "Historical_Landmarks": "Kurhaus, Nerobergbahn, Wilhelmstraße.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Salsicce, schnitzel.",
+        "Green_Spaces": "Kurpark, collina Neroberg e sorgenti romane."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Angola",
+    " Cities": [
+      {
+        "City_Name": "Luanda",
+        "Historical_Landmarks": "Mausoleo del Dr. Antonio Nito, Chiesa di Nossa Senhora dos Remédios, Museo della Moneta, Museo Nazionale di Antropologia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Moamba de Galinha, Funge de Calulu, Quisaca, Caruru, Mufete.",
+        "Green_Spaces": "Baia di Luanda, Ilha do Mussulo (spiagge), vicino al Parco Nazionale Quissama."
+      },
+      {
+        "City_Name": "M'banza Congo",
+        "Historical_Landmarks": "Siti storici (Patrimonio Mondiale UNESCO).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Moamba de Galinha, Funge de Calulu, Quisaca, Caruru, Mufete.",
+        "Green_Spaces": "Aree circostanti e foreste pluviali, natura incontaminata."
+      },
+      {
+        "City_Name": "Malanji",
+        "Historical_Landmarks": "Monumenti storici.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Moamba de Galinha, Funge de Calulu, Quisaca, Caruru, Mufete.",
+        "Green_Spaces": "Cascate Kalandola, fiume Lualaba, Riserva Naturale Mixo."
+      },
+      {
+        "City_Name": "Benguela",
+        "Historical_Landmarks": "Museo Nazionale di Antropologia, città storica.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Frutti di mare.",
+        "Green_Spaces": "Spiagge sabbiose e scenari dell'Oceano Atlantico."
+      },
+      {
+        "City_Name": "Lubito",
+        "Historical_Landmarks": "Monumenti culturali e storici, porto.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Moamba de Galinha, Funge de Calulu, Quisaca, Caruru, Mufete.",
+        "Green_Spaces": "Natura costiera intorno al porto e montagne vicine."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Uruguay",
+    " Cities": [
+      {
+        "City_Name": "Montevideo",
+        "Historical_Landmarks": "Piazza dell'Indipendenza, Palazzo Salvo, Mercato Portuale, Teatro Solís.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado (barbecue), Chivito (panino di carne), Pastel de carne.",
+        "Green_Spaces": "Rambla di Montevideo (lungomare), Parco Batlle y Ordóñez."
+      },
+      {
+        "City_Name": "Boca del Este",
+        "Historical_Landmarks": "Porto di Boca del Este, La Mano (statua famosa), Isola Lobos (per le foche).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado (barbecue), Chivito (panino di carne), Pastel de carne.",
+        "Green_Spaces": "Spiagge e resort di lusso sull'Oceano Atlantico."
+      },
+      {
+        "City_Name": "Piriápolis",
+        "Historical_Landmarks": "Colle Pan de Azúcar, Palazzo Villa Archnentina.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado (barbecue), Chivito (panino di carne), Pastel de carne.",
+        "Green_Spaces": "Famoso resort balneare, colline e paesaggi, inclusa la collina San Antonio."
+      },
+      {
+        "City_Name": "Salto",
+        "Historical_Landmarks": "(Centro agricolo).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado (barbecue), Chivito (panino di carne), Pastel de carne.",
+        "Green_Spaces": "Terme Arroyo, Terme Deyma, fiume Uruguay."
+      },
+      {
+        "City_Name": "La Paloma",
+        "Historical_Landmarks": "Faro di La Paloma.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado (barbecue), Chivito (panino di carne), Pastel de carne.",
+        "Green_Spaces": "Spiaggia e resort costiero sull'Atlantico e vicino alla Laguna de Rocha."
+      },
+      {
+        "City_Name": "Boca del Diablo",
+        "Historical_Landmarks": "(Piccolo villaggio di pescatori).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado (barbecue), Chivito (panino di carne), Pastel de carne.",
+        "Green_Spaces": "Belle spiagge sabbiose e natura incontaminata circostante."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Uzbekistan",
+    " Cities": [
+      {
+        "City_Name": "Tashkent",
+        "Historical_Landmarks": "Piazza Amir Timur, Complesso Khast Imam, Scuola Baraq Khan.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, shashlik (kebab), samsa.",
+        "Green_Spaces": "Canali d'acqua, Parco Babar e spazi verdi urbani."
+      },
+      {
+        "City_Name": "Samarkand",
+        "Historical_Landmarks": "Piazza Registan, Mausoleo Gur-e Amir, Moschea Bibi-Khanym.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, shashlik (kebab), samsa.",
+        "Green_Spaces": "Piazza Registan (sito archeologico) e i sobborghi verdi di Samarcanda."
+      },
+      {
+        "City_Name": "Bukhara",
+        "Historical_Landmarks": "Complesso Bolo Khaliyan, Mausoleo Samanide, vecchia città di Bukhara.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, shashlik (kebab), samsa.",
+        "Green_Spaces": "Serbatoio del Lago Lab (area d'acqua e giardini)."
+      },
+      {
+        "City_Name": "Khwarezm",
+        "Historical_Landmarks": "Fortezza Itchan Kala a Khiva (vicino), mausolei e moschee.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, shashlik (kebab), samsa.",
+        "Green_Spaces": "Aree agricole intorno al fiume Amu Darya."
+      },
+      {
+        "City_Name": "Namangan",
+        "Historical_Landmarks": "(Città importante con siti e monumenti storici).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, shashlik, mantı.",
+        "Green_Spaces": "Aree agricole fertili, vicino al fiume Syr Darya."
+      },
+      {
+        "City_Name": "Andijan",
+        "Historical_Landmarks": "(Città importante con siti e monumenti storici).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Plov, shashlik, samsa.",
+        "Green_Spaces": "Valli fertili e aree agricole nella Valle del Fergana."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ukraine",
+    " Cities": [
+      {
+        "City_Name": "Kyiv",
+        "Historical_Landmarks": "Monastero della Pechersk Lavra di Kyiv, Cattedrale di Santa Sofia, Piazza dell'Indipendenza, Porta d'Oro, Museo Nazionale di Storia Ucraina.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht (zuppa di barbabietole), varenyky (ravioli ripieni), cotoletta (hamburger), holubtsi (cavolo ripieno), pirozhki (torte di carne al forno).",
+        "Green_Spaces": "Giardini Botanici Nazionali, sponde del fiume Dnipro."
+      },
+      {
+        "City_Name": "Kharkiv",
+        "Historical_Landmarks": "Piazza della Libertà, Parco Gorky, Cattedrale dell'Annunciazione, Museo di Belle Arti.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht, varenyky.",
+        "Green_Spaces": "Parco Gorky (centrale) e foreste circostanti."
+      },
+      {
+        "City_Name": "Odessa",
+        "Historical_Landmarks": "Teatro dell'Opera Nazionale di Odessa, Scalinata Potemkin, Via Deribasivska.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Salo (insalata di verdure e carne macinata), blintzes (crepes).",
+        "Green_Spaces": "Turismo costiero sul Mar Nero, Spiaggia di Arcadia."
+      },
+      {
+        "City_Name": "Lviv",
+        "Historical_Landmarks": "Piazza Rynok, Teatro dell'Opera di Lviv, Collina del Castello Alto.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht, caffè.",
+        "Green_Spaces": "Parco del Castello Vyshka, parchi urbani."
+      },
+      {
+        "City_Name": "Dnipro",
+        "Historical_Landmarks": "L'Embankment, Museo Spaziale, Isola Monastyrskyi.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces": "Lungomare lungo il fiume Dnipro e parchi cittadini."
+      },
+      {
+        "City_Name": "Donetsk",
+        "Historical_Landmarks": "Parco Foroschukova, Piazza Lenin, Museo Regionale.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces": "Parco Foroschukova, pianure orientali."
+      },
+      {
+        "City_Name": "Sevastopol",
+        "Historical_Landmarks": "Penisola di Crimea, Panorama di Difesa di Sevastopol, Khersonesus.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht, frutti di mare.",
+        "Green_Spaces": "Penisola di Crimea (Monte Ai Petri), turismo marittimo."
+      },
+      {
+        "City_Name": "Zaporizhzhia",
+        "Historical_Landmarks": "Isola di Khortytsia, Museo dei Cosacchi di Zaporizhzhia, Spiaggia di Zaporozhzhia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces": "Isola di Khortytsia (la più grande isola fluviale), fiume Dnipro."
+      },
+      {
+        "City_Name": "Mykolaiv",
+        "Historical_Landmarks": "Osservatorio Astronomico di Mykolaiv, Lungomare di Mykolaiv, Museo della Costruzione Navale.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces": "Osservatorio Astronomico (aree verdi circostanti) e pianure del Mar Nero."
+      },
+      {
+        "City_Name": "Kostyn",
+        "Historical_Landmarks": "Parco delle Terme della Principessa Olga, Museo della Pietra.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Borscht, draniki (frittelle di patate).",
+        "Green_Spaces": "Parco delle Terme della Principessa Olga e aree rurali."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eritrea",
+    " Cities": [
+      {
+        "City_Name": "Asmara",
+        "Historical_Landmarks": "Cattedrale di San Giuseppe, Opera House, Cinema Empire.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni (stufato di carne), injera (pane spugnoso), tibsi (carne affettata fritta).",
+        "Green_Spaces": "Parchi pittoreschi e spazi verdi, altopiani eritrei."
+      },
+      {
+        "City_Name": "Mitsiwa",
+        "Historical_Landmarks": "Storico porto di Massawa, Moschea Sheikh Hanefi, Isole Dahlak.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, frutti di mare.",
+        "Green_Spaces": "Spiagge del Mar Rosso, Isola Verde (Sheikh Said)."
+      },
+      {
+        "City_Name": "Keren",
+        "Historical_Landmarks": "Mercato dei Camel, Fortezza Beyzini, Tomba Maryam Shiuit.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, tibsi.",
+        "Green_Spaces": "Montagne granitiche circostanti, paesaggi incantevoli."
+      },
+      {
+        "City_Name": "Dekmhahar",
+        "Historical_Landmarks": "Architettura coloniale italiana, chiesa cattolica.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, tibsi.",
+        "Green_Spaces": "Architettura rurale italiana, pianure circostanti."
+      },
+      {
+        "City_Name": "Adi Qual",
+        "Historical_Landmarks": "Rovine archeologiche, Museo Adi Qual, Matara (vicino).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, tibsi.",
+        "Green_Spaces": "Siti archeologici negli altopiani, paesaggi montani."
+      },
+      {
+        "City_Name": "Tsini",
+        "Historical_Landmarks": "Fiume Tsini, città di frontiera, mercato aperto.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, tibsi.",
+        "Green_Spaces": "Fiume Tsini, aree verdi occidentali."
+      },
+      {
+        "City_Name": "Qandah",
+        "Historical_Landmarks": "Villaggi costieri, spiagge del Mar Rosso, paesaggi naturali.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, pesce.",
+        "Green_Spaces": "Villaggi costieri, spiagge del Mar Rosso."
+      },
+      {
+        "City_Name": "Agordat",
+        "Historical_Landmarks": "Mercato principale, vecchi siti militari.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, tibsi.",
+        "Green_Spaces": "Aree pianeggianti, alberi fitti lungo le rive dei fiumi."
+      },
+      {
+        "City_Name": "Mendefera",
+        "Historical_Landmarks": "Siti archeologici antichi (vicino a Matara), colline.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, tibsi.",
+        "Green_Spaces": "Rovine antiche (Matara), aree agricole degli altopiani."
+      },
+      {
+        "City_Name": "Barentu",
+        "Historical_Landmarks": "Città mineraria, vaste pianure.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zigni, injera, tibsi.",
+        "Green_Spaces": "Natura pianeggiante, fiumi e zone di pascolo."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Spain",
+    " Cities": [
+      {
+        "City_Name": "Madrid",
+        "Historical_Landmarks": "Palazzo Reale, Museo del Prado, Plaza Mayor.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paella, tapas, gazpacho, churros.",
+        "Green_Spaces": "Parco del Retiro, Giardino Botanico Reale, Parco Casa de Campo."
+      },
+      {
+        "City_Name": "Barcelona",
+        "Historical_Landmarks": "Sagrada Familia, Quartiere Gotico, La Rambla.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Fideuà, pan con tomate, crema catalana.",
+        "Green_Spaces": "Parc Güell, montagna Montserrat, spiagge del Mar Mediterraneo."
+      },
+      {
+        "City_Name": "Seville",
+        "Historical_Landmarks": "Alcázar di Siviglia, Cattedrale di Siviglia, Plaza de España.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paella valenciana, salmorejo.",
+        "Green_Spaces": "Giardini della Muralla nel palazzo di Siviglia, Parco Maria Luisa."
+      },
+      {
+        "City_Name": "Valencia",
+        "Historical_Landmarks": "Città delle Arti e delle Scienze, Mercato Centrale, Cattedrale di Valencia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paella originale, fabada, horchata.",
+        "Green_Spaces": "Città delle Arti e delle Scienze (elementi d'acqua), Giardino del Turia."
+      },
+      {
+        "City_Name": "Malaga",
+        "Historical_Landmarks": "Alcazaba, Castillo de Gibralfaro, Museo Picasso.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Bollito, buccerronos (pesce fritto).",
+        "Green_Spaces": "Spiagge della Costa del Sol, Alcazaba (vedute panoramiche)."
+      },
+      {
+        "City_Name": "Cordoba",
+        "Historical_Landmarks": "Grande Moschea (Mezquita), Quartiere Ebraico, Palazzo Viana.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Salmorejo, pollito.",
+        "Green_Spaces": "Giardini dell'Alcázar, giardini fioriti nella Grande Moschea."
+      },
+      {
+        "City_Name": "Granada",
+        "Historical_Landmarks": "Alhambra, Generalife, quartiere Albayzín.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Patatas a la louveri, ribo de toro.",
+        "Green_Spaces": "Alhambra e Generalife (acqua e giardini rurali)."
+      },
+      {
+        "City_Name": "Bilbao",
+        "Historical_Landmarks": "Museo Guggenheim, Casco Viejo (città vecchia), Ponte Zubizuri.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Bintxos, bacalao.",
+        "Green_Spaces": "Scogliere costiere, Parco Dona Casilda Iturrizar."
+      },
+      {
+        "City_Name": "Alicante",
+        "Historical_Landmarks": "Castello di Santa Barbara, Spiaggia Postiguet, Museo Valais.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Arroz a banda, turrón.",
+        "Green_Spaces": "Spiagge della Costa Blanca, montagna Penyagolosa (vedute panoramiche)."
+      },
+      {
+        "City_Name": "Las Palmas",
+        "Historical_Landmarks": "Vulcano Teide (Tenerife), spiaggia Las Canteras, Veguita.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Papas arrugadas, salsa mojo.",
+        "Green_Spaces": "Vulcano Teide, spiaggia Las Canteras."
+      },
+      {
+        "City_Name": "Marbella",
+        "Historical_Landmarks": "Porto Banus, spiaggia Playa de la Font, Città Vecchia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Paella, tapas, frutti di mare.",
+        "Green_Spaces": "Via Basilio Maretteimo fiancheggiata da alberi, spiagge sabbiose di lusso."
+      },
+      {
+        "City_Name": "Toledo",
+        "Historical_Landmarks": "Cattedrale di Toledo, Sinagoga Ebraica, Ponte Cantara.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Cochinillo (arrosto), mazapán (dolci di mandorla).",
+        "Green_Spaces": "Sponde del fiume Tago e aree rurali circostanti."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Estonia",
+    " Cities": [
+      {
+        "City_Name": "Tallinn",
+        "Historical_Landmarks": "Città Vecchia (Patrimonio Mondiale), Cattedrale di Alessandro Nevsky, Torre di San Olaf.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Verivorst (salsiccia di sangue), pane di segale.",
+        "Green_Spaces": "Parco Kadriorg, scogliere costiere (Pärnu)."
+      },
+      {
+        "City_Name": "Tartu",
+        "Historical_Landmarks": "Università di Tartu, Ponte Kiss, Museo d'Arte.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Verivorst (salsiccia di sangue), pane di segale.",
+        "Green_Spaces": "Giardino Botanico di Tartu, paesaggio fluviale."
+      },
+      {
+        "City_Name": "Pärnu",
+        "Historical_Landmarks": "Spiagge di Pärnu, centri benessere, Parco Pärnu.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Verivorst (salsiccia di sangue), pane di segale.",
+        "Green_Spaces": "Spiaggia sabbiosa di Pärnu, centri benessere nelle foreste vicine."
+      },
+      {
+        "City_Name": "Narva",
+        "Historical_Landmarks": "Castello di Narva (Hermann), Museo d'Arte, aree di confine.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Verivorst (salsiccia di sangue), pane di segale.",
+        "Green_Spaces": "Castello di Narva (vedute fluviali), aree verdi di confine."
+      },
+      {
+        "City_Name": "Kohtla-Järve",
+        "Historical_Landmarks": "Museo del Petrolio di Scisto Kohtla-Järve, distretto commerciale.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Verivorst (salsiccia di sangue), pane di segale.",
+        "Green_Spaces": "Aree industriali (petrolio di scisto) e foreste circostanti."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eswatini",
+    " Cities": [
+      {
+        "City_Name": "Mbabane",
+        "Historical_Landmarks": "Edificio del Parlamento, Mercato di Mbabane.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Sizamabo, inkho.",
+        "Green_Spaces": "Valle di Ezulwini (vicina), aree collinari verdi."
+      },
+      {
+        "City_Name": "Manzini",
+        "Historical_Landmarks": "Palazzo del Re, Museo Nazionale, Parco Reale di Hlane.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Sizamabo, inkho.",
+        "Green_Spaces": "Parco Reale di Hlane, alture montuose."
+      },
+      {
+        "City_Name": "Big Bend",
+        "Historical_Landmarks": "Fattorie di canna da zucchero, Fiume Swaziland, Ponte Big Bend.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Sizamabo, inkho.",
+        "Green_Spaces": "Fattorie di canna da zucchero, scenari acquatici del Fiume Swaziland."
+      },
+      {
+        "City_Name": "Sehoy",
+        "Historical_Landmarks": "Complesso industriale, centro commerciale.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Sizamabo, inkho.",
+        "Green_Spaces": "Zona industriale, natura rurale."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Indonesia",
+    " Cities": [
+      {
+        "City_Name": "Jakarta",
+        "Historical_Landmarks": "Monumento Nazionale (Monas), Città Vecchia (Kota Tua), Museo di Jakarta.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Nasi Goreng, Satay, Gudeg Satay.",
+        "Green_Spaces": "Parco Taman Mini Indonesia Indah, Ancol Dreamland."
+      },
+      {
+        "City_Name": "Surabaya",
+        "Historical_Landmarks": "Monumento agli Eroi, Moschea Cheng Ho, Museo Marittimo.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Nasi Goreng, Satay, Rujak Cingur.",
+        "Green_Spaces": "Parco Bungkus Asai, natura verde dell'Est di Giava."
+      },
+      {
+        "City_Name": "Midan",
+        "Historical_Landmarks": "Grande Moschea Mahdia, Palazzo Maymun, Lago Toba vicino.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Nasi Goreng, Satay, Soto Medan.",
+        "Green_Spaces": "Monte Sinabung (vulcano attivo), Parco Bunda."
+      },
+      {
+        "City_Name": "Makassar",
+        "Historical_Landmarks": "Fortezza di Rotterdam, Spiaggia Losari, Isola Sangkarrang.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Nasi Goreng, Satay, Siwi (pesce).",
+        "Green_Spaces": "Fortezza di Rotterdam (vedute sul mare) e natura costiera."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Italy",
+    " Cities": [
+      {
+        "City_Name": "Rome",
+        "Historical_Landmarks": "Colosseo, Foro Romano, Vaticano, Fontana di Trevi.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pasta alla carbonara, spaghetti cacio e pepe, pizza in stile romano.",
+        "Green_Spaces": "Giardini di Villa Borghese, giardini della Terrazza Pinciana."
+      },
+      {
+        "City_Name": "Milan",
+        "Historical_Landmarks": "Cattedrale di Milano (Duomo), Galleria Vittorio Emanuele II, Teatro La Scala.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Risotto alla milanese, cotoletta (vitello).",
+        "Green_Spaces": "Parco Sempione, canale dei Navigli."
+      },
+      {
+        "City_Name": "Naples",
+        "Historical_Landmarks": "Centro storico di Napoli, Palazzo di Capodimonte, vicina Pompei.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Pizza napoletana originale, sfogliatelle.",
+        "Green_Spaces": "Monte Vesuvio (veduta sulla città), Costiera Amalfitana."
+      },
+      {
+        "City_Name": "Bologna",
+        "Historical_Landmarks": "Piazza Maggiore, Due Torri, Fontana del Nettuno.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Ragù alla bolognese, tortellini.",
+        "Green_Spaces": "Giardini Margherita (parchi urbani), pianure verdi del Po."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Argentina",
+    " Cities": [
+      {
+        "City_Name": "Buenos Aires",
+        "Historical_Landmarks": "Piazza May, La Boca (quartiere colorato), tomba di Eva Perón (a Recoleta).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado, empanadas, alfajores (dolci).",
+        "Green_Spaces": "Parco Palermo (Bosques de Palermo), riserva ecologica."
+      },
+      {
+        "City_Name": "Mendoza",
+        "Historical_Landmarks": "Piazza dell'Indipendenza, Museo Nazionale di Storia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado, empanadas, vino Malbec.",
+        "Green_Spaces": "Parco San Martin, vigneti a Mendoza."
+      },
+      {
+        "City_Name": "San Carlos de Bariloche",
+        "Historical_Landmarks": "Centro cittadino (stile europeo).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado, empanadas, cioccolato della Patagonia.",
+        "Green_Spaces": "Circondato da laghi e Ande."
+      },
+      {
+        "City_Name": "Salta",
+        "Historical_Landmarks": "Museo di Archeologia delle Montagne, Cattedrale di Salta, quartiere San Bernardo.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado, empanadas, tamales.",
+        "Green_Spaces": "Montagne delle Ande del Nord, Valle del Lerma."
+      },
+      {
+        "City_Name": "Newquay",
+        "Historical_Landmarks": "Museo di Newquay, Fiume Newquay, Parco Centennial.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Asado, empanadas.",
+        "Green_Spaces": "Fiume Newquay, natura della Patagonia del Nord."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Jordan",
+    " Cities": [
+      {
+        "City_Name": "Amman",
+        "Historical_Landmarks": "Anfiteatro Romano di Amman, Collina del Castello, Museo Archeologico della Giordania, Rainbow Street.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Mansaf, Maqluba, Kunafa.",
+        "Green_Spaces": "Parchi Nazionali Al Hussein, sobborghi di Amman con viste montane."
+      },
+      {
+        "City_Name": "Petra",
+        "Historical_Landmarks": "Il Tesoro (Al-Siq), Il Monastero, La Via delle Colonne.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Mansaf, Zarb (barbecue sotterraneo).",
+        "Green_Spaces": "Wadi Musa (natura rocciosa e incisioni)."
+      },
+      {
+        "City_Name": "Aqaba",
+        "Historical_Landmarks": "Castello Mamelucco di Aqaba, Museo Archeologico di Aqaba, Souk di Aqaba.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Frutti di mare, Fish Sayadiyah, Mansaf.",
+        "Green_Spaces": "Mar Rosso (spiagge e immersioni su barriere coralline)."
+      },
+      {
+        "City_Name": "Wadi Rum",
+        "Historical_Landmarks": "Montagne sabbiose e rocciose, iscrizioni antiche, tende beduine.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Zarb, Mansaf.",
+        "Green_Spaces": "Dune di sabbia, montagne rocciose sabbiose."
+      }
+    ]
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    " Cities": [
+      {
+        "City_Name": "Dubai",
+        "Historical_Landmarks": "Burj Khalifa, Burj Al Arab, Dubai Mall, Global Village, Dubai Creek (città vecchia).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harees, Machbous, Luqaimat.",
+        "Green_Spaces": "Dubai Miracle Garden, Spiagge Jumeirah, Lago Al Qudra (vicino)."
+      },
+      {
+        "City_Name": "Abu Dhabi",
+        "Historical_Landmarks": "Grande Moschea Sheikh Zayed, Museo Louvre Abu Dhabi, Palazzo Emirates.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harees, Machbous, Luqaimat.",
+        "Green_Spaces": "Corniche di Abu Dhabi, Giardini Capital, Isola Yas (aree verdi), Jebel Hafeet."
+      },
+      {
+        "City_Name": "Umm Al Quwain",
+        "Historical_Landmarks": "Dreamland Water Park, Isola Al Sinniya, Città Vecchia.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Harees, Machbous, Luqaimat.",
+        "Green_Spaces": "Spiagge di Umm Al Quwain, aree Al Qarm (Mangrovie)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ecuador",
+    " Cities": [
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "Città Vecchia (Patrimonio Mondiale), linea dell'Equatore (Mitad del Mundo), Vulcano Pichincha.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Ceviche, Locro de Papa (zuppa di patate), Fritada.",
+        "Green_Spaces": "Parco Metropolitano, Andes circostanti, Valle di Quito."
+      },
+      {
+        "City_Name": "Guayaquil",
+        "Historical_Landmarks": "Malecón 2000 (lungomare), quartiere Las Peñas, Parco delle Iguane (Parque de las Iguanas).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Ceviche, Locro de Papa, Aros con Salsa.",
+        "Green_Spaces": "Parco Emma Balmeso, aree costiere."
+      },
+      {
+        "City_Name": "Tena",
+        "Historical_Landmarks": "Parco Omna, fiume Misahualli, foreste amazzoniche.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Ceviche, Locro de Papa.",
+        "Green_Spaces": "Parco Omna (foreste pluviali), fiume Misahualli."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ireland",
+    " Cities": [
+      {
+        "City_Name": "Dublin",
+        "Historical_Landmarks": "Castello di Dublino, Trinity College (biblioteca), Cattedrale di San Patrizio.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Irish Stew, Colcannon (purè di patate), Pane di Soda.",
+        "Green_Spaces": "St. Stephen's Green, Giardini Powerscourt (vicino)."
+      },
+      {
+        "City_Name": "Cork",
+        "Historical_Landmarks": "English Market, Cattedrale di St. Fin Barre, Cork City Gaol.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Irish Stew, Colcannon.",
+        "Green_Spaces": "Parco Fitzgerald, fiume Lee, aree costiere."
+      },
+      {
+        "City_Name": "Galway",
+        "Historical_Landmarks": "Arco Spagnolo, Piazza Eyre, Castello di Dunguaire (vicino).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Irish Stew, Colcannon.",
+        "Green_Spaces": "Parco Centrale, lungomare di Galway Bay e natura della Contea di Clare."
+      },
+      {
+        "City_Name": "Athlone",
+        "Historical_Landmarks": "Castello di Athlone, Chiesa di San Pietro e Paolo, il Vecchio Ponte.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Irish Stew, Colcannon.",
+        "Green_Spaces": "Lago Ree, Castello di Athlone (scenari fluviali)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Iceland",
+    " Cities": [
+      {
+        "City_Name": "Reykjavik",
+        "Historical_Landmarks": "Chiesa Hallgrímskirkja, Perlan, Porto Vecchio di Reykjavik, Laguna Blu (vicino).",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Hangikjöt (agnello affumicato), Skyr (yogurt), pesce fresco.",
+        "Green_Spaces": "Parchi geotermici, giardini urbani, scenari costieri."
+      },
+      {
+        "City_Name": "Seyðisfjörður",
+        "Historical_Landmarks": "Architettura colorata, Museo d'Arte, Cascate Gufus.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces": "Aurora Boreale (scenario notturno), Fiordo Orientale."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ethiopia",
+    " Cities": [
+      {
+        "City_Name": "Addis Ababa",
+        "Historical_Landmarks": "Museo Nazionale, Cattedrale della Santa Trinità, Palazzo di Menelik II.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Injera (pane spugnoso), Wat (stufato piccante), Tibs (carne fritta), Doro Wat (stufato di pollo).",
+        "Green_Spaces": "Parco dell'Unità, Monte Entoto (vedute panoramiche)."
+      },
+      {
+        "City_Name": "Lalibela",
+        "Historical_Landmarks": "Chiese scavate nella roccia di Lalibela (Patrimonio Mondiale), Chiesa Bet Giyorgis.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Formazioni rocciose intorno alle chiese, altopiani."
+      },
+      {
+        "City_Name": "Axum",
+        "Historical_Landmarks": "Obelischi (Grandi Obelischi), Parco dell'Obelisco, Palazzo della Regina di Saba.",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "Injera, Wat.",
+        "Green_Spaces": "Vaste aree archeologiche, paesaggi montani."
+      }
+    ]
+  }
+]

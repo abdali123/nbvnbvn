@@ -1,0 +1,977 @@
+[
+  {
+    "Country_Name": "Turkey",
+    "Cities": [
+      {
+        "City_Name": "Istanbul",
+        "Historical_Landmarks": "Visit Hagia Sophia and the Blue Mosque, a Bosphorus tour, shopping at the Grand Bazaar.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Cappadocia",
+        "Historical_Landmarks": "Hot air balloon ride at dawn, explore underground cities, stay in a cave hotel.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Antalya",
+        "Historical_Landmarks": "Relax on Konyaaltı beaches, visit the old town (Kaleiçi), Duden waterfalls.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Izmir",
+        "Historical_Landmarks": "Stroll through Kemeralti market, Clock Tower, and visit the nearby ancient city of Ephesus.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Bodrum",
+        "Historical_Landmarks": "Visit Bodrum Castle, nightlife, sailing on luxury yachts.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Fethiye",
+        "Historical_Landmarks": "Paragliding over Ölüdeniz, Butterfly Valley, hiking the Lycian Way.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Trabzon",
+        "Historical_Landmarks": "Visit Sumela Monastery, Lake Ozungol, Sultan Murad Highlands.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Konya",
+        "Historical_Landmarks": "Visit Mevlana Museum, attend Whirling Dervish performances.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Bursa",
+        "Historical_Landmarks": "Cable car ride to Uludağ Mountain, visit the Grand Mosque, thermal baths.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      },
+      {
+        "City_Name": "Mardin",
+        "Historical_Landmarks": "Wander the ancient stone streets, visit historic monasteries.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Grilled kebab, baklava, dolma, mantı, knafeh, Turkish tea",
+        "Green_Spaces": "Pamukkale (Cotton Castle), Lake Ozungol, Mount Ararat, Ihlara Valley, Manavgat waterfalls"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Tunisia",
+    "Cities": [
+      {
+        "City_Name": "Tunis (capital)",
+        "Historical_Landmarks": "Explore the medina, Bardo Museum, Great Mosque of Zitouna.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Sidi Bou Said",
+        "Historical_Landmarks": "Stroll among white and blue houses, drink hazelnut tea, enjoy sea view.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Sousse",
+        "Historical_Landmarks": "Visit the Ribat, archaeological museum, relax at the Qantawi resort.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Hammamet",
+        "Historical_Landmarks": "Relax on sandy beaches, visit the Kasbah, and the amusement park.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Djerba",
+        "Historical_Landmarks": "Visit the Jewish Quarter (the Ghriba), Qalaa Museum, enjoy quiet beaches.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Kairouan",
+        "Historical_Landmarks": "Visit the Great Mosque of Uqba ibn Nafi, Aghlabid Waterworks, taste makroud.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Tozeur",
+        "Historical_Landmarks": "Desert safaris, visit the Chbika and Tamaghza oases, Star Wars filming locations.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Tabarka",
+        "Historical_Landmarks": "Diving and coral reefs, jazz festival, Genoese fortress.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Bizerte",
+        "Historical_Landmarks": "Visit the old port, Kasbah, and sandy beach.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      },
+      {
+        "City_Name": "Monastir",
+        "Historical_Landmarks": "Visit the Monastir Ribat, Habib Bourguiba Mausoleum, and the marina.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Tunisian couscous, brik, grilled salad, lablabi, makroud, shakshouka",
+        "Green_Spaces": "Sahara Desert (Duz), Shat al-Jareed, Lake Ichkeul, Jebel Khamir, Touzer oases"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Russia",
+    "Cities": [
+      {
+        "City_Name": "Moscow",
+        "Historical_Landmarks": "Red Square, the Kremlin, Saint Basil's Cathedral, luxurious Moscow Metro.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Saint Petersburg",
+        "Historical_Landmarks": "Hermitage Museum, Winter Palace, Church of the Savior on Spilled Blood, Peterhof Palace.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Kazan",
+        "Historical_Landmarks": "Kazan Kremlin, Qol Sharif Mosque, experience the blend of Tatar and Russian cultures.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Sochi",
+        "Historical_Landmarks": "Beach resorts, Olympic mountain skiing, Olympic Park.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Irkutsk",
+        "Historical_Landmarks": "Baikal Lake gate, explore traditional wooden architecture.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Vladimir",
+        "Historical_Landmarks": "Visit the Ascension Cathedral, Golden Gate (part of the Golden Ring).",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Nizhny Novgorod",
+        "Historical_Landmarks": "Cable car ride across the Volga, visit the Kremlin, the large stairs.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Yekaterinburg",
+        "Historical_Landmarks": "Visit the Church on the Blood, the monument marking the border between Asia and Europe.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Kaliningrad",
+        "Historical_Landmarks": "Konigsberg Cathedral, Amber Museum, fisherman's village.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      },
+      {
+        "City_Name": "Vladivostok",
+        "Historical_Landmarks": "Russian Bridge, seaport, military fortress, the end of the Trans-Siberian Railway.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Borscht (soup), pelmeni (dumplings), blini (pancakes), Olivier salad, beef Stroganoff",
+        "Green_Spaces": "Lake Baikal, Kamchatka volcanoes, Altai Mountains, Lina rock pillars, taiga forests"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Taiwan",
+    "Cities": [
+      {
+        "City_Name": "Taipei",
+        "Historical_Landmarks": "Climb Taipei 101, Shilin Night Market, National Palace Museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Kaohsiung",
+        "Historical_Landmarks": "Lotus Lake and its dragons, Pier-2 Art Center, Cijin Island.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Tainan",
+        "Historical_Landmarks": "Visit ancient temples, Zeelandia Fort, taste traditional street foods.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Taichung",
+        "Historical_Landmarks": "Rainbow Village, Fengjia Night Market, National Opera House.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Hualien",
+        "Historical_Landmarks": "Taroko Gorge, Chishingtan Beach, Dongdamen Night Market.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Jiufen",
+        "Historical_Landmarks": "Wander the old lantern-lit alleys, sip traditional tea.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Pingtung",
+        "Historical_Landmarks": "Enjoy Kenting National Park beaches, lighthouse, water sports.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Nantou",
+        "Historical_Landmarks": "Boat trip on Sun Moon Lake, visit Chengcing Farm.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Yilan",
+        "Historical_Landmarks": "Relax in Jiaosi hot springs, Ludong market.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      },
+      {
+        "City_Name": "Xiaoyi",
+        "Historical_Landmarks": "Ride the historic Alishan Forest Railway, Hino-ki village.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Beef noodle soup, bubble tea (boba), Taiwanese fried chicken, oyster omelette, pineapple cake",
+        "Green_Spaces": "Taroko National Park, Sun Moon Lake, Alishan Mountain, Quilin cliffs, Yushan Park"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Chile",
+    "Cities": [
+      {
+        "City_Name": "Santiago",
+        "Historical_Landmarks": "San Cristóbal Hill, La Moneda Palace, bohemian Bellavista neighborhood.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "Valparaíso",
+        "Historical_Landmarks": "Ride historic elevators, view colorful graffiti, Pablo Neruda's house.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "San Pedro de Atacama",
+        "Historical_Landmarks": "Moon Valley, Tatio geysers, stargazing in the desert.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "Pucón",
+        "Historical_Landmarks": "Climb Villarrica volcano, relax in hot springs.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "Puerto Natales",
+        "Historical_Landmarks": "Gateway to Torres del Paine National Park, Milodón Cave.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "Viña del Mar",
+        "Historical_Landmarks": "Enjoy the beaches, flower clock, song festival.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "Punta Arenas",
+        "Historical_Landmarks": "Watch penguins on Magdalena Island, free trade zone.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "Arica",
+        "Historical_Landmarks": "El Morro hill, visit the Azapa Valley, warm beaches.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "La Serena",
+        "Historical_Landmarks": "Ancient lighthouse, visit observatories in Elqui Valley.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      },
+      {
+        "City_Name": "Castro (Chiloé)",
+        "Historical_Landmarks": "See colorful Palafitos houses on stilts, wooden churches.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Empanadas, chocolate pastel, corantó, completo (hot dog), pisco sour",
+        "Green_Spaces": "Torres del Paine, Atacama Desert, marble caves, Resurrection Island, Lake Todos los Santos"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Tanzania",
+    "Cities": [
+      {
+        "City_Name": "Dar es Salaam",
+        "Historical_Landmarks": "Explore city centers, visit Kari & Indu markets, village museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Zanzibar",
+        "Historical_Landmarks": "Wander Stone Town (UNESCO), Nungwi beaches, spice farm.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Arusha",
+        "Historical_Landmarks": "Gateway to northern safaris, Arusha Declaration Museum, Mount Meru.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Mwanza",
+        "Historical_Landmarks": "Lake Victoria tour, Bismarck Rock area, central market.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Dodoma",
+        "Historical_Landmarks": "Government buildings, presidential house, Dodoma regional museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Moshi",
+        "Historical_Landmarks": "Explore Lake Victoria beaches, hills and rocky slopes.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Tabora",
+        "Historical_Landmarks": "Learn about slave trade history, Koto Museum, Kafura well.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Kigoma",
+        "Historical_Landmarks": "Beaches of Lake Tanganyika, Gombe Stream National Park (chimpanzees).",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Mbia",
+        "Historical_Landmarks": "Mbia Hill (panoramic view), visit farms, Rongwe forests.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      },
+      {
+        "City_Name": "Mount Kilimanjaro",
+        "Historical_Landmarks": "Climb Africa's highest peak, explore surrounding rainforests.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Ugali, ndizi ka mokambe (banana with meat), samosa, michaka (cooked cassava), bilo",
+        "Green_Spaces": "Serengeti, Kilimanjaro, Zanzibar, Ngorongoro Crater, Tarangire National Park"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Czech Republic",
+    "Cities": [
+      {
+        "City_Name": "Prague",
+        "Historical_Landmarks": "Charles Bridge, Prague Castle, Astronomical Clock, Old Town Square.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Český Krumlov",
+        "Historical_Landmarks": "Wander the old town (UNESCO), castle, boat rides on the river.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Brno",
+        "Historical_Landmarks": "Togendhat Villa, Špilberk Castle, St. Peter and Paul Cathedral.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Karlovy Vary",
+        "Historical_Landmarks": "Thermal spa springs, stroll in promenades, taste wafer biscuits.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Plzeň",
+        "Historical_Landmarks": "Visit historic breweries, Great Synagogue, Republic Square.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Olomouc",
+        "Historical_Landmarks": "Holy Trinity Column, Baroque fountains, taste Olomouc cheese.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Kutná Hora",
+        "Historical_Landmarks": "Bone Church (Sedlec), St. Barbara Cathedral.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Telč",
+        "Historical_Landmarks": "Renaissance town square, castle, surrounding ponds.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Liberec",
+        "Historical_Landmarks": "Ještěd Tower, zoo, Babylon science center.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      },
+      {
+        "City_Name": "Ostrava",
+        "Historical_Landmarks": "Dolní Vítkovice industrial heritage area, Stodolní street nightlife.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Goulash, trdelník (dessert), svíčková, schnitzel, Czech dumplings",
+        "Green_Spaces": "Bohemian Switzerland, Adršpach rocks, Moravian caves, Šumava forest, Lipno Lake"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Sri Lanka",
+    "Cities": [
+      {
+        "City_Name": "Colombo",
+        "Historical_Landmarks": "Visit Gangaramaya Temple, shop at malls and Colombo City Center, Fort commercial district.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Kandy",
+        "Historical_Landmarks": "Sacred Tooth Temple, Kandy Lake, Royal Botanical Gardens.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Galle",
+        "Historical_Landmarks": "Galle Dutch Fort (UNESCO), lighthouse, National Maritime Museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Nuwara Eliya",
+        "Historical_Landmarks": "Green tea fields, Gregory Lake, old post office.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Ella",
+        "Historical_Landmarks": "Nine Arches Bridge, Ella Rock, train ride in the highlands.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Anuradhapura",
+        "Historical_Landmarks": "Ancient sacred city (UNESCO), Dambulla temples, Bodhi tree.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Polonnaruwa",
+        "Historical_Landmarks": "Second Kingdom ancient city (UNESCO), Polonnaruwa Museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Trincomalee",
+        "Historical_Landmarks": "Koneswaram Temple, Uppuveli Beach, Pigeon Island National Park.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Mirissa",
+        "Historical_Landmarks": "Mirissa Beach, whale and dolphin watching, pole fishing.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      },
+      {
+        "City_Name": "Jaffna",
+        "Historical_Landmarks": "Jaffna Library, Jaffna Dutch Fort, Kasurina Beach.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Rice and curry, kottu roti, hoppers (egg pancakes), pol sambol, watalapam (dessert)",
+        "Green_Spaces": "Sigiriya (water gardens), Ella highlands, Yala National Park, Horton Plains, Walpattu garden"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Maldives",
+    "Cities": [
+      {
+        "City_Name": "Male",
+        "Historical_Landmarks": "Grand Friday Mosque, National Museum, local fish market.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Mafushi",
+        "Historical_Landmarks": "Water sports, diving, affordable dolphin trips.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Hulhumale",
+        "Historical_Landmarks": "Public beach, central park, close to airport.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Addu Island",
+        "Historical_Landmarks": "Bicycle rides, wreck diving, nature park.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Corora reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Fuvahmulah",
+        "Historical_Landmarks": "Relax in luxury resorts, scuba diving.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Diguva",
+        "Historical_Landmarks": "Swim with whale sharks, long beaches.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Thodu",
+        "Historical_Landmarks": "Visit fruit farms, tourist beaches.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Ukulhas",
+        "Historical_Landmarks": "Clean eco-tourism, fishing.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Rasdhu",
+        "Historical_Landmarks": "Hammerhead shark diving sites, sandy excursions.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      },
+      {
+        "City_Name": "Felidhoo",
+        "Historical_Landmarks": "Experience local life, night diving.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mas huni, garudhiya (fish soup), bis keemiya, boshi mashuni, coconut cake",
+        "Green_Spaces": "Coral reefs, Hanifaru Bay, glowing beaches, Sandbanks, shark point"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Romania",
+    "Cities": [
+      {
+        "City_Name": "Bucharest",
+        "Historical_Landmarks": "Parliament Palace (second largest administrative building in the world), Old Town, Romania Athenaeum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Brașov",
+        "Historical_Landmarks": "Black Church, Băiată Square, Tampa Mountain.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Sibiu",
+        "Historical_Landmarks": "Bâția Square, Bridge of Lies, East Museum Complex.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Timișoara",
+        "Historical_Landmarks": "Metropolitan Cathedral, Victory Square, Bania National Village.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Cluj-Napoca",
+        "Historical_Landmarks": "Union Square, St. Michael's Church, Alexandru Borza Botanical Garden.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Sighișoara",
+        "Historical_Landmarks": "Clock Tower, Dracula's house, fortified city (UNESCO).",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Constanța",
+        "Historical_Landmarks": "Constanța Casino, Grand Mosque, Black Sea beaches.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Iași",
+        "Historical_Landmarks": "Culture Palace, Metropolitan Cathedral, Alexandru Ioan Cuza University.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Oradea",
+        "Historical_Landmarks": "Union Square, Maria Rolia Theater, Zarys Museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      },
+      {
+        "City_Name": "Brașov",
+        "Historical_Landmarks": "Bran Castle (Dracula's Castle), St. George Church, Bătaana road to Brașov.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Mămăligă (cornmeal porridge), sarmale (stuffed cabbage), mici (grilled sausages), cozonac (sweet bread), cream soup",
+        "Green_Spaces": "Danube Delta, Carpathian Mountains, Transfăgărășan highway, Retezat National Park, Scărișoara Cave"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Georgia",
+    "Cities": [
+      {
+        "City_Name": "Tbilisi",
+        "Historical_Landmarks": "Narikala Fortress, sulfur baths, Rustaveli Avenue, Peace Bridge.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Batumi",
+        "Historical_Landmarks": "Batumi Botanical Garden, Ali and Nino statue, Alphabet Tower, promenade.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Kutaisi",
+        "Historical_Landmarks": "Prometheus Cave, Bagrati Cathedral, Okatse Valley.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Mtskheta",
+        "Historical_Landmarks": "Jvari Monastery, Svetitskhoveli Cathedral (old capital).",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Gudauri",
+        "Historical_Landmarks": "Skiing, paragliding, mountain views.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Sighnaghi",
+        "Historical_Landmarks": "City of love, wine tasting, historic wall.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Borjomi",
+        "Historical_Landmarks": "Mineral water springs, central park.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Stepantsminda",
+        "Historical_Landmarks": "Trinity Church Gergeti, Mount Kazbek.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Gori",
+        "Historical_Landmarks": "Stalin Museum, Uplistsikhe cave city.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      },
+      {
+        "City_Name": "Telavi",
+        "Historical_Landmarks": "Batonis Castle, vineyards.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Khachapuri, khinkali, chicken tabaka, churchekila, eggplant salad",
+        "Green_Spaces": "Caucasus Mountains, Lake Ritsa, Martvili Valley, Borjomi Park, Mount Shkhara"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Jamaica",
+    "Cities": [
+      {
+        "City_Name": "Kingston",
+        "Historical_Landmarks": "Bob Marley Museum, Devon House, Blue Mountains.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Montego Bay",
+        "Historical_Landmarks": "Doctor's Cave Beach, scuba diving, Rose Hall house.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Negril",
+        "Historical_Landmarks": "Seven Mile Beach, cliff jumping at Rick's.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Ocho Rios",
+        "Historical_Landmarks": "Dan River waterfalls, swimming with dolphins.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Port Antonio",
+        "Historical_Landmarks": "Blue Lagoon, Frenchman's Cove beach, Rio Grande river boat trips.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Mandeville",
+        "Historical_Landmarks": "Manchester Museum, green hills, coffee farms.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Spanish Town",
+        "Historical_Landmarks": "Old Cathedral, Heritage Square, ruins of the Government House.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Black River",
+        "Historical_Landmarks": "River boat trips and crocodile watching, Lazy Bay.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Ocho Rios",
+        "Historical_Landmarks": "Explore quiet beaches, visit sugar cane farms.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      },
+      {
+        "City_Name": "Falmouth",
+        "Historical_Landmarks": "Historic harbor, Georgian buildings, Port Royal Beach.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Jerk chicken, ackee and salted fish, patty (meat pie), soup, rum",
+        "Green_Spaces": "Blue Mountains, Dan River waterfalls, Blue Lagoon, Cockpit Country caves, Seven Mile Beach"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Mali",
+    "Cities": [
+      {
+        "City_Name": "Bamako",
+        "Historical_Landmarks": "National Museum, Grand Mosque, Bamako central market, King Fahd Bridge.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Jenin",
+        "Historical_Landmarks": "Grand Mosque (largest mud building in the world), old town (UNESCO).",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Timbuktu",
+        "Historical_Landmarks": "Sankoré and Djinguereber mosques, historic libraries, Timbuktu museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Mopti",
+        "Historical_Landmarks": "Grand Mosque, Mopti river port, visit Pantama villages on the river.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Sikasso",
+        "Historical_Landmarks": "Fort of (the fortified city), Sikasso waterfalls, Sikasso museum.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Gao",
+        "Historical_Landmarks": "Askia Tomb (UNESCO), Gao market, Niger River.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Kidal",
+        "Historical_Landmarks": "Explore Tuareg areas, Sahara Desert, tour nomadic villages.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Kayes",
+        "Historical_Landmarks": "Filylo waterfalls, Baving natural park, Kayes bridge.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "San",
+        "Historical_Landmarks": "Sudanese style Grand Mosque, local markets.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      },
+      {
+        "City_Name": "Djenne",
+        "Historical_Landmarks": "Historic village, handicrafts, weekly markets.",
+        "Tourist_Activities": "Take cultural and sightseeing tours, and local shopping experiences.",
+        "Local_Cuisine": "Peanut sauce rice (tiaofo), fufu, tô, couscous",
+        "Green_Spaces": "Niger River, Oumbori mountains, Baïnkidi National Park, savanna"
+      }
+    ]
+  }
+]

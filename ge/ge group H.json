@@ -1,0 +1,1318 @@
+[
+  {
+    "Country_Name": "Gabon",
+    "Cities": [
+      {
+        "City_Name": "Libreville",
+        "Historical_Landmarks": "St. Michael's Kirche mit geschnitzten Holzsäulen, der modern gestaltete Präsidentenpalast.",
+        "Tourist_Activities": "Spazieren entlang der Pazifik-Ozean-Promenade, Besuch des gabunischen Kunst- und Traditionsmuseums, Einkaufen auf dem belebten Markt Mont Buit.",
+        "Local_Cuisine": "Niemboui (Huhn in Palmensauce) mit gekochter Kochbanane, frischer gegrillter Fisch am Strand.",
+        "Green_Spaces": "Bonsuang Small Park (Bonsuang) in der Stadt, die abgelegenen Strände der Stadt."
+      },
+      {
+        "City_Name": "Port-Gentil",
+        "Historical_Landmarks": "Kathedrale Saint Louis, koloniales Stadtzentrum.",
+        "Tourist_Activities": "Genießen des Lumengui-Strandes, Delfinbeobachtungstouren, Fischerei im Atlantischen Ozean.",
+        "Local_Cuisine": "Frische Austern und gewürzter Krabben, frittierte Maniok-Pfannkuchen.",
+        "Green_Spaces": "Mangrovenwälder um die Stadt, Oguoi-Bucht."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Cities": [
+      {
+        "City_Name": "Antananarivo",
+        "Historical_Landmarks": "Rova-Palast (königlicher Palastkomplex), Unabhängigkeitsallee (Avenue de l'Indépendance).",
+        "Tourist_Activities": "Erkundung des Königspalastes (Rova), Besuch des Zoma-Marktes, Spaziergang um den Anosy-See.",
+        "Local_Cuisine": "Romazava (Fleisch- und Gemüseeintopf in Brühe), Rafitoto (Maniokblätter-Eintopf mit Fleisch).",
+        "Green_Spaces": "Lemur-Park in kurzer Entfernung, Tsimbazaza-Park."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bahrain",
+    "Cities": [
+      {
+        "City_Name": "Manama",
+        "Historical_Landmarks": "Bahrain Gate, Nationales Museum von Bahrain, Al‑Fateh Grand Mosque, Beit Al‑Quran.",
+        "Tourist_Activities": "Durchstreifen des alten Manama-Souks, Besuch von Museen, Genuss der Corniche.",
+        "Local_Cuisine": "Machbous, bahrainische Süßigkeiten, Mutabbaq, Mahmar.",
+        "Green_Spaces": "Al‑Amana-Park, Al‑Fateh Corniche, Bahrain Bay Park."
+      },
+      {
+        "City_Name": "Muharraq",
+        "Historical_Landmarks": "Sheikh Isa bin Ali Haus, Bu Maher Fort, Pearl Road (Weltkulturerbe).",
+        "Tourist_Activities": "Erkundung der Perlenfanggeschichte, Besuch von Museen, Spaziergang durch die alten Gassen.",
+        "Local_Cuisine": "Raqaq-Brot, Berniyush (traditionelles Fischgericht), frische Meeresfrüchte.",
+        "Green_Spaces": "Al‑Kornich Al‑Had Park, Muharraq-Strände."
+      },
+      {
+        "City_Name": "Riffa",
+        "Historical_Landmarks": "Riffa Fort (Sheikh Salman bin Ahmed Al‑Fateh), historisches Dorf Askar.",
+        "Tourist_Activities": "Besuch historischer Forts, Golfspielen im Royal Club.",
+        "Local_Cuisine": "Fisch Mutabbaq, Khunfroush (gebratenes Süßes).",
+        "Green_Spaces": "Ain Adhari Park, Dattelfarmen, Royal Golf Club."
+      },
+      {
+        "City_Name": "Isa Town",
+        "Historical_Landmarks": "Nationales Stadion von Bahrain, große Moscheen.",
+        "Tourist_Activities": "Einkaufen auf dem beliebten Markt, Teilnahme an Sportveranstaltungen.",
+        "Local_Cuisine": "Balaleet (süße Vermicelli), Ish al‑Mashkoul.",
+        "Green_Spaces": "Isa Town Grand Park."
+      },
+      {
+        "City_Name": "Zallaq",
+        "Historical_Landmarks": "Bahrain International Circuit, Bahrain Tower.",
+        "Tourist_Activities": "Besuch von Formel‑1‑Rennen, Entspannen am Al‑Jazira-Strand.",
+        "Local_Cuisine": "Al‑Khabisa (Süßspeise), Meeresfrüchte.",
+        "Green_Spaces": "Al‑Jazira-Strand, Küstenparks."
+      },
+      {
+        "City_Name": "Sitra",
+        "Historical_Landmarks": "Sitra Bridge, alte Häuser, Al‑Khamis-Moschee.",
+        "Tourist_Activities": "Fischerei, Besuch lokaler Märkte, Spaziergang auf der Insel.",
+        "Local_Cuisine": "Al‑Maraqouq (Teig und Brühe), gegrillter Safi-Fisch.",
+        "Green_Spaces": "Sitra Corniche, Küstenfarmen."
+      },
+      {
+        "City_Name": "Al Hadd",
+        "Historical_Landmarks": "Brunei Cars Museum, Bahrain Gate.",
+        "Tourist_Activities": "Besuch des Automobilmuseums, Genuss der Corniche.",
+        "Local_Cuisine": "Gegrilltes Fleisch, Meeresfrüchte.",
+        "Green_Spaces": "Al Hadd Corniche Park, Strände."
+      },
+      {
+        "City_Name": "Al Juffair",
+        "Historical_Landmarks": "Bahrain City Center, Juffair Towers.",
+        "Tourist_Activities": "Luxuriöses Einkaufen, Speisen in gehobenen Restaurants.",
+        "Local_Cuisine": "Internationale Küche, kalte Getränke.",
+        "Green_Spaces": "Juffair-Gärten, die Corniche."
+      },
+      {
+        "City_Name": "Al Badie",
+        "Historical_Landmarks": "Bahrain International Exhibition Center, Al Badie Gate.",
+        "Tourist_Activities": "Besuch von Ausstellungen und Konferenzen, Einkaufen auf dem Bauernmarkt.",
+        "Local_Cuisine": "Frische Datteln, natürliche Säfte.",
+        "Green_Spaces": "Dattelfarmen, Bauernmarkt (grüne Flächen)."
+      },
+      {
+        "City_Name": "Ali",
+        "Historical_Landmarks": "Dattelfarmen, alte Moscheen.",
+        "Tourist_Activities": "Besuch von Farmen, Erkundung des Landlebens.",
+        "Local_Cuisine": "Datteln, Dattelerzeugnisse.",
+        "Green_Spaces": "Umfangreiche Dattelfarmen, Täler."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bangladesh",
+    "Cities": [
+      {
+        "City_Name": "Dhaka",
+        "Historical_Landmarks": "Lalbagh Fort, Sixteen Dome Mosque, National Parliament House (designed by Louis Kahn).",
+        "Tourist_Activities": "Rikscha fahren, Museen besuchen, Durchschlendern der Dhaka-Märkte.",
+        "Local_Cuisine": "Ilish mach (Hilsa-Fisch-Curry), Dhaka Biryani, beta (eingelegtes Gemüse).",
+        "Green_Spaces": "Ramna Park, Dhanmondi-See."
+      },
+      {
+        "City_Name": "Chittagong",
+        "Historical_Landmarks": "Zweiter Weltkrieg Friedhof, das Heiligtum von Hazrat Bibi Mariam.",
+        "Tourist_Activities": "Besuch des Kriegsgrabmals, Erkundung der Chittagong-Hügel, Bootsfahrten auf dem Karnaphuli-Fluss.",
+        "Local_Cuisine": "Migan (scharfes Fleischcurry), shotki (getrockneter Fisch), Garnelen-Curry.",
+        "Green_Spaces": "Foy-See, Chittagong-Hügel."
+      },
+      {
+        "City_Name": "Cox's Bazar",
+        "Historical_Landmarks": "Längster natürlicher Sandstrand der Welt, Ajanta Buddha-Tempel.",
+        "Tourist_Activities": "Strandentspannung, Bootsfahrten, Besuch buddhistischer Tempel.",
+        "Local_Cuisine": "Garnelen-Curry, frische Meeresfrüchte, würziges Reisgericht.",
+        "Green_Spaces": "Cox's Bazar-Strand, Himshari-Wasserfall, Mehi-Hügel."
+      },
+      {
+        "City_Name": "Sylhet",
+        "Historical_Landmarks": "Heiligtum von Hazrat Shah Jalal, Jafar-Garten.",
+        "Tourist_Activities": "Besuch von Teeplantagen, Bootsfahrten auf dem Surma-Fluss.",
+        "Local_Cuisine": "Nepa-Fleischcurry, Sylheti-Reis, beta.",
+        "Green_Spaces": "Teeplantagen, Ratargul-Feuchtgebiet, Lawarkhara-Wälder."
+      },
+      {
+        "City_Name": "Kulna",
+        "Historical_Landmarks": "Khan Jahan Ali Palast, Khan Jahan Grabmal.",
+        "Tourist_Activities": "Besuch historischer Paläste, Flusssafari im Sundarbans.",
+        "Local_Cuisine": "Riesengarnelen-Curry, frittiertes Brot (lubi).",
+        "Green_Spaces": "Rupsa-Fluss, nahegelegene Sundarbans-Wälder."
+      },
+      {
+        "City_Name": "Rajshahi",
+        "Historical_Landmarks": "Botiya Raj Bari Palast, Rajshahi Museum.",
+        "Tourist_Activities": "Seidenkauf, Museumsbesuche, Spaziergang entlang der Ufer des Padma-Flusses.",
+        "Local_Cuisine": "Rajshahi-Süßigkeiten, Rangapats (süßes Reisgericht).",
+        "Green_Spaces": "Baloo Bagh Park, Padma-Flussufer."
+      },
+      {
+        "City_Name": "Bogra",
+        "Historical_Landmarks": "Mahastanjara (historische Ruinen), archäologisches Museum.",
+        "Tourist_Activities": "Besuch der archäologischen Stätte, Erkundung der alten Geschichte Bangladeschs.",
+        "Local_Cuisine": "Doi (süßer Joghurt), Ziegenfleisch-Curry.",
+        "Green_Spaces": "Grüne ländliche Gebiete."
+      },
+      {
+        "City_Name": "Parisal",
+        "Historical_Landmarks": "Buchangher Fort, Daki-Moschee.",
+        "Tourist_Activities": "Schwebende Guavenmarkt-Tour, Bootsfahrten im Ganges-Delta.",
+        "Local_Cuisine": "Salziger elish match Curry, Ganges-Delta-Gemüse.",
+        "Green_Spaces": "Schwebender Guavenmarkt, Ganges-Delta-Flüsse."
+      },
+      {
+        "City_Name": "Rangamati",
+        "Historical_Landmarks": "Rojbaghi Palast, Stammesmuseum.",
+        "Tourist_Activities": "Kaptai-See-Tour, Besuch der Hängebrücke, Erkundung des Stammeslebens.",
+        "Local_Cuisine": "Bambus-Huhn (Huhn in Bambus gekocht), lokale Stammesgerichte.",
+        "Green_Spaces": "Kaptai-See, Hängebrücke, Rangamati-Hügel."
+      },
+      {
+        "City_Name": "Komila",
+        "Historical_Landmarks": "Maine‑mati buddhistische Ruinen, Selvan Fiharah Gasthaus.",
+        "Tourist_Activities": "Besuch buddhistischer archäologischer Stätten, Erkundung regionaler Geschichte.",
+        "Local_Cuisine": "Ras Malai (Milchkonfekt), Komila-Reis.",
+        "Green_Spaces": "Komila-Militärpark."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bhutan",
+    "Cities": [
+      {
+        "City_Name": "Thimphu",
+        "Historical_Landmarks": "Buddha Dordenma Statue, Thimphu Dzong, General Post Office.",
+        "Tourist_Activities": "Besuch von Tempeln, Kauf von Briefmarken, Beobachtung traditioneller Tänze.",
+        "Local_Cuisine": "Ema Datshi (scharfe Chili mit Käse), Momo (gefüllte Teigtaschen).",
+        "Green_Spaces": "Takin-Reservat, Thimphu Nationalpark."
+      },
+      {
+        "City_Name": "Paro",
+        "Historical_Landmarks": "Eagle's Nest (Taktsang), Rinbung Dzong, National Museum.",
+        "Tourist_Activities": "Klettern zum Eagle's Nest, Museumsbesuch, Spaziergang im Paro-Tal.",
+        "Local_Cuisine": "Baksha ba (Speck mit Pfeffer), süßer Tee.",
+        "Green_Spaces": "Paro-Tal, Paro-Hügel."
+      },
+      {
+        "City_Name": "Bumthang",
+        "Historical_Landmarks": "Bumthang Dzong (Burg), Shimi Lakhong (Fruchtbarkeits-Tempel).",
+        "Tourist_Activities": "Besuch der Burg, Spaziergang über die Hängebrücke, Fluss-Rafting.",
+        "Local_Cuisine": "Zau (süßer Reis), Hontsi (Hausgericht).",
+        "Green_Spaces": "Mündung der Flüsse Mo Chu und Bo Chu, Hängebrücke."
+      },
+      {
+        "City_Name": "Bumthang (Jakar)",
+        "Historical_Landmarks": "Jakar Dzong Palast, alte Tempel, Dambala Lhakang.",
+        "Tourist_Activities": "Teilnahme an lokalen Festen, Besuch einer Käserei.",
+        "Local_Cuisine": "Yak-Burger, Bumthang Schweizer Käse.",
+        "Green_Spaces": "Fruchtbares Bumthang-Tal, Buchweizen-Farmen."
+      },
+      {
+        "City_Name": "Phuntsholing",
+        "Historical_Landmarks": "Bhutan Gate, Grenzmarkt.",
+        "Tourist_Activities": "Grenzüberschreitendes Einkaufen, Besuch des Phuntsholing Naturparks.",
+        "Local_Cuisine": "Schweizer Donuts, indisches Essen.",
+        "Green_Spaces": "Phuntsholing Naturpark."
+      },
+      {
+        "City_Name": "Gangkha (Phobjiika)",
+        "Historical_Landmarks": "Gangkha Kloster, Phobjiika Dorf.",
+        "Tourist_Activities": "Beobachtung des Schwarzhalsschreins, Langstreckenwanderungen.",
+        "Local_Cuisine": "Ema Datshi, Momo.",
+        "Green_Spaces": "Phobjiika Tal, Vogelrouten."
+      },
+      {
+        "City_Name": "Trongsa",
+        "Historical_Landmarks": "Trongsa Dzong (die größte Burg), Museumsturm.",
+        "Tourist_Activities": "Besuch der Burg, Erkundung von Bergpassagen.",
+        "Local_Cuisine": "Shavala (fleischgefüllte Gebäckstücke).",
+        "Green_Spaces": "Bergpassagen, Täler."
+      },
+      {
+        "City_Name": "Mongar",
+        "Historical_Landmarks": "Mongar Dzong.",
+        "Tourist_Activities": "Genießen der kurvenreichen Bergstraße, Besuch des lokalen Marktes.",
+        "Local_Cuisine": "Frische Mongar-Limonade, Ema Datshi.",
+        "Green_Spaces": "Östliche Berglandschaft."
+      },
+      {
+        "City_Name": "Trashigang",
+        "Historical_Landmarks": "Trashigang Dzong.",
+        "Tourist_Activities": "Besuch des Dzong, Erkundung des Stammeslebens.",
+        "Local_Cuisine": "Lokale Stammesgerichte, Ingwertee.",
+        "Green_Spaces": "Kamri-Fluss, östliche bhutanische Wälder."
+      },
+      {
+        "City_Name": "Samdrup Jongkhar",
+        "Historical_Landmarks": "Yongphula Flughafen, Wasserfälle.",
+        "Tourist_Activities": "Besuch des höchstgelegenen Flughafens der Welt, Erkundung tropischer Wälder.",
+        "Local_Cuisine": "Lokales Essen, indische Küche.",
+        "Green_Spaces": "Tropische Wälder, Wasserfälle."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Saudi Arabia",
+    "Cities": [
+      {
+        "City_Name": "Riyadh",
+        "Historical_Landmarks": "Kingdom Tower, King Abdullah Financial District, Al‑Turif Bezirk (Al‑Diriyah), Naturhistorisches Museum.",
+        "Tourist_Activities": "Besuch von Diriyah, Shopping im Mall of Arabia, Riyadh Season.",
+        "Local_Cuisine": "Kabsa, Jareesh, Qursan, Mutabbaq.",
+        "Green_Spaces": "King Abdullah Park, Wadi Hanifa."
+      },
+      {
+        "City_Name": "Jeddah",
+        "Historical_Landmarks": "Historisches Jeddah (Al‑Balad), King Fahd Brunnen, Al‑Rahma Moschee, King Fahd Forschungszentrum.",
+        "Tourist_Activities": "Spazieren im historischen Jeddah, die Corniche, Tauchen im Roten Meer.",
+        "Local_Cuisine": "Sayadiya (Reis mit Fisch), Al‑Mabshoor, Hejazi Fisch.",
+        "Green_Spaces": "Jeddah Corniche, Red Sea Mall Strand."
+      },
+      {
+        "City_Name": "Mecca",
+        "Historical_Landmarks": "Masjid al‑Haram, Jabal al‑Nour, Hira-Höhle, Jabal Arafat, Burj al‑Bait.",
+        "Tourist_Activities": "Durchführen von Umrah, Besuch religiöser Stätten.",
+        "Local_Cuisine": "Fattot (Makkah Brot), Mantu und Yaghmash, Kabsa.",
+        "Green_Spaces": "Al‑Shara'iyah Park."
+      },
+      {
+        "City_Name": "Medina",
+        "Historical_Landmarks": "Al‑Masjid an‑Nabawi, Quba Moschee, Jabal Uhud, Quba Festung.",
+        "Tourist_Activities": "Besuch der Prophetenmoschee, Quba Moschee, Al‑Aqiq Markt.",
+        "Local_Cuisine": "Al‑Medini (Fleisch‑ und Reisgericht), Ajwa Datteln.",
+        "Green_Spaces": "Jabal Uhud, Al‑Aqiq Parks."
+      },
+      {
+        "City_Name": "Dammam",
+        "Historical_Landmarks": "Dammam Regionalmuseum, König Abdulaziz Zentrum für Weltkultur (Ithra), Dammam Corniche.",
+        "Tourist_Activities": "Besuch von Ithra, Shopping in Malls, Entspannen an der Corniche.",
+        "Local_Cuisine": "Khobsi Golf, Zbeidi Mutabbaq, gegrillter Fisch.",
+        "Green_Spaces": "Dammam Corniche, King Fahd Park."
+      },
+      {
+        "City_Name": "Abha",
+        "Historical_Landmarks": "Rijal Alma'a Erbeort, Shamsan Burg, Al‑Soda Park.",
+        "Tourist_Activities": "Besuch von Rijal Alma'a, Seilbahn nach Al‑Soda, Erkundung der Berge.",
+        "Local_Cuisine": "Al‑Ariqa, Südliches Hanidh, Asida.",
+        "Green_Spaces": "Al‑Soda Park, Dhara Berg, Asir Berge."
+      },
+      {
+        "City_Name": "Taif",
+        "Historical_Landmarks": "Shubra historischer Palast, Ukaz Markt, Al‑Hada und Al‑Shifa.",
+        "Tourist_Activities": "Besuch von Rosenfarmen, Ukaz Markt, Entspannen in Al‑Hada und Al‑Shifa.",
+        "Local_Cuisine": "Kabli al‑Taifi, Taif Rosenwasser, Baklava.",
+        "Green_Spaces": "Al‑Hada und Al‑Shifa (Berggebiete), Rosenfarmen."
+      },
+      {
+        "City_Name": "Tabuk",
+        "Historical_Landmarks": "Tabuk historisches Schloss, Hejaz Eisenbahn, Wadi al‑Dissa.",
+        "Tourist_Activities": "Besuch von Wadi al‑Dissa, Erkundung der Geschichte der Hejaz Eisenbahn.",
+        "Local_Cuisine": "Sharak Brot, Mafrouka, Mandi.",
+        "Green_Spaces": "Wadi al‑Dissa, Hasma Berge."
+      },
+      {
+        "City_Name": "Hail",
+        "Historical_Landmarks": "A'irf Schloss, Jubbah Felsinschriften, Ajaj und Salma Berge.",
+        "Tourist_Activities": "Besuch der Berge, Erkundung der Felsinschriften.",
+        "Local_Cuisine": "Al‑Tashreeb (Brotbrühe), Harees, Jareesh.",
+        "Green_Spaces": "Ajaj und Salma Berge, Al‑Maghwa Park."
+      },
+      {
+        "City_Name": "Najran",
+        "Historical_Landmarks": "Najran Emirat Palast, Al‑Adagh Fort, Najran archäologische Stätten.",
+        "Tourist_Activities": "Besuch historischer Paläste, Erkundung archäologischer Stätten.",
+        "Local_Cuisine": "Al‑Razbi (Reis mit Joghurt), Liiqaimat, Mafrouka.",
+        "Green_Spaces": "Najran Tal, Najran Berge."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Qatar",
+    "Cities": [
+      {
+        "City_Name": "Doha",
+        "Historical_Landmarks": "Museum für Islamische Kunst, Souq Waqif, The Pearl Qatar, Qatar National Convention Center.",
+        "Tourist_Activities": "Shopping im Souq Waqif, Museumsbesuche, Bootsfahrten an der Corniche.",
+        "Local_Cuisine": "Al‑Madrouba, Thareed, Machbous, Mutabbaq.",
+        "Green_Spaces": "Doha Corniche, Al‑Badea Park, Asail."
+      },
+      {
+        "City_Name": "Al Wakrah",
+        "Historical_Landmarks": "Alter Al Wakrah Markt, Al‑Janoub Stadion, Al Wakrah Fort.",
+        "Tourist_Activities": "Besuch des alten Marktes, Entspannen am Strand.",
+        "Local_Cuisine": "Katarische Kabsa, Hassou (Dattel‑ und Grießgericht).",
+        "Green_Spaces": "Familienstrand bei Al Wakrah."
+      },
+      {
+        "City_Name": "Al Khor",
+        "Historical_Landmarks": "Al Khor Fort, Al Khor Große Moschee.",
+        "Tourist_Activities": "Besuch des Forts, Erkundung der Mangroven von Al Khor.",
+        "Local_Cuisine": "Katarische Mahshi, gegrillter Fisch.",
+        "Green_Spaces": "Al Khor Mangrovenwälder in Al Dakhira, Al Khor Corniche."
+      },
+      {
+        "City_Name": "Mesiad",
+        "Historical_Landmarks": "Mesiad Hafen, Selin Resort.",
+        "Tourist_Activities": "Camping bei Selin, Besuch des Binnenmeeres (Khor Al Nadhir).",
+        "Local_Cuisine": "Traditionelle Beduinengerichte, Arabischer Tee.",
+        "Green_Spaces": "Selin (Sanddünen), Khor Al Nadhir (Binnenmeer)."
+      },
+      {
+        "City_Name": "Al Rayyan",
+        "Historical_Landmarks": "Education City, Qatar National Library, Al Rayyan Sports Center.",
+        "Tourist_Activities": "Besuch von Education City, Shopping im Qatar Mall.",
+        "Local_Cuisine": "Raqaq Brot, Arabischer Kaffee.",
+        "Green_Spaces": "Al Rayyan Park."
+      },
+      {
+        "City_Name": "Al Shamal",
+        "Historical_Landmarks": "Al Zubarah Fort (Weltkulturerbe), Al Ruwais Fort.",
+        "Tourist_Activities": "Besuch von Al Zubarah Fort, Entspannen am Strand.",
+        "Local_Cuisine": "Lokaler Fisch Kabsa, Meeresfrüchte.",
+        "Green_Spaces": "Al Ruwais Strand."
+      },
+      {
+        "City_Name": "Dukhan",
+        "Historical_Landmarks": "Dukhan Archäologisches Museum, Dukhan Moschee.",
+        "Tourist_Activities": "Besuch des Museums, Entspannen an den westlichen Stränden.",
+        "Local_Cuisine": "Westliche Meeresfrüchtegerichte, Mutabbaq.",
+        "Green_Spaces": "Dukhan Strände."
+      },
+      {
+        "City_Name": "Lusail",
+        "Historical_Landmarks": "Lusail Stadion, Lusail Marina Walk, Place Vendome.",
+        "Tourist_Activities": "Shopping in Place Vendome, Spaziergang an der Marina.",
+        "Local_Cuisine": "Luxuriöse Lusail Süßigkeiten, internationale Küche.",
+        "Green_Spaces": "Moderne Parks in Lusail."
+      },
+      {
+        "City_Name": "Um Salal",
+        "Historical_Landmarks": "Barzan Türme (historisch), Um Salal Sportclub.",
+        "Tourist_Activities": "Besuch der Barzan Türme.",
+        "Local_Cuisine": "Luqaimat (frittierte Süßigkeit), Mutabbaq.",
+        "Green_Spaces": "Um Salal Park Ali."
+      },
+      {
+        "City_Name": "Al Daayen",
+        "Historical_Landmarks": "Lusail Türme (architektonisch), Qatar Reitclub.",
+        "Tourist_Activities": "Besuch des Reitclubs, Erkundung der modernen Stadt.",
+        "Local_Cuisine": "Al‑Maraqouq, Kabsa.",
+        "Green_Spaces": "Al Daayen Park."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Cities": [
+      {
+        "City_Name": "Kyiv",
+        "Historical_Landmarks": "Kiewer Höhlenkloster, Sophienkathedrale, Unabhängigkeitsplatz, Goldenes Tor, Nationales Geschichtsmuseum der Ukraine.",
+        "Tourist_Activities": "Erkundung orthodoxer Architektur, Kunst‑ und Kulturtouren.",
+        "Local_Cuisine": "Borschtsch (Rote-Bete-Suppe), Varenyky (gefüllte Teigtaschen), Kotleta (Burger), Holubtsi (gefüllter Kohl), Pirozhki (gegrilltes Fleischgebäck).",
+        "Green_Spaces": "Mariinsky Park, Globytsky Park, Vidokhovych Park."
+      },
+      {
+        "City_Name": "Kharkiv",
+        "Historical_Landmarks": "Freiheitsplatz, Gorky Park, Verkündigungsdom, Kunstmuseum.",
+        "Tourist_Activities": "Spazieren auf den großen Plätzen, Museums- und Theaterbesuche.",
+        "Local_Cuisine": "Borschtsch, Varenyky.",
+        "Green_Spaces": "Zentraler Gorky Park, Shevchenko Park."
+      },
+      {
+        "City_Name": "Odessa",
+        "Historical_Landmarks": "Odessa Nationales Opernhaus, Potemkins Treppen, Deribasovskaya Straße.",
+        "Tourist_Activities": "Küsten­tourismus am Schwarzen Meer, Theateraufführungen besuchen.",
+        "Local_Cuisine": "Salo (Gemüse‑ und Hackfleischsalat), Blachyn (Pasteten).",
+        "Green_Spaces": "Heroes Park, Shevchenko Park."
+      },
+      {
+        "City_Name": "Lviv",
+        "Historical_Landmarks": "Rynok Platz, Lviv Opernhaus, Hoher Schlossberg.",
+        "Tourist_Activities": "Erkundung der Altstadt (Weltkulturerbe), Kosten von lokalem Kaffee und Schokolade.",
+        "Local_Cuisine": "Borschtsch.",
+        "Green_Spaces": "Lychakivsky Park, Styrsky Park."
+      },
+      {
+        "City_Name": "Dnipro",
+        "Historical_Landmarks": "Die Corniche, Weltraummuseum, Klosterinsel, Dnipro Fluss.",
+        "Tourist_Activities": "Spazieren entlang der Ufer des Dnipro-Flusses, Erkundung der ukrainischen Raumfahrtgeschichte.",
+        "Local_Cuisine": "Borschtsch.",
+        "Green_Spaces": "Lazar Glob, Klosterstrand."
+      },
+      {
+        "City_Name": "Donetsk",
+        "Historical_Landmarks": "Forshchykova Park, Donbas Arena, Kunstmuseum.",
+        "Tourist_Activities": "Besuch von Museen und Parks (je nach Sicherheitslage).",
+        "Local_Cuisine": "Borschtsch.",
+        "Green_Spaces": "Forshchykova Park, Shyrimetov Park."
+      },
+      {
+        "City_Name": "Sevastopol",
+        "Historical_Landmarks": "Krimhalbinsel, Sevastopol Panorama, Schwarzmeer Museum.",
+        "Tourist_Activities": "Erkundung der maritimen Geschichte.",
+        "Local_Cuisine": "Borschtsch.",
+        "Green_Spaces": "Akropolis Park, Ofigor Strand."
+      },
+      {
+        "City_Name": "Zaporozhye",
+        "Historical_Landmarks": "Khortytsia Insel, Zaporozhye Kosakenmuseum.",
+        "Tourist_Activities": "Historische Touren um die Kosaken, Erkundung der Flussnatur.",
+        "Local_Cuisine": "Borschtsch.",
+        "Green_Spaces": "Khortytsia Insel Naturschutzgebiet, Dubia Park."
+      },
+      {
+        "City_Name": "Mykolaiv",
+        "Historical_Landmarks": "Mykolaiv Astronomisches Observatorium, Schiffbau‑ und Marinemuseum.",
+        "Tourist_Activities": "Besuch wissenschaftlicher und historischer Stätten.",
+        "Local_Cuisine": "Borschtsch.",
+        "Green_Spaces": "Berzhovsky Park, Heroes Park."
+      },
+      {
+        "City_Name": "Korsun",
+        "Historical_Landmarks": "Prinzessin Olga Bäderpark, Strategischer Raketenkomplex.",
+        "Tourist_Activities": "Erkundung historischer und militärischer Stätten.",
+        "Local_Cuisine": "Borschtsch.",
+        "Green_Spaces": "Prinzessin Olga Bäderpark."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eritrea",
+    "Cities": [
+      {
+        "City_Name": "Asmara",
+        "Historical_Landmarks": "Sankt Joseph Kathedrale, Kaiserliches Theater, Italienischer Gouverneurspalast, modernistische (Art Deco) Gebäude, Asmara Nationalmuseum.",
+        "Tourist_Activities": "Erkundung der Art‑Deco‑Architektur (Weltkulturerbe), Besuch des Nationalmuseums, Spaziergang in italienischen Cafés.",
+        "Local_Cuisine": "Zigni (Fleischeintopf), Injera (schwammiges Fladenbrot), Ga’at (Getreidebrei), Tigabiza.",
+        "Green_Spaces": "Maria Park, baumgesäumte Straßen von Asmara."
+      },
+      {
+        "City_Name": "Massawa",
+        "Historical_Landmarks": "Historischer Massawa Hafen, Altstadt, osmanische und ägyptische Ruinen.",
+        "Tourist_Activities": "Erkundung historischer Küstenarchitektur, Tauchen im Roten Meer.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Sandstrände, umliegende Inseln."
+      },
+      {
+        "City_Name": "Keren",
+        "Historical_Landmarks": "Kamelmarkt, Bizen Fort, Maryam Shena Schrein, Altstadt.",
+        "Tourist_Activities": "Besuch traditioneller Märkte, Erkundung religiöser Stätten.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Berge rund um die Küste, Strände."
+      },
+      {
+        "City_Name": "Dekemhare",
+        "Historical_Landmarks": "Italienische Kolonialarchitektur, Dekemhare Markt.",
+        "Tourist_Activities": "Erkundung italienischer Ruinen in den Hochländern.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Berglandschaft, umliegende Farmen."
+      },
+      {
+        "City_Name": "Adi Keih",
+        "Historical_Landmarks": "Archäologische Ruinen, Adi Keih Museum.",
+        "Tourist_Activities": "Besuch archäologischer Stätten, Erkundung von Dörfern.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Umgebende Hügel und Täler."
+      },
+      {
+        "City_Name": "Tsni",
+        "Historical_Landmarks": "Tsni Fluss, Grenzstadt.",
+        "Tourist_Activities": "Erkundung westlicher Gebiete.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Ufer des Tsni Flusses, Savanne."
+      },
+      {
+        "City_Name": "Qanda",
+        "Historical_Landmarks": "Küstenorte, Strände des Roten Meeres.",
+        "Tourist_Activities": "Strandtourismus und Fischerei.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Strände, Koralleninseln."
+      },
+      {
+        "City_Name": "Agordat",
+        "Historical_Landmarks": "Hauptmarkt, historische Militärstätten.",
+        "Tourist_Activities": "Wandern durch den lokalen Markt.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Landwirtschaftliche Flächen, Hügel."
+      },
+      {
+        "City_Name": "Mendefera",
+        "Historical_Landmarks": "Antike archäologische Stätten (Matara).",
+        "Tourist_Activities": "Erkundung von Ruinen.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Felsige Hügel, archäologische Stätten."
+      },
+      {
+        "City_Name": "Barentu",
+        "Historical_Landmarks": "Bergbaustadt, flache Gebiete.",
+        "Tourist_Activities": "Besuch natürlicher Gebiete.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces": "Ebenen, landwirtschaftliche Flächen."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Spain",
+    "Cities": [
+      {
+        "City_Name": "Madrid",
+        "Historical_Landmarks": "Königlicher Palast, Prado Museum, Plaza Mayor, Puerta del Sol, Retiro Park.",
+        "Tourist_Activities": "Kunst‑ und Kulturtouren, Einkaufen an der Gran Via, Tapas verkosten, Fußballspiele besuchen.",
+        "Local_Cuisine": "Paella, Tapas, Gazpacho, Spanische Tortilla (Kartoffelomelett), Chorizo (würzige Wurst).",
+        "Green_Spaces": "Retiro Park, Casa de Campo Park, Juan Carlos I Park."
+      },
+      {
+        "City_Name": "Barcelona",
+        "Historical_Landmarks": "Sagrada Familia, Gotisches Viertel, Park Güell, La Rambla, Casa Batlló.",
+        "Tourist_Activities": "Erkundung der Werke Gaudís, Strandtourismus, Spaziergang durch alte Straßen.",
+        "Local_Cuisine": "Fideus, pan con tomate, crema catalana.",
+        "Green_Spaces": "Park Güell, Ciutadella Park, Montjuïc Park."
+      },
+      {
+        "City_Name": "Seville",
+        "Historical_Landmarks": "Alcázar von Sevilla, Kathedrale von Sevilla, Plaza de España, Viertel Santa Cruz.",
+        "Tourist_Activities": "Flamenco‑Shows, Erkundung andalusischer Architektur, Historische Touren.",
+        "Local_Cuisine": "Valencianische Paella (besondere Version), Picadillo.",
+        "Green_Spaces": "María Luisa Park, Meritha Park."
+      },
+      {
+        "City_Name": "Valencia",
+        "Historical_Landmarks": "Stadt der Künste und Wissenschaften, Zentraler Markt, Kathedrale von Valencia, Hafen von Valencia.",
+        "Tourist_Activities": "Besuch der futuristischen Stadt, authentische Paella probieren, Mittelmeer-Küste genießen.",
+        "Local_Cuisine": "Original Paella, Fabada (Bohnensuppe), Chorizo.",
+        "Green_Spaces": "Turia Garten, Zentraler Valencia Park."
+      },
+      {
+        "City_Name": "Malaga",
+        "Historical_Landmarks": "Alcazaba Festung, Chivar Festung, Picasso Museum, Hafen von Malburgo.",
+        "Tourist_Activities": "Küsten­tourismus an der Costa del Sol, Besuch von Kunstmuseen.",
+        "Local_Cuisine": "Billa (gegrillte Fleischscheiben), buquereques (frittierte Sardellen).",
+        "Green_Spaces": "Zentraler Malaga Park, Montes Park."
+      },
+      {
+        "City_Name": "Córdoba",
+        "Historical_Landmarks": "Die Große Moschee (Mezquita), Palast der christlichen Könige, Judisches Viertel.",
+        "Tourist_Activities": "Erkundung islamischen und christlichen Erbes, Teilnahme am Patios‑Festival.",
+        "Local_Cuisine": "Sallamurigo, Polito.",
+        "Green_Spaces": "Paradiesgärten, Victoria Park."
+      },
+      {
+        "City_Name": "Granada",
+        "Historical_Landmarks": "Alhambra Palast, Generalife, Albayzín Viertel.",
+        "Tourist_Activities": "Erkundung andalusischer Paläste, Sonnenuntergang vom Albayzín aus beobachten.",
+        "Local_Cuisine": "Patatas a lo pobre, Remojón granadino.",
+        "Green_Spaces": "Generalife, Carmen de los Mártires Park."
+      },
+      {
+        "City_Name": "Bilbao",
+        "Historical_Landmarks": "Guggenheim Museum, Casco Viejo (Altstadt), Zubizuri Brücke.",
+        "Tourist_Activities": "Moderne Architekturtouren, Pintxos (baskische Tapas) verkosten.",
+        "Local_Cuisine": "Pintxos, Bilbao‑Stil Kabeljau (bacalao).",
+        "Green_Spaces": "Duina Casilda Park, Ibroalde Park."
+      },
+      {
+        "City_Name": "Alicante",
+        "Historical_Landmarks": "Schloss Santa Barbara, Esplanada de España, Viertel Santa Cruz.",
+        "Tourist_Activities": "Genießen der Strände, Shopping und Unterhaltung im Hafen.",
+        "Local_Cuisine": "Aros a banda, Turrón (Mandel‑Süßigkeiten).",
+        "Green_Spaces": "Cañalichas Park, El Palmar Park."
+      },
+      {
+        "City_Name": "Las Palmas (Canary Islands)",
+        "Historical_Landmarks": "Vulkan Mount Teide, Las Canteras Strand, Columbus Haus, Doro Park.",
+        "Tourist_Activities": "Geologische und vulkanische Touren, UNESCO‑Erbestätten erkunden.",
+        "Local_Cuisine": "Papás arrugadas (runzlige Kartoffeln), Mojo (Saucen).",
+        "Green_Spaces": "Doro Park, Teritor Park."
+      },
+      {
+        "City_Name": "Marbella",
+        "Historical_Landmarks": "Banus Hafen, Playa de la Foz Strand, Altstadt, grüne Gärten.",
+        "Tourist_Activities": "Luxuriöser Strandtourismus, Shopping, mildes Klima genießen.",
+        "Local_Cuisine": "Paella, Tapas.",
+        "Green_Spaces": "Conservation Park, Alfonso Park."
+      },
+      {
+        "City_Name": "Toledo",
+        "Historical_Landmarks": "Kathedrale von Toledo, Jüdische Synagoge, Alcázar Palast, San Martin Brücke.",
+        "Tourist_Activities": "Erkundung gemeinsam genutzten religiösen und kulturellen Erbes.",
+        "Local_Cuisine": "Carcamosa, Marzapane (Mandel‑Süßigkeiten).",
+        "Green_Spaces": "Fado Park, Ufer des Tajo."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Estonia",
+    "Cities": [
+      {
+        "City_Name": "Tallinn",
+        "Historical_Landmarks": "Altstadt (Weltkulturerbe), Toompea Schloss, Jungfrauenturm, St. Olaf Kirche.",
+        "Tourist_Activities": "Erkundung des Mittelalters, Kunstmuseum‑Touren, Einkaufen auf Kunsthandwerksmärkten.",
+        "Local_Cuisine": "Verivorst (Blutwurst), Räimais (Schwarzroggenbrot), Silav (Hering), Mulgi kapsad (Sauerkraut).",
+        "Green_Spaces": "Kadriorg Park, Botanischer Garten Tallinn."
+      },
+      {
+        "City_Name": "Tartu",
+        "Historical_Landmarks": "Universität Tartu, Kiss (Küss) Brücke, Wissenschaftsmuseum.",
+        "Tourist_Activities": "Besuch von Bildungs‑ und Kulturzentren, Erkundung neoklassizistischer Architektur.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Tohuvaara Park, Ufer des Emajõgi Flusses."
+      },
+      {
+        "City_Name": "Pärnu",
+        "Historical_Landmarks": "Pärnu Strände, Kurorte, modernes Kunstzentrum.",
+        "Tourist_Activities": "Küsten­tourismus, Titel \"Sommerhauptstadt\" genießen.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Pärnu Park, Sandstrand."
+      },
+      {
+        "City_Name": "Narva",
+        "Historical_Landmarks": "Narva Schloss (Hermann Schloss), Narva Fluss, altes sowjetisches Viertel.",
+        "Tourist_Activities": "Grenzgebiete erkunden, historische Schlösser besuchen.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Hermann Park, Ufer des Narva Flusses."
+      },
+      {
+        "City_Name": "Kütla Järve",
+        "Historical_Landmarks": "Kütla Järve Schieferölmuseum, sowjetisches Stadtzentrum.",
+        "Tourist_Activities": "Erkundung industriellen und historischen Erbes.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Zentralpark."
+      },
+      {
+        "City_Name": "Viljandi",
+        "Historical_Landmarks": "Viljandi Schloss, See.",
+        "Tourist_Activities": "Teilnahme am Viljandi Volksfest, Bootfahren.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Viljandi Schlosspark, Ufer des Sees."
+      },
+      {
+        "City_Name": "Saaremaa",
+        "Historical_Landmarks": "Koorisaar Bischofsschloss, Kalli Meteoritenfeld.",
+        "Tourist_Activities": "Erkundung estnischer Inseln, Besuch seltener geologischer Stätten.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Viljandi Nationalpark, felsige Küsten."
+      },
+      {
+        "City_Name": "Sillamäe",
+        "Historical_Landmarks": "Stalinistische Architektur, Strand.",
+        "Tourist_Activities": "Erkundung der geplanten sowjetischen Architektur.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Sillamäe Strand, Moscow Park."
+      },
+      {
+        "City_Name": "Rakvere",
+        "Historical_Landmarks": "Rakvere Schloss, Väisnberg Park.",
+        "Tourist_Activities": "Besuch von Ruinenburgen und archäologischen Stätten.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Väisnberg Park."
+      },
+      {
+        "City_Name": "Valga",
+        "Historical_Landmarks": "Valga Schloss (Ruinen), Valga Museum.",
+        "Tourist_Activities": "Erkundung lokaler Geschichte und ländlichen Lebens.",
+        "Local_Cuisine": "Verivorst, Räimais, Silav.",
+        "Green_Spaces": "Valga Park, Ufer des Gauja Flusses."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eswatini",
+    "Cities": [
+      {
+        "City_Name": "Mabane",
+        "Historical_Landmarks": "Nationalmuseum in Swasiland, Mliba Naturpark, lokale Märkte.",
+        "Tourist_Activities": "Erkundung von Kultur und Traditionen, Besuch von Märkten.",
+        "Local_Cuisine": "Sizamabo (Maisbrei), Inkho (Fleischeintopf), Imbila (Erdnusseintopf), Sipopo.",
+        "Green_Spaces": "Mliba Naturpark."
+      },
+      {
+        "City_Name": "Manzini",
+        "Historical_Landmarks": "Offener Markt, Manzini Handwerkszentrum.",
+        "Tourist_Activities": "Handwerkskäufe, Spaziergang in der zweitgrößten Stadt.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Manzini Central Park."
+      },
+      {
+        "City_Name": "Lobamba",
+        "Historical_Landmarks": "Königspalast, Nationalmuseum, Hlan Königlicher Nationalpark.",
+        "Tourist_Activities": "Besuch des königlichen und legislativen Zentrums, Safari‑Trips und Tierbeobachtungen.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Hlan Königlicher Nationalpark."
+      },
+      {
+        "City_Name": "Big Bend",
+        "Historical_Landmarks": "Zuckerrübenfarmen, Großer Swaziland Fluss.",
+        "Tourist_Activities": "Landwirtschafts‑tourismus, Fluss-Rafting.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Zuckerrübenfarmen, Flussufer."
+      },
+      {
+        "City_Name": "Sihui",
+        "Historical_Landmarks": "Industriekomplex, Handelszentrum.",
+        "Tourist_Activities": "Erkundung industrieller Gebiete.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Umgebende ländliche Gebiete."
+      },
+      {
+        "City_Name": "Big Boy",
+        "Historical_Landmarks": "Naturschutzgebiet, Berglandschaft.",
+        "Tourist_Activities": "Langstreckenwanderungen, Ökotourismus.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Naturschutzgebiet, Berge."
+      },
+      {
+        "City_Name": "Sitikila",
+        "Historical_Landmarks": "Sitikila Museum, ländliche Gebiete.",
+        "Tourist_Activities": "Erkundung lokaler Geschichte.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Ländliche Gebiete, Hügel."
+      },
+      {
+        "City_Name": "Mhlokoe",
+        "Historical_Landmarks": "Mkhaya Schutzgebiet (Wildtiere), Naturschutz‑tourismus.",
+        "Tourist_Activities": "Wildtiere‑ und Nashornbeobachtungen, Safaritrips.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Mkhaya Schutzgebiet."
+      },
+      {
+        "City_Name": "Sekoya",
+        "Historical_Landmarks": "Traditionelle Dörfer, Kulturzentren.",
+        "Tourist_Activities": "Schwäbische Kultur lernen.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Umgebende traditionelle Dörfer."
+      },
+      {
+        "City_Name": "Lobatsi",
+        "Historical_Landmarks": "Diamantenabbaugebiete, Hochland.",
+        "Tourist_Activities": "Erkundung von Geografie und Bergbau.",
+        "Local_Cuisine": "Sizamabo, Inkho, Imbila.",
+        "Green_Spaces": "Hochland, Berglandschaft."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Indonesia",
+    "Cities": [
+      {
+        "City_Name": "Jakarta",
+        "Historical_Landmarks": "Nationaldenkmal (Monas), Taman Mini Indonesia Indah Park, Jakarta Geschichtsmuseum.",
+        "Tourist_Activities": "Erkundung der Großstadt, Museumsbesuche.",
+        "Local_Cuisine": "Nasi Goreng (gebratener Reis), Satay (gegrillte Fleischspieße), Gado Gado (Salat mit Erdnusssauce), Soto (Suppe).",
+        "Green_Spaces": "Taman Mini Indonesia Indah Park, Merdeka Park."
+      },
+      {
+        "City_Name": "Surabaya",
+        "Historical_Landmarks": "Sura Brücke, Unabhängigkeitsmoschee, Marinemuseum.",
+        "Tourist_Activities": "Spazieren in der zweitgrößten Stadt, nationale Geschichte und Unabhängigkeitskrieg erkunden, Shopping.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Gado Gado.",
+        "Green_Spaces": "Bongkol Park, Sumbu Park."
+      },
+      {
+        "City_Name": "Medan",
+        "Historical_Landmarks": "Große Mahdiya Moschee, Maemun Palast, See Toba (nahe der Stadt).",
+        "Tourist_Activities": "Besuch historischer Paläste, Erkundung Nord-Sumatra.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Gado Gado.",
+        "Green_Spaces": "See Toba."
+      },
+      {
+        "City_Name": "Makassar",
+        "Historical_Landmarks": "Rotterdam Festung, Losari Strand, Prinz Abdullah Moschee.",
+        "Tourist_Activities": "Erkundung maritimer und Handelsgeschichte, Küsten‑tourismus.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Gado Gado.",
+        "Green_Spaces": "Akaria Park, Losari Strand."
+      },
+      {
+        "City_Name": "Semarang",
+        "Historical_Landmarks": "Sam Bo Kong Tempel, Altstadt, Große Zentral-Java Moschee.",
+        "Tourist_Activities": "Besuch historischer Tempel, Erkundung chinesisch‑indonesischer Architektur.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Gado Gado.",
+        "Green_Spaces": "Wasserpark, Taman Budi Park."
+      },
+      {
+        "City_Name": "Bokor (Buncheak)",
+        "Historical_Landmarks": "Safari Zoo, Blumen Garten, Sieben Wasserfälle.",
+        "Tourist_Activities": "Besuch von Teegärten, Naturschutz‑tourismus.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Gado Gado.",
+        "Green_Spaces": "Blumengarten, Wasserfälle, Teeplantagen."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Italy",
+    "Cities": [
+      {
+        "City_Name": "Rome",
+        "Historical_Landmarks": "Kolloseum, Trevi Brunnen, der Vatikan, Pantheon, Römisches Forum, Vatikanische Museen.",
+        "Tourist_Activities": "Erkundung römischer Ruinen, Besuch des unabhängigen Staates (Vatikan), Eiscreme essen.",
+        "Local_Cuisine": "Carbonara Pasta, Romana Pizza, Saltimbocca, Arancini.",
+        "Green_Spaces": "Villa Borghese Park, Orange Park."
+      },
+      {
+        "City_Name": "Florence",
+        "Historical_Landmarks": "Florenz Dom (Duomo), Ponte Vecchio Brücke, Uffizien Galerie, Pitti Palast.",
+        "Tourist_Activities": "Kunst- und Geschichtstouren (Renaissance-Hauptstadt), Shopping in Leder­märkten.",
+        "Local_Cuisine": "Bistecca alla Fiorentina (Steak), Ribollita, Giotto.",
+        "Green_Spaces": "Boboli Garten, Boboli Garten, Bardini Garten."
+      },
+      {
+        "City_Name": "Venice (Venezia)",
+        "Historical_Landmarks": "Markusplatz, Rialto Brücke, Dogenpalast, Venezianische Kanäle.",
+        "Tourist_Activities": "Gondelfahrten, Inselerkundungen, Besuch historischer Sehenswürdigkeiten.",
+        "Local_Cuisine": "Sarde in Saor, Bigoli in Sauce.",
+        "Green_Spaces": "Papadopoli Garten, San Giorgio Maggiore Insel."
+      },
+      {
+        "City_Name": "Milan",
+        "Historical_Landmarks": "Mailänder Dom (Duomo), Galleria Vittorio Emanuele II, La Scala Oper, Sforzesco Schloss.",
+        "Tourist_Activities": "Weltklasse‑Shopping (Modehauptstadt), Opernaufführungen besuchen.",
+        "Local_Cuisine": "Mailänder Risotto, Cotoletta Milanese, Ossobuco.",
+        "Green_Spaces": "Sempione Park, Monte Stella Park."
+      },
+      {
+        "City_Name": "Naples",
+        "Historical_Landmarks": "Historisches Zentrum von Neapel, San Carlo Oper, Nationales Archäologisches Museum, Vesuv (nahe der Stadt).",
+        "Tourist_Activities": "Erkundung der Wiege der Pizza, Besuch von Pompeji und Herculaneum.",
+        "Local_Cuisine": "Original neapolitanische Pizza, Pasta mit Ragù, Baba (Dessert), Risotto.",
+        "Green_Spaces": "Villa Floridiana Park, Capodimonte Park."
+      },
+      {
+        "City_Name": "Bologna",
+        "Historical_Landmarks": "Maggiore Platz, Zwei Türme, San Petronio Kirche.",
+        "Tourist_Activities": "Food‑Tours (Gastronomiehauptstadt), Erkundung historischer Arkaden.",
+        "Local_Cuisine": "Bolognese Ragù, Tortellini in Brühe, Lasagna.",
+        "Green_Spaces": "Montagnola Park, Margherita Park."
+      },
+      {
+        "City_Name": "Genoa",
+        "Historical_Landmarks": "Alter Hafen von Genua, Palazzo del Doge, Maritimes Museum, Via Garibaldi (Weltkulturerbe).",
+        "Tourist_Activities": "Erkundung des ligurischen Hafens, Besuch von Welterbestätten.",
+        "Local_Cuisine": "Genoese Pesto, Farinata, Focaccia.",
+        "Green_Spaces": "Villa Durazzo Pallavicini Park, Neri Park."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Argentina",
+    "Cities": [
+      {
+        "City_Name": "Buenos Aires",
+        "Historical_Landmarks": "Casa Rosada (Präsidentenpalast), Recoleta (Friedhof), La Boca Viertel, Colon Oper, Puerto Madero.",
+        "Tourist_Activities": "Tango‑Shows besuchen, Touren in historischen Vierteln, Street‑Art erkunden.",
+        "Local_Cuisine": "Asado (gegrilltes Fleisch), Empanadas, Dulce de leche, Milanesa.",
+        "Green_Spaces": "Tres de Febrero Park, Centennial Park."
+      },
+      {
+        "City_Name": "Cordoba",
+        "Historical_Landmarks": "Jesuitenblock (Weltkulturerbe), Cordoba Kathedrale, Sarmineto Museum.",
+        "Tourist_Activities": "Erkundung religiöser und historischer Stätten, Universitäts‑tourismus.",
+        "Local_Cuisine": "Asado, Empanadas, Dulce de leche.",
+        "Green_Spaces": "Sarmineto Park, San Martin Park."
+      },
+      {
+        "City_Name": "Rosario",
+        "Historical_Landmarks": "Nationales Flaggenmonument, Oronio Boulevard, La Florida Strandpark, Paraná Fluss.",
+        "Tourist_Activities": "Spazieren entlang der Ufer des Paraná, Besuch von Kunstmuseen.",
+        "Local_Cuisine": "Asado, Empanadas, Dulce de leche.",
+        "Green_Spaces": "La Florida Strandpark, Independencia Park."
+      },
+      {
+        "City_Name": "Mendoza",
+        "Historical_Landmarks": "General San Martin Park, Aconcagua Berg, Weingüter (Weinregionen), Unabhängigkeitsplatz.",
+        "Tourist_Activities": "Erkundung von Weingütern und Weinverkostungen, Abenteuer in den Anden.",
+        "Local_Cuisine": "Asado, Empanadas, Dulce de leche.",
+        "Green_Spaces": "General San Martin Park, Weingüter."
+      },
+      {
+        "City_Name": "San Carlos de Bariloche",
+        "Historical_Landmarks": "Nahuel Huapi See, Cerro Campanario Seilbahn, Cerro Catedral Skigebiet, Patagonien Museum.",
+        "Tourist_Activities": "Wintersport, Abenteuertourismus in Patagonien.",
+        "Local_Cuisine": "Asado, Empanadas, Dulce de leche.",
+        "Green_Spaces": "Nahuel Huapi See, Nahuel Huapi Nationalpark."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Jordan",
+    "Cities": [
+      {
+        "City_Name": "Amman",
+        "Historical_Landmarks": "Römisches Amphitheater, Zitadelle Hügel, Jordanisches Museum, Königliches Automobilmuseum, City Mall, Innenstadt, Al‑Hooriyat Straße.",
+        "Tourist_Activities": "Spazieren in der Innenstadt, Museumsbesuche, Shopping, Ausflüge zum Toten Meer und Petra.",
+        "Local_Cuisine": "Mansaf (Nationalgericht), Maqluba, Rashouf (Hülsenfrucht‑ und Joghurt‑Suppe), Kunafa, Zarab (Fleisch unter Sand vergraben).",
+        "Green_Spaces": "King Hussein Park, Red Mountain Park."
+      },
+      {
+        "City_Name": "Petra",
+        "Historical_Landmarks": "Al Siq, Der Schatz, Kloster, Kolonnadenstraße, Jara Grab, Hof.",
+        "Tourist_Activities": "Erkunden der rosafarbenen Steinstadt, lange Wanderungen durch Al Siq.",
+        "Local_Cuisine": "Mansaf, Maqluba.",
+        "Green_Spaces": "Wadi Musa, umliegende Wüstengebiete."
+      },
+      {
+        "City_Name": "Irbid",
+        "Historical_Landmarks": "Irbid Archäologischer Hügel, Dar al‑Saraya Museum, Yarmouk Universität.",
+        "Tourist_Activities": "Museen und Erbe besuchen, Nähe zu Um Qais, Blick auf den See Tiberias und den Yarmouk Fluss.",
+        "Local_Cuisine": "Mansaf, Rashouf.",
+        "Green_Spaces": "Sheikh Hassan Park, ländliche Gebiete."
+      },
+      {
+        "City_Name": "Aqaba",
+        "Historical_Landmarks": "Aqaba Mamluk Schloss, Aqaba Archäologie Museum, Tala Bay Strand, Rotes Meer.",
+        "Tourist_Activities": "Tauchen und Schnorcheln im Roten Meer, Erkundung der Küstenstadt.",
+        "Local_Cuisine": "Mansaf, Fisch.",
+        "Green_Spaces": "Aqaba Park, Dana Reserve (in Planung)."
+      },
+      {
+        "City_Name": "Jerash",
+        "Historical_Landmarks": "Hadrians Bogen, Ovaler Platz, Südliches Jerash Theater, Straße der Säulen.",
+        "Tourist_Activities": "Besuch erhaltener römischer Ruinen.",
+        "Local_Cuisine": "Mansaf, Maqluba.",
+        "Green_Spaces": "Grünflächen rund um die Ruinen."
+      },
+      {
+        "City_Name": "Al Salt",
+        "Historical_Landmarks": "Al Hammamat Straße, Al‑Eizariya Haus, Al Salt Historisches Museum, Osmanische Architektur.",
+        "Tourist_Activities": "Erkundung osmanischer Architektur, Erbe‑tourismus (UNESCO Weltkulturerbe).",
+        "Local_Cuisine": "Mansaf, Rashouf.",
+        "Green_Spaces": "Al Salt Park, Berggebiete."
+      },
+      {
+        "City_Name": "Umm Qais",
+        "Historical_Landmarks": "Römische Ruinen, Westtheater, Blick auf den See Tiberias und den Yarmouk Fluss.",
+        "Tourist_Activities": "Historische Touren, Blick auf Grenzlandschaften.",
+        "Local_Cuisine": "Mansaf, Maqluba.",
+        "Green_Spaces": "Umm Qais Archäologischer Park."
+      }
+    ]
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    "Cities": [
+      {
+        "City_Name": "Dubai",
+        "Historical_Landmarks": "Burj Khalifa, Burj Al Arab, Dubai Mall, Museum of the Future, Palm Jumeirah (künstliche Inseln), Dubai Water Canal.",
+        "Tourist_Activities": "Weltklasse‑Shopping, Wüstensafari, Besuch künstlicher Inseln, moderne Unterhaltung, moderne Architektur erkunden.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat (Süßigkeiten), Khameer Brot, Balaleet.",
+        "Green_Spaces": "Dubai Safari Park, Mashref Park, Zabeel."
+      },
+      {
+        "City_Name": "Abu Dhabi",
+        "Historical_Landmarks": "Sheikh Zayed Grand Mosque, Al Watan Palast, Louvre Abu Dhabi, Touristeninseln, Abu Dhabi Corniche, Ferrari World.",
+        "Tourist_Activities": "Kultureller und religiöser Tourismus, Besuch von Kunstzentren, Familienunterhaltung.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Al Khaleej Park, Yas Island, Al Amanah Park."
+      },
+      {
+        "City_Name": "Sharjah",
+        "Historical_Landmarks": "Sharjah Museum of Islamic Civilization, Sharjah Heart, Eye of the Emirates.",
+        "Tourist_Activities": "Besuch von Kunst‑ und Kulturmuseen, Erkundung des alten Erbes.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Khalid Park, Al Majaz Park."
+      },
+      {
+        "City_Name": "Ajman",
+        "Historical_Landmarks": "Ajman Fort, Ajman Corniche, Ajman Museum.",
+        "Tourist_Activities": "Genießen der Strände, Museumsbesuche.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Ajman Park, die Corniche."
+      },
+      {
+        "City_Name": "Ras Al Khaimah",
+        "Historical_Landmarks": "Jebel Jais (höchster Gipfel der VAE), Ras Al Khaimah National Museum.",
+        "Tourist_Activities": "Bergsteiger‑Abenteuer, Zip‑Line‑Skifahren.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Sa'ad Park, Wadi Hai."
+      },
+      {
+        "City_Name": "Fujairah",
+        "Historical_Landmarks": "Fujairah Fort, Al Badiyah Moschee, Strände am Golf von Oman.",
+        "Tourist_Activities": "Tauchen und Schnorcheln, Bergtourismus.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Fujairah Park, Wadi Wuria."
+      },
+      {
+        "City_Name": "Umm Al Quwain",
+        "Historical_Landmarks": "Dreamland Aquatic Park, Sinia Insel, Altes Fort.",
+        "Tourist_Activities": "Wasserunterhaltung, Vogel‑ und Wildtierbeobachtung.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Dreamland Park, Sinia Insel."
+      },
+      {
+        "City_Name": "Khor Fakkan",
+        "Historical_Landmarks": "Khor Fakkan Strand, Riffa Damm, Haifischinsel.",
+        "Tourist_Activities": "Berg‑ und Küstentourismus, Besuch des Riffa Damms.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Khor Fakkan Park, Strände."
+      },
+      {
+        "City_Name": "Diba Al Husan",
+        "Historical_Landmarks": "Diba Hafen, Strände, Fischmarkt.",
+        "Tourist_Activities": "Besuch lokaler Märkte und maritimer Aktivitäten.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces": "Strände, Berggebiete."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ecuador",
+    "Cities": [
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "Altstadt (Weltkulturerbe), Äquatorlinie (Mitad del Mundo), La Compañía Kirche, Carondelet Palast.",
+        "Tourist_Activities": "Erkundung der Hochebene, Besuch kolonialer Sehenswürdigkeiten, Äquatorlinie erkunden.",
+        "Local_Cuisine": "Ceviche (Meeresfrüchte), Locro de papa (Kartoffelsuppe), Hornado (gebratenes Schwein), Empanadas (Gebäck).",
+        "Green_Spaces": "La Carolina Park, Eco Park."
+      },
+      {
+        "City_Name": "Guayaquil",
+        "Historical_Landmarks": "Malecón 2000, Las Peñas Viertel, Iguana Park, Santa Ana Hügel.",
+        "Tourist_Activities": "Spazieren entlang der Flussufer, Historische Treppen erklimmen.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Simón Bolívar Park, Malecón 2000."
+      },
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "Altstadt (Weltkulturerbe), Quito Kathedrale, Blumenmarkt.",
+        "Tourist_Activities": "Erkundung kolonialer Architektur, Panama-Hüte kaufen.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Calderon Park, Ufer des Tompamba Flusses."
+      },
+      {
+        "City_Name": "Galápagos",
+        "Historical_Landmarks": "Einzigartige Tierwelt (riesige Galápagos-Riesenschildkröten), Sierra Negra Vulkan, Darwin Forschungszentrum.",
+        "Tourist_Activities": "Tierbeobachtung, Tauchen und Schnorcheln, Inselerkundungen.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Nationalparks, Naturschutzgebiete."
+      },
+      {
+        "City_Name": "Umbita",
+        "Historical_Landmarks": "Berggipfel, wöchentliche Märkte.",
+        "Tourist_Activities": "Langstreckenwanderungen in den Bergen, Einkaufen auf dem Umbita Markt (Donnerstag).",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Berge, Täler."
+      },
+      {
+        "City_Name": "Riobamba",
+        "Historical_Landmarks": "Chimborazo Vulkan (nächster zur Sonne), Teufelstram.",
+        "Tourist_Activities": "Bergsteigen, Zugfahrten.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Chimborazo Nationalpark."
+      },
+      {
+        "City_Name": "Loja",
+        "Historical_Landmarks": "Bokarba Nationalpark, Filpamba Tal (nahe der Stadt), Loja Museum.",
+        "Tourist_Activities": "Besuch von Nationalparks, Erkundung der südlichen Region.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Bokarba Nationalpark."
+      },
+      {
+        "City_Name": "Portoviejo",
+        "Historical_Landmarks": "Portoviejo Museum, Zentraler Park.",
+        "Tourist_Activities": "Erkundung der Manabi Region.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Strände, Parks."
+      },
+      {
+        "City_Name": "Tena",
+        "Historical_Landmarks": "Onima Park, Misakuwili Fluss, Regenwälder.",
+        "Tourist_Activities": "Regenwaldtourismus, Bootsfahrten auf dem Amazonas.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Onima Park, Regenwälder."
+      },
+      {
+        "City_Name": "Puerto Villamil (Galápagos)",
+        "Historical_Landmarks": "Schildkrötenaufzuchtzentrum, Sierra Negra Vulkan, Galápagos Strände.",
+        "Tourist_Activities": "Erkundung der Galápagos-Inseln, einzigartige Tierwelt sehen.",
+        "Local_Cuisine": "Ceviche, Locro de papa, Hornado, Empanadas.",
+        "Green_Spaces": "Nationalparks, Naturschutzgebiete."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ireland",
+    "Cities": [
+      {
+        "City_Name": "Dublin",
+        "Historical_Landmarks": "Dublin Castle, Trinity College, Guinness Storehouse, Phoenix Park, Grafton Street.",
+        "Tourist_Activities": "Kultur‑ und Literatur‑touren, historische Pubs besuchen, Parks erkunden.",
+        "Local_Cuisine": "Irish Stew, Colcannon (Kartoffelstampf), Soda Bread.",
+        "Green_Spaces": "Phoenix Park, St. Stephen's Green."
+      },
+      {
+        "City_Name": "Cork",
+        "Historical_Landmarks": "Cork English Market, St. Finbarr's Cathedral, Fitzgerald's Park.",
+        "Tourist_Activities": "Besuch lokaler Märkte, Erkundung der Stadt am River Lee.",
+        "Local_Cuisine": "Irish Stew, Colcannon, Soda Bread.",
+        "Green_Spaces": "Fitzgerald's Park, The House Park."
+      },
+      {
+        "City_Name": "Galway",
+        "Historical_Landmarks": "Spanish Square, City Arch, Galway City Museum.",
+        "Tourist_Activities": "Festivalbesuche, Küsten‑tourismus an der Galway Bay.",
+        "Local_Cuisine": "Irish Stew, Colcannon, Soda Bread.",
+        "Green_Spaces": "Eiries Park, Silver Beach."
+      },
+      {
+        "City_Name": "Limerick",
+        "Historical_Landmarks": "King John's Castle, St. John the Baptist Cathedral, Hunt Museum.",
+        "Tourist_Activities": "Besuch von Schlössern und Museen, Spaziergang am Shannon Fluss.",
+        "Local_Cuisine": "Irish Stew, Colcannon, Soda Bread.",
+        "Green_Spaces": "People's Park, Bernard Park."
+      },
+      {
+        "City_Name": "Kilkerry",
+        "Historical_Landmarks": "Kilkerry Castle, St. Canice's Cathedral, Smith Heritage Centre.",
+        "Tourist_Activities": "Teilnahme am Kilkerry Arts Festival (April–Oktober).",
+        "Local_Cuisine": "Irish Stew, Colcannon, Soda Bread.",
+        "Green_Spaces": "Kilkerry Castle Park, River Nore."
+      },
+      {
+        "City_Name": "Waterford",
+        "Historical_Landmarks": "Reginald Tower, Waterford Treasures Museum, Viking Quarter.",
+        "Tourist_Activities": "Erkundung des Wiking­ererbes, Besuch der Waterford Crystal Fabrik.",
+        "Local_Cuisine": "Irish Stew, Colcannon, Soda Bread.",
+        "Green_Spaces": "Waterford Park, Tramore Beach."
+      },
+      {
+        "City_Name": "Sligo",
+        "Historical_Landmarks": "Benbulben Mountain, Sligo Abbey, William Butler Yeats Museum.",
+        "Tourist_Activities": "Erkundung der umliegenden Landschaften, literarische Touren (Yeats Erbe).",
+        "Local_Cuisine": "Irish Stew, Colcannon, Soda Bread.",
+        "Green_Spaces": "Garfan Park, Lkh Gil."
+      },
+      {
+        "City_Name": "Athlone",
+        "Historical_Landmarks": "Athlone Castle, River Shannon, Irlands ältestes Pub.",
+        "Tourist_Activities": "Erkundung historischer und kultureller Stätten, ideale Basis für Erkundungen der Umgebung.",
+        "Local_Cuisine": "Irish Stew, Colcannon, Soda Bread.",
+        "Green_Spaces": "Athlone Park, Shannon Flussufer."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Iceland",
+    "Cities": [
+      {
+        "City_Name": "Reykjavik",
+        "Historical_Landmarks": "Höfði Hall, Hallgrímskirkja Kirche, Blue Lagoon (heiße Seen).",
+        "Tourist_Activities": "Nordlichter beobachten, Whale‑Watching‑Tours, Golden Circle erkunden, Geschichte‑ und Wikinger‑Museen besuchen.",
+        "Local_Cuisine": "Hangikjöt (geräuchertes Lamm), Skyr (Joghurt), KFC (Fisch‑Sandwich).",
+        "Green_Spaces": "Laugardalur Park, Viðey Insel."
+      },
+      {
+        "City_Name": "Akureyri",
+        "Historical_Landmarks": "Akureyri Botanischer Garten, Akureyri Kirche.",
+        "Tourist_Activities": "Erkundung Nord‑Iceland, Kunstmuseum besuchen.",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces": "Akureyri Botanischer Garten, Vaðlaheiðar."
+      },
+      {
+        "City_Name": "Keflavik",
+        "Historical_Landmarks": "Wikinger‑Museum, Brücke zwischen den Kontinenten, Nähe zur Blue Lagoon.",
+        "Tourist_Activities": "Heiße Quellen besuchen, maritime Geschichte erkunden.",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces": "Keflavik Park, Blue Lagoon Strand."
+      },
+      {
+        "City_Name": "Hvamm",
+        "Historical_Landmarks": "Vatnajökull Nationalpark, Gletscherszenerie.",
+        "Tourist_Activities": "Gletschertouren, Eisberge erkunden, lokale Meeresfrüchte kosten.",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces": "Vatnajökull Nationalpark, Jökulsárlón See."
+      },
+      {
+        "City_Name": "Westman Islands (Vestmannaeyjar)",
+        "Historical_Landmarks": "Vulkanmuseum, aktive Vulkankrater, Papageienskolonien.",
+        "Tourist_Activities": "Bootstouren über den Atlantik, Wanderungen zu neuer vulkanischer Aktivität.",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces": "Eldfell Berg, Hjörgúðar Park."
+      },
+      {
+        "City_Name": "Svalnas",
+        "Historical_Landmarks": "Halbinsel, Küstenklippen.",
+        "Tourist_Activities": "Langstreckenwanderungen, weiße Sandstrände erkunden.",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces": "Renisfjara Strand, Þórhnir Vulkan."
+      },
+      {
+        "City_Name": "Grindavik",
+        "Historical_Landmarks": "Natürliche heiße Quellen, geologisches Museum.",
+        "Tourist_Activities": "Genießen natürlicher Bäder.",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces": "Grindavik Park, Gunnuhver Vulkan."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ethiopia",
+    "Cities": [
+      {
+        "City_Name": "Addis Ababa",
+        "Historical_Landmarks": "Nationalmuseum von Äthiopien (Lucy), Heilige Dreifaltigkeitskirche, Entoto Berg, Merkato Markt.",
+        "Tourist_Activities": "Besuch des Nationalmuseums, Markt‑Tour, historische Stätten erkunden.",
+        "Local_Cuisine": "Injera (fermentiertes Getreidefladenbrot), Wat (Eintopf), Tibs (gebratenes Fleisch), Doro Wat.",
+        "Green_Spaces": "Gihie Park, Entoto Berg."
+      },
+      {
+        "City_Name": "Lalibela",
+        "Historical_Landmarks": "Felsgehauene Kirchen (Weltkulturerbe).",
+        "Tourist_Activities": "Besuch der in Felsen gehauenen Kirchen (eine der Sieben Weltwunder).",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Hügel rund um die Kirchen."
+      },
+      {
+        "City_Name": "Axum",
+        "Historical_Landmarks": "Axum Obelisken, St. Marys Kirche von Zion, alte Palastruinen.",
+        "Tourist_Activities": "Erkundung der alten axumitischen Zivilisation.",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Hügel rund um die Stadt."
+      },
+      {
+        "City_Name": "Gonder",
+        "Historical_Landmarks": "Fasil Ghebbi (Weltkulturerbe), Fasil Bäder, Debre Birhan Selassie Kirche.",
+        "Tourist_Activities": "Besuch der alten königlichen Burgen.",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Lake Tana (nahe), Parks."
+      },
+      {
+        "City_Name": "Lake Tana",
+        "Historical_Landmarks": "Blue Nile Wasserfälle, Lake Tana, umliegende Klöster.",
+        "Tourist_Activities": "Besuch historischer Klöster am See, Wasserfälle sehen.",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Lake Tana, Blue Nile Wasserfälle."
+      },
+      {
+        "City_Name": "Dire Dawa",
+        "Historical_Landmarks": "Lokaler Markt, alter Bahnhof.",
+        "Tourist_Activities": "Erkundung der Handelsstadt.",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Kafira Park."
+      },
+      {
+        "City_Name": "Dessie",
+        "Historical_Landmarks": "Dessie Markt, umliegende Berglandschaft.",
+        "Tourist_Activities": "Natur‑tourismus, regionale Markt‑einkäufe.",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Berglandschaft."
+      },
+      {
+        "City_Name": "Harar",
+        "Historical_Landmarks": "Ummauerte Stadt (Weltkulturerbe), Rimba Haus, Arthur Rimbaud Haus.",
+        "Tourist_Activities": "Erkundung der alten islamischen Stadt, Hyänen‑Fütterung beobachten.",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Berge rund um die Stadt."
+      },
+      {
+        "City_Name": "Shashamane",
+        "Historical_Landmarks": "Rastafarianische Gemeinde, Kulturzentren.",
+        "Tourist_Activities": "Erkundung der Rastafarian‑Kultur.",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces": "Umgebende ländliche Gebiete."
+      }
+    ]
+  }
+]

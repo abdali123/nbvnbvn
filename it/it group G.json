@@ -1,0 +1,1096 @@
+[
+  {
+    "Country_Name": "Gabon",
+    "Cities": [
+      {
+        "City_Name": "Libreville",
+        "Historical_Landmarks": "Chiesa di San Michele con colonne di legno scolpite, il Palazzo Presidenziale in stile moderno.",
+        "Tourist_Activities": "Passeggiata lungo la passeggiata dell'Oceano Pacifico, visita al Museo delle Arti e Tradizioni gabonese, shopping al vivace mercato di Mont Bouet.",
+        "Local_Cuisine": "Nyimboy (pollo in salsa di palma) con platani cotti, pesce fresco alla griglia sulla spiaggia.",
+        "Green_Spaces": "Il piccolo parco Bonsuang all'interno della città, le spiagge isolate della città."
+      },
+      {
+        "City_Name": "Port-Gentil",
+        "Historical_Landmarks": "Cattedrale di San Luigi, il centro coloniale della città.",
+        "Tourist_Activities": "Godersi la spiaggia di Lomingui, tour per l'osservazione dei delfini, pesca nell'Oceano Atlantico.",
+        "Local_Cuisine": "Ostriche fresche e granchio speziato, pasticcini di manioca fritti.",
+        "Green_Spaces": "Foreste di mangrovie intorno alla città, Baia di Oguwe."
+      },
+      {
+        "City_Name": "Franceville",
+        "Historical_Landmarks": "Vecchi edifici governativi, il mercato centrale locale.",
+        "Tourist_Activities": "Visita alla statua di Omar Bongo, esplorazione delle colline di Oguwe Hollywood, escursioni sui sentieri forestali.",
+        "Local_Cuisine": "Carni affumicate (soprattutto cervo) con salsa di semi di zucca.",
+        "Green_Spaces": "Parco Munda con viste aperte, le colline verdi circostanti."
+      },
+      {
+        "City_Name": "Oyem",
+        "Historical_Landmarks": "Piccole chiese tradizionali, case di legno rurali.",
+        "Tourist_Activities": "Esperienza della cultura locale Fang, visita al mercato dei prodotti freschi.",
+        "Local_Cuisine": "Fagioli di arachidi cotti con riso, platani dolci alla griglia.",
+        "Green_Spaces": "Aree forestali vicino ai confini con Camerun e Guinea Equatoriale."
+      },
+      {
+        "City_Name": "Lambaréné",
+        "Historical_Landmarks": "Ospedale Albert Schweitzer (importante sito medico storico), case lungo il fiume.",
+        "Tourist_Activities": "Tour storico dell'Ospedale Albert Schweitzer, gite in barca sul Lago Oguwe.",
+        "Local_Cuisine": "Tilapia del fiume, spezzatino vegetariano Odiaka.",
+        "Green_Spaces": "Sistema lacustre interconnesso intorno alla città, giardino botanico dell'ospedale."
+      },
+      {
+        "City_Name": "Moundou",
+        "Historical_Landmarks": "Rovine delle vecchie miniere (turismo industriale).",
+        "Tourist_Activities": "Visita al complesso della miniera di manganese, esplorazione delle colline e dei villaggi circostanti.",
+        "Local_Cuisine": "Spezzatino africano di verdure con pollo, manioca bollita.",
+        "Green_Spaces": "Savanna collinare erbosa."
+      },
+      {
+        "City_Name": "Chipanga",
+        "Historical_Landmarks": "Edifici tradizionali della tribù Bunu.",
+        "Tourist_Activities": "Visita alle grotte di Ipbinda, escursioni nella savana.",
+        "Local_Cuisine": "Mokapi (foglie di banana ripiene), platani schiacciati.",
+        "Green_Spaces": "Grotte di Ipbinda, foresta savana."
+      },
+      {
+        "City_Name": "Makokou",
+        "Historical_Landmarks": "Ponte di Makokou.",
+        "Tourist_Activities": "Punto di partenza per il Parco Nazionale Ivindo, gite in barca sul fiume.",
+        "Local_Cuisine": "Pesce di fiume condito, frutti di bosco freschi.",
+        "Green_Spaces": "Fiume Ivindo, foreste pluviali circostanti."
+      },
+      {
+        "City_Name": "Kolamoto",
+        "Historical_Landmarks": "Mercato di Kolamoto.",
+        "Tourist_Activities": "Visita alle cascate di Bundolo nelle vicinanze, escursioni nei boschi di montagna.",
+        "Local_Cuisine": "Kibondo (piatto di carne e fagioli), riso vegetale.",
+        "Green_Spaces": "Cascate di Bundolo, valli di Munda."
+      },
+      {
+        "City_Name": "Gamba",
+        "Historical_Landmarks": "Stazione di ricerca di Gamba.",
+        "Tourist_Activities": "Ecoturismo per vedere gli elefanti sulla spiaggia, relax sulle rive tranquille.",
+        "Local_Cuisine": "Frutti di mare alla griglia, pollo cotto nella sabbia.",
+        "Green_Spaces": "Parco Nazionale Lwango (molto vicino), Lago Gamba."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Cities": [
+      {
+        "City_Name": "Antananarivo",
+        "Historical_Landmarks": "Palazzo Rova (complesso reale), Avenue de l'Indépendance.",
+        "Tourist_Activities": "Esplorazione del Palazzo della Regina (Rova), visita al mercato Zoma, passeggiata attorno al Lago Anosi.",
+        "Local_Cuisine": "Romazava (stufato di carne e verdure in brodo), Ravitoto (stufato di foglie di manioca con carne).",
+        "Green_Spaces": "Parco dei Lemuri a breve distanza, Parco Tsimbazaza."
+      },
+      {
+        "City_Name": "Nosy Be",
+        "Historical_Landmarks": "Monte Pasoo Be (punto più alto), faro De Sascale.",
+        "Tourist_Activities": "Snorkeling e immersioni nell'arcipelago di Mitsio, pesca nell'Oceano Indiano, visita alla spiaggia di Amatot.",
+        "Local_Cuisine": "Curry di frutti di mare al cocco, ananas fresco.",
+        "Green_Spaces": "Spiaggia Be Mo Zandranano, Parco Nazionale Lokobe."
+      },
+      {
+        "City_Name": "Antsirabe",
+        "Historical_Landmarks": "Cattedrale Notre Dame de la Salette, stazione ferroviaria coloniale.",
+        "Tourist_Activities": "Viaggio su tradizionali rickshaw \"pousse‑pousse\", visita ai laghi vulcanici (Lago Ranomafana), laboratori di artigianato.",
+        "Local_Cuisine": "Koba (dolce di riso e arachidi), torta di banana.",
+        "Green_Spaces": "Lago Ranomafana, colline di Antsirabe."
+      },
+      {
+        "City_Name": "Morondava",
+        "Historical_Landmarks": "Mercati tradizionali in città.",
+        "Tourist_Activities": "Visita all'Avenue dei Baobab al tramonto, relax sulla Baobab Beach.",
+        "Local_Cuisine": "Famoso piatto di gamberi di Morondava, Sarimelona (carne cotta).",
+        "Green_Spaces": "L'iconica Avenue dei Baobab."
+      },
+      {
+        "City_Name": "Toliara",
+        "Historical_Landmarks": "Museo etnologico.",
+        "Tourist_Activities": "Visita al vivaio Alofiera, esplorazione delle barriere coralline nella Baia di Saint Augustine.",
+        "Local_Cuisine": "Pesce secco con riso, zuppa di pesce.",
+        "Green_Spaces": "Parco Rinala (collezione di piante), spiaggia di Ifaty."
+      },
+      {
+        "City_Name": "Vianarantsua",
+        "Historical_Landmarks": "Vecchia città di Vianarantsua.",
+        "Tourist_Activities": "Viaggio in treno attraverso le foreste pluviali, visita ai vigneti del sud.",
+        "Local_Cuisine": "Vino locale di Timor, torte malgache.",
+        "Green_Spaces": "Vedute della campagna montuosa, giardini cittadini."
+      },
+      {
+        "City_Name": "Mahajanga",
+        "Historical_Landmarks": "Moschea di Mahajanga, Baobab Cyclone.",
+        "Tourist_Activities": "Godersi le spiagge di Amborovy, visita al gigantesco baobab nel centro città.",
+        "Local_Cuisine": "Masikit (kebab di carne), frutti di mare.",
+        "Green_Spaces": "Spiaggia di Amborovy, fiume Petsi Boka."
+      },
+      {
+        "City_Name": "Diego Suarez",
+        "Historical_Landmarks": "Faro di Diego Suarez.",
+        "Tourist_Activities": "Visita alle baie di Diego, godere della bellezza della spiaggia di Raminia.",
+        "Local_Cuisine": "Gamberoni alla griglia, zuppa di pesce al cocco.",
+        "Green_Spaces": "Le tre baie di Diego Suarez, Monte Zucchero."
+      },
+      {
+        "City_Name": "Île Sainte‑Marie",
+        "Historical_Landmarks": "Storico cimitero dei pirati.",
+        "Tourist_Activities": "Osservazione delle balene (luglio‑settembre), immersioni su relitti di navi pirata.",
+        "Local_Cuisine": "Pesce con salsa alla vaniglia, frutto di litchi fresco.",
+        "Green_Spaces": "Spiagge di sabbia bianca, foreste dell'isola."
+      },
+      {
+        "City_Name": "Fort Dauphin",
+        "Historical_Landmarks": "Vecchio forte.",
+        "Tourist_Activities": "Surf sulle spiagge vicine, visita al Lago Lanano.",
+        "Local_Cuisine": "Langostin (lumaca di mare), mango fresco.",
+        "Green_Spaces": "Lago Lanano, montagne di Anhoï."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Morocco",
+    "Cities": [
+      {
+        "City_Name": "Marrakech",
+        "Historical_Landmarks": "Piazza Jemaa el‑Fna, Palazzo Bahia, Madrasa Ben Youssef.",
+        "Tourist_Activities": "Passeggiare per Jemaa el‑Fna di notte, visita al Giardino Majorelle, contrattare nei mercati della medina vecchia.",
+        "Local_Cuisine": "Tangia alla marocchinese cotta in forno tradizionale, tagine di verdure e agnello.",
+        "Green_Spaces": "Giardini Majorelle (il giardino blu), Giardini Menara, frutteto d'olivi."
+      },
+      {
+        "City_Name": "Casablanca",
+        "Historical_Landmarks": "Moschea Hassan II (minareto più alto al mondo), Cattedrale del Sacro Cuore.",
+        "Tourist_Activities": "Visita alla Moschea Hassan II (icona della città), passeggiata sul Corniche di Ain Diab, esplorazione del quartiere Habous.",
+        "Local_Cuisine": "Couscous tradizionale marocchino, piatti di frutti di mare sul corniche.",
+        "Green_Spaces": "Corniche di Ain Diab, Parco della Lega Araba."
+      },
+      {
+        "City_Name": "Fes",
+        "Historical_Landmarks": "Università di Al‑Quaraouiyine, concerie tradizionali (charmart), Bab Boujloud.",
+        "Tourist_Activities": "Passeggiata nel labirinto della medina vecchia (Fes el‑Bali), visita alle concerie tradizionali, visita all'Università Al‑Quaraouiyine.",
+        "Local_Cuisine": "Bastilla (pasticcio di mandorle e pollo), khlii (carne essiccata e conservata).",
+        "Green_Spaces": "Giardini andalusi, panorami dalla torre settentrionale di Fes."
+      },
+      {
+        "City_Name": "Chefchaouen",
+        "Historical_Landmarks": "Piazza di Ouata al‑Hammam, la Kasbah (antica fortezza).",
+        "Tourist_Activities": "Fotografia nei suggestivi vicoli azzurri, acquisti di artigianato in lana, escursione alle cascate di Akchour.",
+        "Local_Cuisine": "Formaggio di capra locale fresco, bissara (zuppa di fave).",
+        "Green_Spaces": "Cascate di Akchour, Parco Nazionale Talsmtane."
+      },
+      {
+        "City_Name": "Tangier",
+        "Historical_Landmarks": "Kasbah di Tangeri, Grand Théâtre.",
+        "Tourist_Activities": "Visita alla Grotta di Ercole, osservazione dell'incontro del Mediterraneo e dell'Atlantico a Cap Spartel, passeggiata nella Kasbah.",
+        "Local_Cuisine": "Zuppa di pesce in stile settentrionale, paella (influenza spagnola).",
+        "Green_Spaces": "Grotta di Ercole, Cap Spartel."
+      },
+      {
+        "City_Name": "Rabat",
+        "Historical_Landmarks": "Torre Hassan, Kasbah degli Udayas, Mausoleo di Mohammed V.",
+        "Tourist_Activities": "Visita alla Torre Hassan e al mausoleo, passeggiata nella Kasbah blu‑e‑bianca degli Udayas, esplorazione delle rovine di Chellah.",
+        "Local_Cuisine": "Rfissa (piatto popolare di pollo e lenticchie), dolci marocchini assortiti.",
+        "Green_Spaces": "Giardino Zoologico Nazionale, Giardino degli Esperimenti Botanici."
+      },
+      {
+        "City_Name": "Agadir",
+        "Historical_Landmarks": "Kasbah di Agadir Oufla (vista panoramica), mercato della domenica.",
+        "Tourist_Activities": "Godersi la lunga spiaggia di Agadir, visita alla Kasbah Oufla, shopping al mercato della domenica.",
+        "Local_Cuisine": "Piatti di pesce fresco alla griglia, amlou (pasta di mandorle‑miele‑argan).",
+        "Green_Spaces": "Spiaggia di Agadir, Valle degli Uccelli."
+      },
+      {
+        "City_Name": "Essaouira",
+        "Historical_Landmarks": "Bastioni di Essaouira, vecchio porto.",
+        "Tourist_Activities": "Passeggiata nella vecchia città e nel porto, osservazione del tramonto dai bastioni, surf.",
+        "Local_Cuisine": "Sardine alla griglia al porto, piatti a base di olio di argan.",
+        "Green_Spaces": "Spiaggia di Essaouira, isole Mogador."
+      },
+      {
+        "City_Name": "Meknes",
+        "Historical_Landmarks": "Bab Mansour (porta imponente), Mausoleo di Moulay Ismail.",
+        "Tourist_Activities": "Visita a Bab Mansour, esplorazione del serbatoio Saouni, escursione di un giorno alle rovine romane di Volubilis.",
+        "Local_Cuisine": "Tagine con olive sottaceto e limone conservato, olive di Meknes.",
+        "Green_Spaces": "Serbatoio Saouni, giardini di Meknes."
+      },
+      {
+        "City_Name": "Ouarzazate",
+        "Historical_Landmarks": "Kasbah di Taourirt, studi cinematografici (Hollywood Africa).",
+        "Tourist_Activities": "Visita agli studi cinematografici, esplorazione della Kasbah di Taourirt, escursione a Ait Ben Haddou (sito UNESCO).",
+        "Local_Cuisine": "Pane tradizionale di tannourt, agnello alla griglia.",
+        "Green_Spaces": "Oasi della Valle di Ouarzazate vicine, viste dell'Atlante Alto."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Brazil",
+    "Cities": [
+      {
+        "City_Name": "Rio de Janeiro",
+        "Historical_Landmarks": "Statua del Cristo Redentore, Monte Sugarloaf, quartiere Lapa (architettura coloniale).",
+        "Tourist_Activities": "Visita al Cristo Redentore, funivia per il Monte Sugarloaf, relax sulla spiaggia di Copacabana.",
+        "Local_Cuisine": "Feijoada (stufato di fagioli neri), cocktail classico di caipirinha.",
+        "Green_Spaces": "Spiagge di Copacabana e Ipanema, Parco Nazionale di Tijuca (foresta pluviale urbana)."
+      },
+      {
+        "City_Name": "São Paulo",
+        "Historical_Landmarks": "Edificio Panorama di São Paulo, Cattedrale di São Paulo.",
+        "Tourist_Activities": "Visita al MASP (Museo d'Arte), passeggiata in Avenida Paulista, spettacolo al Teatro Municipale.",
+        "Local_Cuisine": "Pizza brasiliana (crosta spessa), gigantesco panino di mortadella al mercato locale.",
+        "Green_Spaces": "Parco Ibirapuera, Giardini Botanici."
+      },
+      {
+        "City_Name": "Salvador",
+        "Historical_Landmarks": "Colorato quartiere storico di Pelourinho (sito UNESCO), Ascensore Lacerda.",
+        "Tourist_Activities": "Esplorazione di Pelourinho, spettacoli di capoeira, viaggio sull'ascensore aerea Lacerda.",
+        "Local_Cuisine": "Acarajé (frittella di fagioli fritta), moqueca (stufato di pesce al cocco).",
+        "Green_Spaces": "Spiagge di Porto da Barra, lago Atrás do Rio."
+      },
+      {
+        "City_Name": "Foz do Iguaçu",
+        "Historical_Landmarks": "Diga idroelettrica di Itaipu (una delle più grandi dighe).",
+        "Tourist_Activities": "Esplorazione delle Cascate di Iguaçu dal lato brasiliano, visita al Parque das Aves (Parco degli Uccelli).",
+        "Local_Cuisine": "Pesce dorado alla griglia, churrasco (carne alla griglia).",
+        "Green_Spaces": "Parco Nazionale di Iguaçu, Parco degli Uccelli."
+      },
+      {
+        "City_Name": "Manaus",
+        "Historical_Landmarks": "Teatro dell'Amazzonia, Mercato Adolfo Lutz.",
+        "Tourist_Activities": "Gite in barca sul fiume nella foresta pluviale amazzonica, osservazione della confluenza dei fiumi Negro e Solimões, visita al Teatro dell'Amazzonia.",
+        "Local_Cuisine": "Pesce tambaqui alla griglia, zuppa takaká (gamberi con manioca).",
+        "Green_Spaces": "Confluenza dei fiumi, riserve amazzoniche vicine."
+      },
+      {
+        "City_Name": "Brasília",
+        "Historical_Landmarks": "Cattedrale di Brasília, edificio del Congresso Nazionale.",
+        "Tourist_Activities": "Visita alla futuristica Cattedrale di Brasília, passeggiata nella Piazza dei Tre Poteri, visita al Ponte Juscelino Kubitschek.",
+        "Local_Cuisine": "Carni alla griglia (churrasco), piatti centrali.",
+        "Green_Spaces": "Lago artificiale Paranoá, Parco Nazionale di Brasília."
+      },
+      {
+        "City_Name": "Recife",
+        "Historical_Landmarks": "Città storica di Olinda vicino a Recife, Centro Culturale Freddie Bessa.",
+        "Tourist_Activities": "Esplorazione del Recife Antigo (città vecchia), relax sulla spiaggia di Boa Viagem, visita a laboratori artigianali.",
+        "Local_Cuisine": "Bolo de rolo (torta locale), frutti di mare.",
+        "Green_Spaces": "Spiaggia di Boa Viagem, fiume Capibaribe."
+      },
+      {
+        "City_Name": "Florianópolis",
+        "Historical_Landmarks": "Ponte Hercílio Luz.",
+        "Tourist_Activities": "Surf a Praia Mole, scivolamento su dune di sabbia a Joaquina.",
+        "Local_Cuisine": "Ostriche fresche (piatto principale), mango fresco.",
+        "Green_Spaces": "Lagoa da Conceição, spiaggia Campeco."
+      },
+      {
+        "City_Name": "Gramado",
+        "Historical_Landmarks": "Chiesa di São Pedro Apostolo.",
+        "Tourist_Activities": "Visita a Snowland (parco tematico della neve indoor), tour del Lago Negro, degustazione di cioccolato artigianale.",
+        "Local_Cuisine": "Fondue (influenza svizzera), cioccolata calda.",
+        "Green_Spaces": "Lago Negro, Mini Mundo."
+      },
+      {
+        "City_Name": "Fortaleza",
+        "Historical_Landmarks": "Teatro José de Alencar, Castello Nosa Senhora de Assunção.",
+        "Tourist_Activities": "Godersi la spiaggia di Futuro, visita al Centro Culturale Dragão do Mar, acquisti di artigianato.",
+        "Local_Cuisine": "Aragosta alla griglia, baião de dois (riso e fagioli).",
+        "Green_Spaces": "Spiaggia di Futuro, Spiaggia di Iracema."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bulgaria",
+    "Cities": [
+      {
+        "City_Name": "Sofia",
+        "Historical_Landmarks": "Cattedrale di Alessandro Nevsky, Chiesa di San Giorgio (la più antica), la Moschea Nera.",
+        "Tourist_Activities": "Visita alla Cattedrale di Alessandro Nevsky, funivia per il Monte Vitosha, shopping in Vitosha Street.",
+        "Local_Cuisine": "Insalata shopska (cetriolo, pomodoro, formaggio bulgaro), banitsa (pasticcio salato).",
+        "Green_Spaces": "Monte Vitosha (facilmente accessibile), Giardino Borisova."
+      },
+      {
+        "City_Name": "Plovdiv",
+        "Historical_Landmarks": "Antico teatro romano, città vecchia, Moschea Dzhumaya.",
+        "Tourist_Activities": "Visita all'antico teatro romano, passeggiata nel quartiere artistico Kapana, esplorazione della città vecchia.",
+        "Local_Cuisine": "Tarator (zuppa fredda di yogurt), kavarma (stufato di carne in pentola di terracotta).",
+        "Green_Spaces": "Le Sette Colline (incluse le colline della città), fiume Maritsa."
+      },
+      {
+        "City_Name": "Varna",
+        "Historical_Landmarks": "Museo Archeologico di Varna (oro più antico del mondo), Cattedrale della Vergine.",
+        "Tourist_Activities": "Relax sulla spiaggia, visita al museo archeologico, passeggiata nel giardino marino.",
+        "Local_Cuisine": "Tilapia del Mar Nero, cozze all'aglio.",
+        "Green_Spaces": "Giardino marino, spiagge del Mar Nero."
+      },
+      {
+        "City_Name": "Burgas",
+        "Historical_Landmarks": "Passeggiata sul mare di Burgas, Chiesa dei Santi.",
+        "Tourist_Activities": "Partecipazione al festival della sabbia (estate), passeggiata nel parco marino, visita al Lago Atanasovsko per il birdwatching.",
+        "Local_Cuisine": "Tsatsa (piccola pesce fritto), piatti di frutti di mare.",
+        "Green_Spaces": "Lago Atanasovsko, parco marino."
+      },
+      {
+        "City_Name": "Veliko Tarnovo",
+        "Historical_Landmarks": "Fortezza di Tsarevets, via Samovodska Charshia.",
+        "Tourist_Activities": "Visita alla Fortezza di Tsarevets, passeggiata nella via dell'artigianato, spettacolo notturno \"Suono e Luce\".",
+        "Local_Cuisine": "Stufato di maiale e patate, pane tradizionale potur.",
+        "Green_Spaces": "Fiume Yantra, paesaggio montano circostante."
+      },
+      {
+        "City_Name": "Nesebar",
+        "Historical_Landmarks": "Antiche chiese bizantine, vecchie fortificazioni.",
+        "Tourist_Activities": "Passeggiata nella penisola vecchia inserita nella lista UNESCO, visita alle chiese bizantine.",
+        "Local_Cuisine": "Frutti di mare freschi, vino bianco locale.",
+        "Green_Spaces": "Sunny Beach vicina, Mar Nero."
+      },
+      {
+        "City_Name": "Bansko",
+        "Historical_Landmarks": "Chiesa della Santissima Trinità, Piazza Velito.",
+        "Tourist_Activities": "Sci invernale, escursioni estive nei Pirin Mountains.",
+        "Local_Cuisine": "Kapama (stufato tradizionale a cottura lenta), chomlek (stufato di carne in terracotta).",
+        "Green_Spaces": "Parco Nazionale di Pirin, lago di Bansko."
+      },
+      {
+        "City_Name": "Sozopol",
+        "Historical_Landmarks": "Case di legno storiche, vecchio porto.",
+        "Tourist_Activities": "Esplorazione della città vecchia di legno, relax su spiagge tranquille.",
+        "Local_Cuisine": "Marmellata di fichi (regionale), pesce alla griglia.",
+        "Green_Spaces": "Spiagge di Sozopol, Isola di San Ivan."
+      },
+      {
+        "City_Name": "Ruse",
+        "Historical_Landmarks": "Piazza della Liberazione, architettura moderna.",
+        "Tourist_Activities": "Passeggiata lungo il Danubio, esplorazione dell'architettura austriaco‑barocca.",
+        "Local_Cuisine": "Zuppa di pesce del Danubio, piatti di maiale.",
+        "Green_Spaces": "Fiume Danubio, Parco della Libertà."
+      },
+      {
+        "City_Name": "Kazanlak",
+        "Historical_Landmarks": "Tomba thracia (sito UNESCO), Museo della Rosa.",
+        "Tourist_Activities": "Visita al Museo della Rosa, esplorazione delle tombe thrache, partecipazione al Festival della Rosa (maggio‑giugno).",
+        "Local_Cuisine": "Marmellata di rosa, liquore alla rosa.",
+        "Green_Spaces": "Valle della Rosa, Monti Balcani."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bosnia and Herzegovina",
+    "Cities": [
+      {
+        "City_Name": "Sarajevo",
+        "Historical_Landmarks": "Mercato ottomano Baščaršija, Ponte Latino, Moschea Gazi Husrev-beg.",
+        "Tourist_Activities": "Passeggiata nel mercato Baščaršija, visita al Ponte Latino, funivia per la Montagna Trebević.",
+        "Local_Cuisine": "Kebab bosniaco (ćevapi) in pane somun, burek (pasticci ripieni di carne o formaggio).",
+        "Green_Spaces": "Montagna Trebević (accessibile con funivia), fiume, Parco Frelo."
+      },
+      {
+        "City_Name": "Mostar",
+        "Historical_Landmarks": "Ponte Vecchio (Stari Most), antiche case ottomane.",
+        "Tourist_Activities": "Osservare i saltatori dal Stari Most, esplorazione del vecchio mercato, visita al Museo della Guerra di Bosnia.",
+        "Local_Cuisine": "Dolma (verdure ripiene), tufahija (dessert tradizionale di zucca).",
+        "Green_Spaces": "Fiume Neretva smeraldo, giardini lungo il fiume."
+      },
+      {
+        "City_Name": "Banija Luka",
+        "Historical_Landmarks": "Forte di Kastel, Moschea Ferhat Pasha.",
+        "Tourist_Activities": "Visita al Forte di Kastel, kayak sul fiume Vrbas, visita alla Moschea Ferhat Pasha.",
+        "Local_Cuisine": "Kebab di Banija Luka, formaggio trapista locale.",
+        "Green_Spaces": "Fiume Vrbas, giardini di Banija Luka."
+      },
+      {
+        "City_Name": "Blagaj",
+        "Historical_Landmarks": "Tekke dei Dervisch intagliato nella roccia.",
+        "Tourist_Activities": "Visita al tekke dei Dervisch, vedere la sorgente del fiume Buna.",
+        "Local_Cuisine": "Trota fresca, vitello alla griglia.",
+        "Green_Spaces": "Sorgente del fiume Buna, pendii rocciosi."
+      },
+      {
+        "City_Name": "Trebinje",
+        "Historical_Landmarks": "Ponte Arslanagić, vecchia città.",
+        "Tourist_Activities": "Passeggiata sul Ponte Arslanagić, visita al Monastero di Hrškovac, degustazione di vino locale.",
+        "Local_Cuisine": "Formaggio in olio, prosciutto affumicato (pršut).",
+        "Green_Spaces": "Fiume Trebišnjica, Chiesa di Gracanica (vista panoramica)."
+      },
+      {
+        "City_Name": "Jajce",
+        "Historical_Landmarks": "Castello reale, Cattedrale di San Luca.",
+        "Tourist_Activities": "Visita alla grande cascata nel centro città, visita al Castello reale, esplorazione dei mulini ad acqua.",
+        "Local_Cuisine": "Dolci di formaggio (zeljanica), kebab.",
+        "Green_Spaces": "Cascata di Jajce, Lago Pliva, mulini ad acqua."
+      },
+      {
+        "City_Name": "Trnovo",
+        "Historical_Landmarks": "Castello colorato di Trnovo, moschea colorata.",
+        "Tourist_Activities": "Visita al Castello di Trnovo, esplorazione della moschea colorata, visita alla casa di Ivo Andrić.",
+        "Local_Cuisine": "Formaggio Flašic, kebab di Trnovo.",
+        "Green_Spaces": "Fiume Lahova, montagne circostanti."
+      },
+      {
+        "City_Name": "Konići",
+        "Historical_Landmarks": "Bunker nucleare di Tito (Ark D‑0).",
+        "Tourist_Activities": "Foto al ponte ottomano, visita al bunker nucleare di Tito.",
+        "Local_Cuisine": "Pesce di fiume alla griglia, polenta di mais (pura).",
+        "Green_Spaces": "Fiume Neretva, montagne rocciose."
+      },
+      {
+        "City_Name": "Višegrad",
+        "Historical_Landmarks": "Ponte Mehmed Paša Sokolović (UNESCO), Andrićgrad.",
+        "Tourist_Activities": "Camminata sul Ponte Mehmed Paša Sokolović (ponte del Drina), visita ad Andrićgrad.",
+        "Local_Cuisine": "Pesce del fiume Drina, piatti di carne.",
+        "Green_Spaces": "Fiume Drina, paesaggi circostanti."
+      },
+      {
+        "City_Name": "Bijeljina",
+        "Historical_Landmarks": "Torre di Captainova, Moschea Fethija.",
+        "Tourist_Activities": "Rafting sul fiume Una, visita alle cascate Štrbatski Buk vicine.",
+        "Local_Cuisine": "Mokapi (foglie di banana ripiene), platani schiacciati.",
+        "Green_Spaces": "Fiume Una, Parco Nazionale di Una, cascate Štrbatski."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Portugal",
+    "Cities": [
+      {
+        "City_Name": "Lisbon",
+        "Historical_Landmarks": "Torre di Belém, Monastero dos Jerónimos, Praça do Comércio.",
+        "Tourist_Activities": "Passeggiata sul tram 28, visita alla Torre di Belém, ascolto di fado in Alfama.",
+        "Local_Cuisine": "Pastel de nata (tartina alla crema), bacalhau (merluzzo salato) preparato in vari modi.",
+        "Green_Spaces": "Parco Eduardo VII, fiume Tago, viste panoramiche sulle colline."
+      },
+      {
+        "City_Name": "Porto",
+        "Historical_Landmarks": "Ponte Dom Luís I, Livraria Lello, stazione ferroviaria São Bento (piastrelle azzurre).",
+        "Tourist_Activities": "Degustazione di vino porto a Vila Nova de Gaia, camminata sul Ponte Dom Luís I, visita alla Livraria Lello.",
+        "Local_Cuisine": "Francesinha (sandwich coperto di formaggio e salsa), tripas à moda do Porto (piatto tradizionale di trippa).",
+        "Green_Spaces": "Fiume Douro, Giardini del Palazzo di Cristallo."
+      },
+      {
+        "City_Name": "Sintra",
+        "Historical_Landmarks": "Palazzo Nazionale di Pena, Palazzo di Regaleira, Castello Moorish.",
+        "Tourist_Activities": "Visita al colorato Palazzo di Pena, esplorazione del misterioso Palazzo di Regaleira, tour dell'antico Castello Moorish.",
+        "Local_Cuisine": "Travesseiros (pasticcini alle mandorle), queijadas (torte al formaggio).",
+        "Green_Spaces": "Montagne di Sintra, giardini del Palazzo di Regaleira."
+      },
+      {
+        "City_Name": "Faro",
+        "Historical_Landmarks": "Chiesa del Carmo (Chiesa delle Ossa), Porta Vecchia di Faro.",
+        "Tourist_Activities": "Esplorazione della città vecchia fortificata, tour in barca nella Riserva Naturale di Ria Formosa.",
+        "Local_Cuisine": "Cataplana (stufato di frutti di mare), sardine alla griglia.",
+        "Green_Spaces": "Riserva Naturale di Ria Formosa, spiaggia di Faro."
+      },
+      {
+        "City_Name": "Lagos",
+        "Historical_Landmarks": "Fortezza Banda Bandidera, vecchio mercato degli schiavi.",
+        "Tourist_Activities": "Tour in barca per esplorare le grotte di Bóia da Piedade, relax sulla spiaggia di Dona Ana.",
+        "Local_Cuisine": "Ovos moles (dolci morbidi di uovo), piatti di frutti di mare.",
+        "Green_Spaces": "Scogliere di Bóia da Piedade, spiaggia di Dona Ana."
+      },
+      {
+        "City_Name": "Coimbra",
+        "Historical_Landmarks": "Antica Università di Coimbra e la Biblioteca Joanina, Monastero di Santa Cruz.",
+        "Tourist_Activities": "Tour dell'antica Università e della Biblioteca Joanina, ascolto di fado di Coimbra.",
+        "Local_Cuisine": "Pollo con salsa, budino di albicocche (pudim de abade de Bragança).",
+        "Green_Spaces": "Fiume Mondgão, giardino botanico."
+      },
+      {
+        "City_Name": "Évora",
+        "Historical_Landmarks": "Tempio romano di Diana, Cappella delle Ossa (Capela dos Ossos).",
+        "Tourist_Activities": "Visita al Tempio romano di Diana, esplorazione della Cappella delle Ossa.",
+        "Local_Cuisine": "Açorda (zuppa di pane), maiale iberico nero.",
+        "Green_Spaces": "Pianure dell'Alentejo, vigneti."
+      },
+      {
+        "City_Name": "Aveiro",
+        "Historical_Landmarks": "Museo di Aveiro.",
+        "Tourist_Activities": "Corsa sui colorati moliceiro (i canali di Aveiro, la “Venezia” del Portogallo), visita alla spiaggia di Costa Nova.",
+        "Local_Cuisine": "Ovos moles (dolci morbidi di uovo), piatti di frutti di mare.",
+        "Green_Spaces": "Canali della città, spiaggia di Costa Nova."
+      },
+      {
+        "City_Name": "Braga",
+        "Historical_Landmarks": "Chiesa di Bom Jesus do Monte, Cattedrale Vecchia di Braga.",
+        "Tourist_Activities": "Scalata delle scale di Bom Jesus do Monte, visita alla Cattedrale Vecchia di Braga.",
+        "Local_Cuisine": "Pollo con salsa, budino di albicocche (pudim de abade de Bragança).",
+        "Green_Spaces": "Giardini di Santa Bárbara, colline di Braga."
+      },
+      {
+        "City_Name": "Cascais",
+        "Historical_Landmarks": "Castello di Cascais, Museo del Conte di Castro.",
+        "Tourist_Activities": "Passeggiata al porto, osservazione delle scogliere marine, degustazione di cioccolato artigianale.",
+        "Local_Cuisine": "Carni alla griglia, piatti di frutti di mare.",
+        "Green_Spaces": "Boca do Inferno, spiaggia di Guincho."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Paraguay",
+    "Cities": [
+      {
+        "City_Name": "Asunción",
+        "Historical_Landmarks": "Palazzo Los López (palazzo presidenziale), Pantheon degli Eroi, Museo Nazionale.",
+        "Tourist_Activities": "Visita al Palazzo Los López, tour del Pantheon degli Eroi, passeggiata sulla passeggiata fluviale.",
+        "Local_Cuisine": "Sopa paraguaya (pane di mais salato), chipa (pane di formaggio‑tapioca).",
+        "Green_Spaces": "Passeggiata fluviale di Asunción sul fiume Paraguay, Giardino Botanico e Zoo."
+      },
+      {
+        "City_Name": "Ciudad del Este",
+        "Historical_Landmarks": "Diga di Itaipu (massivo progetto ingegneristico).",
+        "Tourist_Activities": "Shopping di confine, visita alla diga idroelettrica di Itaipu, vista alle Cascate Mundai.",
+        "Local_Cuisine": "Pica Pau (carne fritta), tereré (bevanda fredda di mate).",
+        "Green_Spaces": "Cascate Mundai, fiume Paraná."
+      },
+      {
+        "City_Name": "Encarnación",
+        "Historical_Landmarks": "Rovine della missione gesuita di Trinidad vicino a Encarnación.",
+        "Tourist_Activities": "Passeggiata lungo la passeggiata del fiume Paraguay, godere delle spiagge fluviali, visita alle rovine gesuitiche vicine.",
+        "Local_Cuisine": "Mbejú (torta di amido e formaggio), crêpes farcite.",
+        "Green_Spaces": "Passeggiata del fiume Paraguay, spiagge fluviali."
+      },
+      {
+        "City_Name": "Villarrica",
+        "Historical_Landmarks": "Cattedrale, Museo Manuel Ortiz.",
+        "Tourist_Activities": "Esplorazione della campagna e delle piantagioni di mate, viaggi in carrozze rurali antiche.",
+        "Local_Cuisine": "Furái (piatto locale di pollo), bucheiro (manzo).",
+        "Green_Spaces": "Colline regionali, campi agricoli."
+      },
+      {
+        "City_Name": "Concepción",
+        "Historical_Landmarks": "Chiesa principale, vecchio porto.",
+        "Tourist_Activities": "Tour del vecchio porto, gite in barca sul fiume Paraguay, esplorazione di edifici coloniali.",
+        "Local_Cuisine": "Pesce di fiume alla griglia, zuppa di pesce.",
+        "Green_Spaces": "Fiume Paraguay, parchi fluviali."
+      },
+      {
+        "City_Name": "Ariguá",
+        "Historical_Landmarks": "Chiesa San Lorenzo.",
+        "Tourist_Activities": "Visita al Lago Ypacaraí (vedute panoramiche), mercato di ceramiche e artigianato.",
+        "Local_Cuisine": "Fragole con panna (stagionale), piatto di chipa.",
+        "Green_Spaces": "Lago Ypacaraí, Cerro Qui."
+      },
+      {
+        "City_Name": "Caacupé",
+        "Historical_Landmarks": "Chiesa di Nostra Signora di Caacupé.",
+        "Tourist_Activities": "Salita sulle colline circostanti, visita alla cattedrale di pellegrinaggio.",
+        "Local_Cuisine": "Dolci tradizionali, torta di mais.",
+        "Green_Spaces": "Colline di Caacupé, fattorie rurali."
+      },
+      {
+        "City_Name": "San Bernardino",
+        "Historical_Landmarks": "Vecchie ville estive.",
+        "Tourist_Activities": "Attività acquatiche sul Lago Ypacaraí, soggiorno al resort estivo.",
+        "Local_Cuisine": "Carni alla griglia, cucina internazionale.",
+        "Green_Spaces": "Lago Ypacaraí."
+      },
+      {
+        "City_Name": "Filadelfia",
+        "Historical_Landmarks": "Museo delle Colonie Minonaiti.",
+        "Tourist_Activities": "Visita al Museo delle Colonie Minonaiti, esplorazione della regione del Chaco.",
+        "Local_Cuisine": "Formaggi e prodotti lattiero‑caseari Minonaiti, carni affumicate.",
+        "Green_Spaces": "Area secca del Chaco."
+      },
+      {
+        "City_Name": "Yaguarón",
+        "Historical_Landmarks": "Chiesa di Yaguarón (capolavoro in legno).",
+        "Tourist_Activities": "Visita alla storica chiesa francescana, salita al Monte Yaguarón.",
+        "Local_Cuisine": "Caraco (piatto di chiocciole), cucina rurale.",
+        "Green_Spaces": "Monte Yaguarón."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Belarus",
+    "Cities": [
+      {
+        "City_Name": "Minsk",
+        "Historical_Landmarks": "Biblioteca Nazionale (architettura a diamante), Piazza della Vittoria, Cattedrale dello Spirito Santo.",
+        "Tourist_Activities": "Visita all'Isola delle Lacrime e al fiume Svislach, esplorazione di Viale dell'Indipendenza, tour della Biblioteca Nazionale.",
+        "Local_Cuisine": "Draniki (pancake di patate), zuppa borscht bielorussa.",
+        "Green_Spaces": "Parco Gorky, fiume Svislach, Isola delle Lacrime."
+      },
+      {
+        "City_Name": "Brest",
+        "Historical_Landmarks": "Fortezza Memoriale di Brest, zona pedonale di Via Sovetskaya.",
+        "Tourist_Activities": "Visita alla Fortezza Memoriale di Brest, passeggiata nella via illuminata di notte, visita al museo archeologico.",
+        "Local_Cuisine": "Pollo marinato in stile bielorusso, bevanda popolare Kvas.",
+        "Green_Spaces": "Fiume Bog, Parco Nazionale di Brest."
+      },
+      {
+        "City_Name": "Hrodna",
+        "Historical_Landmarks": "Castelli vecchi e nuovi, Chiesa di Kaloga.",
+        "Tourist_Activities": "Visita ai castelli vecchi e nuovi, esplorazione delle chiese storiche, passeggiata lungo le rive del fiume Niemen.",
+        "Local_Cuisine": "Paste ripiene di carne (bliny), patate con carne.",
+        "Green_Spaces": "Fiume Niemen, Parco Gelbert."
+      },
+      {
+        "City_Name": "Vitebsk",
+        "Historical_Landmarks": "Museo Marc Chagall (famoso pittore), Anfiteatro Estivo.",
+        "Tourist_Activities": "Visita al Museo Marc Chagall, partecipazione al festival d'arte all'Anfiteatro Estivo.",
+        "Local_Cuisine": "Insalata di aringa (sleidka) con verdure, piatto di riso e funghi.",
+        "Green_Spaces": "Fiume Dvina, Parco di Vitebsk."
+      },
+      {
+        "City_Name": "Gomel",
+        "Historical_Landmarks": "Palazzo Romantsevich (museo e giardino), Cattedrale di San Pietro.",
+        "Tourist_Activities": "Visita al Palazzo Romantsevich, passeggiata lungo le rive del fiume Sozh.",
+        "Local_Cuisine": "Paste ripiene (pierogi), maiale sottaceto.",
+        "Green_Spaces": "Fiume Sozh, giardino del palazzo."
+      },
+      {
+        "City_Name": "Mogilev",
+        "Historical_Landmarks": "Consiglio della Città di Mogilev.",
+        "Tourist_Activities": "Visita all'antico edificio del consiglio cittadino, esplorazione di Piazza della Stella, passeggiata allo zoo.",
+        "Local_Cuisine": "Maiale alla griglia con patate, piatti semplici casalinghi.",
+        "Green_Spaces": "Fiume Dnepr, Parco di Mogilev."
+      },
+      {
+        "City_Name": "Nesvizh",
+        "Historical_Landmarks": "Palazzo di Nesvizh (sito UNESCO), Chiesa del Corpus Christi.",
+        "Tourist_Activities": "Visita al Palazzo di Nesvizh, esplorazione dei giardini circostanti e dei terreni del palazzo.",
+        "Local_Cuisine": "Piatti medievali nobili, bevande al miele.",
+        "Green_Spaces": "Vasti giardini del palazzo, Lago di Nesvizh."
+      },
+      {
+        "City_Name": "Mir",
+        "Historical_Landmarks": "Castello di Mir (sito UNESCO).",
+        "Tourist_Activities": "Visita al Castello di Mir, esplorazione del villaggio tradizionale circostante.",
+        "Local_Cuisine": "Shashlik (carne alla griglia), dolci al miele.",
+        "Green_Spaces": "Lago del Castello di Mir."
+      },
+      {
+        "City_Name": "Polotsk",
+        "Historical_Landmarks": "Cattedrale di Santa Sofia, Pietra di Boris.",
+        "Tourist_Activities": "Visita alla Cattedrale di Santa Sofia, tour del centro geografico d'Europa.",
+        "Local_Cuisine": "Pane nero bieloruso, piatti di pesce di fiume.",
+        "Green_Spaces": "Fiume Dvina, giardini storici."
+      },
+      {
+        "City_Name": "Brest (Pinsk)",
+        "Historical_Landmarks": "Palazzo Batory, Chiesa di San Carlo.",
+        "Tourist_Activities": "Gite sul fiume, esplorazione dell'architettura barocca, visita al museo regionale.",
+        "Local_Cuisine": "Pesce di fiume fritto, zuppa di funghi.",
+        "Green_Spaces": "Fiume Bripeiat, area umida."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Trinidad and Tobago",
+    "Cities": [
+      {
+        "City_Name": "Port of Spain",
+        "Historical_Landmarks": "I Magnifici Sette (edifici coloniali), la Red House (Parlamento).",
+        "Tourist_Activities": "Visita al Queen's Park Savannah, esplorazione del Museo Nazionale, partecipazione al Carnevale stagionale.",
+        "Local_Cuisine": "Doubles (sandwich di ceci al curry), roti (pane piatto ripieno in stile indiano).",
+        "Green_Spaces": "Parco Savannah, Giardini Botanici Reali."
+      },
+      {
+        "City_Name": "Scarborough",
+        "Historical_Landmarks": "Castello di King George, Centro Conferenze di Tobago.",
+        "Tourist_Activities": "Visita al Castello di King George, passeggiata nei Giardini Botanici, camminata sul lungomare.",
+        "Local_Cuisine": "Granchio e doucette, piatti di frutti di mare.",
+        "Green_Spaces": "Spiagge di Scarborough, Giardini Botanici."
+      },
+      {
+        "City_Name": "San Fernando",
+        "Historical_Landmarks": "Sala di San Fernando.",
+        "Tourist_Activities": "Scalata di San Fernando Hill per viste panoramiche, passeggiata nel mercato centrale.",
+        "Local_Cuisine": "Bilalo (zuppa di verdure), curry.",
+        "Green_Spaces": "San Fernando Hill."
+      },
+      {
+        "City_Name": "Arima",
+        "Historical_Landmarks": "Chiesa di Santa Rosa.",
+        "Tourist_Activities": "Visita al Centro Natura Asa Wright, partecipazione al Festival di Santa Rosa di agosto.",
+        "Local_Cuisine": "Carni affumicate, piatti di coniglio.",
+        "Green_Spaces": "Centro Natura Asa Wright."
+      },
+      {
+        "City_Name": "Chaguanas",
+        "Historical_Landmarks": "Tempio Hindù di Waterloo.",
+        "Tourist_Activities": "Visita al Tempio di Waterloo, shopping al vivace mercato di Chaguanas.",
+        "Local_Cuisine": "Vari piatti indiani in stile crêpe, pollo al curry.",
+        "Green_Spaces": "Spiagge di Waterloo."
+      },
+      {
+        "City_Name": "Maracas",
+        "Historical_Landmarks": "Punti panoramici costieri.",
+        "Tourist_Activities": "Relax sulla famosa spiaggia di Maracas, prova al panino “Fish and Shark”.",
+        "Local_Cuisine": "Bika e squalo (squalo e pane fritto), frutti di mare.",
+        "Green_Spaces": "Spiaggia di Maracas, foreste circostanti."
+      },
+      {
+        "City_Name": "Crown Point",
+        "Historical_Landmarks": "Faro di Crown Point.",
+        "Tourist_Activities": "Godersi Buccoo Beach, snorkeling nella Nylon Pool.",
+        "Local_Cuisine": "Grigliate di frutti di mare, piatti al curry.",
+        "Green_Spaces": "Buccoo Beach, Nylon Pool."
+      },
+      {
+        "City_Name": "Charlotteville",
+        "Historical_Landmarks": "Vecchio villaggio di pescatori.",
+        "Tourist_Activities": "Tranquillità a Pirate Bay, immersioni poco profonde.",
+        "Local_Cuisine": "Pesce fresco fritto, frutta tropicale.",
+        "Green_Spaces": "Pirate Bay."
+      },
+      {
+        "City_Name": "Poco",
+        "Historical_Landmarks": "Vecchie piantagioni coloniali.",
+        "Tourist_Activities": "Visita alle barriere coralline di Boco, passeggiata nella foresta protetta di Boco.",
+        "Local_Cuisine": "Bevande tropicali, pesce alla griglia.",
+        "Green_Spaces": "Barriere coralline di Boco, Lago Boco."
+      },
+      {
+        "City_Name": "Toco",
+        "Historical_Landmarks": "Faro di Toco.",
+        "Tourist_Activities": "Visita al faro storico, osservazione delle tartarughe marine sulle spiagge (stagionale).",
+        "Local_Cuisine": "Frutto del pane, piatti di pollo.",
+        "Green_Spaces": "Spiagge di Toco."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Timor‑Leste",
+    "Cities": [
+      {
+        "City_Name": "Dili",
+        "Historical_Landmarks": "Statua Cristo Rei, Museo della Resistenza, Palazzo del Governo.",
+        "Tourist_Activities": "Scalata al Cristo Rei, visita al Museo della Resistenza, immersioni nelle barriere coralline vicine.",
+        "Local_Cuisine": "Ikan Pepes (pesce speziato avvolto in foglia di banana), Batara Dan (piatto di mais).",
+        "Green_Spaces": "Spiaggia di Areia Branca, mare di Dili."
+      },
+      {
+        "City_Name": "Baucau",
+        "Historical_Landmarks": "Vecchi edifici coloniali, mercato di Baucau.",
+        "Tourist_Activities": "Visita ai vecchi edifici portoghesi, nuoto nella piscina naturale (Piscina Natural).",
+        "Local_Cuisine": "Piatti timorensi-portoghesi, pesce alla griglia.",
+        "Green_Spaces": "Piscina naturale, spiaggia di Baucau."
+      },
+      {
+        "City_Name": "Manatuto",
+        "Historical_Landmarks": "Case tradizionali Lopo, santuario di Manatuto.",
+        "Tourist_Activities": "Godersi le viste montane, visita ai giardini di fiori, vedere il santuario tradizionale.",
+        "Local_Cuisine": "Caffè locale timorense, carne di agnello.",
+        "Green_Spaces": "Montagne e colline circostanti, giardini regionali."
+      },
+      {
+        "City_Name": "Los Palos",
+        "Historical_Landmarks": "Case tradizionali Uma Lulik.",
+        "Tourist_Activities": "Visita al Lago Ira Lalaro, esplorazione delle case tradizionali Lopo.",
+        "Local_Cuisine": "Carne di bufalo cotta, pesce di lago.",
+        "Green_Spaces": "Lago Ira Lalaro, foreste regionali."
+      },
+      {
+        "City_Name": "Viqueque",
+        "Historical_Landmarks": "Mercato centrale.",
+        "Tourist_Activities": "Relax nelle sorgenti termali, esplorazione dei villaggi rurali.",
+        "Local_Cuisine": "Riso e verdure, maiale.",
+        "Green_Spaces": "Sorgenti termali, natura rurale."
+      },
+      {
+        "City_Name": "Maliana",
+        "Historical_Landmarks": "Siti di confine con l'Indonesia.",
+        "Tourist_Activities": "Passeggiata nei mercati tradizionali, esplorazione del paesaggio di confine con l'Indonesia.",
+        "Local_Cuisine": "Tabai (cassava fermentata), pollo cotto.",
+        "Green_Spaces": "Colline di Maliana, terre agricole."
+      },
+      {
+        "City_Name": "Atauro (Island)",
+        "Historical_Landmarks": "Villaggi tradizionali dell'isola.",
+        "Tourist_Activities": "Immersioni e snorkeling in acque biodiverse, visita ai villaggi noti per la creazione di bambole.",
+        "Local_Cuisine": "Pesce fresco alla griglia, frutti di mare.",
+        "Green_Spaces": "Barriere coralline, spiagge dell'isola."
+      },
+      {
+        "City_Name": "Jaco (Island)",
+        "Historical_Landmarks": "Isola sacra (solo pellegrinaggi).",
+        "Tourist_Activities": "Immersioni e snorkeling in acque biodiverse, birdwatching.",
+        "Local_Cuisine": "I visitatori devono portare cibo (isola disabitata).",
+        "Green_Spaces": "Spiagge di sabbia bianca, acque cristalline."
+      },
+      {
+        "City_Name": "Balibo",
+        "Historical_Landmarks": "Forte di Balibo, monumento ai giornalisti.",
+        "Tourist_Activities": "Visita al forte storico, tour del museo dei giornalisti, viste costiere.",
+        "Local_Cuisine": "Caffè e banana fritta.",
+        "Green_Spaces": "Spiaggia di Balibo."
+      },
+      {
+        "City_Name": "Lica",
+        "Historical_Landmarks": "Case coloniali, centro cittadino.",
+        "Tourist_Activities": "Relax sulle spiagge di sabbia nera, esplorazione dei vecchi edifici coloniali.",
+        "Local_Cuisine": "Caffè e banana fritta.",
+        "Green_Spaces": "Spiagge di sabbia nera, oceano."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Tuvalu",
+    "Cities": [
+      {
+        "City_Name": "Funafuti",
+        "Historical_Landmarks": "Edificio del Parlamento (Vali Vono), Aeroporto di Funafuti.",
+        "Tourist_Activities": "Visita all'Area di Conservazione Marina di Funafuti, partita a calcio sulla pista di atterraggio di notte, tour dell'edificio governativo.",
+        "Local_Cuisine": "Bolo Sapi (purè di taro con cocco), tonno fresco.",
+        "Green_Spaces": "Area di Conservazione Marina di Funafuti, lago sulla spiaggia."
+      },
+      {
+        "City_Name": "Faitupou",
+        "Historical_Landmarks": "Chiesa di Faitupou.",
+        "Tourist_Activities": "Relax su spiagge tranquille, visita alle scuole locali, esperienza della vita villaggiosa.",
+        "Local_Cuisine": "Frutto del pane fritto, zuppa di cocco.",
+        "Green_Spaces": "Spiagge dell'isola, piccole foreste."
+      },
+      {
+        "City_Name": "Nanumea",
+        "Historical_Landmarks": "Grande Chiesa di Nanumea, edifici storici.",
+        "Tourist_Activities": "Visita ai relitti di aerei della Seconda Guerra Mondiale, visita alla grande chiesa.",
+        "Local_Cuisine": "Granchio di cocco, pesce cotto.",
+        "Green_Spaces": "Spiaggia di Nanumea, siti di relitti della Seconda Guerra Mondiale."
+      },
+      {
+        "City_Name": "Nuiatop",
+        "Historical_Landmarks": "Centro del villaggio.",
+        "Tourist_Activities": "Esplorazione della cultura locale, apprendimento dell'artigianato tradizionale.",
+        "Local_Cuisine": "Budino di Tuvalu, piatti a base di taro.",
+        "Green_Spaces": "Lago sulla spiaggia, alberi."
+      },
+      {
+        "City_Name": "Nui",
+        "Historical_Landmarks": "Centro del villaggio.",
+        "Tourist_Activities": "Immersioni poco profonde intorno alle barriere coralline, totale tranquillità.",
+        "Local_Cuisine": "Pesce salato e secco, piatti a base di cocco.",
+        "Green_Spaces": "Barriere coralline, mare."
+      },
+      {
+        "City_Name": "Nukufetau",
+        "Historical_Landmarks": "Piccole rovine storiche.",
+        "Tourist_Activities": "Relax sul grande lago costiero, immersioni poco profonde.",
+        "Local_Cuisine": "Latte di cocco fresco, pesce.",
+        "Green_Spaces": "Lago costiero."
+      },
+      {
+        "City_Name": "Nukulaelae",
+        "Historical_Landmarks": "Ti Variko (sito religioso antico).",
+        "Tourist_Activities": "Visita alle antiche rovine (Ti Variko), godersi la natura.",
+        "Local_Cuisine": "Piatti di frutti di mare tradizionali, frutta.",
+        "Green_Spaces": "Spiagge, natura."
+      },
+      {
+        "City_Name": "Niulakita",
+        "Historical_Landmarks": "Nessun punto di riferimento costruito di rilievo.",
+        "Tourist_Activities": "Godersi l'isolamento totale, esplorazione dell'isola.",
+        "Local_Cuisine": "Piatti tradizionali a base di uccelli marini, frutta.",
+        "Green_Spaces": "Spiagge incontaminate."
+      },
+      {
+        "City_Name": "Amatuku (Island)",
+        "Historical_Landmarks": "Istituto Marittimo.",
+        "Tourist_Activities": "Visita all'Istituto Marittimo, relax su piccole spiagge.",
+        "Local_Cuisine": "Piatti locali a base di taro e pesce.",
+        "Green_Spaces": "Spiagge dell'isola."
+      },
+      {
+        "City_Name": "Tepuka (Island)",
+        "Historical_Landmarks": "Nessun punto di riferimento costruito di rilievo.",
+        "Tourist_Activities": "Escursioni su isole disabitate, birdwatching.",
+        "Local_Cuisine": "Grigliata sulla spiaggia.",
+        "Green_Spaces": "Spiagge, mare."
+      }
+    ]
+  },
+  {
+    "Country_Name": "San Marino",
+    "Cities": [
+      {
+        "City_Name": "San Marino City (capital)",
+        "Historical_Landmarks": "Le tre torri (Guaita, Cesta, Montale), Palazzo Pubblico (sede del governo), Chiesa di Sant'Antonio.",
+        "Tourist_Activities": "Esplorazione delle tre castelli, visita ai musei, passeggiata per le strade della città vecchia, acquisto di francobolli commemorativi, caffè e ristoranti.",
+        "Local_Cuisine": "Pizza napoletana, spaghetti, pasta, lasagna, escabeche, Nudli (tagliatelle di carne locale), Torta Tre Monti (torta delle tre torri).",
+        "Green_Spaces": "Parco Guido, parchi cittadini, Piazza San Marco, viste alpine panoramiche."
+      },
+      {
+        "City_Name": "Borgo Maggiore",
+        "Historical_Landmarks": "Chiesa di San Francesco, Chiesa di Santa Chiara, Teatro San Carlo.",
+        "Tourist_Activities": "Visita alle chiese storiche, passeggiata nella città vecchia, shopping nelle vie commerciali, godersi il paesaggio montano.",
+        "Local_Cuisine": "Spaghetti, lasagna, pasta locale, torte regionali.",
+        "Green_Spaces": "Parchi cittadini, viste montane circostanti."
+      },
+      {
+        "City_Name": "Serravalle",
+        "Historical_Landmarks": "Chiesa di Santa Maria Assunta, Museo di Serravalle.",
+        "Tourist_Activities": "Visita al museo, passeggiata in città, godersi le spiagge vicine a Rimini, Italia.",
+        "Local_Cuisine": "Frutti di mare freschi, pasta locale, piatti di carne.",
+        "Green_Spaces": "Parchi cittadini, paesaggio costiero."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Liechtenstein",
+    "Cities": [
+      {
+        "City_Name": "Vaduz (capital)",
+        "Historical_Landmarks": "Castello di Vaduz (residenza reale), Cattedrale di San Florino, Kunstmuseum (museo d'arte).",
+        "Tourist_Activities": "Visita al castello (esterno), passeggiata nella città vecchia, tour del museo d'arte, acquisto di francobolli commemorativi, escursioni nelle Alpi.",
+        "Local_Cuisine": "Fondue di formaggio, cioccolato svizzero, Rasschtui (piatto di noodles, formaggio e patate), Mont Kass (patate a strati, carne e formaggio), Kischte Nudel (polpette).",
+        "Green_Spaces": "Parchi cittadini, viste alpine, valle del Reno."
+      }
+    ]
+  },
+  {
+    "Country_Name": "North Macedonia",
+    "Cities": [
+      {
+        "City_Name": "Skopje (capital)",
+        "Historical_Landmarks": "Fortezza di Kale, Piazza Marshal Tito, Chiesa di San Clemente, Ponte di Pietra, Museo Nazionale.",
+        "Tourist_Activities": "Visita alla fortezza, passeggiata nella città vecchia (la Grande Strada), esplorazione del mercato antico, vita notturna vibrante.",
+        "Local_Cuisine": "Tavče Gravče (insalata di fagioli al forno), Baforka (torta locale), Kavana (piatto di carne macinata), Tavče Boranička (stufato di verdure).",
+        "Green_Spaces": "Parchi cittadini, viste sui Monti Šar, fiume Vardar."
+      },
+      {
+        "City_Name": "Ohrid",
+        "Historical_Landmarks": "Lago di Ohrid, Chiesa di San Giorgio, Fortezza di Samuel, Chiesa di Santa Sofia (UNESCO).",
+        "Tourist_Activities": "Relax sul lago, visita alle antiche chiese e monasteri, esplorazione della natura, passeggiata nella città vecchia.",
+        "Local_Cuisine": "Piatti di pesce fresco (soprattutto karak), zuppa di agnello, stufato di Ohrid.",
+        "Green_Spaces": "Lago di Ohrid, parchi cittadini, montagne circostanti."
+      },
+      {
+        "City_Name": "Petrovo",
+        "Historical_Landmarks": "Cimitero di San Nicola, Chiesa di San Giovanni.",
+        "Tourist_Activities": "Visita al cimitero, passeggiata in città, godersi la natura di montagna.",
+        "Local_Cuisine": "Piatti di carne alla griglia, pane locale, piatti a base di latticini.",
+        "Green_Spaces": "Parchi cittadini, vedute montane circostanti."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Albania",
+    "Cities": [
+      {
+        "City_Name": "Tirana (capital)",
+        "Historical_Landmarks": "Moschea di Et'hem Bey, Opera Hall, Museo di Storia Nazionale, Piramide di Tirana, Piazza Skanderbeg.",
+        "Tourist_Activities": "Visita alla moschea e al palazzo, passeggiata nella città vecchia, esplorazione del Blloku (ex zona del partito comunista), vita notturna.",
+        "Local_Cuisine": "Tavë Kosi (casseruola nazionale con melanzane e carne macinata), Byrek (torte salate con vari ripieni), Pita (pane piatto), Reka (carne alla griglia).",
+        "Green_Spaces": "Parco Grande, Lago artificiale di Tirana."
+      },
+      {
+        "City_Name": "Durrës",
+        "Historical_Landmarks": "Cattedrale di San Paolo, Castello di Rosafa.",
+        "Tourist_Activities": "Visita alla cattedrale, passeggiata sulle spiagge, visita al Castello di Rosafa.",
+        "Local_Cuisine": "Piatti di pesce alla griglia, frutti di mare.",
+        "Green_Spaces": "Spiagge di Durrës, parchi cittadini."
+      },
+      {
+        "City_Name": "Vlorë",
+        "Historical_Landmarks": "Moschea di Vlorë, Museo di Vlorë.",
+        "Tourist_Activities": "Visita alla moschea, passeggiata in città, godersi la natura.",
+        "Local_Cuisine": "Piatti di carne alla griglia, pane locale, formaggio locale.",
+        "Green_Spaces": "Parchi cittadini, paesaggi montani."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Croatia",
+    "Cities": [
+      {
+        "City_Name": "Zagreb (capital)",
+        "Historical_Landmarks": "Gornji Grad (Città Alta), Cattedrale di San Stefano, Porta di Pietra, Mercato Dolac.",
+        "Tourist_Activities": "Visita alla città vecchia, passeggiata per le strade, funivia, vita notturna.",
+        "Local_Cuisine": "Bastiti (pasta con carne e formaggio), buzolia (cozze fritte), grupni (carne alla griglia), insalata šopska (versione croata).",
+        "Green_Spaces": "Parchi cittadini, monte Sljeme."
+      },
+      {
+        "City_Name": "Split",
+        "Historical_Landmarks": "Palazzo di Diocleziano (sito UNESCO), Chiesa di San Duje, Mausoleo di Diocleziano.",
+        "Tourist_Activities": "Visita al palazzo, passeggiata nella città, godersi le spiagge.",
+        "Local_Cuisine": "Bastiti, buzolia, grupni, beachteš (carne alla griglia su carbone).",
+        "Green_Spaces": "Spiagge di Split, parchi cittadini, monte Marjan."
+      },
+      {
+        "City_Name": "Dubrovnik",
+        "Historical_Landmarks": "Mura di Dubrovnik, Cattedrale di San Lorenzo, strada Stradun.",
+        "Tourist_Activities": "Passeggiata sulle mura, esplorazione della città vecchia, godersi la natura.",
+        "Local_Cuisine": "Bastiti, buzolia, grupni, frutti di mare freschi.",
+        "Green_Spaces": "Parchi cittadini, isola di Lokrum."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Serbia",
+    "Cities": [
+      {
+        "City_Name": "Belgrade (capital)",
+        "Historical_Landmarks": "Fortezza di Belgrado, Cattedrale di San Michele, Museo Nikola Tesla, Tempio di San Sava.",
+        "Tourist_Activities": "Visita alla fortezza, passeggiata in città, vita notturna.",
+        "Local_Cuisine": "Ćevapčići (kebab), pljeskavica (insalata), sarma (involtini di cavolo ripieni), gibanica (torta di formaggio e spinaci).",
+        "Green_Spaces": "Parchi cittadini, vedute sui fiumi Sava e Danubio."
+      },
+      {
+        "City_Name": "Novi Sad",
+        "Historical_Landmarks": "Fortezza di Petrovaradin, Chiesa di San Giorgio.",
+        "Tourist_Activities": "Visita alla fortezza, passeggiata in città, godersi la natura.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, paesaggi montani."
+      },
+      {
+        "City_Name": "Niš",
+        "Historical_Landmarks": "Fortezza di Niš, Cattedrale di San Trifone.",
+        "Tourist_Activities": "Visita alla fortezza, passeggiata in città, godersi la natura.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, paesaggi montani."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Montenegro",
+    "Cities": [
+      {
+        "City_Name": "Podgorica (capital)",
+        "Historical_Landmarks": "Ponte del Millennio, Palazzo di Podgorica, Chiesa di San Andrea.",
+        "Tourist_Activities": "Visita al palazzo, passeggiata in città, vita notturna.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, viste montane."
+      },
+      {
+        "City_Name": "Kotor",
+        "Historical_Landmarks": "Chiesa di San Nicola, Museo di Kotor.",
+        "Tourist_Activities": "Visita alla chiesa, passeggiata in città, godersi la natura.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, viste montane."
+      },
+      {
+        "City_Name": "Niksic",
+        "Historical_Landmarks": "Museo di Niksic, Chiesa di San Stefano.",
+        "Tourist_Activities": "Visita al museo, passeggiata in città, godersi la natura.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, viste montane."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Kosovo",
+    "Cities": [
+      {
+        "City_Name": "Pristina (capital)",
+        "Historical_Landmarks": "Cattedrale di Santa Teresa, Museo del Kosovo.",
+        "Tourist_Activities": "Visita alla cattedrale, passeggiata in città, vita notturna.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, viste montane."
+      },
+      {
+        "City_Name": "Prizren",
+        "Historical_Landmarks": "Chiesa di San Nicola, Museo di Prizren.",
+        "Tourist_Activities": "Visita alla chiesa, passeggiata in città, godersi la natura.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, viste montane."
+      },
+      {
+        "City_Name": "Pristina",
+        "Historical_Landmarks": "Cattedrale di Santa Teresa, Museo del Kosovo.",
+        "Tourist_Activities": "Visita alla cattedrale, passeggiata in città, vita notturna.",
+        "Local_Cuisine": "Ćevapčići, pljeskavica, sarma.",
+        "Green_Spaces": "Parchi cittadini, viste montane."
+      }
+    ]
+  }
+]

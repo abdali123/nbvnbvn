@@ -1,21 +1,19 @@
-// 1. نصوص الواجهة بجميع اللغات
 const translations = {
-    ar: { title: "أين تود الذهاب؟", search: "بحث", landmark: "المعالم التاريخية", cuisine: "المطبخ المحلي", activity: "الأنشطة", green: "مساحات خضراء", notFound: "نحن نتأسف، هذه المدينة ستتوفر معلوماتها قريباً.", dir: "rtl" },
-    en: { title: "Where do you want to go?", search: "Search", landmark: "Historical Landmarks", cuisine: "Local Cuisine", activity: "Activities", green: "Green Spaces", notFound: "Sorry, info for this city will be available soon.", dir: "ltr" },
-    fr: { title: "Où voulez-vous aller?", search: "Chercher", landmark: "Monuments", cuisine: "Cuisine Locale", activity: "Activités", green: "Espaces Verts", notFound: "Désolé, cette ville sera bientôt disponible.", dir: "ltr" }
-    // يمكنك إضافة باقي الـ 8 لغات هنا بنفس النمط
+    ar: { title: "خطط لرحلة أحلامك الآن", search: "ابحث الآن", landmark: "المعالم التاريخية", cuisine: "المطبخ المحلي", activity: "أنشطة سياحية", green: "الطبيعة والمنتزهات", notFound: "نعتذر، هذه المدينة غير متوفرة حالياً وسوف تضاف قريباً.", countryP: "اكتب الدولة...", cityP: "اكتب المدينة...", dir: "rtl" },
+    en: { title: "Plan Your Dream Trip Now", search: "Search Now", landmark: "Historical Landmarks", cuisine: "Local Cuisine", activity: "Tourist Activities", green: "Nature & Parks", notFound: "Sorry, this city is not available yet and will be added soon.", countryP: "Type country...", cityP: "Type city...", dir: "ltr" },
+    fr: { title: "Planifiez votre voyage de rêve", search: "Rechercher", landmark: "Monuments Historiques", cuisine: "Cuisine Locale", activity: "Activités", green: "Espaces Verts", notFound: "Désolé, cette ville sera bientôt disponible.", countryP: "Pays...", cityP: "Ville...", dir: "ltr" }
+    // أضف باقي اللغات بنفس الطريقة...
 };
 
-// 2. المتغيرات الأساسية
 const langSelect = document.getElementById('langSelect');
-const searchBtn = document.getElementById('searchBtn');
 
-// 3. دالة تغيير اللغة
-langSelect.addEventListener('change', (e) => {
-    const lang = e.target.value;
+langSelect.addEventListener('change', () => {
+    const lang = langSelect.value;
     const t = translations[lang] || translations['en'];
     
-    document.body.dir = t.dir;
+    document.documentElement.lang = lang;
+    document.documentElement.dir = t.dir;
+    
     document.getElementById('ui-title').innerText = t.title;
     document.getElementById('ui-search-text').innerText = t.search;
     document.getElementById('ui-landmarks').innerText = t.landmark;
@@ -23,54 +21,50 @@ langSelect.addEventListener('change', (e) => {
     document.getElementById('ui-activities').innerText = t.activity;
     document.getElementById('ui-green').innerText = t.green;
     document.getElementById('ui-not-found').innerText = t.notFound;
+    document.getElementById('countryInput').placeholder = t.countryP;
+    document.getElementById('cityInput').placeholder = t.cityP;
 });
 
-// 4. دالة البحث في ملفات الـ JSON
-searchBtn.addEventListener('click', async () => {
+document.getElementById('searchBtn').addEventListener('click', async () => {
     const lang = langSelect.value;
-    const countryQuery = document.getElementById('countryInput').value.trim();
-    const cityQuery = document.getElementById('cityInput').value.trim();
-    const groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'i'];
+    const countryQ = document.getElementById('countryInput').value.trim().toLowerCase();
+    const cityQ = document.getElementById('cityInput').value.trim().toLowerCase();
     
-    let cityFound = null;
+    if(!countryQ || !cityQ) return;
 
-    // إخفاء النتائج السابقة
-    document.getElementById('results').classList.add('hidden');
-    document.getElementById('not-found').classList.add('hidden');
+    const resultsDiv = document.getElementById('results');
+    const notFoundDiv = document.getElementById('not-found');
+    
+    resultsDiv.classList.add('hidden');
+    notFoundDiv.classList.add('hidden');
 
-    // البحث عبر المجموعات
-    for (let group of groups) {
+    let cityData = null;
+    const groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'i'];
+
+    for (let g of groups) {
         try {
-            // ملاحظة: تأكد من أن مسار الملفات صحيح على الـ GitHub الخاص بك
-            const response = await fetch(`data/${lang}/group ${group}.json`);
-            const data = await response.json();
-
-            for (let country of data) {
-                // التحقق من اسم الدولة (تجاهل حالة الأحرف)
-                if (country.Country_Name.toLowerCase().includes(countryQuery.toLowerCase())) {
-                    // التحقق من اسم المدينة
-                    // استعملنا " Cities" أو "Cities" لأنك ذكرت وجود مسافات أحياناً
-                    const citiesList = country[" Cities"] || country["Cities"];
-                    cityFound = citiesList.find(c => c.City_Name.toLowerCase().includes(cityQuery.toLowerCase()));
-                    if (cityFound) break;
+            const res = await fetch(`data/${lang}/fr group ${g}.json`); // تأكد من مسميات المجلدات لديك
+            const data = await res.json();
+            
+            for (let item of data) {
+                if (item.Country_Name.toLowerCase().includes(countryQ)) {
+                    const cities = item.Cities || item[" Cities"];
+                    cityData = cities.find(c => c.City_Name.toLowerCase().includes(cityQ));
+                    if (cityData) break;
                 }
             }
-        } catch (err) { console.error("Error loading file:", group); }
-        if (cityFound) break;
+        } catch(e) { console.log("File not found or error in group " + g); }
+        if (cityData) break;
     }
 
-    if (cityFound) {
-        displayResults(cityFound);
+    if (cityData) {
+        document.getElementById('cityNameDisplay').innerText = cityData.City_Name;
+        document.getElementById('res-landmarks').innerText = cityData.Historical_Landmarks;
+        document.getElementById('res-cuisine').innerText = cityData.Local_Cuisine;
+        document.getElementById('res-activities').innerText = cityData.Tourist_Activities || cityData[" Tourist_Activities"] || "---";
+        document.getElementById('res-green').innerText = cityData.Green_Spaces;
+        resultsDiv.classList.remove('hidden');
     } else {
-        document.getElementById('not-found').classList.remove('hidden');
+        notFoundDiv.classList.remove('hidden');
     }
 });
-
-function displayResults(city) {
-    document.getElementById('results').classList.remove('hidden');
-    document.getElementById('cityNameDisplay').innerText = city.City_Name;
-    document.getElementById('res-landmarks').innerText = city.Historical_Landmarks;
-    document.getElementById('res-cuisine').innerText = city.Local_Cuisine;
-    document.getElementById('res-activities').innerText = city.Tourist_Activities || city[" Tourist_Activities"] || "---";
-    document.getElementById('res-green').innerText = city.Green_Spaces;
-}

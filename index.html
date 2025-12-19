@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مخطط السفر العالمي</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <title>مستكشف السفر العالمي</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -12,65 +11,73 @@
 
     <nav class="navbar">
         <div class="logo">
-            <i class="fas fa-globe-americas"></i>
-            <span id="ui-logo">مخطط السفر</span>
+            <i class="fas fa-map-marked-alt"></i>
+            <span id="ui-logo">رحلتي العالمية</span>
         </div>
-        <div class="lang-wrapper">
-            <i class="fas fa-language"></i>
+        <div class="lang-selector">
             <select id="langSelect">
-                <option value="ar">العربية</option>
-                <option value="en">English</option>
-                <option value="fr">Français</option>
-                <option value="es">Español</option>
-                <option value="it">Italiano</option>
-                <option value="po">Português</option>
-                <option value="ge">Deutsch</option>
-                <option value="ru">Русский</option>
-                <option value="ko">한국어</option>
-                <option value="ja">日本語</option>
-                <option value="ch">中文</option>
+                <option value="ar">العربية (AR)</option>
+                <option value="en">English (EN)</option>
+                <option value="fr">Français (FR)</option>
+                <option value="es">Español (ES)</option>
+                <option value="it">Italiano (IT)</option>
+                <option value="po">Português (PO)</option>
+                <option value="ge">Deutsch (GE)</option>
+                <option value="ru">Русский (RU)</option>
+                <option value="ko">한국어 (KO)</option>
+                <option value="ja">日本語 (JA)</option>
+                <option value="ch">中文 (CH)</option>
             </select>
         </div>
     </nav>
 
-    <header class="hero">
-        <h1 id="ui-title">أين تود الذهاب؟</h1>
-        <div class="search-container">
-            <input type="text" id="countryInput" placeholder="الدولة...">
-            <input type="text" id="cityInput" placeholder="المدينة...">
+    <header class="hero-section">
+        <h1 id="ui-title">خطط لرحلة أحلامك الآن</h1>
+        <div class="search-box">
+            <div class="input-group">
+                <i class="fas fa-globe"></i>
+                <input type="text" id="countryInput" placeholder="اكتب الدولة هنا...">
+            </div>
+            <div class="input-group">
+                <i class="fas fa-city"></i>
+                <input type="text" id="cityInput" placeholder="اكتب المدينة هنا...">
+            </div>
             <button id="searchBtn">
-                <i class="fas fa-search"></i>
-                <span id="ui-search-text">بحث</span>
+                <i class="fas fa-search"></i> <span id="ui-search-text">ابحث الآن</span>
             </button>
         </div>
     </header>
 
-    <main class="container">
-        <div id="results" class="hidden">
-            <h2 id="cityNameDisplay" class="city-title"></h2>
-            <div class="info-grid">
-                <div class="info-card">
-                    <h3><i class="fas fa-landmark"></i> <span id="ui-landmarks">المعالم</span></h3>
+    <main class="content-area">
+        <div id="results" class="results-container hidden">
+            <h2 id="cityNameDisplay" class="main-city-name"></h2>
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-icon"><i class="fas fa-archway"></i></div>
+                    <h3 id="ui-landmarks">المعالم التاريخية</h3>
                     <p id="res-landmarks"></p>
                 </div>
-                <div class="info-card">
-                    <h3><i class="fas fa-utensils"></i> <span id="ui-cuisine">المطبخ</span></h3>
+                <div class="card">
+                    <div class="card-icon"><i class="fas fa-utensils"></i></div>
+                    <h3 id="ui-cuisine">المطبخ المحلي</h3>
                     <p id="res-cuisine"></p>
                 </div>
-                <div class="info-card">
-                    <h3><i class="fas fa-walking"></i> <span id="ui-activities">الأنشطة</span></h3>
+                <div class="card">
+                    <div class="card-icon"><i class="fas fa-hiking"></i></div>
+                    <h3 id="ui-activities">أنشطة سياحية</h3>
                     <p id="res-activities"></p>
                 </div>
-                <div class="info-card">
-                    <h3><i class="fas fa-tree"></i> <span id="ui-green">طبيعة</span></h3>
+                <div class="card">
+                    <div class="card-icon"><i class="fas fa-leaf"></i></div>
+                    <h3 id="ui-green">الطبيعة والمنتزهات</h3>
                     <p id="res-green"></p>
                 </div>
             </div>
         </div>
 
-        <div id="not-found" class="hidden alert">
-            <i class="fas fa-clock"></i>
-            <p id="ui-not-found">نحن نتأسف، هذه المدينة ستتوفر معلوماتها قريباً.</p>
+        <div id="not-found" class="not-found-box hidden">
+            <i class="fas fa-info-circle"></i>
+            <p id="ui-not-found">نعتذر، هذه المدينة غير متوفرة حالياً وسوف تضاف قريباً.</p>
         </div>
     </main>
 

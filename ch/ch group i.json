@@ -1,0 +1,1059 @@
+[
+  {
+    "Country_Name": "Burkina Faso",
+    "Cities": [
+      {
+        "City_Name": "Ouagadougou",
+        "Historical_Landmarks": "瓦加杜古大清真寺、音乐博物馆、总统府、国家英雄纪念碑。",
+        "Tourist_Activities": "参加FESPACO电影节，参观神圣的Basuli鳄鱼（瓦加杜古附近）。",
+        "Green_Spaces": "Loinbila动物公园、瓦加杜古植物园。",
+        "Local_Cuisine": "Riz Gras（肥米）、Poulet Bicyclette（香料烤鸡）。"
+      },
+      {
+        "City_Name": "Bobo Dioulasso",
+        "Historical_Landmarks": "大泥清真寺、博博迪乌拉索地区博物馆、历史Kome之家。",
+        "Tourist_Activities": "探索苏丹建筑，参观工匠区。",
+        "Green_Spaces": "Kouba森林。",
+        "Local_Cuisine": "To（小米/玉米粥配酱汁）、Brochettes（牛肉串）。"
+      },
+      {
+        "City_Name": "Banfora",
+        "Historical_Landmarks": "Lorobini遗址（附近联合国教科文组织遗址）、旧法国殖民地。",
+        "Tourist_Activities": "在Sindou山峰徒步，在Karfiguiola瀑布游泳。",
+        "Green_Spaces": "Karfiguiola瀑布、Sindou岩石峰（独特景点）。",
+        "Local_Cuisine": "Tô avec sauce Gombo（秋葵酱配Tô）。"
+      },
+      {
+        "City_Name": "Garoua",
+        "Historical_Landmarks": "传统市场、旧Garoua清真寺。",
+        "Tourist_Activities": "购买手工编织织物，短途野生动物园之旅。",
+        "Green_Spaces": "Arly国家公园部分（野生动物园入口）。",
+        "Local_Cuisine": "Fufu（fufu）配花生酱。"
+      },
+      {
+        "City_Name": "Tiébil",
+        "Historical_Landmarks": "装饰房屋（Case à Palabre）、村长房屋。",
+        "Tourist_Activities": "彩绘房屋文化之旅，学习kasina艺术。",
+        "Green_Spaces": "布基纳法索南部景观。",
+        "Local_Cuisine": "Bière de Mil（传统小米啤酒）。"
+      },
+      {
+        "City_Name": "Koudougou",
+        "Historical_Landmarks": "传统编织作坊、Koudougou天主教堂。",
+        "Tourist_Activities": "参观编织作坊。",
+        "Green_Spaces": "周围绿色农业区。",
+        "Local_Cuisine": "Zamné（玉米糖粥）。"
+      },
+      {
+        "City_Name": "Ziniare",
+        "Historical_Landmarks": "雕刻动物公园。",
+        "Tourist_Activities": "观看鳄鱼。",
+        "Green_Spaces": "Loinbila公园。",
+        "Local_Cuisine": "Gala（炸玉米粥）。"
+      },
+      {
+        "City_Name": "Bama",
+        "Historical_Landmarks": "旧Bama清真寺。",
+        "Tourist_Activities": "湖上游船。",
+        "Green_Spaces": "Hébé湖。",
+        "Local_Cuisine": "烤湖鱼。"
+      },
+      {
+        "City_Name": "Gouro",
+        "Historical_Landmarks": "北部市场。",
+        "Tourist_Activities": "穿越沙丘。",
+        "Green_Spaces": "沙丘景观。",
+        "Local_Cuisine": "炭烤山羊肉。"
+      },
+      {
+        "City_Name": "Sindou",
+        "Historical_Landmarks": "Sindou旧村庄。",
+        "Tourist_Activities": "在岩石构造中徒步。",
+        "Green_Spaces": "Sindou山峰。",
+        "Local_Cuisine": "Fou-fou（类似fufu的菜肴）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Burundi",
+    "Cities": [
+      {
+        "City_Name": "Bujumbura",
+        "Historical_Landmarks": "利文斯顿和斯坦利纪念碑、雷吉娜蒙迪大教堂、布琼布拉中央市场。",
+        "Tourist_Activities": "享受桑加海滩，参观布琼布拉市场。",
+        "Green_Spaces": "桑加海滩、Richard Kandt公园、Rozo国家公园。",
+        "Local_Cuisine": "Mukeke（烤湖鱼）、Frites avec poulet（炸土豆和鸡肉）。"
+      },
+      {
+        "City_Name": "Gitega",
+        "Historical_Landmarks": "吉特加国家博物馆、旧皇宫。",
+        "Tourist_Activities": "观看神圣鼓表演（吉特加附近），探索博物馆。",
+        "Green_Spaces": "附近森林。",
+        "Local_Cuisine": "Ndizi（煮熟的香蕉）、Ibitoke（香蕉汤）。"
+      },
+      {
+        "City_Name": "Mao",
+        "Historical_Landmarks": "路易斯·鲁瓦戈索尔王子陵墓（附近）。",
+        "Tourist_Activities": "徒步探索瀑布。",
+        "Green_Spaces": "Mao山森林、附近Karera瀑布。",
+        "Local_Cuisine": "Umuceri n'Ibiharage（米饭和豆子）。"
+      },
+      {
+        "City_Name": "Ruyigi",
+        "Historical_Landmarks": "传统文化遗址。",
+        "Tourist_Activities": "了解当地手工艺品。",
+        "Green_Spaces": "绿色景观。",
+        "Local_Cuisine": "Boko Boko（鸡肉和布格麦）。"
+      },
+      {
+        "City_Name": "Ngozi",
+        "Historical_Landmarks": "恩戈齐中央市场。",
+        "Tourist_Activities": "参观茶园。",
+        "Green_Spaces": "茶叶和咖啡农场、恩戈齐山。",
+        "Local_Cuisine": "优质布隆迪咖啡。"
+      },
+      {
+        "City_Name": "Bururi",
+        "Historical_Landmarks": "传统房屋。",
+        "Tourist_Activities": "观鸟。",
+        "Green_Spaces": "Mogira谷森林。",
+        "Local_Cuisine": "Brochettes（山羊肉串）。"
+      },
+      {
+        "City_Name": "Kayanza",
+        "Historical_Landmarks": "Kayanza教堂。",
+        "Tourist_Activities": "探索高地地区。",
+        "Green_Spaces": "山丘和Kayanza农场。",
+        "Local_Cuisine": "Amashaza（煮熟的豌豆）。"
+      },
+      {
+        "City_Name": "Romonji",
+        "Historical_Landmarks": "Romonji市场。",
+        "Tourist_Activities": "在海滩上放松。",
+        "Green_Spaces": "Romonji海滩。",
+        "Local_Cuisine": "干Kapenta鱼。"
+      },
+      {
+        "City_Name": "Sebitokie",
+        "Historical_Landmarks": "边境遗址。",
+        "Tourist_Activities": "参观农田。",
+        "Green_Spaces": "绿色农田。",
+        "Local_Cuisine": "Bugali（木薯粥）。"
+      },
+      {
+        "City_Name": "Kirundo",
+        "Historical_Landmarks": "旧狩猎地。",
+        "Tourist_Activities": "观看候鸟。",
+        "Green_Spaces": "Rwihoro湖、Kirundo鸟类保护区。",
+        "Local_Cuisine": "Ikiryango（传统炖菜）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Chad",
+    "Cities": [
+      {
+        "City_Name": "N'Djamena",
+        "Historical_Landmarks": "乍得国家博物馆、恩贾梅纳大清真寺、总统府。",
+        "Tourist_Activities": "参观国家博物馆，在中央市场购物。",
+        "Green_Spaces": "恩贾梅纳动物园、沙里河岸。",
+        "Local_Cuisine": "Daraba（秋葵炖菜）、Karkanji（芙蓉花饮料）。"
+      },
+      {
+        "City_Name": "Moundou",
+        "Historical_Landmarks": "历史棉纺厂、蒙杜大教堂。",
+        "Tourist_Activities": "参观棉花农场。",
+        "Green_Spaces": "周围绿色平原。",
+        "Local_Cuisine": "Moussos（花生菜肴）。"
+      },
+      {
+        "City_Name": "Sarh",
+        "Historical_Landmarks": "萨尔中央市场、古代萨尔遗址。",
+        "Tourist_Activities": "河上游船。",
+        "Green_Spaces": "沙里河岸（散步）。",
+        "Local_Cuisine": "La Boule（玉米或小米粥）。"
+      },
+      {
+        "City_Name": "Abéché",
+        "Historical_Landmarks": "阿贝歇皇宫（瓦达伊苏丹国）、旧阿贝歇清真寺。",
+        "Tourist_Activities": "探索古代伊斯兰建筑。",
+        "Green_Spaces": "沙漠景观。",
+        "Local_Cuisine": "Aish（小麦粉粥）。"
+      },
+      {
+        "City_Name": "Faya-Largeau",
+        "Historical_Landmarks": "旧堡垒遗址。",
+        "Tourist_Activities": "享受沙漠宁静。",
+        "Green_Spaces": "棕榈绿洲。",
+        "Local_Cuisine": "枣椰。"
+      },
+      {
+        "City_Name": "Boulboul",
+        "Historical_Landmarks": "传统市场。",
+        "Tourist_Activities": "购买乍得手工艺品。",
+        "Green_Spaces": "靠近扎库马国家公园。",
+        "Local_Cuisine": "Kisra（薄饼）。"
+      },
+      {
+        "City_Name": "Zakouma",
+        "Historical_Landmarks": "野生动物保护站。",
+        "Tourist_Activities": "扎库马大象野生动物园之旅。",
+        "Green_Spaces": "扎库马国家公园（野生动物园）。",
+        "Local_Cuisine": "烤山羊肉（Kabab）。"
+      },
+      {
+        "City_Name": "Koulou",
+        "Historical_Landmarks": "当地清真寺。",
+        "Tourist_Activities": "参观农场。",
+        "Green_Spaces": "绿色农田。",
+        "Local_Cuisine": "花生汤。"
+      },
+      {
+        "City_Name": "Bala",
+        "Historical_Landmarks": "旧政府建筑。",
+        "Tourist_Activities": "了解当地部落。",
+        "Green_Spaces": "乡村景观。",
+        "Local_Cuisine": "Jarret de boeuf（炖牛小腿）。"
+      },
+      {
+        "City_Name": "Great Ounianga",
+        "Historical_Landmarks": "Enedi岩刻（大乌尼昂加附近）。",
+        "Tourist_Activities": "参观彩色湖泊，探索岩石构造。",
+        "Green_Spaces": "乌尼昂加湖。",
+        "Local_Cuisine": "传统游牧食物。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Togo",
+    "Cities": [
+      {
+        "City_Name": "Lomé",
+        "Historical_Landmarks": "圣心大教堂、多哥国家博物馆、伏都市场（Fetish Market）。",
+        "Tourist_Activities": "游览大市场，参观伏都市场（Fetish Market）。",
+        "Green_Spaces": "洛美海滩、总统府周围绿地。",
+        "Local_Cuisine": "Gboma Dessi（菠菜肉炖菜）、Pâte（传统粥）。"
+      },
+      {
+        "City_Name": "Kpalimé",
+        "Historical_Landmarks": "手工艺品中心、旧教堂。",
+        "Tourist_Activities": "攀登Kpalimé山丘，购买木制工艺品。",
+        "Green_Spaces": "Kpim瀑布、绿色Kpalimé山丘。",
+        "Local_Cuisine": "Fufu（fufu）配茄子酱。"
+      },
+      {
+        "City_Name": "Kara",
+        "Historical_Landmarks": "独立纪念碑、卡拉地区博物馆。",
+        "Tourist_Activities": "出发参观Kotokou。",
+        "Green_Spaces": "北部山地景观。",
+        "Local_Cuisine": "Ablo（轻米糕）、Djenkoume（番茄粥）。"
+      },
+      {
+        "City_Name": "Koutamako",
+        "Historical_Landmarks": "Takienta（防御性泥屋）。",
+        "Tourist_Activities": "了解Batammariba文化，探索泥屋。",
+        "Green_Spaces": "乡村山地景观。",
+        "Local_Cuisine": "当地粥菜。"
+      },
+      {
+        "City_Name": "Togoville",
+        "Historical_Landmarks": "当地寺庙和神龛、旧葡萄牙教堂。",
+        "Tourist_Activities": "Togoville湖之旅，学习伏都传统。",
+        "Green_Spaces": "Togoville湖。",
+        "Local_Cuisine": "烤湖鱼。"
+      },
+      {
+        "City_Name": "Aniho",
+        "Historical_Landmarks": "Agbodrafo奴隶屋（附近）、历史市场。",
+        "Tourist_Activities": "参观Agbodrafo。",
+        "Green_Spaces": "附近森林。",
+        "Local_Cuisine": "Yovo Doko（炸面团）。"
+      },
+      {
+        "City_Name": "Atakpamé",
+        "Historical_Landmarks": "旧火车站。",
+        "Tourist_Activities": "在当地市场购物。",
+        "Green_Spaces": "Atakpamé山丘。",
+        "Local_Cuisine": "Akoumé（谷物菜肴）。"
+      },
+      {
+        "City_Name": "Badu",
+        "Historical_Landmarks": "传统房屋。",
+        "Tourist_Activities": "进入瀑布。",
+        "Green_Spaces": "Badu（Qouarou）瀑布。",
+        "Local_Cuisine": "基于可可和咖啡的菜肴。"
+      },
+      {
+        "City_Name": "Sokodé",
+        "Historical_Landmarks": "旧清真寺。",
+        "Tourist_Activities": "观看当地舞蹈。",
+        "Green_Spaces": "周围热带草原景观。",
+        "Local_Cuisine": "Wagashi（炸奶酪）。"
+      },
+      {
+        "City_Name": "Town of Anyi",
+        "Historical_Landmarks": "旧Anyi教堂。",
+        "Tourist_Activities": "探索乡村地区。",
+        "Green_Spaces": "附近可可农场。",
+        "Local_Cuisine": "Fonio（fonio谷物）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Fiji",
+    "Cities": [
+      {
+        "City_Name": "Suva",
+        "Historical_Landmarks": "斐济博物馆、议会大厦、旧殖民建筑。",
+        "Tourist_Activities": "参观博物馆，游览植物园。",
+        "Green_Spaces": "瑟斯顿植物园、Kulo‑i‑Suva森林公园。",
+        "Local_Cuisine": "Kokoda（斐济酸橘汁腌鱼）、Duruka（斐济芦笋）。"
+      },
+      {
+        "City_Name": "Nadi",
+        "Historical_Landmarks": "Sri Siva Subramaniya神庙（大型印度教寺庙）。",
+        "Tourist_Activities": "出发参观马马努萨群岛，游览神庙。",
+        "Green_Spaces": "睡巨人花园。",
+        "Local_Cuisine": "Lovo（传统地下烹饪盛宴）。"
+      },
+      {
+        "City_Name": "Lautoka",
+        "Historical_Landmarks": "历史房屋、商业港口。",
+        "Tourist_Activities": "参观当地市场。",
+        "Green_Spaces": "植物园、劳托卡海滨长廊。",
+        "Local_Cuisine": "Rourou（芋头叶配椰奶）。"
+      },
+      {
+        "City_Name": "Savusavu",
+        "Historical_Landmarks": "天然温泉。",
+        "Tourist_Activities": "在温泉中放松，潜水。",
+        "Green_Spaces": "萨武萨武湾、珊瑚礁。",
+        "Local_Cuisine": "Kava（传统饮料）。"
+      },
+      {
+        "City_Name": "Levuka",
+        "Historical_Landmarks": "历史悠久的Levuka镇（联合国教科文组织遗址）、殖民建筑。",
+        "Tourist_Activities": "游览历史悠久的城镇。",
+        "Green_Spaces": "周围Levuka山丘。",
+        "Local_Cuisine": "Palusami（肉或鱼包裹在芋头叶中）。"
+      },
+      {
+        "City_Name": "Siga‑toka",
+        "Historical_Landmarks": "传统Navala村庄。",
+        "Tourist_Activities": "探索沙丘，在Navua河上划皮划艇。",
+        "Green_Spaces": "Siga‑toka国家沙丘、Navua河谷。",
+        "Local_Cuisine": "Fish in Lolo（椰奶煮鱼）。"
+      },
+      {
+        "City_Name": "Samana",
+        "Historical_Landmarks": "Labasa清真寺。",
+        "Tourist_Activities": "潜水和浮潜。",
+        "Green_Spaces": "附近珊瑚礁、森林地区。",
+        "Local_Cuisine": "Vakalolo（椰子甜点）。"
+      },
+      {
+        "City_Name": "Tavua",
+        "Historical_Landmarks": "国际日期变更线路线。",
+        "Tourist_Activities": "徒步探索瀑布。",
+        "Green_Spaces": "Bumaz国家公园、Tavuro瀑布。",
+        "Local_Cuisine": "芋头叶汤。"
+      },
+      {
+        "City_Name": "Bati",
+        "Historical_Landmarks": "火行仪式遗址。",
+        "Tourist_Activities": "观看火行仪式。",
+        "Green_Spaces": "Bati海滩。",
+        "Local_Cuisine": "Ika Vakalolo（鱼配椰奶）。"
+      },
+      {
+        "City_Name": "Rakiraki",
+        "Historical_Landmarks": "Udre‑Udre墓。",
+        "Tourist_Activities": "探索海岸。",
+        "Green_Spaces": "海岸景观。",
+        "Local_Cuisine": "Koumi（传统食物）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Djibouti",
+    "Cities": [
+      {
+        "City_Name": "Djibouti City",
+        "Historical_Landmarks": "Hamoudi清真寺、总统府、旧火车站、中央市场。",
+        "Tourist_Activities": "在中央市场购物，参观旧城清真寺。",
+        "Green_Spaces": "中央公共花园、海滨长廊。",
+        "Local_Cuisine": "Skoudehkaris（羊肉或山羊肉米饭）、Laxoox（扁面包）。"
+      },
+      {
+        "City_Name": "Tajoura",
+        "Historical_Landmarks": "旧白房子、旧Tajoura港口。",
+        "Tourist_Activities": "在Moucha群岛潜水和浮潜。",
+        "Green_Spaces": "Tajoura湾海滩、Moucha群岛。",
+        "Local_Cuisine": "烤鱼（Poisson Braisé）。"
+      },
+      {
+        "City_Name": "Ali Sabieh",
+        "Historical_Landmarks": "历史军事遗址。",
+        "Tourist_Activities": "徒步和沙漠探索。",
+        "Green_Spaces": "沙漠和山地景观。",
+        "Local_Cuisine": "Fatira（炸面包）。"
+      },
+      {
+        "City_Name": "Dikhil",
+        "Historical_Landmarks": "湖周围当地村庄。",
+        "Tourist_Activities": "在日出时观看石灰岩烟囱。",
+        "Green_Spaces": "Abbé湖。",
+        "Local_Cuisine": "Harira（扁豆汤）。"
+      },
+      {
+        "City_Name": "Lake Assal",
+        "Historical_Landmarks": "天然盐矿。",
+        "Tourist_Activities": "拍摄独特盐景。",
+        "Green_Spaces": "Assal湖。",
+        "Local_Cuisine": "传统吉布提咖啡。"
+      },
+      {
+        "City_Name": "Obock",
+        "Historical_Landmarks": "旧法国殖民地。",
+        "Tourist_Activities": "探索安静的海滩。",
+        "Green_Spaces": "原始北部海滩。",
+        "Local_Cuisine": "Asida（面粉粥）。"
+      },
+      {
+        "City_Name": "Day Forest",
+        "Historical_Landmarks": "传统Afar房屋。",
+        "Tourist_Activities": "森林徒步和观鸟。",
+        "Green_Spaces": "Day国家森林（Forêt du Day）。",
+        "Local_Cuisine": "Canjeero（索马里煎饼）。"
+      },
+      {
+        "City_Name": "Ali Adde",
+        "Historical_Landmarks": "Ali Adde中心。",
+        "Tourist_Activities": "了解该国的人道主义方面。",
+        "Green_Spaces": "严酷的沙漠景观。",
+        "Local_Cuisine": "Samusa（萨莫萨）。"
+      },
+      {
+        "City_Name": "Yoboki",
+        "Historical_Landmarks": "狩猎地。",
+        "Tourist_Activities": "探索休眠火山。",
+        "Green_Spaces": "火山熔岩场。",
+        "Local_Cuisine": "Laxoox（扁面包）。"
+      },
+      {
+        "City_Name": "Shark Bay",
+        "Historical_Landmarks": "Arob火山、潜水点。",
+        "Tourist_Activities": "与鲸鲨游泳。",
+        "Green_Spaces": "Ghoubbet湾。",
+        "Local_Cuisine": "新鲜海鲜菜肴。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Dominican Republic",
+    "Cities": [
+      {
+        "City_Name": "Santo Domingo",
+        "Historical_Landmarks": "殖民区（Zona Colonial）、圣玛丽亚大教堂、奥萨马堡垒。",
+        "Tourist_Activities": "漫步殖民区（联合国教科文组织），参观Los Tres Ojos洞穴群。",
+        "Green_Spaces": "Mirador Sur公园、国家植物园。",
+        "Local_Cuisine": "La Bandera（米饭、豆子、肉）、Mangu（捣碎的青香蕉）。"
+      },
+      {
+        "City_Name": "Bona Cana",
+        "Historical_Landmarks": "主要度假区。",
+        "Tourist_Activities": "潜水和浮潜，在海滩上放松。",
+        "Green_Spaces": "Bavaro海滩、Ojos Indigenas（土著之眼）。",
+        "Local_Cuisine": "Pastelón（甜肉派）。"
+      },
+      {
+        "City_Name": "Puerto Plata",
+        "Historical_Landmarks": "圣费利佩堡垒、多米尼加琥珀博物馆。",
+        "Tourist_Activities": "缆车到山顶，探索维多利亚建筑。",
+        "Green_Spaces": "伊莎贝尔德托雷斯山（缆车）、索苏亚海滩。",
+        "Local_Cuisine": "Tostones（炸青香蕉）、Pescado con Coco（鱼配椰子）。"
+      },
+      {
+        "City_Name": "La Romana",
+        "Historical_Landmarks": "Altos de Chavón（地中海风格艺术村）、Las Maravillas洞穴。",
+        "Tourist_Activities": "游览Altos de Chavón，前往Saona岛。",
+        "Green_Spaces": "Los Haitises国家公园（附近）、Saona岛。",
+        "Local_Cuisine": "Sancocho（传统炖菜）。"
+      },
+      {
+        "City_Name": "Samana",
+        "Historical_Landmarks": "Santa Barbara de Samana镇、Santa Barbara人行桥。",
+        "Tourist_Activities": "观鲸（冬季）、骑马到El Limon瀑布。",
+        "Green_Spaces": "El Limon瀑布、Los Haitises公园（船区）。",
+        "Local_Cuisine": "Chenchén（多米尼加库斯库斯菜肴）。"
+      },
+      {
+        "City_Name": "Santiago",
+        "Historical_Landmarks": "英雄纪念碑（Monumento a los Héroes）、雪茄工厂。",
+        "Tourist_Activities": "参观雪茄工厂，在工匠市场购物。",
+        "Green_Spaces": "Mirador del Yuna公园、杜阿尔特公园。",
+        "Local_Cuisine": "Chicharrón（炸猪皮）。"
+      },
+      {
+        "City_Name": "Jarabacoa",
+        "Historical_Landmarks": "Jarabacoa教堂。",
+        "Tourist_Activities": "漂流、山地徒步。",
+        "Green_Spaces": "Yamna瀑布、Armando Bermudez国家公园。",
+        "Local_Cuisine": "Mofongo（油炸和捣碎的香蕉）。"
+      },
+      {
+        "City_Name": "Cabarete",
+        "Historical_Landmarks": "旅游中心。",
+        "Tourist_Activities": "风筝冲浪、冲浪。",
+        "Green_Spaces": "Cabarete海滩、Encanto海滩。",
+        "Local_Cuisine": "Asopao（浓米汤）。"
+      },
+      {
+        "City_Name": "El Seibo",
+        "Historical_Landmarks": "El Seibo山间小屋。",
+        "Tourist_Activities": "攀登Pico Duarte。",
+        "Green_Spaces": "Pico Duarte（加勒比最高峰）、松林。",
+        "Local_Cuisine": "Locrio（肉饭）。"
+      },
+      {
+        "City_Name": "San Juan de la Maguana",
+        "Historical_Landmarks": "泰诺仪式遗址（土著）。",
+        "Tourist_Activities": "探索泰诺文化。",
+        "Green_Spaces": "乡村景观。",
+        "Local_Cuisine": "Chambre（辣炖菜）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Central African Republic",
+    "Cities": [
+      {
+        "City_Name": "Bangui",
+        "Historical_Landmarks": "班吉圣母院大教堂、Boganda国家博物馆、旧总统府。",
+        "Tourist_Activities": "乌班吉河游轮，参观班吉中央市场。",
+        "Green_Spaces": "班吉植物园、乌班吉河岸。",
+        "Local_Cuisine": "Foutou（木薯粥）、Liboke（香蕉叶中的鱼或肉炖菜）。"
+      },
+      {
+        "City_Name": "Berbérati",
+        "Historical_Landmarks": "历史房屋、旧矿区。",
+        "Tourist_Activities": "探索森林，了解采矿。",
+        "Green_Spaces": "周围茂密森林、Mambere河。",
+        "Local_Cuisine": "Kanda（肉丸和南瓜籽）。"
+      },
+      {
+        "City_Name": "Nola",
+        "Historical_Landmarks": "土著（俾格米）村庄。",
+        "Tourist_Activities": "追踪大猩猩和大象，了解Baaka部落（俾格米人）。",
+        "Green_Spaces": "Dzanga‑Sangha保护区、Bayanga森林。",
+        "Local_Cuisine": "Maboké（香蕉叶中煮的鱼）。"
+      },
+      {
+        "City_Name": "Boali",
+        "Historical_Landmarks": "水电站。",
+        "Tourist_Activities": "观看瀑布。",
+        "Green_Spaces": "Boali瀑布。",
+        "Local_Cuisine": "Gari（木薯粉）。"
+      },
+      {
+        "City_Name": "Bambari",
+        "Historical_Landmarks": "当地清真寺和教堂。",
+        "Tourist_Activities": "沿河岸散步。",
+        "Green_Spaces": "Waka河。",
+        "Local_Cuisine": "Yassa（洋葱和柠檬鸡肉或鱼）。"
+      },
+      {
+        "City_Name": "Bousangua",
+        "Historical_Landmarks": "当地市场。",
+        "Tourist_Activities": "北部野生动物园之旅（如果安全）。",
+        "Green_Spaces": "Manovo‑Gounda国家公园（北部）。",
+        "Local_Cuisine": "Mbaqanga（南部菜肴）。"
+      },
+      {
+        "City_Name": "Bria",
+        "Historical_Landmarks": "钻石矿。",
+        "Tourist_Activities": "参观小型采矿作坊。",
+        "Green_Spaces": "山地景观。",
+        "Local_Cuisine": "青香蕉炖菜。"
+      },
+      {
+        "City_Name": "Pimbo",
+        "Historical_Landmarks": "大型市场。",
+        "Tourist_Activities": "在市场购物。",
+        "Green_Spaces": "农业区。",
+        "Local_Cuisine": "Billi‑billi（传统饮料）。"
+      },
+      {
+        "City_Name": "Bakaranga",
+        "Historical_Landmarks": "旧殖民建筑。",
+        "Tourist_Activities": "了解农业。",
+        "Green_Spaces": "乡村地区。",
+        "Local_Cuisine": "烤山羊肉。"
+      },
+      {
+        "City_Name": "Impfondo",
+        "Historical_Landmarks": "河港。",
+        "Tourist_Activities": "简单钓鱼之旅。",
+        "Green_Spaces": "乌班吉河。",
+        "Local_Cuisine": "烤河鱼。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Cities": [
+      {
+        "City_Name": "Juba",
+        "Historical_Landmarks": "约翰·加朗陵墓（国家纪念碑）、尼罗河大桥、朱巴大教堂。",
+        "Tourist_Activities": "尼罗河之旅，参观加朗陵墓。",
+        "Green_Spaces": "白尼罗河岸（长廊）、公共公园。",
+        "Local_Cuisine": "Kisra（薄饼）、Ful Sudani（煮熟的苏丹豆子）。"
+      },
+      {
+        "City_Name": "Wau",
+        "Historical_Landmarks": "旧殖民建筑、中央市场。",
+        "Tourist_Activities": "探索旧建筑，参观市场。",
+        "Green_Spaces": "附近森林保护区。",
+        "Local_Cuisine": "Combo（秋葵和肉炖菜）、Asida（粥）。"
+      },
+      {
+        "City_Name": "Malakal",
+        "Historical_Landmarks": "马拉卡河港。",
+        "Tourist_Activities": "在水坝观看水鸟。",
+        "Green_Spaces": "Sudd沼泽——主要自然遗址。",
+        "Local_Cuisine": "Gorosasa（传统面包）。"
+      },
+      {
+        "City_Name": "Bor",
+        "Historical_Landmarks": "古代Bor遗址、历史教堂。",
+        "Tourist_Activities": "参观宗教和历史遗址。",
+        "Green_Spaces": "尼罗河岸。",
+        "Local_Cuisine": "Aseeda（粥菜）。"
+      },
+      {
+        "City_Name": "Turit",
+        "Historical_Landmarks": "Lango部落传统村庄。",
+        "Tourist_Activities": "在Imatong山徒步。",
+        "Green_Spaces": "Imatong山、附近Nimoli国家公园。",
+        "Local_Cuisine": "烤羊肉。"
+      },
+      {
+        "City_Name": "Rumbek",
+        "Historical_Landmarks": "流行市场。",
+        "Tourist_Activities": "了解丁卡（牛）传统。",
+        "Green_Spaces": "季节性湖泊区、牧场景观。",
+        "Local_Cuisine": "牛奶和蜂蜜（传统主菜）。"
+      },
+      {
+        "City_Name": "Boma",
+        "Historical_Landmarks": "野生动物保护中心。",
+        "Tourist_Activities": "观看大角马迁徙（季节性）。",
+        "Green_Spaces": "Boma国家公园。",
+        "Local_Cuisine": "干鱼菜肴。"
+      },
+      {
+        "City_Name": "Owel",
+        "Historical_Landmarks": "旧火车站。",
+        "Tourist_Activities": "游览农业区。",
+        "Green_Spaces": "北部热带草原平原。",
+        "Local_Cuisine": "烤肝（Kemeyu）。"
+      },
+      {
+        "City_Name": "Kajok",
+        "Historical_Landmarks": "丁卡部落遗产遗址。",
+        "Tourist_Activities": "观察牧民生活。",
+        "Green_Spaces": "广阔平原。",
+        "Local_Cuisine": "牛酸奶。"
+      },
+      {
+        "City_Name": "Yida",
+        "Historical_Landmarks": "旧建筑。",
+        "Tourist_Activities": "了解地区历史。",
+        "Green_Spaces": "沙漠景观。",
+        "Local_Cuisine": "Aish（面包）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "South Africa",
+    "Cities": [
+      {
+        "City_Name": "Cape Town",
+        "Historical_Landmarks": "罗本岛（曼德拉监狱）、桌山、维多利亚与阿尔弗雷德海滨。",
+        "Tourist_Activities": "缆车到桌山，游览罗本岛，在附近开普农场品酒。",
+        "Green_Spaces": "桌山国家公园、好望角、Kirstenbosch植物园。",
+        "Local_Cuisine": "Bobotie（甜辣肉末菜肴）、开普马来咖喱。"
+      },
+      {
+        "City_Name": "Johannesburg",
+        "Historical_Landmarks": "种族隔离博物馆、索韦托区、玛丽·菲茨杰拉德广场。",
+        "Tourist_Activities": "参观种族隔离博物馆，游览索韦托和8115号房屋。",
+        "Green_Spaces": "金门国家公园、爬行动物公园。",
+        "Local_Cuisine": "Biltong（干肉）、Boerewors（农场香肠）、Pap and Vleis（玉米粥和肉）。"
+      },
+      {
+        "City_Name": "Nelspruit",
+        "Historical_Landmarks": "克鲁格野生动物中心、Kolvin房屋和艺术中心。",
+        "Tourist_Activities": "克鲁格五大野生动物园。",
+        "Green_Spaces": "克鲁格国家公园（最近入口）、Waldridge植物园。",
+        "Local_Cuisine": "Shisa Nyama（传统肉烧烤）。"
+      },
+      {
+        "City_Name": "Durban",
+        "Historical_Landmarks": "朱玛清真寺、热带植物园。",
+        "Tourist_Activities": "冲浪，探索印度文化。",
+        "Green_Spaces": "金英里海滩、Eastgate自然保护区（北部）。",
+        "Local_Cuisine": "Bunny Chow（咖喱面包）、Vetkoek（油炸面团馅）。"
+      },
+      {
+        "City_Name": "Bretoria",
+        "Historical_Landmarks": "联合大厦、Fort Rykker、克鲁格故居博物馆。",
+        "Tourist_Activities": "参观联合大厦，在蓝花楹树下漫步（春季）。",
+        "Green_Spaces": "Kuthbert民间花园、马加利斯堡山。",
+        "Local_Cuisine": "Potjiekos（铸铁锅中煮的炖菜）。"
+      },
+      {
+        "City_Name": "Stellenbosch",
+        "Historical_Landmarks": "Dorp街历史、斯泰伦博斯大学。",
+        "Tourist_Activities": "在农场品酒，游览历史悠久的城镇。",
+        "Green_Spaces": "葡萄酒农场、Jonkershoek自然保护区。",
+        "Local_Cuisine": "Amasi（传统酸奶）配玉米面包。"
+      },
+      {
+        "City_Name": "Knysna",
+        "Historical_Landmarks": "克尼斯纳圣公会教堂、海滨长廊。",
+        "Tourist_Activities": "湖泊乘船游览，在水滨购物。",
+        "Green_Spaces": "克尼斯纳湖、齐齐卡马国家森林（附近）。",
+        "Local_Cuisine": "克尼斯纳生蚝、烤Kingklip鱼。"
+      },
+      {
+        "City_Name": "Port Elizabeth",
+        "Historical_Landmarks": "钟楼、伊丽莎白港博物馆、历史Donkin区。",
+        "Tourist_Activities": "参观阿多公园，享受海滩。",
+        "Green_Spaces": "Homewood海滩、阿多大象国家公园（附近）。",
+        "Local_Cuisine": "Gatsby（巨型三明治）。"
+      },
+      {
+        "City_Name": "Hermanus",
+        "Historical_Landmarks": "鲸鱼博物馆。",
+        "Tourist_Activities": "观看南露脊鲸和南长须鲸（季节性），海岸散步。",
+        "Green_Spaces": "悬崖小径、Walker湾。",
+        "Local_Cuisine": "Karoo羊肉。"
+      },
+      {
+        "City_Name": "Bloemfontein",
+        "Historical_Landmarks": "英布战争博物馆、旧司法厅。",
+        "Tourist_Activities": "参观富兰克林野生动物保护区，探索历史博物馆。",
+        "Green_Spaces": "玫瑰花园、富兰克林野生动物保护区。",
+        "Local_Cuisine": "Mala Mogodu（炖内脏）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Sudan",
+    "Cities": [
+      {
+        "City_Name": "Khartoum",
+        "Historical_Landmarks": "两尼罗河汇合处（Al-Muqran）、苏丹国家博物馆、总统府。",
+        "Tourist_Activities": "观看两尼罗河交汇，游览Tuti岛，参观博物馆。",
+        "Green_Spaces": "Tuti岛（公园和农场）、动物园。",
+        "Local_Cuisine": "Ful Medames（早餐菜肴）、Kamounia（肝炖菜）。"
+      },
+      {
+        "City_Name": "Omdurman",
+        "Historical_Landmarks": "哈里发之家（博物馆）、马赫迪墓、Omdurman市场（大市场）。",
+        "Tourist_Activities": "观看托钵僧舞蹈，在Omdurman市场购物。",
+        "Green_Spaces": "尼罗河公园。",
+        "Local_Cuisine": "Kisra和mulah wiqa（粥配干秋葵炖菜）、gurasa（粗面粉面包）。"
+      },
+      {
+        "City_Name": "Meroe",
+        "Historical_Landmarks": "Meroe金字塔（Bajrawiya——联合国教科文组织遗址）、太阳神庙。",
+        "Tourist_Activities": "在日落时分参观金字塔，探索库什遗址。",
+        "Green_Spaces": "Bajrawiya沙漠地区。",
+        "Local_Cuisine": "Aseeda（酵母面包）。"
+      },
+      {
+        "City_Name": "Port Sudan",
+        "Historical_Landmarks": "苏丹港灯塔、旧港口。",
+        "Tourist_Activities": "潜水和浮潜，享受海滩。",
+        "Green_Spaces": "红海珊瑚礁、Wali海滩。",
+        "Local_Cuisine": "新鲜烤鱼、甘蔗汁。"
+      },
+      {
+        "City_Name": "Karima",
+        "Historical_Landmarks": "Jebel Barkal（联合国教科文组织遗址）、Nuri金字塔。",
+        "Tourist_Activities": "攀登Jebel Barkal，参观阿蒙神庙。",
+        "Green_Spaces": "Barkal附近尼罗河岸。",
+        "Local_Cuisine": "肉串（Agashe）。"
+      },
+      {
+        "City_Name": "Suakin",
+        "Historical_Landmarks": "旧Suakin城遗址、废弃的奥斯曼港口。",
+        "Tourist_Activities": "游览古城遗址。",
+        "Green_Spaces": "海岸海景。",
+        "Local_Cuisine": "Fatta（面包配肉汤）。"
+      },
+      {
+        "City_Name": "Kassala",
+        "Historical_Landmarks": "大清真寺、Kassala市场。",
+        "Tourist_Activities": "在Tuti山周围散步。",
+        "Green_Spaces": "Tuti山、Kassala河。",
+        "Local_Cuisine": "Aseeda配mulah al-taqlya。"
+      },
+      {
+        "City_Name": "Al‑Ubayyid",
+        "Historical_Landmarks": "阿拉伯胶市场、Al‑Ubayyid博物馆。",
+        "Tourist_Activities": "参观阿拉伯胶市场。",
+        "Green_Spaces": "沙漠景观。",
+        "Local_Cuisine": "Marara（生肝）。"
+      },
+      {
+        "City_Name": "Dungaila",
+        "Historical_Landmarks": "古代努比亚考古遗址。",
+        "Tourist_Activities": "探索努比亚遗址。",
+        "Green_Spaces": "努比亚尼罗河岸。",
+        "Local_Cuisine": "Dooka面包。"
+      },
+      {
+        "City_Name": "Wad Medani",
+        "Historical_Landmarks": "杰济拉大学、旧行政建筑。",
+        "Tourist_Activities": "农场之旅。",
+        "Green_Spaces": "青尼罗河。",
+        "Local_Cuisine": "干秋葵炖菜。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Somalia",
+    "Cities": [
+      {
+        "City_Name": "Mogadishu",
+        "Historical_Landmarks": "Fakhr al-Din清真寺、旧摩加迪沙大教堂建筑、摩加迪沙灯塔。",
+        "Tourist_Activities": "在Liido海滩游泳，游览旧城。",
+        "Green_Spaces": "Liido海滩、Hawaa岛公园。",
+        "Local_Cuisine": "Bariis Iskukaris（香料米饭）、Baasto iyo Hilib（意面配肉）。"
+      },
+      {
+        "City_Name": "Hargeisa",
+        "Historical_Landmarks": "Las Gil洞穴（古代绘画）、国家博物馆、货币市场。",
+        "Tourist_Activities": "参观Las Gil洞穴，在货币市场购物。",
+        "Green_Spaces": "哈尔格萨国家公园、Dalo山（哈尔格萨附近）。",
+        "Local_Cuisine": "Canjeero（索马里煎饼）、Lahoh（扁面包）。"
+      },
+      {
+        "City_Name": "Berbera",
+        "Historical_Landmarks": "旧奥斯曼房屋、Berbera灯塔。",
+        "Tourist_Activities": "享受平静的海滩。",
+        "Green_Spaces": "Berbera海滩、旧Berbera港口。",
+        "Local_Cuisine": "Maraq（肉炖菜）、Sambusa（萨莫萨）。"
+      },
+      {
+        "City_Name": "Bosaaso",
+        "Historical_Landmarks": "Bosaaso港口、中央市场。",
+        "Tourist_Activities": "在市场购物，游览港口。",
+        "Green_Spaces": "Jalgalal山（Bosaaso附近）、公共海滩。",
+        "Local_Cuisine": "Suqaar（炸肉丁）、Malawax（甜面包）。"
+      },
+      {
+        "City_Name": "Kismaayo",
+        "Historical_Landmarks": "旧灯塔、政府建筑。",
+        "Tourist_Activities": "乘船游览岛屿。",
+        "Green_Spaces": "Bajuni群岛、Kismaayo海滩。",
+        "Local_Cuisine": "Iskudhexkaris（与蔬菜一起煮的米饭）。"
+      },
+      {
+        "City_Name": "Merca",
+        "Historical_Landmarks": "旧阿拉伯建筑、中央清真寺。",
+        "Tourist_Activities": "探索旧建筑。",
+        "Green_Spaces": "白色Merca海滩。",
+        "Local_Cuisine": "Qado（传统索马里午餐）。"
+      },
+      {
+        "City_Name": "Marka",
+        "Historical_Landmarks": "旧中央清真寺。",
+        "Tourist_Activities": "探索历史遗址。",
+        "Green_Spaces": "附近海滩。",
+        "Local_Cuisine": "Oodkac（干肉）。"
+      },
+      {
+        "City_Name": "Zila",
+        "Historical_Landmarks": "古代Zila遗址、历史清真寺。",
+        "Tourist_Activities": "参观历史遗址。",
+        "Green_Spaces": "附近海滩。",
+        "Local_Cuisine": "Oodkac（干肉）。"
+      },
+      {
+        "City_Name": "Burama",
+        "Historical_Landmarks": "Burama大学、旧清真寺。",
+        "Tourist_Activities": "山丘徒步。",
+        "Green_Spaces": "Burama山丘、Burama湖。",
+        "Local_Cuisine": "Mashidani（面条菜肴）。"
+      },
+      {
+        "City_Name": "Eyli",
+        "Historical_Landmarks": "旧殖民建筑。",
+        "Tourist_Activities": "观看渔船。",
+        "Green_Spaces": "Eyli海滩、海岸地区。",
+        "Local_Cuisine": "新鲜金枪鱼。"
+      },
+      {
+        "City_Name": "Afgooye",
+        "Historical_Landmarks": "香蕉和芒果农场。",
+        "Tourist_Activities": "参观农场。",
+        "Green_Spaces": "谢贝利河岸（散步）。",
+        "Local_Cuisine": "Muufo（玉米粉面包）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "China",
+    "Cities": [
+      {
+        "City_Name": "Beijing",
+        "Historical_Landmarks": "紫禁城、中国长城（八达岭和慕田峪段）、天安门广场、天坛。",
+        "Tourist_Activities": "在长城上行走，参观紫禁城，观看中国京剧表演。",
+        "Green_Spaces": "颐和园（皇家园林）、北海公园。",
+        "Local_Cuisine": "北京烤鸭、炸酱面。"
+      },
+      {
+        "City_Name": "Shanghai",
+        "Historical_Landmarks": "外滩、东方明珠塔、朱家角水乡。",
+        "Tourist_Activities": "外滩夜游，参观上海博物馆。",
+        "Green_Spaces": "豫园、世纪公园。",
+        "Local_Cuisine": "小笼包、月饼。"
+      },
+      {
+        "City_Name": "Xi'an",
+        "Historical_Landmarks": "兵马俑、西安城墙、大雁塔。",
+        "Tourist_Activities": "参观兵马俑，在城墙上骑自行车。",
+        "Green_Spaces": "幸运公园、清静湖。",
+        "Local_Cuisine": "肉夹馍（中国汉堡）、包子。"
+      },
+      {
+        "City_Name": "Chengdu",
+        "Historical_Landmarks": "古锦里街、武侯祠。",
+        "Tourist_Activities": "在保护区观看大熊猫，尝试辛辣四川菜。",
+        "Green_Spaces": "成都大熊猫基地、人民公园。",
+        "Local_Cuisine": "四川火锅、宫保鸡丁。"
+      },
+      {
+        "City_Name": "Guilin",
+        "Historical_Landmarks": "桂林水道、象鼻山。",
+        "Tourist_Activities": "漓江游船，游览喀斯特地区。",
+        "Green_Spaces": "伏波山、芦笛岩。",
+        "Local_Cuisine": "桂林米粉、啤酒鸭。"
+      },
+      {
+        "City_Name": "Hangzhou",
+        "Historical_Landmarks": "灵隐寺、国家茶叶博物馆。",
+        "Tourist_Activities": "西湖游船，品尝龙井茶。",
+        "Green_Spaces": "西湖（联合国教科文组织）、西岭瀑布。",
+        "Local_Cuisine": "西湖醋鱼、叫花鸡。"
+      },
+      {
+        "City_Name": "Hong Kong",
+        "Historical_Landmarks": "大佛雕像、星光大道、太空博物馆。",
+        "Tourist_Activities": "观看幻彩咏香江，乘电车到山顶。",
+        "Green_Spaces": "太平山顶、香港公园。",
+        "Local_Cuisine": "点心、鸡蛋仔。"
+      },
+      {
+        "City_Name": "Lhasa",
+        "Historical_Landmarks": "布达拉宫（旧达赖喇嘛宫殿）、大昭寺。",
+        "Tourist_Activities": "参观布达拉宫，游览色拉寺。",
+        "Green_Spaces": "罗布林卡公园。",
+        "Local_Cuisine": "牦牛肉馍馍（牦肉饺子）、糌粑（大麦面团）。"
+      },
+      {
+        "City_Name": "Suzhou",
+        "Historical_Landmarks": "虎丘、地区博物馆、古代水道。",
+        "Tourist_Activities": "游览古典园林，水道乘船。",
+        "Green_Spaces": "拙政园（联合国教科文组织）、留园。",
+        "Local_Cuisine": "苏州熏鱼、担担面。"
+      },
+      {
+        "City_Name": "Zhangjiajie",
+        "Historical_Landmarks": "玻璃桥（张家界大峡谷）。",
+        "Tourist_Activities": "缆车到天门山，在玻璃桥上行走。",
+        "Green_Spaces": "张家界国家森林公园、天门山（天门）。",
+        "Local_Cuisine": "张家界糕点。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Cameroon",
+    "Cities": [
+      {
+        "City_Name": "Yaoundé",
+        "Historical_Landmarks": "统一纪念碑、国家博物馆、胜利圣母大教堂。",
+        "Tourist_Activities": "参观国家博物馆，探索雅温得艺术市场。",
+        "Green_Spaces": "Faml Nkok（Foulassi）山、雅温得动物园。",
+        "Local_Cuisine": "Ndole（国菜：菠菜配花生）、Poulet DG（鸡肉配青香蕉）。"
+      },
+      {
+        "City_Name": "Douala",
+        "Historical_Landmarks": "Bonaberi桥、当代艺术博物馆、艺术中心和图书馆。",
+        "Tourist_Activities": "港口游览，探索艺术场景。",
+        "Green_Spaces": "杜阿拉湖公园、杜阿拉海滩。",
+        "Local_Cuisine": "Poisson Braisé（辣烤鱼）、Miondo（木薯面包）。"
+      },
+      {
+        "City_Name": "Kribi",
+        "Historical_Landmarks": "克里比灯塔、渔村。",
+        "Tourist_Activities": "参观Lobe瀑布，在海滩上放松。",
+        "Green_Spaces": "Lobe瀑布、沙滩。",
+        "Local_Cuisine": "Eru（绿色炖菜）、新鲜鱼和海鲜。"
+      },
+      {
+        "City_Name": "Foumban",
+        "Historical_Landmarks": "苏丹巴穆姆皇宫、宫殿博物馆（传统艺术）。",
+        "Tourist_Activities": "参观苏丹皇宫和艺术博物馆。",
+        "Green_Spaces": "绿色平原。",
+        "Local_Cuisine": "Achombo（传统肉菜）。"
+      },
+      {
+        "City_Name": "Limbé",
+        "Historical_Landmarks": "黑猩猩救援中心。",
+        "Tourist_Activities": "参观黑猩猩中心，在黑色沙滩上放松。",
+        "Green_Spaces": "林贝植物园、火山黑沙滩。",
+        "Local_Cuisine": "Congo（煮熟的豆子）。"
+      },
+      {
+        "City_Name": "Buea",
+        "Historical_Landmarks": "旧殖民建筑、布埃亚大学。",
+        "Tourist_Activities": "开始攀登喀麦隆山，城市游览。",
+        "Green_Spaces": "喀麦隆山、喀麦隆山国家公园。",
+        "Local_Cuisine": "水fufu和Eru（fufu配酱汁）。"
+      },
+      {
+        "City_Name": "Garoua",
+        "Historical_Landmarks": "北部市场。",
+        "Tourist_Activities": "前往Waza的野生动物园之旅。",
+        "Green_Spaces": "靠近Waza和Bingou公园、贝努埃河。",
+        "Local_Cuisine": "Wagashi（炸奶酪）。"
+      },
+      {
+        "City_Name": "Bafang",
+        "Historical_Landmarks": "传统市场。",
+        "Tourist_Activities": "观看传统舞蹈。",
+        "Green_Spaces": "西部山丘和农场。",
+        "Local_Cuisine": "Koki（叶中包裹的豆子）。"
+      },
+      {
+        "City_Name": "Maroua",
+        "Historical_Landmarks": "Maroua大清真寺。",
+        "Tourist_Activities": "在Maroua市场购物，徒步山丘。",
+        "Green_Spaces": "Maroua山（徒步）、热带草原平原。",
+        "Local_Cuisine": "古斯米、玉米汤。"
+      },
+      {
+        "City_Name": "Ebolowa",
+        "Historical_Landmarks": "班图部落历史遗址。",
+        "Tourist_Activities": "探索森林。",
+        "Green_Spaces": "雨林。",
+        "Local_Cuisine": "Maboke（叶中煮的鱼）。"
+      }
+    ]
+  }
+]

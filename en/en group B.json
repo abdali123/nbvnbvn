@@ -1,0 +1,2710 @@
+[
+  {
+    "Country_Name": "Mauritania",
+    " Cities": [
+        {
+          "City_Name": "Nouakchott",
+          "Historical_Landmarks": "Grand Mosque, National Museum",
+          "Tourist_Activities": "Visit the port fish market, explore local markets",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Fishermen Beach and coastal reserves"
+        },
+        {
+          "City_Name": "Chinguetti",
+          "Historical_Landmarks": "Ancient city of Chinguetti (UNESCO site)",
+          "Tourist_Activities": "Explore ancient libraries and manuscripts, desert safari trips",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Golden surrounding desert dunes"
+        },
+        {
+          "City_Name": "Wad‑an",
+          "Historical_Landmarks": "Ancient city of Wad‑an (UNESCO site), Wad‑an Library",
+          "Tourist_Activities": "Visit the ancient city and the fortress, stargaze in the desert at night",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Heart of the Sahara and the Adrar plateau"
+        },
+        {
+          "City_Name": "Néma",
+          "Historical_Landmarks": "Meat market, colonial buildings",
+          "Tourist_Activities": "Mauritanian East Gate and traditional markets",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Hills of the eastern region"
+        },
+        {
+          "City_Name": "Nouadhibou",
+          "Historical_Landmarks": "Fishing port, Nouadhibou lighthouse",
+          "Tourist_Activities": "Visit the ship graveyard and water sports, fishing",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Cap Blanc (Nouadhibou headland) mangrove reserve"
+        },
+        {
+          "City_Name": "Tichit",
+          "Historical_Landmarks": "Ancient city of Tichit (UNESCO site)",
+          "Tourist_Activities": "Stroll among ancient stone architecture, explore the desert",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Isolated oases"
+        },
+        {
+          "City_Name": "Atar",
+          "Historical_Landmarks": "Atar fortress, weekly market",
+          "Tourist_Activities": "Base for desert excursions, mountain exploration",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Palm oases and rocky mountains"
+        },
+        {
+          "City_Name": "Rosso",
+          "Historical_Landmarks": "Old town of Rosso, central market",
+          "Tourist_Activities": "Ferry trips on the Senegal River, birdwatching",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Green banks of the Senegal River"
+        },
+        {
+          "City_Name": "Kiehidi",
+          "Historical_Landmarks": "Surrounding villages, river banks",
+          "Tourist_Activities": "Learn about diverse river‑bank cultures, see traditional agriculture",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Fertile floodplain lands"
+        },
+        {
+          "City_Name": "Lake Arkein",
+          "Historical_Landmarks": "Lake Arkein National Reserve",
+          "Tourist_Activities": "Watch migratory birds (UNESCO site), photography",
+          "Local_Cuisine": "Couscous, maro and hake (rice and fish), mansha (lamb), sherbet al‑zarq, bulgaman",
+          "Green_Spaces": "Lake Arkein National Reserve (desert‑ocean interface)"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Mauritius",
+      " Cities": [
+        {
+          "City_Name": "Port Louis",
+          "Historical_Landmarks": "Fashion Museum, Central Market",
+          "Tourist_Activities": "Shopping at Codon Waterfront, museum visits",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Famous Pamplemousses Botanical Gardens"
+        },
+        {
+          "City_Name": "Grand Baie",
+          "Historical_Landmarks": "Cap Malorie Church",
+          "Tourist_Activities": "Sailing, water sports and nightlife",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Public La Covette Beach"
+        },
+        {
+          "City_Name": "Flic en Flac",
+          "Historical_Landmarks": "Flic en Flac lighthouse",
+          "Tourist_Activities": "Diving and swimming with dolphins",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Coral reefs and long beaches"
+        },
+        {
+          "City_Name": "Le Morne",
+          "Historical_Landmarks": "Le Morne Brabant Mountain",
+          "Tourist_Activities": "Climbing Le Morne Brabant (UNESCO)",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Le Morne Peninsula and surrounding landscapes"
+        },
+        {
+          "City_Name": "Bel Ombre",
+          "Historical_Landmarks": "Bel Ombre resort",
+          "Tourist_Activities": "Safari trips and luxury golf",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Frederica Nature Reserve"
+        },
+        {
+          "City_Name": "Chamarel",
+          "Historical_Landmarks": "Land of Seven Colours, Chamarel waterfalls",
+          "Tourist_Activities": "Visit the Land of Seven Colours and the rum factory",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Chamarel waterfalls and coloured‑land park"
+        },
+        {
+          "City_Name": "Mahébourg",
+          "Historical_Landmarks": "Mahébourg Maritime Museum",
+          "Tourist_Activities": "Visit the maritime museum and local market",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Blue Bay Marine Park"
+        },
+        {
+          "City_Name": "Tamatave",
+          "Historical_Landmarks": "Tamatave waterfalls",
+          "Tourist_Activities": "Surfing and dolphin watching",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Tamatave waterfalls and river mouth"
+        },
+        {
+          "City_Name": "Kouripou",
+          "Historical_Landmarks": "Trovão or Sérf volcano crater",
+          "Tourist_Activities": "Visit the ship model exhibit and shop",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Trovão or Sérf volcano crater"
+        },
+        {
+          "City_Name": "Black River",
+          "Historical_Landmarks": "Black River Gorges National Park",
+          "Tourist_Activities": "Deep‑sea fishing",
+          "Local_Cuisine": "Dal puri, fish curry, fried noodles (min frites), palm salad, Belem Gate",
+          "Green_Spaces": "Black River Gorges National Park (rainforests)"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Mozambique",
+      " Cities": [
+        {
+          "City_Name": "Maputo",
+          "Historical_Landmarks": "São Sebastião Fortress, Nossa Senhora da Conceição Cathedral",
+          "Tourist_Activities": "Visit the railway station and central market",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Tunduru Botanical Garden"
+        },
+        {
+          "City_Name": "Bazaruto Archipelago",
+          "Historical_Landmarks": "São Paulo ruins",
+          "Tourist_Activities": "Shallow and deep diving (top destination)",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "National marine park and Atum protection"
+        },
+        {
+          "City_Name": "Tofo",
+          "Historical_Landmarks": "Barra do Tofo lighthouse",
+          "Tourist_Activities": "Swim with whale sharks",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Open sandy beaches of Tofo"
+        },
+        {
+          "City_Name": "Mozambique Island",
+          "Historical_Landmarks": "Mozambique Island Museum, São Sebastião Fortress",
+          "Tourist_Activities": "Explore colonial history (UNESCO site)",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Rocky beaches and turquoise waters"
+        },
+        {
+          "City_Name": "Pira",
+          "Historical_Landmarks": "São Paulo Cathedral, Pira lighthouse",
+          "Tourist_Activities": "Visit the lighthouse and ancient cathedral",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Makuti Beach"
+        },
+        {
+          "City_Name": "Vi lankulos",
+          "Historical_Landmarks": "Saint Anthony Church",
+          "Tourist_Activities": "Island gateway and horse riding",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Coastal bird sanctuaries"
+        },
+        {
+          "City_Name": "Gorongosa",
+          "Historical_Landmarks": "Gorongosa National Park",
+          "Tourist_Activities": "Safari trips to see lions and elephants",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Gorongosa National Park (huge ecological diversity)"
+        },
+        {
+          "City_Name": "Bimba",
+          "Historical_Landmarks": "Bimba hills",
+          "Tourist_Activities": "Relax in luxury resorts",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Wimbi Beach and bay"
+        },
+        {
+          "City_Name": "Kirimbeas Archipelago",
+          "Historical_Landmarks": "Traditional fishing villages",
+          "Tourist_Activities": "Sailing in traditional sailboats",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Kirimbeas National Mangrove Reserve"
+        },
+        {
+          "City_Name": "Inhambane",
+          "Historical_Landmarks": "Nossa Senhora da Palma Church",
+          "Tourist_Activities": "Visit historic markets",
+          "Local_Cuisine": "Grilled peri‑peri shrimp, matapa (cassava leaves), Portuguese bread (pãozinho), Zambezi chicken",
+          "Green_Spaces": "Coastal promenade and quiet bay"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Moldova",
+      " Cities": [
+        {
+          "City_Name": "Chișinău",
+          "Historical_Landmarks": "Victory Gate, Birth Cathedral",
+          "Tourist_Activities": "City centre and cathedral tour",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Central Stefan Cel Mare Park"
+        },
+        {
+          "City_Name": "Orheiul Vechi",
+          "Historical_Landmarks": "Orheiul Monastery",
+          "Tourist_Activities": "Visit rock‑carved monastery complex",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Rațova River Valley and scenic landscapes"
+        },
+        {
+          "City_Name": "Cricova",
+          "Historical_Landmarks": "Wine Museum",
+          "Tourist_Activities": "Tour the largest underground wine cellars",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Vineyards surrounding the town"
+        },
+        {
+          "City_Name": "Tiraspol",
+          "Historical_Landmarks": "Soviet memorial, Tiraspol Fortress",
+          "Tourist_Activities": "Experience a Soviet‑era retro trip (Transnistria)",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Bobida (Victory) Park and Dniester River banks"
+        },
+        {
+          "City_Name": "Suruceni",
+          "Historical_Landmarks": "Suruceni Fortress",
+          "Tourist_Activities": "Visit the historic Suruceni Fortress",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Forests and Dniester River banks"
+        },
+        {
+          "City_Name": "Mîlcușeni",
+          "Historical_Landmarks": "Wine Museum",
+          "Tourist_Activities": "Visit the underground wine city (Guinness World Record)",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Vine‑covered hills"
+        },
+        {
+          "City_Name": "Bender (Tighina)",
+          "Historical_Landmarks": "Bender Fortress",
+          "Tourist_Activities": "Explore the old Ottoman fortress",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "River parks"
+        },
+        {
+          "City_Name": "Saharna",
+          "Historical_Landmarks": "Saharna Monastery",
+          "Tourist_Activities": "Pilgrimage to the Holy Trinity Monastery",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Saharna waterfalls and surrounding forests"
+        },
+        {
+          "City_Name": "Tipova",
+          "Historical_Landmarks": "Tipova Monastery",
+          "Tourist_Activities": "Hiking and visit the rock monastery",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Tipova Natural Reserve and waterfalls"
+        },
+        {
+          "City_Name": "Gagauzia",
+          "Historical_Landmarks": "Gagauzia Museum",
+          "Tourist_Activities": "Explore the unique Turkish‑Christian culture",
+          "Local_Cuisine": "Mămăligă (corn porridge), sarmale (stuffed cabbage), plăcintă (pie), zama soup",
+          "Green_Spaces": "Southern steppes and rural scenery"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Monaco",
+      " Cities": [
+        {
+          "City_Name": "Monte Carlo",
+          "Historical_Landmarks": "Monte Carlo Casino, Opera House",
+          "Tourist_Activities": "Visit the famous casino and the opera house",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Tranquil Japanese Gardens"
+        },
+        {
+          "City_Name": "Monaco Ville",
+          "Historical_Landmarks": "Prince's Palace, Monaco Cathedral",
+          "Tourist_Activities": "Visit the Prince's Palace and the old town",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Saint‑Martin Gardens overlooking the sea"
+        },
+        {
+          "City_Name": "La Condamine",
+          "Historical_Landmarks": "Harbor of Hercules",
+          "Tourist_Activities": "Stroll around Hercules Harbor for yachts",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Princess Antoinette Garden (olive trees)"
+        },
+        {
+          "City_Name": "Fontvieille",
+          "Historical_Landmarks": "Louis II Circuit",
+          "Tourist_Activities": "Visit the car museum and football matches",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Princess Grace Rose Garden"
+        },
+        {
+          "City_Name": "Larvotto",
+          "Historical_Landmarks": "Larvotto Museum",
+          "Tourist_Activities": "Enjoy the public beach and clubs",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Marine reserve and sandy beach"
+        },
+        {
+          "City_Name": "Jardin Exotique",
+          "Historical_Landmarks": "Exotic Garden",
+          "Tourist_Activities": "Explore the underground caves (Grotte de l'Observatoire)",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Exotic garden (succulents)"
+        },
+        {
+          "City_Name": "Monéghetti",
+          "Historical_Landmarks": "Monéghetti Gardens",
+          "Tourist_Activities": "Explore the northern mountainous border",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Trails overlooking the principality"
+        },
+        {
+          "City_Name": "La Rousse",
+          "Historical_Landmarks": "Skyscrapers",
+          "Tourist_Activities": "Shopping and skyscraper viewing",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Vertical green spaces"
+        },
+        {
+          "City_Name": "Monaco Harbor",
+          "Historical_Landmarks": "Monaco Harbor",
+          "Tourist_Activities": "Attend the annual yacht show",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Seafront promenade"
+        },
+        {
+          "City_Name": "Oceanographic Museum",
+          "Historical_Landmarks": "Oceanographic Museum",
+          "Tourist_Activities": "View massive aquarium tanks",
+          "Local_Cuisine": "Barbagiuan (fried pastries), fougasse (sweet bread), stockfish, salade niçoise",
+          "Green_Spaces": "Located on a rocky cliff overlooking the sea"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Montenegro (Crna Gora)",
+      " Cities": [
+        {
+          "City_Name": "Kotor",
+          "Historical_Landmarks": "Old town walls, St. Tryphon Cathedral",
+          "Tourist_Activities": "Climb the fortress and wander the old town",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Kotor Bay (natural fjord)"
+        },
+        {
+          "City_Name": "Budva",
+          "Historical_Landmarks": "Old town, Budva Fortress",
+          "Tourist_Activities": "Nightlife and historic beaches",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Sveti Nikola Island"
+        },
+        {
+          "City_Name": "Žabljak",
+          "Historical_Landmarks": "Morača Monastery",
+          "Tourist_Activities": "Ski in winter, hiking in summer",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Durmitor National Park and Black Lake"
+        },
+        {
+          "City_Name": "Perast",
+          "Historical_Landmarks": "Our Lady of the Rocks Church",
+          "Tourist_Activities": "Boat ride to Our Lady of the Rocks",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Mountain views over the bay"
+        },
+        {
+          "City_Name": "Herceg Novi",
+          "Historical_Landmarks": "Fort Forte Mare",
+          "Tourist_Activities": "Visit castles and endless stairs",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Savina Park and Luštica Peninsula"
+        },
+        {
+          "City_Name": "Ulcinj",
+          "Historical_Landmarks": "Ulcinj Church",
+          "Tourist_Activities": "Visit the long beach (Velika Plaža)",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Lake Šas and bird reserve"
+        },
+        {
+          "City_Name": "Cetinje",
+          "Historical_Landmarks": "Cetinje Monastery",
+          "Tourist_Activities": "Visit historic museums and old capital sites",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Lovćen National Park"
+        },
+        {
+          "City_Name": "Tivat",
+          "Historical_Landmarks": "Porto Montenegro",
+          "Tourist_Activities": "Sail to the luxury marina (Porto Montenegro)",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Porto Montenegro (luxury marina)"
+        },
+        {
+          "City_Name": "Bar",
+          "Historical_Landmarks": "St. Jovan Monastery",
+          "Tourist_Activities": "Visit historic monasteries and vineyards",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Bar Bay and surrounding beaches"
+        },
+        {
+          "City_Name": "Lake Skadar",
+          "Historical_Landmarks": "Virpazar Monastery",
+          "Tourist_Activities": "Boat tours for birdwatching",
+          "Local_Cuisine": "Prosciutto (Negroni), black cake, fish soup, burek",
+          "Green_Spaces": "Lake Skadar National Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Myanmar (Burma)",
+      " Cities": [
+        {
+          "City_Name": "Bagan",
+          "Historical_Landmarks": "Ananda Temple, Dhammayangyi Temple",
+          "Tourist_Activities": "Hot‑air balloon ride over thousands of ancient temples",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Bagan plains and Irrawaddy River banks"
+        },
+        {
+          "City_Name": "Yangon",
+          "Historical_Landmarks": "Shwedagon Pagoda, Botahtaung Market",
+          "Tourist_Activities": "Visit the golden Shwedagon Pagoda",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Kandawgyi Lake and People's Park"
+        },
+        {
+          "City_Name": "Mandalay",
+          "Historical_Landmarks": "Mandalay Palace, U Binn Bridge",
+          "Tourist_Activities": "Visit the royal palace and U Binn Bridge",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Mandalay Hill and panoramic scenery"
+        },
+        {
+          "City_Name": "Inle Lake",
+          "Historical_Landmarks": "Fang Dò Pagoda",
+          "Tourist_Activities": "Watch traditional fishermen and floating gardens",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Inle Lake wetlands reserve"
+        },
+        {
+          "City_Name": "Naypyidaw",
+          "Historical_Landmarks": "U Sanda Pagoda",
+          "Tourist_Activities": "Visit the U Sanda Pagoda (capital)",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "National Botanical Garden and Fountain Park"
+        },
+        {
+          "City_Name": "Ngapali",
+          "Historical_Landmarks": "Ngapali Beach",
+          "Tourist_Activities": "Relax on pristine beaches",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Ngapali beach and coconut palms"
+        },
+        {
+          "City_Name": "Hpa‑An",
+          "Historical_Landmarks": "Sadan Caves",
+          "Tourist_Activities": "Explore Sadan Caves and Mount Zwegabin",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Rice fields and karst mountains"
+        },
+        {
+          "City_Name": "Kyaung",
+          "Historical_Landmarks": "Tribal villages",
+          "Tourist_Activities": "Trekking between villages and tribal areas",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Pine forests and green hills"
+        },
+        {
+          "City_Name": "Pindaya",
+          "Historical_Landmarks": "Pindaya Caves",
+          "Tourist_Activities": "Horse‑drawn carriage rides and waterfall visits",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "National Botanical Gardens (Kandawgyi)"
+        },
+        {
+          "City_Name": "Mawki‑Yo",
+          "Historical_Landmarks": "Mawki‑Yo temples",
+          "Tourist_Activities": "Explore ancient stone temples",
+          "Local_Cuisine": "Tea‑leaf salad (lahpet), fish soup (mohinga), Burmese curry, Shan noodles",
+          "Green_Spaces": "Rakhine hills"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Mexico",
+      " Cities": [
+        {
+          "City_Name": "Mexico City",
+          "Historical_Landmarks": "Zócalo, National Anthropology Museum",
+          "Tourist_Activities": "Visit Frida Kahlo Museum and historic centre",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Chapultepec Forest (largest urban park)"
+        },
+        {
+          "City_Name": "Cancún",
+          "Historical_Landmarks": "Chichén Itzá ruins, Tulum ruins",
+          "Tourist_Activities": "Enjoy beaches and nightlife",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Caribbean beaches and Xcaret parks"
+        },
+        {
+          "City_Name": "Tulum",
+          "Historical_Landmarks": "Tulum ruins",
+          "Tourist_Activities": "Visit Maya ruins overlooking the sea",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Sian Ka'an Biosphere Reserve"
+        },
+        {
+          "City_Name": "Oaxaca",
+          "Historical_Landmarks": "Monte Albán archaeological site",
+          "Tourist_Activities": "Taste traditional food and visit markets",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Hierve el Agua petrified waterfalls"
+        },
+        {
+          "City_Name": "Guadalajara",
+          "Historical_Landmarks": "Historic Guadalajara Plaza",
+          "Tourist_Activities": "Listen to mariachi music and visit tequila distilleries",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "La Primavera Forest and Lake Chapala"
+        },
+        {
+          "City_Name": "Playa del Carmen",
+          "Historical_Landmarks": "Playa del Carmen beach",
+          "Tourist_Activities": "Stroll Fifth Avenue and dive",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Water‑filled rock gaps (cenotes)"
+        },
+        {
+          "City_Name": "Cabo San Lucas",
+          "Historical_Landmarks": "Rock arch (El Arco)",
+          "Tourist_Activities": "Whale watching and sea trips",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Rock arch (El Arco) and beaches"
+        },
+        {
+          "City_Name": "Merida",
+          "Historical_Landmarks": "Merida Cathedral",
+          "Tourist_Activities": "Explore colonial Mayan culture",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Celestún biosphere reserve (flamingos)"
+        },
+        {
+          "City_Name": "Puerto Vallarta",
+          "Historical_Landmarks": "Nuestra Señora de Guadalupe Church",
+          "Tourist_Activities": "Walk the Malecón boardwalk",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "Botanical gardens and Sierra Madre mountains"
+        },
+        {
+          "City_Name": "San Miguel de Allende",
+          "Historical_Landmarks": "San Miguel Church",
+          "Tourist_Activities": "Wander colorful streets and churches",
+          "Local_Cuisine": "Taco, mole (chocolate‑spice sauce), tlayuda, guacamole, tamales",
+          "Green_Spaces": "El Charco del Ingenio botanical garden"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Micronesia",
+      " Cities": [
+        {
+          "City_Name": "Baker (Pohnpei)",
+          "Historical_Landmarks": "Nan Madol (UNESCO site)",
+          "Tourist_Activities": "Visit Nan Madol (Pacific Venice)",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Keiro waterfalls and green mountains"
+        },
+        {
+          "City_Name": "Colonia (Yap)",
+          "Historical_Landmarks": "Giant stone money",
+          "Tourist_Activities": "See giant stone money and dive with manta rays",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Mangrove forests and beaches"
+        },
+        {
+          "City_Name": "Chuuk Lagoon",
+          "Historical_Landmarks": "World‑war II shipwrecks",
+          "Tourist_Activities": "Dive to explore world‑renowned shipwrecks",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Uninhabited tropical islands"
+        },
+        {
+          "City_Name": "Kosrae",
+          "Historical_Landmarks": "Lelu archaeological site",
+          "Tourist_Activities": "Explore mangrove forests by boat",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Mount Finkol and coral gardens"
+        },
+        {
+          "City_Name": "Lelu Island",
+          "Historical_Landmarks": "Ancient Lelu ruins",
+          "Tourist_Activities": "Visit ancient Lelu ruins",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Volcanic coastal scenery"
+        },
+        {
+          "City_Name": "Ant Atoll",
+          "Historical_Landmarks": "Biosphere Reserve",
+          "Tourist_Activities": "Swim and snorkel in clear waters",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "UNESCO Biosphere Reserve"
+        },
+        {
+          "City_Name": "Jabor",
+          "Historical_Landmarks": "Traditional Jabor village",
+          "Tourist_Activities": "Experience traditional island life",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "White sand beaches"
+        },
+        {
+          "City_Name": "Mokil",
+          "Historical_Landmarks": "Mokil Lake",
+          "Tourist_Activities": "Fishing and simple living",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Turquoise lake beach"
+        },
+        {
+          "City_Name": "Pingelap",
+          "Historical_Landmarks": "Pingelap coral reefs",
+          "Tourist_Activities": "Learn about the island’s colour‑blindness phenomenon",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Pristine coral reefs"
+        },
+        {
+          "City_Name": "Nolok",
+          "Historical_Landmarks": "Nolok tropical forests",
+          "Tourist_Activities": "Total relaxation far from the world",
+          "Local_Cuisine": "Raw fish with coconut, taro, breadfruit, Micronesian chicken",
+          "Green_Spaces": "Dense tropical forests"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Namibia",
+      " Cities": [
+        {
+          "City_Name": "Windhoek",
+          "Historical_Landmarks": "Christ Church, Christuskirche Castle",
+          "Tourist_Activities": "Visit Christ Church and the National Museum",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Parliament Gardens and zoo"
+        },
+        {
+          "City_Name": "Swakopmund",
+          "Historical_Landmarks": "Swakopmund Harbor, train station",
+          "Tourist_Activities": "Sandboarding and sky‑diving",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Surrounding desert and beach"
+        },
+        {
+          "City_Name": "Etosha National Park",
+          "Historical_Landmarks": "Etosha National Park",
+          "Tourist_Activities": "Safari to see rhinos and lions",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Salt flats and waterholes"
+        },
+        {
+          "City_Name": "Sossusvlei",
+          "Historical_Landmarks": "Deadvlei (Dead Valley)",
+          "Tourist_Activities": "Climb the red sand dunes (Big Daddy)",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Deadvlei and petrified trees"
+        },
+        {
+          "City_Name": "Walvis Bay",
+          "Historical_Landmarks": "Walvis Bay Harbor",
+          "Tourist_Activities": "Watch flamingos and kayak",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Coastal lake and Sandwich Harbour dunes"
+        },
+        {
+          "City_Name": "Lüderitz",
+          "Historical_Landmarks": "Ghost town Kolmanskop",
+          "Tourist_Activities": "Visit ghost town Kolmanskop",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Rocky coast and strong winds"
+        },
+        {
+          "City_Name": "Fish River Canyon",
+          "Historical_Landmarks": "Fish River Canyon",
+          "Tourist_Activities": "Long‑distance hiking (second largest canyon on Earth)",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Canyon’s rock formations"
+        },
+        {
+          "City_Name": "Damara Land",
+          "Historical_Landmarks": "Brandberg Mountain, rock engravings",
+          "Tourist_Activities": "See desert elephants and rock engravings",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Brandberg Mountain (highest in Namibia)"
+        },
+        {
+          "City_Name": "Caprivi Strip",
+          "Historical_Landmarks": "Caprivi Rivers",
+          "Tourist_Activities": "River boat trips",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Green rivers and forests (different from the rest of the desert)"
+        },
+        {
+          "City_Name": "Kaokuland",
+          "Historical_Landmarks": "Epupa Falls",
+          "Tourist_Activities": "Meet the Himba tribes",
+          "Local_Cuisine": "Oryx meat (Orx), Kapana (street‑grilled meat), milk tart, rich pastries",
+          "Green_Spaces": "Epupa Falls on the border"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Nauru",
+      " Cities": [
+        {
+          "City_Name": "Yaren (capital)",
+          "Historical_Landmarks": "Parliament Building, Nauru Museum",
+          "Tourist_Activities": "Visit the Parliament Building and World War remnants",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Moqua Underground Well"
+        },
+        {
+          "City_Name": "Anibare",
+          "Historical_Landmarks": "Anibare Bay",
+          "Tourist_Activities": "Swim at Anibare Bay (top beach)",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Anibare Bay and marine scenery"
+        },
+        {
+          "City_Name": "Boada",
+          "Historical_Landmarks": "Boada Lake",
+          "Tourist_Activities": "Walk around Boada Lake (fresh water)",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Boada Lake and surrounding tropical plants"
+        },
+        {
+          "City_Name": "Meneng",
+          "Historical_Landmarks": "Meneng Hotel",
+          "Tourist_Activities": "Visit Meneng Hotel and coastal sites",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Coastal coral reefs"
+        },
+        {
+          "City_Name": "Middle Highlands",
+          "Historical_Landmarks": "Phosphate mines",
+          "Tourist_Activities": "Explore phosphate mining remnants (Moon surface)",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Strange limestone summit terrain"
+        },
+        {
+          "City_Name": "Iwa",
+          "Historical_Landmarks": "War memorials",
+          "Tourist_Activities": "View war memorials",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Hills and highlands"
+        },
+        {
+          "City_Name": "Aiwo",
+          "Historical_Landmarks": "Industrial port",
+          "Tourist_Activities": "See the industrial port and phosphate traffic",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Western coastal strip"
+        },
+        {
+          "City_Name": "Anetan",
+          "Historical_Landmarks": "Local historic sites",
+          "Tourist_Activities": "Visit local historic sites",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Rocky beaches"
+        },
+        {
+          "City_Name": "Baiti",
+          "Historical_Landmarks": "Small local villages",
+          "Tourist_Activities": "Explore small local villages",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Reclaimed green areas"
+        },
+        {
+          "City_Name": "Nibok",
+          "Historical_Landmarks": "Old mining operations",
+          "Tourist_Activities": "View old mining operations",
+          "Local_Cuisine": "Coconut fish, roasted pork, abundant Chinese dishes",
+          "Green_Spaces": "Scattered plants among rocks"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Norway",
+      " Cities": [
+        {
+          "City_Name": "Oslo",
+          "Historical_Landmarks": "Oslo Palace, Museum of Contemporary Art",
+          "Tourist_Activities": "Viking Ship Museum and Opera House",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Vigeland Sculpture Park and surrounding forests"
+        },
+        {
+          "City_Name": "Bergen",
+          "Historical_Landmarks": "Bryggen Hanseatic Wharf (UNESCO site)",
+          "Tourist_Activities": "Visit Bryggen Hanseatic Wharf and fish market",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Surrounding Seven Mountains (Mount Floyen)"
+        },
+        {
+          "City_Name": "Tromsø",
+          "Historical_Landmarks": "Arctic Cathedral",
+          "Tourist_Activities": "Northern lights hunting and sled rides",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Polar mountains and northern fjords"
+        },
+        {
+          "City_Name": "Stavanger",
+          "Historical_Landmarks": "Stavanger Cathedral",
+          "Tourist_Activities": "Climb Pulpit Rock",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Lysefjord"
+        },
+        {
+          "City_Name": "Trondheim",
+          "Historical_Landmarks": "Nidaros Cathedral",
+          "Tourist_Activities": "Visit Nidaros Cathedral",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Nidelva River and green hills"
+        },
+        {
+          "City_Name": "Ålesund",
+          "Historical_Landmarks": "Ålesund Harbor",
+          "Tourist_Activities": "See Art Nouveau architecture",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Aksla Mountain and panoramic views"
+        },
+        {
+          "City_Name": "Lofoten Islands",
+          "Historical_Landmarks": "Traditional fishing villages",
+          "Tourist_Activities": "Photography and fishing in fishing villages",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Towering sea‑surrounded mountains"
+        },
+        {
+          "City_Name": "Geiranger",
+          "Historical_Landmarks": "Geiranger wooden church",
+          "Tourist_Activities": "Boat trip in the world’s most beautiful fjord (UNESCO)",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Seven Sisters waterfalls"
+        },
+        {
+          "City_Name": "Flåm",
+          "Historical_Landmarks": "Flåm Valley",
+          "Tourist_Activities": "Ride the Flåm mountain railway",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Flåm Valley and Årlandsfjord"
+        },
+        {
+          "City_Name": "Svalbard",
+          "Historical_Landmarks": "Longyearbyen Town",
+          "Tourist_Activities": "Polar bear tours and glacial caves",
+          "Local_Cuisine": "Salmon, lamb (Fårikål), brown cheese (Brunost), Norwegian waffles",
+          "Green_Spaces": "Glacial rivers and Arctic tundra"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Austria",
+      " Cities": [
+        {
+          "City_Name": "Vienna",
+          "Historical_Landmarks": "Schönbrunn Palace, Opera House",
+          "Tourist_Activities": "Visit Schönbrunn Palace and the opera",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Bürgergarten and Vienna forests"
+        },
+        {
+          "City_Name": "Salzburg",
+          "Historical_Landmarks": "Hohensalzburg Fortress, Mozart’s birthplace",
+          "Tourist_Activities": "Visit Hohensalzburg Fortress and Mozart’s birthplace",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Mirabell Gardens and surrounding Alps"
+        },
+        {
+          "City_Name": "Innsbruck",
+          "Historical_Landmarks": "Golden Roof, Innsbruck Cathedral",
+          "Tourist_Activities": "Skiing and visit the Golden Roof",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Nordkette mountains (cable‑car access)"
+        },
+        {
+          "City_Name": "Hallstatt",
+          "Historical_Landmarks": "Salt Mine",
+          "Tourist_Activities": "Visit the salt mine and charming village",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Hallstatt lake and towering mountains"
+        },
+        {
+          "City_Name": "Graz",
+          "Historical_Landmarks": "Clock Tower, artificial island",
+          "Tourist_Activities": "Visit the clock tower and artificial island",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Schlossberg hill and gardens"
+        },
+        {
+          "City_Name": "t Zell am See",
+          "Historical_Landmarks": "Zell Church",
+          "Tourist_Activities": "Swimming in the lake and ice skating",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Zell Lake and Schmittenhöhe Mountain"
+        },
+        {
+          "City_Name": "Linz",
+          "Historical_Landmarks": "Maria Cathedral",
+          "Tourist_Activities": "Visit the Future Electronic Museum",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Danube River banks and botanical gardens"
+        },
+        {
+          "City_Name": "Bad Gastein",
+          "Historical_Landmarks": "Gastein Waterfall",
+          "Tourist_Activities": "Relax in hot springs and waterfall",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Gastein Waterfall in the town centre and national park"
+        },
+        {
+          "City_Name": "Wachau Valley",
+          "Historical_Landmarks": "Vineyard farms",
+          "Tourist_Activities": "River cruises and vineyard visits",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Danube River and green hills"
+        },
+        {
+          "City_Name": "Bielach",
+          "Historical_Landmarks": "Carinthian lakes",
+          "Tourist_Activities": "Enjoy warm southern lakes",
+          "Local_Cuisine": "Viennese schnitzel, apple strudel, Sachertorte, potato salad",
+          "Green_Spaces": "Dobrash Nature Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Niger",
+      " Cities": [
+        {
+          "City_Name": "Niamey",
+          "Historical_Landmarks": "National Museum, Grand Market",
+          "Tourist_Activities": "Visit the national museum and zoo",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Niger River banks and Green Belt forest"
+        },
+        {
+          "City_Name": "Agadez",
+          "Historical_Landmarks": "Great Mud Mosque",
+          "Tourist_Activities": "See the great mud mosque and desert gate",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Air Mountains"
+        },
+        {
+          "City_Name": "Zinder",
+          "Historical_Landmarks": "Great Mosque, Zinder inhabitants",
+          "Tourist_Activities": "Explore traditional Hausa architecture",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Surrounding rock formations"
+        },
+        {
+          "City_Name": "W National Park",
+          "Historical_Landmarks": "W National Park",
+          "Tourist_Activities": "Safari to see wildlife",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Transboundary natural reserve (UNESCO)"
+        },
+        {
+          "City_Name": "Arlit",
+          "Historical_Landmarks": "Ténéré Desert",
+          "Tourist_Activities": "Gateway to the Ténéré Desert",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Vast sand dunes"
+        },
+        {
+          "City_Name": "Dossi",
+          "Historical_Landmarks": "Traditional Dossi Kingdom",
+          "Tourist_Activities": "Cultural centre and traditional kingdom",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Savanna and forest areas"
+        },
+        {
+          "City_Name": "Ayorou",
+          "Historical_Landmarks": "Livestock market",
+          "Tourist_Activities": "Livestock market and river trips to see hippos",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Niger River islands"
+        },
+        {
+          "City_Name": "Maradi",
+          "Historical_Landmarks": "Maradi market",
+          "Tourist_Activities": "Economic and agricultural hub",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Surrounding forests and farms"
+        },
+        {
+          "City_Name": "Kori",
+          "Historical_Landmarks": "Kori Reserve",
+          "Tourist_Activities": "See the last giraffe herds in West Africa",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Acacia shrubs and plains"
+        },
+        {
+          "City_Name": "Bilma",
+          "Historical_Landmarks": "Bilma Oasis",
+          "Tourist_Activities": "Watch traditional salt caravans",
+          "Local_Cuisine": "Jollof rice, domba (meat and dough), Nigerien couscous, kilishi (dried meat)",
+          "Green_Spaces": "Bilma oasis and great sand dunes"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Nigeria",
+      " Cities": [
+        {
+          "City_Name": "Lagos",
+          "Historical_Landmarks": "Victoria Island, African market",
+          "Tourist_Activities": "Lagos Lekki nature reserve and Kanopi bridge",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Tarkwa Bay beach and Lekki gardens"
+        },
+        {
+          "City_Name": "Abuja",
+          "Historical_Landmarks": "Aso Rock, National Mosque",
+          "Tourist_Activities": "Climb Aso Rock and visit the National Mosque",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Millennium Park"
+        },
+        {
+          "City_Name": "Calabar",
+          "Historical_Landmarks": "Calabar Museum",
+          "Tourist_Activities": "Calabar Festival and Tinapa Resort",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Cross River National Park (gorillas)"
+        },
+        {
+          "City_Name": "Ibadan",
+          "Historical_Landmarks": "University of Ibadan",
+          "Tourist_Activities": "Visit Agodi Gardens and the zoo",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Surrounding hills and forests"
+        },
+        {
+          "City_Name": "Kano",
+          "Historical_Landmarks": "Old City walls",
+          "Tourist_Activities": "Visit the old city walls and textile dye pits",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Dala Hills"
+        },
+        {
+          "City_Name": "Jos",
+          "Historical_Landmarks": "Old City walls",
+          "Tourist_Activities": "Visit the old city walls and textile dye pits",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Dala Hills"
+        },
+        {
+          "City_Name": "Enugu",
+          "Historical_Landmarks": "National Museum",
+          "Tourist_Activities": "Enjoy mild weather and museums",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Asup Waterfalls and wildlife park"
+        },
+        {
+          "City_Name": "Enugu",
+          "Historical_Landmarks": "National Museum",
+          "Tourist_Activities": "Enjoy mild weather and museums",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Asup Waterfalls and wildlife park"
+        },
+        {
+          "City_Name": "Port Harcourt",
+          "Historical_Landmarks": "Port Harcourt Harbor",
+          "Tourist_Activities": "Tourist gardens and oil activity",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Port Harcourt tourist garden"
+        },
+        {
+          "City_Name": "Osogbo",
+          "Historical_Landmarks": "Osun Sacred Forest",
+          "Tourist_Activities": "Visit the sacred Osun Forest (UNESCO)",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Sacred forest and river"
+        },
+        {
+          "City_Name": "Yankari",
+          "Historical_Landmarks": "Yankari National Park",
+          "Tourist_Activities": "Best safari reserve in Nigeria",
+          "Local_Cuisine": "Original Jollof rice, fufu and egusi soup, suya (spicy grilled meat), bonduku yam",
+          "Green_Spaces": "Hot springs and Yankari"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Nicaragua",
+      " Cities": [
+        {
+          "City_Name": "Granada",
+          "Historical_Landmarks": "Old town, Granada Cathedral",
+          "Tourist_Activities": "Colonial architecture and Isletas boat tour",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Lake Nicaragua and Momotombo volcano"
+        },
+        {
+          "City_Name": "León",
+          "Historical_Landmarks": "León Cathedral, Myth Museum",
+          "Tourist_Activities": "Ski on Cerro Negro volcano and cathedral",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Maribos volcano chain"
+        },
+        {
+          "City_Name": "San Juan del Sur",
+          "Historical_Landmarks": "La Vista Reserve",
+          "Tourist_Activities": "Surfing and beach life",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Beaches and marine turtle reserves"
+        },
+        {
+          "City_Name": "Isla Ometepe",
+          "Historical_Landmarks": "Concepción Volcano, Madras Volcano",
+          "Tourist_Activities": "Climb two volcanoes on a lake",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Charco Verde Reserve and water eyes"
+        },
+        {
+          "City_Name": "Managua",
+          "Historical_Landmarks": "Old harbor, Plaza de la Revolución",
+          "Tourist_Activities": "Visit the old harbor (Salvador Allende)",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Managua Lake and Tiscapa Lagoon"
+        },
+        {
+          "City_Name": "Corn Islands",
+          "Historical_Landmarks": "Big Island, Little Island",
+          "Tourist_Activities": "Caribbean diving and relaxation",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Coral reefs and turquoise beaches"
+        },
+        {
+          "City_Name": "Matagalpa",
+          "Historical_Landmarks": "Coffee farms",
+          "Tourist_Activities": "Visit coffee farms and cloud forests",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Selva Negra Reserve"
+        },
+        {
+          "City_Name": "Esteli",
+          "Historical_Landmarks": "Cigar factories",
+          "Tourist_Activities": "Visit cigar factories and waterfalls",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Mériflor natural reserve"
+        },
+        {
+          "City_Name": "Masaya",
+          "Historical_Landmarks": "Masaya Volcano",
+          "Tourist_Activities": "Visit the craft market and active volcano",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Masaya National Volcano Park (visible lava)"
+        },
+        {
+          "City_Name": "Río San Juan",
+          "Historical_Landmarks": "Indio Maíz Biological Reserve",
+          "Tourist_Activities": "Boat tours through historic forest",
+          "Local_Cuisine": "Gallo pinto (rice and beans), nacatamal, vigorón, fried cheese",
+          "Green_Spaces": "Indio Maíz Biological Reserve"
+        }
+      ]
+    },
+    {
+      "Country_Name": "New Zealand",
+      " Cities": [
+        {
+          "City_Name": "Auckland",
+          "Historical_Landmarks": "Sky Tower, Auckland Museum",
+          "Tourist_Activities": "Climb Sky Tower and sail the harbour",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Rangitoto Volcano Field and Coromandel Park"
+        },
+        {
+          "City_Name": "Queenstown",
+          "Historical_Landmarks": "Kawarau Gorge",
+          "Tourist_Activities": "Adventure capital (bungee) and skiing",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Lake Wakatipu and Remarkables mountain range"
+        },
+        {
+          "City_Name": "Rotorua",
+          "Historical_Landmarks": "Te Puia Māori Village",
+          "Tourist_Activities": "Hot springs and Māori culture",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Redwood forest and volcanic Waimaanga Valley"
+        },
+        {
+          "City_Name": "Wellington",
+          "Historical_Landmarks": "Te Papa Museum, St Paul’s Cathedral",
+          "Tourist_Activities": "Visit Te Papa and the Wellington Workshop",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Wellington Botanic Garden and Zealandia Reserve"
+        },
+        {
+          "City_Name": "Christchurch",
+          "Historical_Landmarks": "Christchurch Cathedral",
+          "Tourist_Activities": "Boat rides on the Avon River and gardens",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Hagley Park and botanical gardens"
+        },
+        {
+          "City_Name": "Milford Sound",
+          "Historical_Landmarks": "Fiordland National Park",
+          "Tourist_Activities": "Famous sea‑fjord boat trips",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Fiordland National Park (waterfalls and forests)"
+        },
+        {
+          "City_Name": "Tobu",
+          "Historical_Landmarks": "Tongariro National Park",
+          "Tourist_Activities": "Visit Lake Taupō and Huka Falls",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Tongariro National Park (volcanoes)"
+        },
+        {
+          "City_Name": "Kaikoura",
+          "Historical_Landmarks": "Kaikoura Peninsula",
+          "Tourist_Activities": "Watch whales and dolphins",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Kaikoura Peninsula coastal trail"
+        },
+        {
+          "City_Name": "Wanaka",
+          "Historical_Landmarks": "Lake Wanaka",
+          "Tourist_Activities": "Photo the lone tree and hike",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Lake Wanaka and Mount Roys Peak"
+        },
+        {
+          "City_Name": "Bay of Islands",
+          "Historical_Landmarks": "Russell Island",
+          "Tourist_Activities": "Swim with dolphins and history tours",
+          "Local_Cuisine": "Hāngi (underground cooking), roasted lamb, pavlova, Bluff oysters",
+          "Green_Spaces": "Green islands and isolated beaches"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Haiti",
+      " Cities": [
+        {
+          "City_Name": "Cap-Haïtien",
+          "Historical_Landmarks": "Laviroye Castle",
+          "Tourist_Activities": "Visit Laviroye Castle (largest castle in the Americas)",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Labadi Beach (private resort and scenery)"
+        },
+        {
+          "City_Name": "Port‑au‑Prince",
+          "Historical_Landmarks": "National Museum, Iron Market",
+          "Tourist_Activities": "Visit the National Museum and Iron Market",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Historic sugar‑cane field park"
+        },
+        {
+          "City_Name": "Jacmel",
+          "Historical_Landmarks": "Bassins Bleu",
+          "Tourist_Activities": "Arts centre, carnivals and architecture",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Bassins Bleu (turquoise pools and waterfalls)"
+        },
+        {
+          "City_Name": "Île à Vache",
+          "Historical_Landmarks": "Île à Vache beaches",
+          "Tourist_Activities": "Relax on a remote, quiet island",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Virgin beaches and coconut trees"
+        },
+        {
+          "City_Name": "Kass",
+          "Historical_Landmarks": "Gili beach, Marie‑Jean Cave",
+          "Tourist_Activities": "Gateway to the southern beaches and music festival",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Gili beach and Marie‑Jean Cave"
+        },
+        {
+          "City_Name": "Gonaïves",
+          "Historical_Landmarks": "Independence City",
+          "Tourist_Activities": "Historic Independence City",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Hot springs and dry scenery"
+        },
+        {
+          "City_Name": "Côte des Arcadiens",
+          "Historical_Landmarks": "Côte des Arcadiens beaches",
+          "Tourist_Activities": "Beach resorts and water sports",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Coastal coral reefs"
+        },
+        {
+          "City_Name": "Le Havre",
+          "Historical_Landmarks": "Le Havre fishing village",
+          "Tourist_Activities": "Traditional fishing village",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Small bays and clear water"
+        },
+        {
+          "City_Name": "Fort de Duke",
+          "Historical_Landmarks": "Artists’ village",
+          "Tourist_Activities": "Artists’ village and iron forging",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Lake Etang Somatre (salty)"
+        },
+        {
+          "City_Name": "Jeremie",
+          "Historical_Landmarks": "Mackia Mountains",
+          "Tourist_Activities": "Poet town and old houses",
+          "Local_Cuisine": "Griyo (fried pork), rice and beans (Diri ak pwa), Joumou soup, banan bezi",
+          "Green_Spaces": "Mackia Mountains and cocoa forests"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Honduras",
+      " Cities": [
+        {
+          "City_Name": "Roatán",
+          "Historical_Landmarks": "Gumbalimba Park",
+          "Tourist_Activities": "Dive in the world’s second‑largest coral reef",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Carambola Gardens and Gumbalimba Park"
+        },
+        {
+          "City_Name": "Copán Ruinas",
+          "Historical_Landmarks": "Copán ruins",
+          "Tourist_Activities": "Explore famous Maya ruins and sculptures",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Macao Park (parrot birds) and hot springs"
+        },
+        {
+          "City_Name": "Utila",
+          "Historical_Landmarks": "Utila Island",
+          "Tourist_Activities": "Learn cheap diving and see whale sharks",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Pumpkin Hill and mangrove forests"
+        },
+        {
+          "City_Name": "Tegucigalpa",
+          "Historical_Landmarks": "San Miguel Cathedral",
+          "Tourist_Activities": "Visit San Miguel Cathedral and Pico Bonito Park",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "La Tigra National Park (misty forest)"
+        },
+        {
+          "City_Name": "La Ceiba",
+          "Historical_Landmarks": "Pico Bonito National Park",
+          "Tourist_Activities": "Ecotourism capital and river rafting",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Pico Bonito National Park (waterfalls and forests)"
+        },
+        {
+          "City_Name": "Tela",
+          "Historical_Landmarks": "Lansité Botanical Garden",
+          "Tourist_Activities": "Botanical gardens and Caribbean beaches",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Lansité Botanical Garden and Punta Sal"
+        },
+        {
+          "City_Name": "Lake Yojoa",
+          "Historical_Landmarks": "Polha Banzak waterfalls",
+          "Tourist_Activities": "Birdwatching and kayaking (kayak)",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Polha Banzak waterfalls and lake"
+        },
+        {
+          "City_Name": "Cayos Cochinos",
+          "Historical_Landmarks": "Cayos Cochinos islands",
+          "Tourist_Activities": "Visit local villages and secluded diving",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Totally pristine marine reserve"
+        },
+        {
+          "City_Name": "Comayagua",
+          "Historical_Landmarks": "Oldest clock in the Americas",
+          "Tourist_Activities": "See the oldest clock in the Americas and architecture",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Mountains surrounding the valley"
+        },
+        {
+          "City_Name": "Gracias",
+          "Historical_Landmarks": "San Cristóbal Castle",
+          "Tourist_Activities": "Hot springs and San Cristóbal Castle",
+          "Local_Cuisine": "Baleada (stuffed tortilla), snail soup, carne asada, corn tamales",
+          "Green_Spaces": "Sierra Alta National Park (highest peak)"
+        }
+      ]
+    },
+    {
+      "Country_Name": "India",
+      " Cities": [
+        {
+          "City_Name": "New Delhi",
+          "Historical_Landmarks": "Red Fort, Qutub Minar, India Gate",
+          "Tourist_Activities": "Red Fort, Qutub Minar, India Gate",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Lodi Gardens and Deer Park"
+        },
+        {
+          "City_Name": "Agra",
+          "Historical_Landmarks": "Taj Mahal, Agra Fort",
+          "Tourist_Activities": "Visit Taj Mahal and the fort",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Mehtab Bagh garden (overlooking the Taj)"
+        },
+        {
+          "City_Name": "Jaipur",
+          "Historical_Landmarks": "Hawa Mahal, Amber Fort",
+          "Tourist_Activities": "Pink City: Hawa Mahal and Amber Fort",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Sisirwanri Gardens and lakes"
+        },
+        {
+          "City_Name": "Mumbai",
+          "Historical_Landmarks": "India Gate, Marine Drive promenade",
+          "Tourist_Activities": "India Gate and Marine Drive promenade",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Sanjay Gandhi National Park (within the city)"
+        },
+        {
+          "City_Name": "Goa",
+          "Historical_Landmarks": "Bom Jesus Basilica, St Catherine’s Church",
+          "Tourist_Activities": "Beaches, nightlife and Portuguese churches",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Dudhsagar Falls and spice plantations"
+        },
+        {
+          "City_Name": "Kerala (Monar)",
+          "Historical_Landmarks": "Tea plantations",
+          "Tourist_Activities": "Backwaters canal tour",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Monar and Tekadi tea plantations"
+        },
+        {
+          "City_Name": "Varanasi",
+          "Historical_Landmarks": "Ghats of the Ganges",
+          "Tourist_Activities": "Spiritual rituals on the Ganges",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Sacred river banks"
+        },
+        {
+          "City_Name": "Udaipur",
+          "Historical_Landmarks": "Lake Palace, City Palace",
+          "Tourist_Activities": "Lake city and floating palaces",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Lake Pichola and Saheliyon‑i‑Khas garden"
+        },
+        {
+          "City_Name": "Rishikesh",
+          "Historical_Landmarks": "Lakshman Jhula bridge",
+          "Tourist_Activities": "Yoga and rafting on the Ganges",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Himalayan foothills and forests"
+        },
+        {
+          "City_Name": "Ladakh (Leh)",
+          "Historical_Landmarks": "Hemisin Monastery, Thiksey Monastery",
+          "Tourist_Activities": "Visit monasteries and mountain scenery",
+          "Local_Cuisine": "Biryani, butter chicken, masala dosa, samosa, chai karak",
+          "Green_Spaces": "Pangong Lake and Nubra Valley (cold desert)"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Hungary",
+      " Cities": [
+        {
+          "City_Name": "Budapest",
+          "Historical_Landmarks": "Parliament Building, Buda Castle",
+          "Tourist_Activities": "Parliament Building and Széchenyi thermal baths",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Margaret Island (green oasis in the Danube)"
+        },
+        {
+          "City_Name": "Debrecen",
+          "Historical_Landmarks": "Great Church, Déri Museum",
+          "Tourist_Activities": "Visit the Great Church and Déri Museum",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Hortobágy National Park (Great Plains)"
+        },
+        {
+          "City_Name": "Eger",
+          "Historical_Landmarks": "Eger Castle",
+          "Tourist_Activities": "Visit the castle and taste the wine (Valley of the Women)",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Bük Mountains and spa resorts"
+        },
+        {
+          "City_Name": "Lake Balaton",
+          "Historical_Landmarks": "Tihany Abbey",
+          "Tourist_Activities": "Swimming and sailing (Hungarian Sea)",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Tihany Peninsula and lavender fields"
+        },
+        {
+          "City_Name": "Pécs",
+          "Historical_Landmarks": "St Thomas Church",
+          "Tourist_Activities": "Swimming and sailing (Hungarian Sea)",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Mekis Mountains and lakes"
+        },
+        {
+          "City_Name": "Sopron",
+          "Historical_Landmarks": "Mosque Church",
+          "Tourist_Activities": "Mosque Church and ceramics",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Meksik Mountains and lakes"
+        },
+        {
+          "City_Name": "Szentendre",
+          "Historical_Landmarks": "Szentendre Museum",
+          "Tourist_Activities": "Artists’ town and open‑air museums",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Danube river banks"
+        },
+        {
+          "City_Name": "Győr",
+          "Historical_Landmarks": "Baroque centre",
+          "Tourist_Activities": "Baroque centre and water park",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Confluence of three rivers"
+        },
+        {
+          "City_Name": "Heviz",
+          "Historical_Landmarks": "Heviz Lake",
+          "Tourist_Activities": "Swim in the world’s largest thermal lake",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Gardens around the lake and water lilies"
+        },
+        {
+          "City_Name": "Tokaj",
+          "Historical_Landmarks": "Vineyard farms",
+          "Tourist_Activities": "Tours of historic vineyard farms (UNESCO)",
+          "Local_Cuisine": "Goulash (meat soup), lángos (fried dough), paprika chicken, smoked cake",
+          "Green_Spaces": "Vineyard hills and Tisza‑Bodrog confluence"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Netherlands",
+      " Cities": [
+        {
+          "City_Name": "Amsterdam",
+          "Historical_Landmarks": "Rijksmuseum, Van Gogh Museum",
+          "Tourist_Activities": "Rijksmuseum and canal cruise",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Vondelpark and Amsterdam forest"
+        },
+        {
+          "City_Name": "Rotterdam",
+          "Historical_Landmarks": "Cube houses, Erasmus Bridge",
+          "Tourist_Activities": "Cube houses and Erasmus Bridge",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Kralingse Bos park and greenhouse"
+        },
+        {
+          "City_Name": "The Hague",
+          "Historical_Landmarks": "Peace Palace, Mauritshuis Museum",
+          "Tourist_Activities": "Peace Palace and Mauritshuis Museum",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Scheveningen beach and dunes"
+        },
+        {
+          "City_Name": "Utrecht",
+          "Historical_Landmarks": "Dom Tower",
+          "Tourist_Activities": "Climb the Dom Tower and sit in canal cafés",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Botanical gardens and Maxima Park"
+        },
+        {
+          "City_Name": "Giethoorn",
+          "Historical_Landmarks": "De Weerribben‑Wieden National Park",
+          "Tourist_Activities": "Dutch Venice (boats only)",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "De Weerribben‑Wieden National Park"
+        },
+        {
+          "City_Name": "Maastricht",
+          "Historical_Landmarks": "Underground caves",
+          "Tourist_Activities": "Underground caves and old town",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "St. Peterberg hill"
+        },
+        {
+          "City_Name": "Delft",
+          "Historical_Landmarks": "Blue pottery factory",
+          "Tourist_Activities": "Blue pottery making and churches",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Delfts Hout park"
+        },
+        {
+          "City_Name": "Lisse (Keukenhof)",
+          "Historical_Landmarks": "Keukenhof Gardens",
+          "Tourist_Activities": "Visit the world’s most beautiful flower garden (spring)",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Extensive tulip fields"
+        },
+        {
+          "City_Name": "Haarlem",
+          "Historical_Landmarks": "Teylers Museum",
+          "Tourist_Activities": "Shopping and museums",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Zuid-Kennemerland National Park (dunes and beaches)"
+        },
+        {
+          "City_Name": "Wadden Islands (Texel)",
+          "Historical_Landmarks": "Wadden Islands",
+          "Tourist_Activities": "Mud walks and seal watching",
+          "Local_Cuisine": "Raw herring, stroopwafel, poffertjes (small pancakes), Dutch cheese",
+          "Green_Spaces": "Sandy dunes and natural beaches"
+        }
+      ]
+    },
+    {
+      "Country_Name": "United States of America",
+      " Cities": [
+        {
+          "City_Name": "New York",
+          "Historical_Landmarks": "Statue of Liberty, Times Square",
+          "Tourist_Activities": "Watch Broadway shows, visit museums",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Central Park (New York)"
+        },
+        {
+          "City_Name": "Los Angeles",
+          "Historical_Landmarks": "Hollywood Sign, Walk of Fame",
+          "Tourist_Activities": "Tour movie studios",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Griffith Park"
+        },
+        {
+          "City_Name": "Las Vegas",
+          "Historical_Landmarks": "Bellagio Fountain, The Strip",
+          "Tourist_Activities": "Attend world‑class entertainment shows",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Red Rock Canyon Park"
+        },
+        {
+          "City_Name": "Orlando",
+          "Historical_Landmarks": "Walt Disney World, Universal Studios",
+          "Tourist_Activities": "Visit theme parks (Disney)",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Disney World resorts"
+        },
+        {
+          "City_Name": "San Francisco",
+          "Historical_Landmarks": "Golden Gate Bridge, Alcatraz Island",
+          "Tourist_Activities": "Ride the historic cable car",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Golden Gate Park"
+        },
+        {
+          "City_Name": "Miami",
+          "Historical_Landmarks": "South Beach, Art Deco district",
+          "Tourist_Activities": "Enjoy nightlife and beaches",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Fairchild Tropical Botanic Garden"
+        },
+        {
+          "City_Name": "Chicago",
+          "Historical_Landmarks": "The Bean (Millennium Park), Willis Tower",
+          "Tourist_Activities": "River architecture tours",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Millennium Park (The Bean)"
+        },
+        {
+          "City_Name": "Washington, D.C.",
+          "Historical_Landmarks": "White House, Lincoln Memorial",
+          "Tourist_Activities": "Visit free national museums",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "National Mall"
+        },
+        {
+          "City_Name": "Honolulu",
+          "Historical_Landmarks": "Waikiki Beach, Pearl Harbor",
+          "Tourist_Activities": "Surfing and snorkeling",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "Waikiki Park"
+        },
+        {
+          "City_Name": "New Orleans",
+          "Historical_Landmarks": "French Quarter, Bourbon Street",
+          "Tourist_Activities": "Listen to live jazz music",
+          "Local_Cuisine": "Burger and cheese burger, apple pie, Buffalo wings, New York pizza",
+          "Green_Spaces": "City Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Japan",
+      " Cities": [
+        {
+          "City_Name": "Tokyo",
+          "Historical_Landmarks": "Tokyo Tower, Shibuya Crossing",
+          "Tourist_Activities": "Shopping in Shibuya, visit Asakusa temples",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Shinjuku Gyoen National Garden"
+        },
+        {
+          "City_Name": "Kyoto",
+          "Historical_Landmarks": "Kinkaku‑ji (Golden Pavilion), Fushimi Inari",
+          "Tourist_Activities": "Tea ceremony, walk through bamboo forests",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Nara Park (deer)"
+        },
+        {
+          "City_Name": "Osaka",
+          "Historical_Landmarks": "Osaka Castle, Universal Studios",
+          "Tourist_Activities": "Street food in Dotonbori",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Fuji Hakone Izu National Park"
+        },
+        {
+          "City_Name": "Hiroshima",
+          "Historical_Landmarks": "Peace Museum, Miyajima Island",
+          "Tourist_Activities": "Visit peace memorials",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Peace Memorial Park"
+        },
+        {
+          "City_Name": "Nara",
+          "Historical_Landmarks": "Tōdai‑ji (Great Buddha)",
+          "Tourist_Activities": "Feed the deer in the public park",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Nara Park (deer)"
+        },
+        {
+          "City_Name": "Sapporo",
+          "Historical_Landmarks": "Odori Park, Beer Museum",
+          "Tourist_Activities": "Snow Festival (winter), ramen tasting",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Odori Park"
+        },
+        {
+          "City_Name": "Fukuoka",
+          "Historical_Landmarks": "Fukuoka Tower, Kushida Shrine",
+          "Tourist_Activities": "Food stalls (yatai)",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Ōhori Park"
+        },
+        {
+          "City_Name": "Kobe",
+          "Historical_Landmarks": "Discovery ship",
+          "Tourist_Activities": "Taste Kobe beef, ride the ropeway",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Noriaki Park"
+        },
+        {
+          "City_Name": "Okinawa",
+          "Historical_Landmarks": "Shuri Castle, Churaumi Aquarium",
+          "Tourist_Activities": "Dive among coral reefs",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Okinawa Memorial Park"
+        },
+        {
+          "City_Name": "Nagoya",
+          "Historical_Landmarks": "Nagoya Castle, Toyota Museum",
+          "Tourist_Activities": "Visit car and technology museums",
+          "Local_Cuisine": "Sushi, ramen, tempura, okonomiyaki",
+          "Green_Spaces": "Higashiyama Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Yemen",
+      " Cities": [
+        {
+          "City_Name": "Old Sana’a",
+          "Historical_Landmarks": "Bab al‑Yemen, Great Mosque",
+          "Tourist_Activities": "Wander old markets, see mud‑brick architecture",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Safi River banks"
+        },
+        {
+          "City_Name": "Socotra (Hadibo)",
+          "Historical_Landmarks": "Ditiwah Reserve, Dragon’s Blood Trees",
+          "Tourist_Activities": "See Dragon’s Blood Trees, camp",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Ditiwah Reserve"
+        },
+        {
+          "City_Name": "Shibam Hadramout",
+          "Historical_Landmarks": "Old city (desert Manhattan)",
+          "Tourist_Activities": "Photograph mud‑brick skyscrapers",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Hadramout Valley"
+        },
+        {
+          "City_Name": "Aden",
+          "Historical_Landmarks": "Aden Oil Tanks, Saïra Castle",
+          "Tourist_Activities": "Enjoy beaches, visit oil tanks",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Aden beaches"
+        },
+        {
+          "City_Name": "Taiz",
+          "Historical_Landmarks": "Cairo Castle, Al‑Mazafir Mosque",
+          "Tourist_Activities": "Visit historic mosques and forts",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Sabr Mountains"
+        },
+        {
+          "City_Name": "Zabid",
+          "Historical_Landmarks": "Great Mosque, historic libraries",
+          "Tourist_Activities": "Explore Islamic and scientific heritage",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Zabid Valley"
+        },
+        {
+          "City_Name": "Al‑Mokalla",
+          "Historical_Landmarks": "Sultan al‑Qaidi Palace, Al‑Mokalla inlet",
+          "Tourist_Activities": "Walk the promenade, visit museums",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Al‑Mokalla inlet"
+        },
+        {
+          "City_Name": "Ibb",
+          "Historical_Landmarks": "Wadi ‘Ana, Mount Rabi",
+          "Tourist_Activities": "Enjoy green scenery (the Green Lane)",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Wadi ‘Ana"
+        },
+        {
+          "City_Name": "Tarim",
+          "Historical_Landmarks": "Al‑Tamdar Mosque (mud‑brick)",
+          "Tourist_Activities": "Visit historic mosques and Hadramout valley",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Hadramout Valley"
+        },
+        {
+          "City_Name": "Al Hudaydah",
+          "Historical_Landmarks": "Bab Musharaf, the promenade",
+          "Tourist_Activities": "Visit the port and local markets",
+          "Local_Cuisine": "Saltah, mandi, fahsa, bint al‑sahn",
+          "Green_Spaces": "Hudaydah beaches"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Greece",
+      " Cities": [
+        {
+          "City_Name": "Athens",
+          "Historical_Landmarks": "Acropolis, Parthenon",
+          "Tourist_Activities": "Visit archaeological sites, walk in Plaka",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "National Garden"
+        },
+        {
+          "City_Name": "Santorini (Fira)",
+          "Historical_Landmarks": "Blue dome, Oia",
+          "Tourist_Activities": "Watch the sunset, volcanic boat tours",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Athinios Beach"
+        },
+        {
+          "City_Name": "Mykonos",
+          "Historical_Landmarks": "Windmills, Little Venice",
+          "Tourist_Activities": "Nightlife, beaches",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Paraga Beaches"
+        },
+        {
+          "City_Name": "Thessaloniki",
+          "Historical_Landmarks": "White Tower, Arch of Galerius",
+          "Tourist_Activities": "Explore Byzantine history and cuisine",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Siddri Park"
+        },
+        {
+          "City_Name": "Rhodes",
+          "Historical_Landmarks": "Old Rhodes Town, Butterfly Valley",
+          "Tourist_Activities": "Visit the Palace of the Grand Master",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Elli Beach"
+        },
+        {
+          "City_Name": "Corfu",
+          "Historical_Landmarks": "Old Fortress, Achilleion Palace",
+          "Tourist_Activities": "Wander the old town (Italian style)",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Mon Repos Park"
+        },
+        {
+          "City_Name": "Nafplio",
+          "Historical_Landmarks": "Palamidi Fortress, Bourtzi Castle",
+          "Tourist_Activities": "Climb forts, relax in cafés",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Karathona Park"
+        },
+        {
+          "City_Name": "Heraklion (Crete)",
+          "Historical_Landmarks": "Knossos Palace, Archaeological Museum",
+          "Tourist_Activities": "Visit the Minoan palace of Knossos",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Giorgios Park"
+        },
+        {
+          "City_Name": "Patras",
+          "Historical_Landmarks": "Patras Fortress, Rio Bridge",
+          "Tourist_Activities": "Attend the annual carnival",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Agia Park"
+        },
+        {
+          "City_Name": "Delphi",
+          "Historical_Landmarks": "Apollo Temple, Ancient Theatre",
+          "Tourist_Activities": "Visit the ancient oracle site",
+          "Local_Cuisine": "Moussaka, souvlaki, Greek salad, tzatziki",
+          "Green_Spaces": "Delphi Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "England",
+      " Cities": [
+        {
+          "City_Name": "London",
+          "Historical_Landmarks": "Big Ben, Tower of London",
+          "Tourist_Activities": "London Eye ride, free museum visits",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "Hyde Park (London)"
+        },
+        {
+          "City_Name": "Manchester",
+          "Historical_Landmarks": "Old Trafford, Northern Quarter",
+          "Tourist_Activities": "Visit football stadiums, shopping",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "Heaton Park"
+        },
+        {
+          "City_Name": "Liverpool",
+          "Historical_Landmarks": "Albert Dock, Beatles Museum",
+          "Tourist_Activities": "Follow the Beatles’ footsteps",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "Sefton Park"
+        },
+        {
+          "City_Name": "Bath",
+          "Historical_Landmarks": "Roman Baths, Royal Crescent",
+          "Tourist_Activities": "Bath in the Roman baths",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "Sydney Gardens"
+        },
+        {
+          "City_Name": "Oxford",
+          "Historical_Landmarks": "University of Oxford, Bodleian Library",
+          "Tourist_Activities": "Visit historic universities",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "University of Oxford Gardens"
+        },
+        {
+          "City_Name": "Cambridge",
+          "Historical_Landmarks": "King’s College, Sports Bridge",
+          "Tourist_Activities": "Punting on the River",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "University of Cambridge Gardens"
+        },
+        {
+          "City_Name": "York",
+          "Historical_Landmarks": "York Cathedral, Shambles Street",
+          "Tourist_Activities": "Walk the ancient walls",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "York Gardens"
+        },
+        {
+          "City_Name": "Bristol",
+          "Historical_Landmarks": "SS Great Britain Ship",
+          "Tourist_Activities": "Watch the Clifton Suspension Bridge",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "Brandon Park"
+        },
+        {
+          "City_Name": "Brighton",
+          "Historical_Landmarks": "Brighton Pier, Royal Pavilion",
+          "Tourist_Activities": "Enjoy the beach and pier",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "Brighton Gardens"
+        },
+        {
+          "City_Name": "Stratford‑upon‑Avon",
+          "Historical_Landmarks": "Royal Shakespeare Theatre",
+          "Tourist_Activities": "Visit Shakespeare’s birthplace",
+          "Local_Cuisine": "Fish and chips, English breakfast, afternoon tea, roast beef",
+          "Green_Spaces": "Stratford Gardens"
+        }
+      ]
+    },
+    {
+       "Country_Name": "Scotland",
+       "Cities": [
+        {
+          "City_Name": "Edinburgh",
+          "Historical_Landmarks": "Edinburgh Castle, Royal Mile",
+          "Tourist_Activities": "Climb Arthur's Seat, Arts Festival",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Holyrood Park (Edinburgh)"
+        },
+        {
+          "City_Name": "Glasgow",
+          "Historical_Landmarks": "Glasgow Cathedral, Kelvingrove Museum",
+          "Tourist_Activities": "Visit art museums, shopping",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Kelvingrove Park"
+        },
+        {
+          "City_Name": "Inverness",
+          "Historical_Landmarks": "Loch Ness, Urquhart Castle",
+          "Tourist_Activities": "Search for the Loch Ness monster",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Ness Park"
+        },
+        {
+          "City_Name": "Aberdeen",
+          "Historical_Landmarks": "Duthie Park, the beach",
+          "Tourist_Activities": "Viewing granite buildings",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Duthie Park"
+        },
+        {
+          "City_Name": "Dundee",
+          "Historical_Landmarks": "Discovery Ship",
+          "Tourist_Activities": "Visit the V&A Museum of Design",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Camperdown Park"
+        },
+        {
+          "City_Name": "Stirling",
+          "Historical_Landmarks": "Wallace Monument, Stirling Castle",
+          "Tourist_Activities": "Explore the history of William Wallace",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Kings Park"
+        },
+        {
+          "City_Name": "Fort William",
+          "Historical_Landmarks": "Ben Nevis, Jacob's Train (Harry Potter)",
+          "Tourist_Activities": "Climb Ben Nevis",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Glenfinnan Park"
+        },
+        {
+          "City_Name": "St Andrews",
+          "Historical_Landmarks": "Ruined Cathedral, University",
+          "Tourist_Activities": "Visit historic golf courses",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "St Andrews Park"
+        },
+        {
+          "City_Name": "Oban",
+          "Historical_Landmarks": "McKeogh Tower",
+          "Tourist_Activities": "Seafood dining, island trips",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "Oban Park"
+        },
+        {
+          "City_Name": "Perth",
+          "Historical_Landmarks": "Scone Palace, River Tay",
+          "Tourist_Activities": "Visit Scone Palace",
+          "Local_Cuisine": "Haggis, Cullen Skink soup, shortbread biscuits, Scottish salmon",
+          "Green_Spaces": "King James Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Wales",
+      " Cities": [
+        {
+          "City_Name": "Cardiff",
+          "Historical_Landmarks": "Cardiff Castle, Cardiff Bay",
+          "Tourist_Activities": "Visit the castle in the city centre",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Bute Park"
+        },
+        {
+          "City_Name": "Swansea",
+          "Historical_Landmarks": "Maritime Museum, Swansea Bay",
+          "Tourist_Activities": "Enjoy the beaches of the Gower Peninsula",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Swansea Park"
+        },
+        {
+          "City_Name": "St Davids",
+          "Historical_Landmarks": "St David's Cathedral",
+          "Tourist_Activities": "Smallest city in Britain, visit the cathedral",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "St Davids Park"
+        },
+        {
+          "City_Name": "Conwy",
+          "Historical_Landmarks": "Conwy Castle, the smallest house in Britain",
+          "Tourist_Activities": "Walking on the city walls",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Conwy Park"
+        },
+        {
+          "City_Name": "Aberystwyth",
+          "Historical_Landmarks": "The Castle, the National Library",
+          "Tourist_Activities": "Ride the mountain railway, coastal walk",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Aberystwyth Park"
+        },
+        {
+          "City_Name": "Carnavon",
+          "Historical_Landmarks": "Carnavon Castle (World Heritage)",
+          "Tourist_Activities": "Visit the royal castle",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Carnavon Park"
+        },
+        {
+          "City_Name": "Tenby",
+          "Historical_Landmarks": "Castle Beach, colorful houses",
+          "Tourist_Activities": "Relax on the colourful beaches",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Tenby Park"
+        },
+        {
+          "City_Name": "Llangollen",
+          "Historical_Landmarks": "Pontcysyllte Canal",
+          "Tourist_Activities": "Boat the canal, music festival",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Llangollen Park"
+        },
+        {
+          "City_Name": "Bangor",
+          "Historical_Landmarks": "Bangor Pier, Bangor Cathedral",
+          "Tourist_Activities": "Walk the long seafront promenade",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Bangor Park"
+        },
+        {
+          "City_Name": "Hay-on-Wye",
+          "Historical_Landmarks": "Hay Castle, Literature Festival",
+          "Tourist_Activities": "Visit dozens of second-hand bookshops",
+          "Local_Cuisine": "Welsh Cakes, Cawl soup, Laverbread, Welsh cheese",
+          "Green_Spaces": "Hay-on-Wye Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Ireland",
+      " Cities": [
+        {
+          "City_Name": "Dublin",
+          "Historical_Landmarks": "Dublin Castle, Guinness Storehouse",
+          "Tourist_Activities": "Visit Trinity College Library, Temple Bar area",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Phoenix Park (Dublin)"
+        },
+        {
+          "City_Name": "Cork",
+          "Historical_Landmarks": "Cork City Gaol, Blarney Castle",
+          "Tourist_Activities": "Visit the English Market, Shandon bell ringing",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Fitzwilliam Park"
+        },
+        {
+          "City_Name": "Galway",
+          "Historical_Landmarks": "Spanish Arch, the Cathedral",
+          "Tourist_Activities": "Listen to street music, festivals",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Eyre Park"
+        },
+        {
+          "City_Name": "Killarney",
+          "Historical_Landmarks": "Muckross House, Doolin Gap",
+          "Tourist_Activities": "Horse-drawn carriage rides, explore the national park",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Killarney National Park"
+        },
+        {
+          "City_Name": "Limerick",
+          "Historical_Landmarks": "Hunt Museum, Milk Market",
+          "Tourist_Activities": "Visit King John's Castle",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Bernard Park"
+        },
+        {
+          "City_Name": "Waterford",
+          "Historical_Landmarks": "Reginald Tower, House of Waterford",
+          "Tourist_Activities": "Visit the crystal factory, Viking district",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Waterford Park"
+        },
+        {
+          "City_Name": "Kilkenny",
+          "Historical_Landmarks": "Kilkenny Castle, St Canice's Cathedral",
+          "Tourist_Activities": "Explore the medieval city",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Kilkenny Park"
+        },
+        {
+          "City_Name": "Westport",
+          "Historical_Landmarks": "Westport House, the Bay",
+          "Tourist_Activities": "Climb Croagh Patrick, cycling",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Westport Park"
+        },
+        {
+          "City_Name": "Dingle",
+          "Historical_Landmarks": "Dingle Peninsula, Slea Head Drive",
+          "Tourist_Activities": "Boat trip to see dolphins",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Dingle Park"
+        },
+        {
+          "City_Name": "Sligo",
+          "Historical_Landmarks": "Benbulben Mountain, Sligo Abbey",
+          "Tourist_Activities": "Explore the sites of poet Yeats",
+          "Local_Cuisine": "Irish stew, soda bread, colcannon (potatoes and cabbage), boxty (potato pancake)",
+          "Green_Spaces": "Sligo Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Thailand",
+      " Cities": [
+        {
+          "City_Name": "Bangkok",
+          "Historical_Landmarks": "Grand Palace, Wat Arun temple",
+          "Tourist_Activities": "Take a tuk-tuk ride, visit temples, shop",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Lumpini Park"
+        },
+        {
+          "City_Name": "Chiang Mai",
+          "Historical_Landmarks": "Doi Suthep, Old City",
+          "Tourist_Activities": "Visit elephant sanctuaries, mountain temples",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Chiang Mai Park"
+        },
+        {
+          "City_Name": "Phuket",
+          "Historical_Landmarks": "Phang Nga Bay, Patong Beach",
+          "Tourist_Activities": "Relax on the beaches, boat trips",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Phuket Park"
+        },
+        {
+          "City_Name": "Ayutthaya",
+          "Historical_Landmarks": "Ayutthaya Historical Park",
+          "Tourist_Activities": "Explore ancient historical ruins",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Ayutthaya Park"
+        },
+        {
+          "City_Name": "Krabi",
+          "Historical_Landmarks": "Railay Beach, Tiger Cave Temple",
+          "Tourist_Activities": "Rock climbing, swimming in turquoise waters",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Krabi Park"
+        },
+        {
+          "City_Name": "Pattaya",
+          "Historical_Landmarks": "Nong Nooch Park, Sanctuary of Truth",
+          "Tourist_Activities": "Water sports, botanical gardens",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Nong Nooch Park"
+        },
+        {
+          "City_Name": "Hua Hin",
+          "Historical_Landmarks": "Hua Hin Railway Station, Night Market",
+          "Tourist_Activities": "Horse riding on the beach, night markets",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Hua Hin Park"
+        },
+        {
+          "City_Name": "Pai (Pai)",
+          "Historical_Landmarks": "Pai Valley, waterfalls",
+          "Tourist_Activities": "Relax in hot springs, nature",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Pai Park"
+        },
+        {
+          "City_Name": "Kanchanaburi",
+          "Historical_Landmarks": "Kwai River Bridge, Erawan Waterfalls",
+          "Tourist_Activities": "Visit waterfalls and historical sites",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Kanchanaburi Park"
+        },
+        {
+          "City_Name": "Sukhothai",
+          "Historical_Landmarks": "Sukhothai Historical Park",
+          "Tourist_Activities": "Bike riding among the ruins",
+          "Local_Cuisine": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), green curry",
+          "Green_Spaces": "Sukhothai Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Peru",
+      " Cities": [
+        {
+          "City_Name": "Lima",
+          "Historical_Landmarks": "Plaza de Armas, Miraflores district",
+          "Tourist_Activities": "Taste world cuisine, visit museums",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Larco Park"
+        },
+        {
+          "City_Name": "Cusco",
+          "Historical_Landmarks": "Plaza de Armas, Sacsayhuamán",
+          "Tourist_Activities": "Explore the Inca capital, acclimatize to the altitude",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Sapa Park"
+        },
+        {
+          "City_Name": "Machu Picchu (Aguas Calientes)",
+          "Historical_Landmarks": "Machu Picchu ruins",
+          "Tourist_Activities": "Visit the Lost City (Wonder of the World)",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Machu Picchu Park"
+        },
+        {
+          "City_Name": "Arequipa",
+          "Historical_Landmarks": "Santa Catalina Monastery, Misti Volcano",
+          "Tourist_Activities": "See the white architecture (the White City)",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Arequipa Park"
+        },
+        {
+          "City_Name": "Puno",
+          "Historical_Landmarks": "Lake Titicaca, Uros Islands",
+          "Tourist_Activities": "Visit the floating islands on Lake Titicaca",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Puno Park"
+        },
+        {
+          "City_Name": "Iquitos",
+          "Historical_Landmarks": "Amazon River, Sea Lion Rescue Center",
+          "Tourist_Activities": "Gateway to the Amazon rainforest, river trips",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Iquitos Park"
+        },
+        {
+          "City_Name": "Nazca",
+          "Historical_Landmarks": "Nazca Geoglyphs",
+          "Tourist_Activities": "Fly over the mysterious Nazca lines",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Nazca Park"
+        },
+        {
+          "City_Name": "Paracas",
+          "Historical_Landmarks": "Paracas Reserve, Ballestas Islands",
+          "Tourist_Activities": "Boat tours to see marine life",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Paracas Park"
+        },
+        {
+          "City_Name": "Huaraaz",
+          "Historical_Landmarks": "Huascarán National Park",
+          "Tourist_Activities": "Mountain climbing and Andean treks",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Huaraaz Park"
+        },
+        {
+          "City_Name": "Trujillo",
+          "Historical_Landmarks": "Chan Chan, Sun and Moon Temple",
+          "Tourist_Activities": "Visit pre-Inca mud-brick ruins",
+          "Local_Cuisine": "Ceviche, Lomo Saltado (fried beef), Cuy (guinea pig), Ají de Gallina",
+          "Green_Spaces": "Trujillo Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Belgium",
+      " Cities": [
+        {
+          "City_Name": "Brussels",
+          "Historical_Landmarks": "Grand Place, Atomium",
+          "Tourist_Activities": "Visit the Grand Place, EU headquarters",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Brussels Park"
+        },
+        {
+          "City_Name": "Bruges",
+          "Historical_Landmarks": "Bell Tower, Lake of Love",
+          "Tourist_Activities": "Boat rides in the canals (Northern Venice)",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Bruges Park"
+        },
+        {
+          "City_Name": "Ghent",
+          "Historical_Landmarks": "Gravensteen Castle, St Bavo's Cathedral",
+          "Tourist_Activities": "See castles in the city centre",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Ghent Park"
+        },
+        {
+          "City_Name": "Antwerp",
+          "Historical_Landmarks": "Cathedral of Our Lady, Diamond Museum",
+          "Tourist_Activities": "Visit the diamond district, beautiful train station",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Antwerp Park"
+        },
+        {
+          "City_Name": "Leuven",
+          "Historical_Landmarks": "Town Hall, University Library",
+          "Tourist_Activities": "Visit the old university, old market square",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Leuven Park"
+        },
+        {
+          "City_Name": "Dinant",
+          "Historical_Landmarks": "The Citadel, Bayard Rock",
+          "Tourist_Activities": "Cable car ride to the citadel, birthplace of the saxophone",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Dinant Park"
+        },
+        {
+          "City_Name": "Liège",
+          "Historical_Landmarks": "Montagne de Bueren, Guillemins Station",
+          "Tourist_Activities": "Climb the stairs of Mount Bueren, taste waffles",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Liège Park"
+        },
+        {
+          "City_Name": "Michelin",
+          "Historical_Landmarks": "Toy Museum, the cathedral",
+          "Tourist_Activities": "Visit Saint Rombouts Tower",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Michelin Park"
+        },
+        {
+          "City_Name": "Namur",
+          "Historical_Landmarks": "Namur Castle",
+          "Tourist_Activities": "Explore the castle at the confluence of two rivers",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Namur Park"
+        },
+        {
+          "City_Name": "Ostend",
+          "Historical_Landmarks": "Seaside promenade, maritime museums",
+          "Tourist_Activities": "Enjoy the North Sea beach",
+          "Local_Cuisine": "Belgian waffles, chocolate, moules-frites (mussels and fries), French fries",
+          "Green_Spaces": "Ostend Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Poland",
+      " Cities": [
+        {
+          "City_Name": "Krakow",
+          "Historical_Landmarks": "Wawel Castle, Cloth Hall",
+          "Tourist_Activities": "Visit the main square, Salt Mine",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Krakow Park"
+        },
+        {
+          "City_Name": "Warsaw",
+          "Historical_Landmarks": "Royal Castle, Palace of Culture and Science",
+          "Tourist_Activities": "Explore the rebuilt Old Town",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Łazienki Park (Warsaw)"
+        },
+        {
+          "City_Name": "Gdansk",
+          "Historical_Landmarks": "Neptune Fountain, old crane",
+          "Tourist_Activities": "Walk the historic port, buy amber",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Gdansk Park"
+        },
+        {
+          "City_Name": "Wroclaw",
+          "Historical_Landmarks": "Market Square, Centennial Hall",
+          "Tourist_Activities": "Search for bronze dwarf statues",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Wroclaw Park"
+        },
+        {
+          "City_Name": "Poznan",
+          "Historical_Landmarks": "Town Hall, Old Market Square",
+          "Tourist_Activities": "Watch the mechanical goat on the clock",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Poznan Park"
+        },
+        {
+          "City_Name": "Zakopane",
+          "Historical_Landmarks": "Tatra Mountains, Krupówki Street",
+          "Tourist_Activities": "Ski in winter, hike the mountains in summer",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Zakopane Park"
+        },
+        {
+          "City_Name": "Torun",
+          "Historical_Landmarks": "Gothic Old Town",
+          "Tourist_Activities": "Taste gingerbread, birthplace of Copernicus",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Torun Park"
+        },
+        {
+          "City_Name": "Lublin",
+          "Historical_Landmarks": "Lublin Castle",
+          "Tourist_Activities": "Visit the castle and the quiet old town",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Lublin Park"
+        },
+        {
+          "City_Name": "Szczecin",
+          "Historical_Landmarks": "Haken Terrace",
+          "Tourist_Activities": "Visit the Duchy of Pomerania Castle",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Szczecin Park"
+        },
+        {
+          "City_Name": "Katowice",
+          "Historical_Landmarks": "Silesian Museum, Spodek",
+          "Tourist_Activities": "Explore modern architecture and old mines",
+          "Local_Cuisine": "Pierogi, bigos (hunter's stew), żurek soup, kielbasa (sausage)",
+          "Green_Spaces": "Katowice Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Panama",
+      " Cities": [
+        {
+          "City_Name": "Panama City",
+          "Historical_Landmarks": "Panama Canal (Culebra Cut), Old Town",
+          "Tourist_Activities": "Visit the canal, stroll Casco Viejo",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "Metropolitan Park"
+        },
+        {
+          "City_Name": "Bocas del Toro",
+          "Historical_Landmarks": "Starfish Beach, main island",
+          "Tourist_Activities": "Surfing, relaxing on the islands",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "Bocas Park"
+        },
+        {
+          "City_Name": "Boquete",
+          "Historical_Landmarks": "Barú Volcano, coffee farms",
+          "Tourist_Activities": "Climb Barú Volcano, taste coffee",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "Boquete Park"
+        },
+        {
+          "City_Name": "David",
+          "Historical_Landmarks": "Miguel de Servantes Park",
+          "Tourist_Activities": "Shopping center and mountain gateway",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "David Park"
+        },
+        {
+          "City_Name": "Colón",
+          "Historical_Landmarks": "San Lorenzo Castle, the canal",
+          "Tourist_Activities": "Shop in the free zone, visit castles",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "Colón Park"
+        },
+        {
+          "City_Name": "Portobelo",
+          "Historical_Landmarks": "Royal Customs, Black Church",
+          "Tourist_Activities": "Explore historic forts and dive",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "Portobelo Park"
+        },
+        {
+          "City_Name": "Santa Catalina",
+          "Historical_Landmarks": "Estero Beach",
+          "Tourist_Activities": "Surfing and diving at Coiba Island",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "Santa Catalina Park"
+        },
+        {
+          "City_Name": "El Valle de Antón",
+          "Historical_Landmarks": "La India Dormida (mountain), zoo",
+          "Tourist_Activities": "Visit the market in the crater of Chame volcano",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "El Valle Park"
+        },
+        {
+          "City_Name": "Chitré",
+          "Historical_Landmarks": "St. John the Baptist Cathedral",
+          "Tourist_Activities": "Explore traditional culture and festivals",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "Chitré Park"
+        },
+        {
+          "City_Name": "San Blas Islands",
+          "Historical_Landmarks": "Coral islands",
+          "Tourist_Activities": "Live with Kuna tribes, pristine beaches",
+          "Local_Cuisine": "Ceviche, sancochó (chicken soup), arroz con pollo (rice and chicken), hojaldres (fried pastry)",
+          "Green_Spaces": "San Blas Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Selected Other Countries",
+      " Cities": [
+        {
+          "City_Name": "Botswana - Gaborone",
+          "Historical_Landmarks": "Gaborone Game Reserve",
+          "Tourist_Activities": "Safari and nature reserves",
+          "Local_Cuisine": "Seswaa (Botswanan meat)",
+          "Green_Spaces": "Gaborone Game Reserve"
+        },
+        {
+          "City_Name": "Belize - Belize City",
+          "Historical_Landmarks": "Belize Museum",
+          "Tourist_Activities": "Dive the Great Blue Hole",
+          "Local_Cuisine": "Seafood (Belize)",
+          "Green_Spaces": "Belize Museum"
+        },
+        {
+          "City_Name": "Bahamas - Nassau",
+          "Historical_Landmarks": "Paradise Island",
+          "Tourist_Activities": "Beaches and resorts",
+          "Local_Cuisine": "Conch salad (Bahamas)",
+          "Green_Spaces": "Paradise Island"
+        },
+        {
+          "City_Name": "Bolivia - La Paz",
+          "Historical_Landmarks": "Witches' Market",
+          "Tourist_Activities": "Ride the cable car (Mi Teleférico)",
+          "Local_Cuisine": "Salteñas (Bolivia)",
+          "Green_Spaces": "Witches' Market"
+        },
+        {
+          "City_Name": "Bulgaria - Sofia",
+          "Historical_Landmarks": "Alexander Nevsky Cathedral",
+          "Tourist_Activities": "Visit Orthodox cathedrals",
+          "Local_Cuisine": "Banitsa (Bulgaria)",
+          "Green_Spaces": "Sofia Park"
+        },
+        {
+          "City_Name": "Bangladesh - Dhaka",
+          "Historical_Landmarks": "Lalbagh Fort",
+          "Tourist_Activities": "Visit forts and bustling markets",
+          "Local_Cuisine": "Biryani (Bangladesh)",
+          "Green_Spaces": "Dhaka Park"
+        },
+        {
+          "City_Name": "Bhutan - Thimphu",
+          "Historical_Landmarks": "Buddha Dordenma statue",
+          "Tourist_Activities": "Visit mountain monasteries",
+          "Local_Cuisine": "Ema datshi (Bhutan)",
+          "Green_Spaces": "Thimphu Park"
+        },
+        {
+          "City_Name": "Benin - Cotonou",
+          "Historical_Landmarks": "Zensou Foundation",
+          "Tourist_Activities": "Visit markets and beaches",
+          "Local_Cuisine": "Akaasa (Benin)",
+          "Green_Spaces": "Cotonou Park"
+        },
+        {
+          "City_Name": "Burkina Faso - Ouagadougou",
+          "Historical_Landmarks": "Crafts village",
+          "Tourist_Activities": "Cinema and crafts festivals",
+          "Local_Cuisine": "To (Burkina Faso)",
+          "Green_Spaces": "Ouagadougou Park"
+        },
+        {
+          "City_Name": "Antigua - Saint Johns",
+          "Historical_Landmarks": "St. John Cathedral",
+          "Tourist_Activities": "White sand beaches",
+          "Local_Cuisine": "Fungee (Antigua)",
+          "Green_Spaces": "Saint Johns Park"
+        }
+      ]
+    }
+  ]
+}

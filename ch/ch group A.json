@@ -1,0 +1,1062 @@
+[
+  {
+    "Country_Name": "Azerbaijan",
+    " Cities": [
+      {
+        "City_Name": "Baku",
+        "Historical_Landmarks": "老城（伊切里谢赫）、少女塔、希尔万沙宫、火焰塔、盖达尔·阿利耶夫中心、喷泉广场、迷你威尼斯、地毯博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、阿塞拜疆烤肉、杜什巴拉。",
+        "Green_Spaces": "巴库国家公园（贝尔法尔）、杰什拉尔公园、迪纳摩公园、里海海岸风光。"
+      },
+      {
+        "City_Name": "Ganja",
+        "Historical_Landmarks": "尼扎米·甘贾维区、历史清真寺、陵墓。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉、杜什巴拉。",
+        "Green_Spaces": "美丽的花园（文件中提及）、甘贾河及周围的绿色乡村地区。"
+      },
+      {
+        "City_Name": "Shaki",
+        "Historical_Landmarks": "沙基汗宫、当地工艺品市场、剧院。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "特色沙基食物、普洛夫。",
+        "Green_Spaces": "小高加索山脉、沙基森林和绿色乡村自然。"
+      },
+      {
+        "City_Name": "Gabala",
+        "Historical_Landmarks": "（老城和加巴拉清真寺）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉。",
+        "Green_Spaces": "北高加索山脉、如画风景、诺胡尔戈尔湖（诺胡尔）。"
+      },
+      {
+        "City_Name": "Quba",
+        "Historical_Landmarks": "山区、山区清真寺。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉。",
+        "Green_Spaces": "山区、自然公园、红卡萨巴森林和古迪亚尔柴河。"
+      },
+      {
+        "City_Name": "Lankaran",
+        "Historical_Landmarks": "历史悠久的兰卡兰城堡、灯塔。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉。",
+        "Green_Spaces": "里海沿岸地区、附近的希尔坎国家公园。"
+      },
+      {
+        "City_Name": "Sumqayit",
+        "Historical_Landmarks": "大型工业建筑、钟楼。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉。",
+        "Green_Spaces": "里海上的苏姆盖特海滩、法赫雷丁·阿萨德广场（中央公园）。"
+      },
+      {
+        "City_Name": "Mingeooyr",
+        "Historical_Landmarks": "古老的历史地标、水库。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉。",
+        "Green_Spaces": "库拉河、明格乔乌尔湖（水库）及河岸的绿色空间。"
+      },
+      {
+        "City_Name": "Khankendi",
+        "Historical_Landmarks": "该地区的历史遗迹、清真寺。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉。",
+        "Green_Spaces": "山谷和周围的山脉（特别是达什阿尔廷地区）和山地景观。"
+      },
+      {
+        "City_Name": "Gazakh",
+        "Historical_Landmarks": "该地区的建筑和建筑地标。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、烤肉。",
+        "Green_Spaces": "库拉河、广阔的加扎赫平原和肥沃的乡村地区。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Armenia",
+    " Cities": [
+      {
+        "City_Name": "Yerevan",
+        "Historical_Landmarks": "共和国广场、阶梯综合体、马特纳达兰博物馆、歌剧院、蓝色清真寺、埃里温白兰地公司、北方大道、亚美尼亚历史博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨、拉瓦什面包、多尔玛、曼提。",
+        "Green_Spaces": "恋人公园、维多利亚公园以及可以欣赏阿拉拉特山景色的宽阔广场。"
+      },
+      {
+        "City_Name": "Gyumri",
+        "Historical_Landmarks": "历史建筑和鲁斯塔韦利街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨、拉瓦什面包。",
+        "Green_Spaces": "公共公园和周围平原和高地的自然景观。"
+      },
+      {
+        "City_Name": "Etchmiadzin",
+        "Historical_Landmarks": "埃奇米亚津大教堂、石头宫殿。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨、拉瓦什面包。",
+        "Green_Spaces": "宗教场所周围的绿色空间和广场以及绿色草地。"
+      },
+      {
+        "City_Name": "Sevan",
+        "Historical_Landmarks": "塞万纳旺宗教综合体。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "湖鱼、霍罗瓦茨。",
+        "Green_Spaces": "塞万湖（最大的湖泊）、其沙滩和清澈的水域。"
+      },
+      {
+        "City_Name": "Goris",
+        "Historical_Landmarks": "古老的石头建筑。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨。",
+        "Green_Spaces": "位于赞格祖尔山脉中、风景如画的景观和天然洞穴。"
+      },
+      {
+        "City_Name": "Kapan",
+        "Historical_Landmarks": "历史地标。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨。",
+        "Green_Spaces": "扎格罗斯山脉和绿色地区、风景优美的自然、富赫坦河。"
+      },
+      {
+        "City_Name": "Odzun",
+        "Historical_Landmarks": "历史和文化地标、奥兹温教堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨。",
+        "Green_Spaces": "山谷和山脉以及宁静的乡村村庄。"
+      },
+      {
+        "City_Name": "Dilijan",
+        "Historical_Landmarks": "迪利然博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨。",
+        "Green_Spaces": "迪利然国家公园（风景如画的自然），被称为"亚美尼亚瑞士"。"
+      },
+      {
+        "City_Name": "Ararat",
+        "Historical_Landmarks": "阿拉拉特白兰地工厂、阿拉拉特博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈里萨、霍罗瓦茨。",
+        "Green_Spaces": "阿拉拉特山的全景景色（从该地区可见）和平原。"
+      },
+      {
+        "City_Name": "Agavandzor",
+        "Historical_Landmarks": "（历史悠久的村庄）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "金卡洛夫帽子。",
+        "Green_Spaces": "贝鲁尼克历史公园（宁静的公园）以及森林和悬崖。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Australia",
+    " Cities": [
+      {
+        "City_Name": "Sydney",
+        "Historical_Landmarks": "悉尼歌剧院、海港大桥、岩石区、卡德曼小屋。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "肉馅饼、烤牛排片、鸡肉帕尔米吉亚诺、袋鼠肉、南瓜汤。",
+        "Green_Spaces": "邦迪和曼利海滩、皇家植物园、海德公园。"
+      },
+      {
+        "City_Name": "Melbourne",
+        "Historical_Landmarks": "维多利亚国家美术馆、维多利亚女王市场、壁画和涂鸦。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "肉馅饼、鸡肉帕尔米吉亚诺、拉明顿蛋糕。",
+        "Green_Spaces": "菲茨罗伊花园、皇家植物园、亚拉河。"
+      },
+      {
+        "City_Name": "Gold Coast",
+        "Historical_Landmarks": "海洋世界、电影世界。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "肉馅饼、烤牛排片。",
+        "Green_Spaces": "冲浪海滩、春溪国家公园（附近）和瀑布。"
+      },
+      {
+        "City_Name": "Brisbane",
+        "Historical_Landmarks": "艺术展览、南岸公园。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "南瓜汤。",
+        "Green_Spaces": "昆士兰国家公园、布里斯班河和布里斯班植物园。"
+      },
+      {
+        "City_Name": "Newcastle",
+        "Historical_Landmarks": "历史建筑。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "肉馅饼。",
+        "Green_Spaces": "冲浪点、周围的山脉和农场、黑巴特公共公园。"
+      },
+      {
+        "City_Name": "Perth",
+        "Historical_Landmarks": "钟楼。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "烤鱼和炸鱼。",
+        "Green_Spaces": "国王公园、天鹅河、美丽的海滩和贾拉森林。"
+      },
+      {
+        "City_Name": "Adelaide",
+        "Historical_Landmarks": "南澳大利亚博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "肉馅饼。",
+        "Green_Spaces": "巴罗莎谷葡萄酒产区、阿德莱德山和弗勒里厄半岛海滩。"
+      },
+      {
+        "City_Name": "Hobart",
+        "Historical_Landmarks": "塔斯马尼亚的旅游和历史遗迹。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "寻找菜肴",
+        "Green_Spaces": "风景优美的自然区域和攀登威灵顿山......"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Afghanistan",
+    " Cities": [
+      {
+        "City_Name": "Kabul",
+        "Historical_Landmarks": "达尔·阿曼宫、蓝色清真寺（霍贾·阿卜杜拉·安萨里）、国家博物馆、巴布尔宫。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "卡布利抓饭、阿富汗烤肉、阿沙克、博拉尼、科尔马。",
+        "Green_Spaces": "巴布尔宫（包括其花园）、环绕城市的兴都库什山脉、沙尔·阿拉公园。"
+      },
+      {
+        "City_Name": "Kandahar",
+        "Historical_Landmarks": "艾哈迈德·沙·杜兰尼陵墓、沙里法广场、贾尔·齐纳、米尔瓦伊斯陵墓。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "卡布利抓饭、阿富汗烤肉。",
+        "Green_Spaces": "探索葡萄园和藏红花农场、阿尔甘达布河和肥沃的平原。"
+      },
+      {
+        "City_Name": "Herat",
+        "Historical_Landmarks": "大清真寺、瓦利·乌拉·阿卜杜拉·安萨里陵墓、旧清真寺和学校综合体的遗迹。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "卡布利抓饭、阿富汗烤肉。",
+        "Green_Spaces": "哈里河、周围的绿色山谷和农业区。"
+      },
+      {
+        "City_Name": "Bamyan",
+        "Historical_Landmarks": "巴米扬山谷、古老的佛教寺庙（包括被毁的佛像）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "卡布利抓饭。",
+        "Green_Spaces": "巴米扬山谷及其自然美景、山地风景中的古老佛教寺庙。"
+      },
+      {
+        "City_Name": "Badghis",
+        "Historical_Landmarks": "国王清真寺。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "卡布利抓饭、阿富汗烤肉。",
+        "Green_Spaces": "周围的乡村和山地平原以及肥沃的景观。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Albania",
+    " Cities": [
+      {
+        "City_Name": "Tirana",
+        "Historical_Landmarks": "斯坎德培广场、地拉那国家博物馆、钟楼、达伊蒂山。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "布雷克（馅饼）、恩古尔（肉）。",
+        "Green_Spaces": "地拉那大公园、埃尔曾河岸。"
+      },
+      {
+        "City_Name": "Berat",
+        "Historical_Landmarks": "历史悠久的贝拉特城堡、老城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "布雷克（馅饼）、恩古尔（肉）。",
+        "Green_Spaces": "俯瞰奥苏米河的景色和托莫里山脉。"
+      },
+      {
+        "City_Name": "Fllore",
+        "Historical_Landmarks": "弗洛拉城堡、弗洛拉博物馆、大弗洛拉清真寺、老城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "布雷克（馅饼）、恩古尔（肉）。",
+        "Green_Spaces": "亚得里亚海海滩、洛加拉高地、卡里什马自然公园。"
+      },
+      {
+        "City_Name": "Durrës",
+        "Historical_Landmarks": "都拉斯罗马圆形剧场、历史悠久的都拉斯城堡。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "海鲜、布雷克。",
+        "Green_Spaces": "都拉斯海滩和都拉斯沿海森林。"
+      },
+      {
+        "City_Name": "Shkodër",
+        "Historical_Landmarks": "罗扎法城堡。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "布雷克（馅饼）、恩古尔（肉）。",
+        "Green_Spaces": "斯库台湖（南欧最大的湖）、阿尔巴尼亚阿尔卑斯山。"
+      },
+      {
+        "City_Name": "Korce",
+        "Historical_Landmarks": "（重要的文化和历史中心）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "布雷克（馅饼）、恩古尔（肉）。",
+        "Green_Spaces": "科尔切公共公园和附近的费尔·德里诺瓦国家公园。"
+      },
+      {
+        "City_Name": "Dhermi",
+        "Historical_Landmarks": "德尔米教堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "布雷克（馅饼）、恩古尔（肉）。",
+        "Green_Spaces": "沿海村庄、周围的山景和爱奥尼亚海海滩。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Germany",
+    " Cities": [
+      {
+        "City_Name": "Heidelberg",
+        "Historical_Landmarks": "海德堡城堡、老桥、豪伯特街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "施佩茨勒、卷肉。",
+        "Green_Spaces": "哲学家小径、环绕海德堡城堡的森林、内卡河。"
+      },
+      {
+        "City_Name": "Dresden",
+        "Historical_Landmarks": "巴洛克建筑地标（茨温格宫）、历史建筑。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "香肠、卷肉。",
+        "Green_Spaces": "南公园（附近）和易北河沿岸的公园。"
+      },
+      {
+        "City_Name": "Freiburg",
+        "Historical_Landmarks": "弗赖堡大教堂、绍因斯兰、施洛斯贝格（观景点山丘）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "炸土豆饼。",
+        "Green_Spaces": "周围的黑森林和施洛斯贝格山丘。"
+      },
+      {
+        "City_Name": "Bonn",
+        "Historical_Landmarks": "贝多芬故居、波恩大教堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "炸肉排、香肠。",
+        "Green_Spaces": "莱茵奥公园、莱茵河岸。"
+      },
+      {
+        "City_Name": "Wiesbaden",
+        "Historical_Landmarks": "库尔豪斯、内罗贝格铁路、威廉大街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "香肠、炸肉排。",
+        "Green_Spaces": "库尔公园、内罗贝格山和罗马温泉。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Angola",
+    " Cities": [
+      {
+        "City_Name": "Luanda",
+        "Historical_Landmarks": "安东尼奥·尼托博士陵墓、圣母雷梅迪奥斯教堂、货币博物馆、国家人类学博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "莫安巴·德·加利尼亚、丰格·德·卡卢卢、基萨卡、卡鲁鲁、穆费特。",
+        "Green_Spaces": "罗安达湾、穆苏卢岛（海滩）、附近的基萨马国家公园。"
+      },
+      {
+        "City_Name": "M'banza Congo",
+        "Historical_Landmarks": "历史遗迹（联合国教科文组织世界遗产）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "莫安巴·德·加利尼亚、丰格·德·卡卢卢、基萨卡、卡鲁鲁、穆费特。",
+        "Green_Spaces": "周围地区和雨林、原始自然。"
+      },
+      {
+        "City_Name": "Malanji",
+        "Historical_Landmarks": "历史地标。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "莫安巴·德·加利尼亚、丰格·德·卡卢卢、基萨卡、卡鲁鲁、穆费特。",
+        "Green_Spaces": "卡兰多拉瀑布、卢阿拉巴河、米克索自然保护区。"
+      },
+      {
+        "City_Name": "Benguela",
+        "Historical_Landmarks": "国家人类学博物馆、历史悠久的城市。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "海鲜。",
+        "Green_Spaces": "沙滩和大西洋风光。"
+      },
+      {
+        "City_Name": "Lubito",
+        "Historical_Landmarks": "文化和历史地标、海港。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "莫安巴·德·加利尼亚、丰格·德·卡卢卢、基萨卡、卡鲁鲁、穆费特。",
+        "Green_Spaces": "港口周围的沿海自然和附近的山脉。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Uruguay",
+    " Cities": [
+      {
+        "City_Name": "Montevideo",
+        "Historical_Landmarks": "独立广场、萨尔沃宫、港口市场、索利斯剧院。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多（烧烤）、奇维托（牛排三明治）、肉馅饼。",
+        "Green_Spaces": "蒙得维的亚拉姆布拉（海滨长廊）、巴特列-奥多涅斯公园。"
+      },
+      {
+        "City_Name": "Boca del Este",
+        "Historical_Landmarks": "东博卡港、拉马诺（著名雕像）、洛沃斯岛（海豹）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多（烧烤）、奇维托（牛排三明治）、肉馅饼。",
+        "Green_Spaces": "大西洋上的海滩和豪华度假村。"
+      },
+      {
+        "City_Name": "Piriápolis",
+        "Historical_Landmarks": "潘·德·阿苏卡尔山、维拉·阿尔根廷娜宫。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多（烧烤）、奇维托（牛排三明治）、肉馅饼。",
+        "Green_Spaces": "著名的海滩度假村、山丘和景观，包括圣安东尼奥山。"
+      },
+      {
+        "City_Name": "Salto",
+        "Historical_Landmarks": "（农业中心）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多（烧烤）、奇维托（牛排三明治）、肉馅饼。",
+        "Green_Spaces": "阿罗约温泉、德马温泉、乌拉圭河。"
+      },
+      {
+        "City_Name": "La Paloma",
+        "Historical_Landmarks": "拉帕洛马灯塔。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多（烧烤）、奇维托（牛排三明治）、肉馅饼。",
+        "Green_Spaces": "大西洋的海滩和沿海度假村以及附近的罗查泻湖。"
+      },
+      {
+        "City_Name": "Boca del Diablo",
+        "Historical_Landmarks": "（小渔村）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多（烧烤）、奇维托（牛排三明治）、肉馅饼。",
+        "Green_Spaces": "美丽的沙滩和周围原始的自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Uzbekistan",
+    " Cities": [
+      {
+        "City_Name": "Tashkent",
+        "Historical_Landmarks": "阿米尔·帖木儿广场、哈斯特伊玛目建筑群、巴拉克汗学校。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、沙什利克（烤肉）、萨姆萨。",
+        "Green_Spaces": "水渠、巴巴尔公园和城市绿色空间。"
+      },
+      {
+        "City_Name": "Samarkand",
+        "Historical_Landmarks": "雷吉斯坦广场、古尔·埃米尔陵墓、比比·哈努姆清真寺。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、沙什利克（烤肉）、萨姆萨。",
+        "Green_Spaces": "雷吉斯坦广场（考古遗址）、撒马尔罕的绿色郊区。"
+      },
+      {
+        "City_Name": "Bukhara",
+        "Historical_Landmarks": "博洛·哈利扬建筑群、萨曼王朝陵墓、布哈拉老城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、沙什利克（烤肉）、萨姆萨。",
+        "Green_Spaces": "拉布水库（水域和花园）。"
+      },
+      {
+        "City_Name": "Khwarezm",
+        "Historical_Landmarks": "希瓦的伊钦·卡拉堡垒（附近）、陵墓和清真寺。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、沙什利克（烤肉）、萨姆萨。",
+        "Green_Spaces": "阿姆河周围的农业区。"
+      },
+      {
+        "City_Name": "Namangan",
+        "Historical_Landmarks": "（拥有历史遗迹和地标的主要城市）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、沙什利克、曼提。",
+        "Green_Spaces": "肥沃的农业区，靠近锡尔河。"
+      },
+      {
+        "City_Name": "Andijan",
+        "Historical_Landmarks": "（拥有历史遗迹和地标的主要城市）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "普洛夫、沙什利克、萨姆萨。",
+        "Green_Spaces": "费尔干纳山谷肥沃的山谷和农业区。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ukraine",
+    " Cities": [
+      {
+        "City_Name": "Kyiv",
+        "Historical_Landmarks": "基辅佩乔尔斯克修道院、圣索菲亚大教堂、独立广场、金门、乌克兰历史国家博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤（甜菜汤）、瓦伦尼基（馅饺子）、肉饼（汉堡）、戈卢布齐（卷心菜卷）、皮罗日基（烤肉饼）。",
+        "Green_Spaces": "国家植物园、第聂伯河岸。"
+      },
+      {
+        "City_Name": "Kharkiv",
+        "Historical_Landmarks": "自由广场、高尔基公园、报喜大教堂、美术博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤、瓦伦尼基。",
+        "Green_Spaces": "高尔基公园（中央）、周围的森林。"
+      },
+      {
+        "City_Name": "Odessa",
+        "Historical_Landmarks": "敖德萨国家歌剧院、波将金阶梯、杰里巴萨夫斯卡街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "萨洛（蔬菜和肉末沙拉）、布林茨（薄饼）。",
+        "Green_Spaces": "黑海沿海旅游、阿尔卡迪亚海滩。"
+      },
+      {
+        "City_Name": "Lviv",
+        "Historical_Landmarks": "市场广场、利沃夫歌剧院、高城堡山。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤、咖啡。",
+        "Green_Spaces": "维什卡城堡公园、城市公园。"
+      },
+      {
+        "City_Name": "Dnipro",
+        "Historical_Landmarks": "堤岸、太空博物馆、修道院岛。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤。",
+        "Green_Spaces": "第聂伯河沿岸的堤岸、城市公园。"
+      },
+      {
+        "City_Name": "Donetsk",
+        "Historical_Landmarks": "福罗舒科瓦公园、列宁广场、地区博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤。",
+        "Green_Spaces": "福罗舒科瓦公园、东部平原。"
+      },
+      {
+        "City_Name": "Sevastopol",
+        "Historical_Landmarks": "克里米亚半岛、塞瓦斯托波尔防御全景、赫尔松涅斯。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤、海鲜。",
+        "Green_Spaces": "克里米亚半岛（艾佩特里山）、海洋旅游。"
+      },
+      {
+        "City_Name": "Zaporizhzhia",
+        "Historical_Landmarks": "霍尔蒂察岛、扎波罗热哥萨克博物馆、扎波罗热海滩。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤。",
+        "Green_Spaces": "霍尔蒂察岛（最大的江心岛）、第聂伯河。"
+      },
+      {
+        "City_Name": "Mykolaiv",
+        "Historical_Landmarks": "尼古拉耶夫天文台、尼古拉耶夫堤岸、造船博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤。",
+        "Green_Spaces": "天文台（周围的绿色区域）、黑海平原。"
+      },
+      {
+        "City_Name": "Kostyn",
+        "Historical_Landmarks": "奥尔加公主浴场公园、石头博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "罗宋汤、德拉尼基（土豆饼）。",
+        "Green_Spaces": "奥尔加公主浴场公园、乡村地区。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eritrea",
+    " Cities": [
+      {
+        "City_Name": "Asmara",
+        "Historical_Landmarks": "圣约瑟夫大教堂、歌剧院、帝国电影院。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼（肉炖）、因杰拉（海绵面包）、蒂布西（炸肉片）。",
+        "Green_Spaces": "风景如画的公园和绿色空间、厄立特里亚高地。"
+      },
+      {
+        "City_Name": "Mitsiwa",
+        "Historical_Landmarks": "历史悠久的马萨瓦港、谢赫·哈内菲清真寺、达赫拉克群岛。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、海鲜。",
+        "Green_Spaces": "红海海滩、绿岛（谢赫·赛义德）。"
+      },
+      {
+        "City_Name": "Keren",
+        "Historical_Landmarks": "骆驼市场、贝齐尼堡垒、玛丽亚姆·舒伊特陵墓。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、蒂布西。",
+        "Green_Spaces": "周围的花岗岩山脉、迷人的景观。"
+      },
+      {
+        "City_Name": "Dekmhahar",
+        "Historical_Landmarks": "意大利殖民建筑、天主教堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、蒂布西。",
+        "Green_Spaces": "乡村意大利建筑、周围的平原。"
+      },
+      {
+        "City_Name": "Adi Qual",
+        "Historical_Landmarks": "考古遗迹、阿迪·夸尔博物馆、马塔拉（附近）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、蒂布西。",
+        "Green_Spaces": "高地的考古遗址、山地风景。"
+      },
+      {
+        "City_Name": "Tsini",
+        "Historical_Landmarks": "齐尼河、边境城镇、露天市场。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、蒂布西。",
+        "Green_Spaces": "齐尼河、西部绿色地区。"
+      },
+      {
+        "City_Name": "Qandah",
+        "Historical_Landmarks": "沿海村庄、红海海滩、自然风光。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、鱼。",
+        "Green_Spaces": "沿海村庄、红海海滩。"
+      },
+      {
+        "City_Name": "Agordat",
+        "Historical_Landmarks": "主要市场、旧军事遗址。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、蒂布西。",
+        "Green_Spaces": "平原地区、河岸茂密的树木。"
+      },
+      {
+        "City_Name": "Mendefera",
+        "Historical_Landmarks": "古代考古遗址（靠近马塔拉）、山丘。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、蒂布西。",
+        "Green_Spaces": "古代遗迹（马塔拉）、高地农业区。"
+      },
+      {
+        "City_Name": "Barentu",
+        "Historical_Landmarks": "矿业城镇、广阔的平原。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "齐格尼、因杰拉、蒂布西。",
+        "Green_Spaces": "平原自然、河流和放牧区。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Spain",
+    " Cities": [
+      {
+        "City_Name": "Madrid",
+        "Historical_Landmarks": "王宫、普拉多博物馆、马约尔广场。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "海鲜饭、塔帕斯、西班牙冷汤、油条。",
+        "Green_Spaces": "雷蒂罗公园、皇家植物园、卡萨·德坎波公园。"
+      },
+      {
+        "City_Name": "Barcelona",
+        "Historical_Landmarks": "圣家族大教堂、哥特区、兰布拉大道。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "菲德瓦、番茄面包、加泰罗尼亚奶油。",
+        "Green_Spaces": "古埃尔公园、蒙特塞拉特山、地中海海滩。"
+      },
+      {
+        "City_Name": "Seville",
+        "Historical_Landmarks": "塞维利亚王宫、塞维利亚大教堂、西班牙广场。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "瓦伦西亚海鲜饭、萨尔莫雷霍。",
+        "Green_Spaces": "塞维利亚宫殿的穆拉利亚花园、玛丽亚·路易莎公园。"
+      },
+      {
+        "City_Name": "Valencia",
+        "Historical_Landmarks": "艺术科学城、中央市场、瓦伦西亚大教堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "原版海鲜饭、法瓦达、欧洽塔。",
+        "Green_Spaces": "艺术科学城（水景）、图里亚花园。"
+      },
+      {
+        "City_Name": "Malaga",
+        "Historical_Landmarks": "阿尔卡萨瓦、吉布拉尔法罗城堡、毕加索博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "博利托、布塞罗诺斯（炸鱼）。",
+        "Green_Spaces": "太阳海岸海滩、阿尔卡萨瓦（俯瞰景色）。"
+      },
+      {
+        "City_Name": "Cordoba",
+        "Historical_Landmarks": "大清真寺、犹太区、维亚纳宫。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "萨尔莫雷霍、波利托。",
+        "Green_Spaces": "阿尔卡萨花园、大清真寺中的花园。"
+      },
+      {
+        "City_Name": "Granada",
+        "Historical_Landmarks": "阿尔罕布拉宫、赫内拉利费、阿尔拜辛区。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "卢维里土豆、公牛排骨。",
+        "Green_Spaces": "阿尔罕布拉宫和赫内拉利费（水和乡村花园）。"
+      },
+      {
+        "City_Name": "Bilbao",
+        "Historical_Landmarks": "古根海姆博物馆、卡斯科·别霍（老城）、苏比祖里桥。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "品丘斯、鳕鱼。",
+        "Green_Spaces": "海岸悬崖、多娜·卡西尔达·伊图里萨尔公园。"
+      },
+      {
+        "City_Name": "Alicante",
+        "Historical_Landmarks": "圣巴巴拉城堡、波斯蒂盖特海滩、瓦莱斯博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿罗斯·阿·班达、图龙。",
+        "Green_Spaces": "白色海岸海滩、佩尼亚戈洛萨山（俯瞰景色）。"
+      },
+      {
+        "City_Name": "Las Palmas",
+        "Historical_Landmarks": "泰德火山（特内里费岛）、拉斯坎特拉斯海滩、维吉塔。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "皱皮土豆、莫霍酱。",
+        "Green_Spaces": "泰德火山、拉斯坎特拉斯海滩。"
+      },
+      {
+        "City_Name": "Marbella",
+        "Historical_Landmarks": "班努斯港、丰特海滩、老城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "海鲜饭、塔帕斯、海鲜。",
+        "Green_Spaces": "巴西利奥·马雷蒂莫街道两旁绿树成荫、豪华沙滩。"
+      },
+      {
+        "City_Name": "Toledo",
+        "Historical_Landmarks": "托莱多大教堂、犹太教堂、坎塔拉桥。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "科奇尼洛（烤）、马萨潘（杏仁甜点）。",
+        "Green_Spaces": "塔霍河岸、周围的乡村地区。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Estonia",
+    " Cities": [
+      {
+        "City_Name": "Tallinn",
+        "Historical_Landmarks": "老城（世界遗产）、亚历山大·涅夫斯基大教堂、圣奥拉夫塔。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "血肠、黑面包。",
+        "Green_Spaces": "卡德里奥公园、海岸悬崖（帕尔努）。"
+      },
+      {
+        "City_Name": "Tartu",
+        "Historical_Landmarks": "塔尔图大学、亲吻桥、艺术博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "血肠、黑面包。",
+        "Green_Spaces": "塔尔图植物园、河流景观。"
+      },
+      {
+        "City_Name": "Pärnu",
+        "Historical_Landmarks": "帕尔努海滩、疗养院、帕尔努公园。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "血肠、黑面包。",
+        "Green_Spaces": "帕尔努沙滩、附近森林中的疗养院。"
+      },
+      {
+        "City_Name": "Narva",
+        "Historical_Landmarks": "纳尔瓦城堡（赫尔曼）、艺术博物馆、边境地区。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "血肠、黑面包。",
+        "Green_Spaces": "纳尔瓦城堡（河景）、绿色边境地区。"
+      },
+      {
+        "City_Name": "Kohtla-Järve",
+        "Historical_Landmarks": "科赫特拉-亚尔韦油页岩博物馆、商业区。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "血肠、黑面包。",
+        "Green_Spaces": "工业区（油页岩）和周围的森林。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eswatini",
+    " Cities": [
+      {
+        "City_Name": "Mbabane",
+        "Historical_Landmarks": "议会大厦、姆巴巴内市场。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "西扎马博、因霍。",
+        "Green_Spaces": "埃兹尔维尼山谷（附近）、绿色丘陵地区。"
+      },
+      {
+        "City_Name": "Manzini",
+        "Historical_Landmarks": "国王宫、国家博物馆、赫兰皇家公园。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "西扎马博、因霍。",
+        "Green_Spaces": "赫兰皇家公园、山地高地。"
+      },
+      {
+        "City_Name": "Big Bend",
+        "Historical_Landmarks": "甘蔗农场、斯威士兰河、大本德桥。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "西扎马博、因霍。",
+        "Green_Spaces": "甘蔗农场、斯威士兰河（水景）。"
+      },
+      {
+        "City_Name": "Sehoy",
+        "Historical_Landmarks": "工业综合体、贸易中心。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "西扎马博、因霍。",
+        "Green_Spaces": "工业区、乡村自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Indonesia",
+    " Cities": [
+      {
+        "City_Name": "Jakarta",
+        "Historical_Landmarks": "国家纪念碑（莫纳斯）、老城（科塔图亚）、雅加达博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "印尼炒饭、沙爹、古德格沙爹。",
+        "Green_Spaces": "迷你印度尼西亚公园、安科尔梦幻乐园。"
+      },
+      {
+        "City_Name": "Surabaya",
+        "Historical_Landmarks": "英雄纪念碑、郑和清真寺、海事博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "印尼炒饭、沙爹、鲁贾克·辛古尔。",
+        "Green_Spaces": "邦库斯·阿赛公园、绿色东爪哇自然。"
+      },
+      {
+        "City_Name": "Midan",
+        "Historical_Landmarks": "大马赫迪亚清真寺、马尤姆宫、附近的托巴湖。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "印尼炒饭、沙爹、索托·棉兰。",
+        "Green_Spaces": "锡纳朋火山（活火山）、邦达公园。"
+      },
+      {
+        "City_Name": "Makassar",
+        "Historical_Landmarks": "鹿特丹堡垒、洛萨里海滩、桑卡朗岛。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "印尼炒饭、沙爹、西维（鱼）。",
+        "Green_Spaces": "鹿特丹堡垒（海景）、沿海自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Italy",
+    " Cities": [
+      {
+        "City_Name": "Rome",
+        "Historical_Landmarks": "罗马斗兽场、古罗马广场、梵蒂冈、特雷维喷泉。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "卡博纳拉意面、佩佩奶酪意面、罗马式披萨。",
+        "Green_Spaces": "博尔盖塞别墅花园、平西奥露台花园。"
+      },
+      {
+        "City_Name": "Milan",
+        "Historical_Landmarks": "米兰大教堂、埃马努埃莱二世拱廊、斯卡拉歌剧院。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "米兰烩饭、科托莱塔（小牛肉）。",
+        "Green_Spaces": "森皮奥内公园、纳维利运河。"
+      },
+      {
+        "City_Name": "Naples",
+        "Historical_Landmarks": "那不勒斯历史中心、卡波迪蒙特宫、附近的庞贝古城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "正宗那不勒斯披萨、斯福利亚泰拉糕点。",
+        "Green_Spaces": "维苏威火山（俯瞰城市）、阿马尔菲海岸。"
+      },
+      {
+        "City_Name": "Bologna",
+        "Historical_Landmarks": "马焦雷广场、双塔、海神喷泉。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "博洛尼亚肉酱、意大利饺。",
+        "Green_Spaces": "玛格丽特花园（城市公园）、绿色波河平原。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Argentina",
+    " Cities": [
+      {
+        "City_Name": "Buenos Aires",
+        "Historical_Landmarks": "五月广场、博卡区（色彩缤纷的社区）、伊娃·庇隆墓（在雷科莱塔）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多、恩帕纳达、阿尔法霍雷斯（甜点）。",
+        "Green_Spaces": "帕勒莫公园（帕勒莫森林）、生态保护区。"
+      },
+      {
+        "City_Name": "Mendoza",
+        "Historical_Landmarks": "独立广场、国家历史博物馆。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多、恩帕纳达、马尔贝克葡萄酒。",
+        "Green_Spaces": "圣马丁公园、门多萨的葡萄园。"
+      },
+      {
+        "City_Name": "San Carlos de Bariloche",
+        "Historical_Landmarks": "市中心（欧式风格）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多、恩帕纳达、巴塔哥尼亚巧克力。",
+        "Green_Spaces": "被湖泊和安第斯山脉环绕。"
+      },
+      {
+        "City_Name": "Salta",
+        "Historical_Landmarks": "山地考古博物馆、萨尔塔大教堂、圣贝尔纳多社区。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多、恩帕纳达、塔马莱斯。",
+        "Green_Spaces": "北部安第斯山脉、莱尔马山谷。"
+      },
+      {
+        "City_Name": "Newquay",
+        "Historical_Landmarks": "纽基博物馆、纽基河、百年公园。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "阿萨多、恩帕纳达。",
+        "Green_Spaces": "纽基河、北巴塔哥尼亚自然。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Jordan",
+    " Cities": [
+      {
+        "City_Name": "Amman",
+        "Historical_Landmarks": "安曼罗马圆形剧场、城堡山、约旦考古博物馆、彩虹街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "曼萨夫、马克卢巴、库纳法。",
+        "Green_Spaces": "侯赛因国家公园、可欣赏山景的安曼郊区。"
+      },
+      {
+        "City_Name": "Petra",
+        "Historical_Landmarks": "宝库（阿尔西格）、修道院、柱廊街。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "曼萨夫、扎尔布（地下烧烤）。",
+        "Green_Spaces": "瓦迪穆萨（岩石自然和雕刻）。"
+      },
+      {
+        "City_Name": "Aqaba",
+        "Historical_Landmarks": "亚喀巴马穆鲁克城堡、亚喀巴考古博物馆、亚喀巴市场。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "海鲜、塞亚迪亚鱼、曼萨夫。",
+        "Green_Spaces": "红海（海滩和潜水珊瑚礁）。"
+      },
+      {
+        "City_Name": "Wadi Rum",
+        "Historical_Landmarks": "沙岩和岩石山、古代铭文、贝都因帐篷。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "扎尔布、曼萨夫。",
+        "Green_Spaces": "沙丘、沙岩山。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    " Cities": [
+      {
+        "City_Name": "Dubai",
+        "Historical_Landmarks": "哈利法塔、阿拉伯塔、迪拜购物中心、地球村、迪拜溪（老城）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈雷斯、马克布斯、卢凯马特。",
+        "Green_Spaces": "迪拜奇迹花园、朱美拉海滩、阿尔库德拉湖（附近）。"
+      },
+      {
+        "City_Name": "Abu Dhabi",
+        "Historical_Landmarks": "谢赫扎耶德大清真寺、阿布扎比卢浮宫博物馆、酋长皇宫酒店。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈雷斯、马克布斯、卢凯马特。",
+        "Green_Spaces": "阿布扎比滨海大道、首都花园、亚斯岛（绿色区域）、杰贝尔哈菲特山。"
+      },
+      {
+        "City_Name": "Umm Al Quwain",
+        "Historical_Landmarks": "梦幻水上乐园、阿尔辛尼亚岛、老城。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "哈雷斯、马克布斯、卢凯马特。",
+        "Green_Spaces": "乌姆盖万海滩、阿尔卡尔姆地区（红树林）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ecuador",
+    " Cities": [
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "老城（世界遗产）、赤道线（世界中心）、皮钦查火山。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "酸橘汁腌鱼、洛克罗·德·帕帕（土豆汤）、弗里塔达。",
+        "Green_Spaces": "大都会公园、周围的安第斯山脉、基多山谷。"
+      },
+      {
+        "City_Name": "Guayaquil",
+        "Historical_Landmarks": "滨海大道2000（木板路）、拉斯佩尼亚斯社区、伊瓜纳公园。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "酸橘汁腌鱼、洛克罗·德·帕帕、阿罗斯·孔·萨尔萨。",
+        "Green_Spaces": "艾玛·巴尔梅索公园、沿海地区。"
+      },
+      {
+        "City_Name": "Tena",
+        "Historical_Landmarks": "奥姆纳公园、米萨瓦利河、亚马逊森林。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "酸橘汁腌鱼、洛克罗·德·帕帕。",
+        "Green_Spaces": "奥姆纳公园（雨林）、米萨瓦利河。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ireland",
+    " Cities": [
+      {
+        "City_Name": "Dublin",
+        "Historical_Landmarks": "都柏林城堡、三一学院（图书馆）、圣帕特里克大教堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "爱尔兰炖菜、科尔卡农（土豆泥）、苏打面包。",
+        "Green_Spaces": "圣斯蒂芬绿地、鲍尔斯考特花园（附近）。"
+      },
+      {
+        "City_Name": "Cork",
+        "Historical_Landmarks": "英国市场、圣芬巴尔大教堂、科克市监狱。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "爱尔兰炖菜、科尔卡农。",
+        "Green_Spaces": "菲茨杰拉德公园、利河、沿海地区。"
+      },
+      {
+        "City_Name": "Galway",
+        "Historical_Landmarks": "西班牙拱门、艾尔广场、邓圭尔城堡（附近）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "爱尔兰炖菜、科尔卡农。",
+        "Green_Spaces": "中央公园、戈尔韦湾海滨和克莱尔郡自然。"
+      },
+      {
+        "City_Name": "Athlone",
+        "Historical_Landmarks": "阿斯隆城堡、圣彼得和保罗教堂、老桥。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "爱尔兰炖菜、科尔卡农。",
+        "Green_Spaces": "里湖、阿斯隆城堡（河景）。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Iceland",
+    " Cities": [
+      {
+        "City_Name": "Reykjavik",
+        "Historical_Landmarks": "哈尔格林姆斯教堂、珍珠楼、老雷克雅未克港、蓝湖（附近）。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "汉吉基奥特（熏羊肉）、斯凯尔（酸奶）、新鲜鱼。",
+        "Green_Spaces": "地热公园、城市花园、沿海风光。"
+      },
+      {
+        "City_Name": "Seyðisfjörður",
+        "Historical_Landmarks": "色彩缤纷的建筑、艺术博物馆、古富斯瀑布。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "汉吉基奥特、斯凯尔。",
+        "Green_Spaces": "北极光（夜景）、东部峡湾。"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ethiopia",
+    " Cities": [
+      {
+        "City_Name": "Addis Ababa",
+        "Historical_Landmarks": "国家博物馆、圣三一大教堂、孟尼利克二世宫。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "因杰拉（海绵面包）、瓦特（辣炖）、蒂布斯（炸肉）、多罗瓦特（鸡肉炖）。",
+        "Green_Spaces": "团结公园、恩托托山（全景）。"
+      },
+      {
+        "City_Name": "Lalibela",
+        "Historical_Landmarks": "拉利贝拉岩石教堂（世界遗产）、贝特·吉奥尔吉斯教堂。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "因杰拉、瓦特、蒂布斯。",
+        "Green_Spaces": "教堂周围的岩层、高地。"
+      },
+      {
+        "City_Name": "Axum",
+        "Historical_Landmarks": "方尖碑（大方尖碑）、方尖碑公园、示巴女王宫。",
+        " Tourist_Activities": "",
+        "Local_Cuisine": "因杰拉、瓦特。",
+        "Green_Spaces": "广阔的考古区、山地景观。"
+      }
+    ]
+  }
+]

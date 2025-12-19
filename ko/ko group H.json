@@ -1,0 +1,1318 @@
+[
+  {
+    "Country_Name": "Gabon",
+    "Cities": [
+      {
+        "City_Name": "Libreville",
+        "Historical_Landmarks": "나무 기둥이 조각된 성 미카엘 교회, 현대적인 양식의 대통령 궁전.",
+        "Tourist_Activities": "태평양 산책로를 따라 산책, 가봉 예술 및 전통 박물관 방문, 북적이는 몬부이트 시장에서 쇼핑.",
+        "Local_Cuisine": "삶은 플랜테인과 함께 니엠부이(팜 소스에 닭긴), 해변에서 신선한 구운 생선.",
+        "Green_Spaces": "시내의 본숭 작은 공원(본숭), 도시의 외딴 해변."
+      },
+      {
+        "City_Name": "Port-Gentil",
+        "Historical_Landmarks": "성 루이 대성당, 식민지 시대 도시 중심부.",
+        "Tourist_Activities": "루멩이 해변 즐기기, 돌고래 관찰 투어, 대서양 낚시.",
+        "Local_Cuisine": "신선한 굴과 양념한 게, 튀긴 카사바 팬케이크.",
+        "Green_Spaces": "도시 주변의 맹그로브 숲, 오구오이 만."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Cities": [
+      {
+        "City_Name": "Antananarivo",
+        "Historical_Landmarks": "로바 궁전(왕실 궁전 단지), 독립 거리(아베뉘 드 린뎅빵스).",
+        "Tourist_Activities": "여왕의 궁전(로바) 탐험, 조마 시장 방문, 아노시 호수 주변 산책.",
+        "Local_Cuisine": "로마자바(육류와 채소 스튜), 라피토토(카사바 잎 스튜).",
+        "Green_Spaces": "가까운 거리에 있는 레머 공원, 짐바자자 공원."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bahrain",
+    "Cities": [
+      {
+        "City_Name": "Manama",
+        "Historical_Landmarks": "바레인 게이트, 바레인 국립 박물관, 알파테 그랜드 모스크, 베이트 알쿠란.",
+        "Tourist_Activities": "오래된 마나마 수크를 거닐다, 박물관 방문, 코니쉬 즐기기.",
+        "Local_Cuisine": "마브스, 바레인 디저트, 무타바크, 마마르.",
+        "Green_Spaces": "알아마나 공원, 알파테 코니쉬, 바레인 베이 공원."
+      },
+      {
+        "City_Name": "Muharraq",
+        "Historical_Landmarks": "셰이크 이사 빈 알리 하우스, 부 마허 요새, 진주 도로(세계유산).",
+        "Tourist_Activities": "진주 채굴 역사 탐험, 박물관 방문, 오래된 골목길 산책.",
+        "Local_Cuisine": "라카크 빵, 베르니우쉬(전통 생선 요리), 신선한 해산물.",
+        "Green_Spaces": "알코르니치 알하드 공원, 무하라크 해변."
+      },
+      {
+        "City_Name": "Riffa",
+        "Historical_Landmarks": "리파 요새(셰이크 살만 빈 아흐메드 알파테), 아스카르 역사 마을.",
+        "Tourist_Activities": "역사적인 요새 방문, 로열 클럽에서 골프 치기.",
+        "Local_Cuisine": "생선 무타바크, 쿤프로쉬(튀긴 단것).",
+        "Green_Spaces": "아인 아다리 공원, 대추야자 농장, 로열 골프 클럽."
+      },
+      {
+        "City_Name": "Isa Town",
+        "Historical_Landmarks": "바레인 국립 경기장, 주요 모스크.",
+        "Tourist_Activities": "인기 시장에서 쇼핑, 스포츠 이벤트 참석.",
+        "Local_Cuisine": "발라리트(달콤한 국수), 이쉬 알마슈쿨.",
+        "Green_Spaces": "이사 타운 그랜드 공원."
+      },
+      {
+        "City_Name": "Zallaq",
+        "Historical_Landmarks": "바레인 국제 서킷, 바레인 타워.",
+        "Tourist_Activities": "포뮬러 1 경기 참석, 알자지라 해변에서 휴식.",
+        "Local_Cuisine": "알카비사(단 요리), 해산물.",
+        "Green_Spaces": "알자지라 해변, 해안 공원."
+      },
+      {
+        "City_Name": "Sitra",
+        "Historical_Landmarks": "시트라 다리, 오래된 집, 알카미스 모스크.",
+        "Tourist_Activities": "낚시, 현지 시장 방문, 섬에서 산책.",
+        "Local_Cuisine": "알마라쿠크(반죽과 육수), 구운 사피 생선.",
+        "Green_Spaces": "시트라 코니쉬, 해안 농장."
+      },
+      {
+        "City_Name": "Al Hadd",
+        "Historical_Landmarks": "브루나이 자동차 박물관, 바레인 게이트.",
+        "Tourist_Activities": "자동차 박물관 방문, 코니쉬 즐기기.",
+        "Local_Cuisine": "구운 고기, 해산물.",
+        "Green_Spaces": "알 하드 코니쉬 공원, 해변."
+      },
+      {
+        "City_Name": "Al Juffair",
+        "Historical_Landmarks": "바레인 시티 센터, 주파이어 타워.",
+        "Tourist_Activities": "고급 쇼핑, 고급 레스토랑에서 식사.",
+        "Local_Cuisine": "국제 요리, 차가운 음료.",
+        "Green_Spaces": "주파이어 정원, 코니쉬."
+      },
+      {
+        "City_Name": "Al Badie",
+        "Historical_Landmarks": "바레인 국제 전시 센터, 알 바디 게이트.",
+        "Tourist_Activities": "전시회 및 컨퍼런스 방문, 농부 시장에서 쇼핑.",
+        "Local_Cuisine": "신선한 대추, 천연 주스.",
+        "Green_Spaces": "대추야자 농장, 농부 시장(녹지 공간)."
+      },
+      {
+        "City_Name": "Ali",
+        "Historical_Landmarks": "대추야자 농장, 오래된 모스크.",
+        "Tourist_Activities": "농장 방문, 시골 생활 탐험.",
+        "Local_Cuisine": "대추, 대추 제품.",
+        "Green_Spaces": "광활한 대추야자 농장, 계곡."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bangladesh",
+    "Cities": [
+      {
+        "City_Name": "Dhaka",
+        "Historical_Landmarks": "랄바그 요새, 16개 돔 모스크, 국립 의사당(루이스 칸 설계).",
+        "Tourist_Activities": "릭샤 타기, 박물관 방문, 다카 시장에서 산책.",
+        "Local_Cuisine": "일리쉬 마치(힐사 생선 카레), 다카 비리야니, 베타(절인 채소).",
+        "Green_Spaces": "람나 공원, 단몬디 호수."
+      },
+      {
+        "City_Name": "Chittagong",
+        "Historical_Landmarks": "제2차 세계대전 묘지, 하즈라트 비비 마리암 성소.",
+        "Tourist_Activities": "전쟁 묘지 방문, 치타공 언덕 탐험, 카르나풀리 강에서 보트 여행.",
+        "Local_Cuisine": "미간(매운 고기 카레), 쇼트키(말린 생선), 새우 카레.",
+        "Green_Spaces": "포이 호수, 치타공 언덕."
+      },
+      {
+        "City_Name": "Cox's Bazar",
+        "Historical_Landmarks": "세계에서 가장 긴 자연 모래 해변, 아잔타 불교 사원.",
+        "Tourist_Activities": "해변에서 휴식, 보트 여행, 불교 사원 방문.",
+        "Local_Cuisine": "새우 카레, 신선한 해산물, 양념된 매콤한 밥.",
+        "Green_Spaces": "콕스 바자르 해변, 힘사리 폭포, 메히 언덕."
+      },
+      {
+        "City_Name": "Sylhet",
+        "Historical_Landmarks": "하즈라트 샤 자랄 성소, 자파르 정원.",
+        "Tourist_Activities": "차 농장 방문, 수르마 강에서 보트 여행.",
+        "Local_Cuisine": "네파 고기 카레, 실헤티 쌀, 베타.",
+        "Green_Spaces": "차 농장, 라타르굴 습지, 라와르카라 숲."
+      },
+      {
+        "City_Name": "Kulna",
+        "Historical_Landmarks": "칸 자한 알리 궁전, 칸 자한 무덤.",
+        "Tourist_Activities": "역사적인 궁전 방문, 순다르반에서 강 사파리 여행.",
+        "Local_Cuisine": "자이언트 새우 카레, 튀긴 빵(루비).",
+        "Green_Spaces": "룹사 강, 근처 순다르반 숲."
+      },
+      {
+        "City_Name": "Rajshahi",
+        "Historical_Landmarks": "보티야 라지 바리 궁전, 라지샤히 박물관.",
+        "Tourist_Activities": "비단 구매, 박물관 방문, 파드마 강둑을 따라 산책.",
+        "Local_Cuisine": "라지샤히 디저트, 랑가파츠(달콤한 쌀 요리).",
+        "Green_Spaces": "발루 바그 공원, 파드마 강둑."
+      },
+      {
+        "City_Name": "Bogra",
+        "Historical_Landmarks": "마하스탄자라(역사 유적), 고고학 박물관.",
+        "Tourist_Activities": "고고학 유적지 방문, 고대 방글라데시 역사 탐험.",
+        "Local_Cuisine": "도이(달콤한 요거트), 염소 고기 카레.",
+        "Green_Spaces": "푸른 시골 지역."
+      },
+      {
+        "City_Name": "Parisal",
+        "Historical_Landmarks": "부창게르 요새, 다키 모스크.",
+        "Tourist_Activities": "떠다니는 구아바 시장 투어, 갠지스 삼각주에서 보트 여행.",
+        "Local_Cuisine": "짭짤한 일리쉬 마치 카레, 갠지스 삼각주 채소.",
+        "Green_Spaces": "떠다니는 구아바 시장, 갠지스 삼각주 강."
+      },
+      {
+        "City_Name": "Rangamati",
+        "Historical_Landmarks": "로즈바기 궁전, 부족 박물관.",
+        "Tourist_Activities": "카프타이 호수 투어, 현수교 방문, 부족 생활 탐험.",
+        "Local_Cuisine": "대나무 닭(대나무에서 요리한 닭고기), 현지 부족 요리.",
+        "Green_Spaces": "카프타이 호수, 현수교, 랑가마티 언덕."
+      },
+      {
+        "City_Name": "Komila",
+        "Historical_Landmarks": "마인-마티 불교 유적, 셀반 피하라 여관.",
+        "Tourist_Activities": "불교 고고학 유적지 방문, 지역 역사 탐험.",
+        "Local_Cuisine": "라스 말라이(연유 디저트), 코밀라 쌀.",
+        "Green_Spaces": "코밀라 군사 공원."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Bhutan",
+    "Cities": [
+      {
+        "City_Name": "Thimphu",
+        "Historical_Landmarks": "부다 도르덴마 동상, 팀부 종, 총우체국.",
+        "Tourist_Activities": "사원 방문, 우표 구매, 전통 무용 관람.",
+        "Local_Cuisine": "에마 닷시(매운 고추와 치즈), 모모(소를 넣은 만두).",
+        "Green_Spaces": "타킨 보호구역, 팀부 국립공원."
+      },
+      {
+        "City_Name": "Paro",
+        "Historical_Landmarks": "독수리 둥지(락상), 린붕 종, 국립 박물관.",
+        "Tourist_Activities": "독수리 둥지 등반, 박물관 방문, 파로 계곡에서 산책.",
+        "Local_Cuisine": "박샤 바(베이컨과 후추), 달콤한 차.",
+        "Green_Spaces": "파로 계곡, 파로 언덕."
+      },
+      {
+        "City_Name": "Bumthang",
+        "Historical_Landmarks": "붐탕 종(요새), 시미 라콩(다산 사원).",
+        "Tourist_Activities": "요새 방문, 현수교 건너기, 강 래프팅.",
+        "Local_Cuisine": "자우(달콤한 쌀), 혼치(가정 요리).",
+        "Green_Spaces": "모추와 보추 강의 합류 지점, 현수교."
+      },
+      {
+        "City_Name": "Bumthang (Jakar)",
+        "Historical_Landmarks": "자카르 종 궁전, 오래된 사원, 담발라 라캉.",
+        "Tourist_Activities": "현지 축제 참석, 치즈 공장 방문.",
+        "Local_Cuisine": "야크 버거, 붐탕 스위스 치즈.",
+        "Green_Spaces": "비옥한 붐탕 계곡, 메밀 농장."
+      },
+      {
+        "City_Name": "Phuntsholing",
+        "Historical_Landmarks": "부탄 게이트, 국경 시장.",
+        "Tourist_Activities": "국경 쇼핑, 푼촐링 자연 공원 방문.",
+        "Local_Cuisine": "스위스 도넛, 인도 음식.",
+        "Green_Spaces": "푼촐링 자연 공원."
+      },
+      {
+        "City_Name": "Gangkha (Phobjiika)",
+        "Historical_Landmarks": "강카 사원, 포브지카 마을.",
+        "Tourist_Activities": "목덜미 검은 두루미 관찰, 장거리 하이킹.",
+        "Local_Cuisine": "에마 닷시, 모모.",
+        "Green_Spaces": "포브지카 계곡, 새 통로."
+      },
+      {
+        "City_Name": "Trongsa",
+        "Historical_Landmarks": "트롱사 종(가장 큰 요새), 박물관 타워.",
+        "Tourist_Activities": "요새 방문, 산악 통로 탐험.",
+        "Local_Cuisine": "샤발라(고기 소를 넣은 페이스트리).",
+        "Green_Spaces": "산악 통로, 계곡."
+      },
+      {
+        "City_Name": "Mongar",
+        "Historical_Landmarks": "몽가르 종.",
+        "Tourist_Activities": "굽이진 산길 즐기기, 현지 시장 방문.",
+        "Local_Cuisine": "신선한 몽가르 레모네이드, 에마 닷시.",
+        "Green_Spaces": "동부 산악 경치."
+      },
+      {
+        "City_Name": "Trashigang",
+        "Historical_Landmarks": "트라시강 종.",
+        "Tourist_Activities": "종 방문, 부족 생활 탐험.",
+        "Local_Cuisine": "현지 부족 요리, 생강차.",
+        "Green_Spaces": "캄리 강, 동부 부탄 숲."
+      },
+      {
+        "City_Name": "Samdrup Jongkhar",
+        "Historical_Landmarks": "용풀라 공항, 폭포.",
+        "Tourist_Activities": "세계에서 가장 높은 공항 방문, 열대우림 탐험.",
+        "Local_Cuisine": "현지 음식, 인도 요리.",
+        "Green_Spaces": "열대우림, 폭포."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Saudi Arabia",
+    "Cities": [
+      {
+        "City_Name": "Riyadh",
+        "Historical_Landmarks": "킹덤 타워, 킹 압둘라 파이낸셜 디스트릭트, 알투리프 지구(알디리야), 자연사 박물관.",
+        "Tourist_Activities": "디리야 방문, 아라비아 몰 쇼핑, 리야드 시즌.",
+        "Local_Cuisine": "캅사, 자리쉬, 쿠르산, 무타바크.",
+        "Green_Spaces": "킹 압둘라 공원, 와디 하니파."
+      },
+      {
+        "City_Name": "Jeddah",
+        "Historical_Landmarks": "역사적인 지다(알발라드), 킹 파드 분수, 알라흐마 모스크, 킹 파드 연구 센터.",
+        "Tourist_Activities": "역사적인 지다 산책, 코니쉬, 홍해 다이빙.",
+        "Local_Cuisine": "사야디야(생선과 함께하는 쌀), 알마브슈르, 헤자지 생선.",
+        "Green_Spaces": "지다 코니쉬, 홍해 몰 해변."
+      },
+      {
+        "City_Name": "Mecca",
+        "Historical_Landmarks": "알마스지드 알하람, 자발 알누르, 히라 동굴, 자발 아라파트, 부르 알바이트.",
+        "Tourist_Activities": "움라 수행, 종교 유적지 방문.",
+        "Local_Cuisine": "파톳(메카 빵), 만투와 야그마쉬, 캅사.",
+        "Green_Spaces": "알샤라이야 공원."
+      },
+      {
+        "City_Name": "Medina",
+        "Historical_Landmarks": "알마스지드 안나바위, 쿠바 모스크, 자발 우후드, 쿠바 요새.",
+        "Tourist_Activities": "예언자의 모스크, 쿠바 모스크, 알아크 시장 방문.",
+        "Local_Cuisine": "알메디니(고기와 쌀 요리), 아즈와 대추.",
+        "Green_Spaces": "자발 우후드, 알아크 공원."
+      },
+      {
+        "City_Name": "Dammam",
+        "Historical_Landmarks": "담맴 지역 박물관, 킹 압둘아지즈 세계 문화 센터(이트라), 담맴 코니쉬.",
+        "Tourist_Activities": "이트라 방문, 쇼핑몰 쇼핑, 코니쉬에서 휴식.",
+        "Local_Cuisine": "홉시 걸프, 즐베디 무타바크, 구운 생선.",
+        "Green_Spaces": "담맴 코니쉬, 킹 파드 공원."
+      },
+      {
+        "City_Name": "Abha",
+        "Historical_Landmarks": "리잘 알마 유산 마을, 샴산 성, 알소다 공원.",
+        "Tourist_Activities": "리잘 알마 방문, 알소다로 가는 케이블카, 산 탐험.",
+        "Local_Cuisine": "알아리카, 남부 하니드, 아시다.",
+        "Green_Spaces": "알소다 공원, 다라 산, 아시르 산."
+      },
+      {
+        "City_Name": "Taif",
+        "Historical_Landmarks": "슈브라 역사 궁전, 우카즈 시장, 알하다와 알시파.",
+        "Tourist_Activities": "장미 농장 방문, 우카즈 시장, 알하다와 알시파에서 휴식.",
+        "Local_Cuisine": "캅리 알타이피, 타이프 장미 물, 바클라바.",
+        "Green_Spaces": "알하다와 알시파(산악 지역), 장미 농장."
+      },
+      {
+        "City_Name": "Tabuk",
+        "Historical_Landmarks": "타부크 역사 성, 헤자즈 철도, 와디 알디사.",
+        "Tourist_Activities": "와디 알디사 방문, 헤자즈 철도 역사 탐험.",
+        "Local_Cuisine": "샤락 빵, 마프루카, 만디.",
+        "Green_Spaces": "와디 알디사, 하스마 산."
+      },
+      {
+        "City_Name": "Hail",
+        "Historical_Landmarks": "아이르프 성, 주바 암각화, 아자즈와 살마 산.",
+        "Tourist_Activities": "산 방문, 암각화 탐험.",
+        "Local_Cuisine": "알타쉬리브(빵 육수), 하리스, 자리쉬.",
+        "Green_Spaces": "아자즈와 살마 산, 알마그와 공원."
+      },
+      {
+        "City_Name": "Najran",
+        "Historical_Landmarks": "나즈란 에미르 궁전, 알아다그 요새, 나즈란 고고학 유적.",
+        "Tourist_Activities": "역사적인 궁전 방문, 고고학 유적 탐험.",
+        "Local_Cuisine": "알라즈비(요거트와 함께하는 쌀), 리카이마트, 마프루카.",
+        "Green_Spaces": "나즈란 계곡, 나즈란 산."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Qatar",
+    "Cities": [
+      {
+        "City_Name": "Doha",
+        "Historical_Landmarks": "이슬람 미술 박물관, 수크 와키프, 더 펄 카타르, 카타르 국립 컨벤션 센터.",
+        "Tourist_Activities": "수크 와키프 쇼핑, 박물관 방문, 코니쉬에서 보트 여행.",
+        "Local_Cuisine": "알마드루바, 타리드, 마브스, 무타바크.",
+        "Green_Spaces": "도하 코니쉬, 알바디아 공원, 아사일."
+      },
+      {
+        "City_Name": "Al Wakrah",
+        "Historical_Landmarks": "오래된 알와크라 시장, 알자누브 스타디움, 알와크라 요새.",
+        "Tourist_Activities": "오래된 시장 방문, 해변에서 휴식.",
+        "Local_Cuisine": "카타리 캅사, 하수(대추와 세몰리나 요리).",
+        "Green_Spaces": "알와크라 가족 해변."
+      },
+      {
+        "City_Name": "Al Khor",
+        "Historical_Landmarks": "알코르 요새, 알코르 그랜드 모스크.",
+        "Tourist_Activities": "요새 방문, 알코르 맹그로브 탐험.",
+        "Local_Cuisine": "카타리 마흐쉬, 구운 생선.",
+        "Green_Spaces": "알다키라의 알코르 맹그로브 숲, 알코르 코니쉬."
+      },
+      {
+        "City_Name": "Mesiad",
+        "Historical_Landmarks": "메시아드 항구, 셀린 리조트.",
+        "Tourist_Activities": "셀린 캠핑, 내해(코르 알나디르) 방문.",
+        "Local_Cuisine": "전통 베두인 요리, 아라비아 차.",
+        "Green_Spaces": "셀린(사구), 코르 알나디르(내해)."
+      },
+      {
+        "City_Name": "Al Rayyan",
+        "Historical_Landmarks": "교육 시티, 카타르 국립 도서관, 알라이언 스포츠 센터.",
+        "Tourist_Activities": "교육 시티 방문, 카타르 몰 쇼핑.",
+        "Local_Cuisine": "라카크 빵, 아라비아 커피.",
+        "Green_Spaces": "알라이언 공원."
+      },
+      {
+        "City_Name": "Al Shamal",
+        "Historical_Landmarks": "알주바라 요새(세계유산), 알루와이스 요새.",
+        "Tourist_Activities": "알주바라 요새 방문, 해변에서 휴식.",
+        "Local_Cuisine": "현지 생선 캅사, 해산물.",
+        "Green_Spaces": "알루와이스 해변."
+      },
+      {
+        "City_Name": "Dukhan",
+        "Historical_Landmarks": "두칸 고고학 박물관, 두칸 모스크.",
+        "Tourist_Activities": "박물관 방문, 서부 해변에서 휴식.",
+        "Local_Cuisine": "서부 해산물 요리, 무타바크.",
+        "Green_Spaces": "두칸 해변."
+      },
+      {
+        "City_Name": "Lusail",
+        "Historical_Landmarks": "루사일 스타디움, 루사일 마리나 워크, 플라스 방돔.",
+        "Tourist_Activities": "플라스 방돔 쇼핑, 마리나 산책.",
+        "Local_Cuisine": "화려한 루사일 디저트, 국제 요리.",
+        "Green_Spaces": "루사일의 현대 공원."
+      },
+      {
+        "City_Name": "Um Salal",
+        "Historical_Landmarks": "바르잔 타워(역사적), 움살랄 스포츠 클럽.",
+        "Tourist_Activities": "바르잔 타워 방문.",
+        "Local_Cuisine": "루카이마트(튀긴 단것), 무타바크.",
+        "Green_Spaces": "움살랄 공원 알리."
+      },
+      {
+        "City_Name": "Al Daayen",
+        "Historical_Landmarks": "루사일 타워(건축물), 카타르 승마 클럽.",
+        "Tourist_Activities": "승마 클럽 방문, 현대 도시 탐험.",
+        "Local_Cuisine": "알마라쿠크, 캅사.",
+        "Green_Spaces": "알다옌 공원."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Cities": [
+      {
+        "City_Name": "Kyiv",
+        "Historical_Landmarks": "키예프 페체르스크 라브라, 성 소피아 대성당, 독립 광장, 황금 문, 우크라이나 국립 역사 박물관.",
+        "Tourist_Activities": "정교회 건축 탐험, 예술 및 문화 투어.",
+        "Local_Cuisine": "보르슈치(비트 수프), 바레니키(소를 넣은 만두), 코틀레타(버거), 홀루브치(소를 넣은 양배추), 피로즈키(구운 고기 페이스트리).",
+        "Green_Spaces": "마린스키 공원, 글로비츠키 공원, 비도코비치 공원."
+      },
+      {
+        "City_Name": "Kharkiv",
+        "Historical_Landmarks": "프리덤 광장, 고르키 공원, 수탄 대성당, 미술 박물관.",
+        "Tourist_Activities": "큰 광장 산책, 박물관 및 극장 방문.",
+        "Local_Cuisine": "보르슈치, 바레니키.",
+        "Green_Spaces": "중앙 고르키 공원, 셰우첸코 공원."
+      },
+      {
+        "City_Name": "Odessa",
+        "Historical_Landmarks": "오데사 국립 오페라 하우스, 포템킨 계단, 데리바소프스카야 거리.",
+        "Tourist_Activities": "흑해 해안 관광, 극장 공연 참석.",
+        "Local_Cuisine": "살로(채소와 다진 고기 샐러드), 블라친(파이).",
+        "Green_Spaces": "히어로즈 공원, 셰우첸코 공원."
+      },
+      {
+        "City_Name": "Lviv",
+        "Historical_Landmarks": "리녹 광장, 리비우 오페라 하우스, 하이 캐슬 언덕.",
+        "Tourist_Activities": "구시가지(세계유산) 탐험, 현지 커피와 초콜릿 맛보기.",
+        "Local_Cuisine": "보르슈치.",
+        "Green_Spaces": "리차키브스키 공원, 스티르스키 공원."
+      },
+      {
+        "City_Name": "Dnipro",
+        "Historical_Landmarks": "코니쉬, 우주 박물관, 수도원 섬, 드니프로 강.",
+        "Tourist_Activities": "드니프로 강둑 산책, 우크라이나 우주 역사 탐험.",
+        "Local_Cuisine": "보르슈치.",
+        "Green_Spaces": "라자르 글로브, 수도원 해변."
+      },
+      {
+        "City_Name": "Donetsk",
+        "Historical_Landmarks": "포르슈치코바 공원, 돈바스 아레나, 미술 박물관.",
+        "Tourist_Activities": "박물관과 공원 방문(보안 상황에 따라 다름).",
+        "Local_Cuisine": "보르슈치.",
+        "Green_Spaces": "포르슈치코바 공원, 시리메토프 공원."
+      },
+      {
+        "City_Name": "Sevastopol",
+        "Historical_Landmarks": "크리미아 반도, 세바스토폴 파노라마, 흑해 박물관.",
+        "Tourist_Activities": "해양 역사 탐험.",
+        "Local_Cuisine": "보르슈치.",
+        "Green_Spaces": "아크로폴리스 공원, 오피고르 해변."
+      },
+      {
+        "City_Name": "Zaporozhye",
+        "Historical_Landmarks": "호르티차 섬, 자포로제 카자크 박물관.",
+        "Tourist_Activities": "카자크 주변 역사 투어, 강 자연 탐험.",
+        "Local_Cuisine": "보르슈치.",
+        "Green_Spaces": "호르티차 섬 자연 보호구역, 두비아 공원."
+      },
+      {
+        "City_Name": "Mykolaiv",
+        "Historical_Landmarks": "미콜라이프 천문대, 조선 및 해양 박물관.",
+        "Tourist_Activities": "과학 및 역사 유적지 방문.",
+        "Local_Cuisine": "보르슈치.",
+        "Green_Spaces": "베르쇼프스키 공원, 히어로즈 공원."
+      },
+      {
+        "City_Name": "Korsun",
+        "Historical_Landmarks": "올가 공주 목욕탕 공원, 전략 미사일 단지.",
+        "Tourist_Activities": "역사 및 군사 유적지 탐험.",
+        "Local_Cuisine": "보르슈치.",
+        "Green_Spaces": "올가 공주 목욕탕 공원."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eritrea",
+    "Cities": [
+      {
+        "City_Name": "Asmara",
+        "Historical_Landmarks": "성 요셉 대성당, 제국 극장, 이탈리아 총독 궁전, 모더니스트(아르데코) 건물, 아스마라 국립 박물관.",
+        "Tourist_Activities": "아르데코 건축(세계유산) 탐험, 국립 박물관 방문, 이탈리아 카페 산책.",
+        "Local_Cuisine": "지그니(고기 스튜), 인제라(해면빵), 가아트(곡물 죽), 티가비자.",
+        "Green_Spaces": "마리아 공원, 나무가 늘어선 아스마라 거리."
+      },
+      {
+        "City_Name": "Massawa",
+        "Historical_Landmarks": "역사적인 마사와 항구, 구시가지, 오스만 및 이집트 유적.",
+        "Tourist_Activities": "역사적인 해안 건축 탐험, 홍해 다이빙.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "모래 해변, 주변 섬."
+      },
+      {
+        "City_Name": "Keren",
+        "Historical_Landmarks": "낙타 시장, 비젠 요새, 마리암 셰나 성소, 구시가지.",
+        "Tourist_Activities": "전통 시장 방문, 종교 유적지 탐험.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "해안을 둘러싼 산, 해변."
+      },
+      {
+        "City_Name": "Dekemhare",
+        "Historical_Landmarks": "이탈리아 식민지 건축, 데켐하레 시장.",
+        "Tourist_Activities": "고원의 이탈리아 유적 탐험.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "산 경치, 주변 농장."
+      },
+      {
+        "City_Name": "Adi Keih",
+        "Historical_Landmarks": "고고학 유적, 아디 케이히 박물관.",
+        "Tourist_Activities": "고고학 유적지 방문, 마을 탐험.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "주변 언덕과 계곡."
+      },
+      {
+        "City_Name": "Tsni",
+        "Historical_Landmarks": "츠니 강, 국경 도시.",
+        "Tourist_Activities": "서부 지역 탐험.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "츠니 강변, 사바나."
+      },
+      {
+        "City_Name": "Qanda",
+        "Historical_Landmarks": "해안 마을, 홍해 해변.",
+        "Tourist_Activities": "해변 관광 및 낚시.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "해변, 산호 섬."
+      },
+      {
+        "City_Name": "Agordat",
+        "Historical_Landmarks": "중앙 시장, 역사적인 군사 유적지.",
+        "Tourist_Activities": "현지 시장 거닐기.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "농경지, 언덕."
+      },
+      {
+        "City_Name": "Mendefera",
+        "Historical_Landmarks": "고대 고고학 유적(마타라).",
+        "Tourist_Activities": "유적 탐험.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "바위 언덕, 고고학 유적지."
+      },
+      {
+        "City_Name": "Barentu",
+        "Historical_Landmarks": "광산 도시, 평야 지역.",
+        "Tourist_Activities": "자연 지역 방문.",
+        "Local_Cuisine": "지그니, 인제라.",
+        "Green_Spaces": "평야, 농경지."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Spain",
+    "Cities": [
+      {
+        "City_Name": "Madrid",
+        "Historical_Landmarks": "왕궁, 프라도 박물관, 마요르 광장, 푸에르타 델 솔, 레티로 공원.",
+        "Tourist_Activities": "예술 및 문화 투어, 그란 비아 쇼핑, 타파스 시식, 축구 경기 관람.",
+        "Local_Cuisine": "파에야, 타파스, 가스파초, 스페인 토르티야(감자 오믈렛), 초리소(매운 소시지).",
+        "Green_Spaces": "레티로 공원, 카사 데 캄포 공원, 후안 카를로스 1세 공원."
+      },
+      {
+        "City_Name": "Barcelona",
+        "Historical_Landmarks": "사그라다 파밀리아, 고딕 쿼터, 파르크 구엘, 라 람블라, 카사 바틀로.",
+        "Tourist_Activities": "가우디의 작품 탐험, 해변 관광, 오래된 거리 산책.",
+        "Local_Cuisine": "피데우스, 판 콘 토마테, 크레마 카탈라나.",
+        "Green_Spaces": "파르크 구엘, 시우타델라 공원, 몬주익 공원."
+      },
+      {
+        "City_Name": "Seville",
+        "Historical_Landmarks": "세비야 알카사르, 세비야 대성당, 에스파냐 광장, 산타 크루즈 지구.",
+        "Tourist_Activities": "플라멩코 쇼, 안달루시아 건축 탐험, 역사 투어.",
+        "Local_Cuisine": "발렌시아 파에야(특별 버전), 피카디요.",
+        "Green_Spaces": "마리아 루이사 공원, 메리타 공원."
+      },
+      {
+        "City_Name": "Valencia",
+        "Historical_Landmarks": "예술 과학 도시, 중앙 시장, 발렌시아 대성당, 발렌시아 항구.",
+        "Tourist_Activities": "미래적인 도시 방문, 진정한 파에야 시식, 지중해 해안 즐기기.",
+        "Local_Cuisine": "오리지널 파에야, 파바다(콩 수프), 초리소.",
+        "Green_Spaces": "투리아 정원, 중앙 발렌시아 공원."
+      },
+      {
+        "City_Name": "Malaga",
+        "Historical_Landmarks": "알카사바 요새, 치바르 요새, 피카소 박물관, 말부르고 항구.",
+        "Tourist_Activities": "코스타 델 솔 해안 관광, 미술 박물관 방문.",
+        "Local_Cuisine": "비야(구운 고기 슬라이스), 부케레케스(튀긴 멸치).",
+        "Green_Spaces": "중앙 말라가 공원, 몬테스 공원."
+      },
+      {
+        "City_Name": "Córdoba",
+        "Historical_Landmarks": "대 모스크(메스키타), 기독교 왕들의 궁전, 유대인 구역.",
+        "Tourist_Activities": "이슬람 및 기독교 유산 탐험, 파티오 축제(파티오스) 참석.",
+        "Local_Cuisine": "살라무리고, 폴리토.",
+        "Green_Spaces": "파라다이스 정원, 빅토리아 공원."
+      },
+      {
+        "City_Name": "Granada",
+        "Historical_Landmarks": "알함브라 궁전, 헤네랄리페, 알바이신 지구.",
+        "Tourist_Activities": "안달루시아 궁전 탐험, 알바이신에서 일몰 감상.",
+        "Local_Cuisine": "파타타스 아 로 포브레, 레모홍 그라나디노.",
+        "Green_Spaces": "헤네랄리페, 카르멘 데 로스 마르티레스 공원."
+      },
+      {
+        "City_Name": "Bilbao",
+        "Historical_Landmarks": "구겐하임 박물관, 카스코 비에호(구시가지), 주비주리 다리.",
+        "Tourist_Activities": "현대 건축 투어, 핀토스(바스크 타파스) 시식.",
+        "Local_Cuisine": "핀토스, 빌바오 스타일 바칼라오(대구).",
+        "Green_Spaces": "두이나 카실다 공원, 이브로알데 공원."
+      },
+      {
+        "City_Name": "Alicante",
+        "Historical_Landmarks": "산타 바르바라 성, 에스파냐 해변, 산타 크루즈 지구.",
+        "Tourist_Activities": "해변 즐기기, 항구에서 쇼핑 및 오락.",
+        "Local_Cuisine": "아로스 아 반다, 투론(아몬드 디저트).",
+        "Green_Spaces": "카냐리차스 공원, 엘 팔마르 공원."
+      },
+      {
+        "City_Name": "Las Palmas (Canary Islands)",
+        "Historical_Landmarks": "테이데 화산, 라스 칸테라스 해변, 콜럼버스 하우스, 도로 공원.",
+        "Tourist_Activities": "지질 및 화산 관광, 유네스코 유산지 탐험.",
+        "Local_Cuisine": "파파스 아루가다스(주름진 감자), 모호(소스).",
+        "Green_Spaces": "도로 공원, 테리토르 공원."
+      },
+      {
+        "City_Name": "Marbella",
+        "Historical_Landmarks": "바누스 항구, 플라야 데 라 포즈 해변, 구시가지, 녹지 정원.",
+        "Tourist_Activities": "고급 해변 관광, 쇼핑, 온화한 기후 즐기기.",
+        "Local_Cuisine": "파에야, 타파스.",
+        "Green_Spaces": "보호 공원, 알폰소 공원."
+      },
+      {
+        "City_Name": "Toledo",
+        "Historical_Landmarks": "톨레도 대성당, 유대교 회당, 알카사르 궁전, 산 마르틴 다리.",
+        "Tourist_Activities": "공유된 종교 및 문화 유산 탐험.",
+        "Local_Cuisine": "카르모사, 마르차파네(아몬드 디저트).",
+        "Green_Spaces": "파도 공원, 타구스 강둑."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Estonia",
+    "Cities": [
+      {
+        "City_Name": "Tallinn",
+        "Historical_Landmarks": "구시가지(세계유산), 툼페아 성, 처녀 탑, 성 올라프 교회.",
+        "Tourist_Activities": "중세 시대 탐험, 미술 박물관 투어, 수공예품 시장 쇼핑.",
+        "Local_Cuisine": "베리보스트(혈액 소시지), 라이마이스(검은 호밀빵), 실라브(청어), 물기 캅사드(시큼한 양배추).",
+        "Green_Spaces": "카드리오르그 공원, 탈린 식물원."
+      },
+      {
+        "City_Name": "Tartu",
+        "Historical_Landmarks": "타르투 대학교, 키스(키스) 다리, 과학 박물관.",
+        "Tourist_Activities": "교육 및 문화 센터 방문, 신고전주의 건축 탐험.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "토후바라 공원, 에마요기 강둑."
+      },
+      {
+        "City_Name": "Pärnu",
+        "Historical_Landmarks": "패르누 해변, 건강 리조트, 현대 미술 센터.",
+        "Tourist_Activities": "해안 관광, '여름의 수도' 칭호 즐기기.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "패르누 공원, 모래 해변."
+      },
+      {
+        "City_Name": "Narva",
+        "Historical_Landmarks": "나르바 성(헤르만 성), 나르바 강, 오래된 소비에트 지구.",
+        "Tourist_Activities": "국경 지역 탐험, 역사적인 성 방문.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "헤르만 공원, 나르바 강둑."
+      },
+      {
+        "City_Name": "Kütla Järve",
+        "Historical_Landmarks": "퀴틀라 예르베 셰일 오일 박물관, 소비에트 시대 도시 중심부.",
+        "Tourist_Activities": "산업 및 역사 유산 탐험.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "중앙 공원."
+      },
+      {
+        "City_Name": "Viljandi",
+        "Historical_Landmarks": "빌란디 성, 호수.",
+        "Tourist_Activities": "빌란디 민속 축제 참석, 보트 타기.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "빌란디 성 공원, 호수둑."
+      },
+      {
+        "City_Name": "Saaremaa",
+        "Historical_Landmarks": "쿠리사르 주교 성, 칼리 운석장.",
+        "Tourist_Activities": "에스토니아 섬 탐험, 희귀한 지질학적 유적지 방문.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "빌란디 국립공원, 바위 해안."
+      },
+      {
+        "City_Name": "Sillamäe",
+        "Historical_Landmarks": "스탈린주의 건축, 해변.",
+        "Tourist_Activities": "계획된 소비에트 건축 탐험.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "실라매 해변, 모스크바 공원."
+      },
+      {
+        "City_Name": "Rakvere",
+        "Historical_Landmarks": "라크베레 성, 베이스베르크 공원.",
+        "Tourist_Activities": "폐허가 된 성과 고고학 유적지 방문.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "베이스베르크 공원."
+      },
+      {
+        "City_Name": "Valga",
+        "Historical_Landmarks": "발가 성(폐허), 발가 박물관.",
+        "Tourist_Activities": "현지 역사 및 시골 생활 탐험.",
+        "Local_Cuisine": "베리보스트, 라이마이스, 실라브.",
+        "Green_Spaces": "발가 공원, 가우야 강둑."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Eswatini",
+    "Cities": [
+      {
+        "City_Name": "Mabane",
+        "Historical_Landmarks": "스와질랜드 국립 박물관, 므리바 자연 공원, 현지 시장.",
+        "Tourist_Activities": "문화와 전통 탐험, 시장 방문.",
+        "Local_Cuisine": "시자마보(옥수수 죽), 잉코(고기 스튜), 임빌라(땅콩 스튜), 시포포.",
+        "Green_Spaces": "므리바 자연 공원."
+      },
+      {
+        "City_Name": "Manzini",
+        "Historical_Landmarks": "노천 시장, 만지니 수공예 센터.",
+        "Tourist_Activities": "수공예품 쇼핑, 두 번째로 큰 도시에서 산책.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "만지니 중앙 공원."
+      },
+      {
+        "City_Name": "Lobamba",
+        "Historical_Landmarks": "왕궁, 국립 박물관, 흘란 왕립 국립공원.",
+        "Tourist_Activities": "왕실 및 입법 센터 방문, 사파리 여행 및 야생 동물 관찰.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "흘란 왕립 국립공원."
+      },
+      {
+        "City_Name": "Big Bend",
+        "Historical_Landmarks": "사탕수수 농장, 그레이트 스와질랜드 강.",
+        "Tourist_Activities": "농업 관광, 강 래프팅.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "사탕수수 농장, 강둑."
+      },
+      {
+        "City_Name": "Sihui",
+        "Historical_Landmarks": "산업 단지, 무역 센터.",
+        "Tourist_Activities": "산업 지역 탐험.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "주변 시골 지역."
+      },
+      {
+        "City_Name": "Big Boy",
+        "Historical_Landmarks": "자연 보호구역, 산 경치.",
+        "Tourist_Activities": "장거리 하이킹, 에코 관광.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "자연 보호구역, 산."
+      },
+      {
+        "City_Name": "Sitikila",
+        "Historical_Landmarks": "시티킬라 박물관, 시골 지역.",
+        "Tourist_Activities": "현지 유산 탐험.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "시골 지역, 언덕."
+      },
+      {
+        "City_Name": "Mhlokoe",
+        "Historical_Landmarks": "므카야 보호구역(야생 동물), 보호 관광.",
+        "Tourist_Activities": "야생 동물과 코뿔소 관찰, 사파리 여행.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "므카야 보호구역."
+      },
+      {
+        "City_Name": "Sekoya",
+        "Historical_Landmarks": "전통 마을, 문화 센터.",
+        "Tourist_Activities": "스와지 문화 배우기.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "주변 전통 마을."
+      },
+      {
+        "City_Name": "Lobatsi",
+        "Historical_Landmarks": "다이아몬드 채굴 지역, 고원.",
+        "Tourist_Activities": "지리 및 채굴 탐험.",
+        "Local_Cuisine": "시자마보, 잉코, 임빌라.",
+        "Green_Spaces": "고원, 산 경치."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Indonesia",
+    "Cities": [
+      {
+        "City_Name": "Jakarta",
+        "Historical_Landmarks": "국립 기념물(모나스), 타만 미니 인도네시아 인다 공원, 자카르타 역사 박물관.",
+        "Tourist_Activities": "대도시 탐험, 박물관 방문.",
+        "Local_Cuisine": "나시 고렝(볶음밥), 사테(구운 고기 꼬치), 가도 가도(땅콩 소스 샐러드), 소토(수프).",
+        "Green_Spaces": "타만 미니 인도네시아 인다 공원, 메르데카 공원."
+      },
+      {
+        "City_Name": "Surabaya",
+        "Historical_Landmarks": "수라 다리, 독립 모스크, 해양 박물관.",
+        "Tourist_Activities": "두 번째로 큰 도시에서 산책, 국가 역사와 독립 전쟁 탐험, 쇼핑.",
+        "Local_Cuisine": "나시 고렝, 사테, 가도 가도.",
+        "Green_Spaces": "봉콜 공원, 삼부 공원."
+      },
+      {
+        "City_Name": "Medan",
+        "Historical_Landmarks": "그레이트 마디야 모스크, 마에문 궁전, 토바 호수(도시 근처).",
+        "Tourist_Activities": "역사적인 궁전 방문, 북수마트라 탐험.",
+        "Local_Cuisine": "나시 고렝, 사테, 가도 가도.",
+        "Green_Spaces": "토바 호수."
+      },
+      {
+        "City_Name": "Makassar",
+        "Historical_Landmarks": "로테르담 요새, 로사리 해변, 프린스 압둘라 모스크.",
+        "Tourist_Activities": "해양 및 무역 역사 탐험, 해안 관광.",
+        "Local_Cuisine": "나시 고렝, 사테, 가도 가도.",
+        "Green_Spaces": "아카리아 공원, 로사리 해변."
+      },
+      {
+        "City_Name": "Semarang",
+        "Historical_Landmarks": "삼 보 공 사원, 구시가지, 그레이트 중앙 자바 모스크.",
+        "Tourist_Activities": "역사적인 사원 방문, 중국-인도네시아 건축 탐험.",
+        "Local_Cuisine": "나시 고렝, 사테, 가도 가도.",
+        "Green_Spaces": "워터 파크, 타만 부디 공원."
+      },
+      {
+        "City_Name": "Bokor (Buncheak)",
+        "Historical_Landmarks": "사파리 동물원, 꽃 정원, 일곱 폭포.",
+        "Tourist_Activities": "차 정원 방문, 자연 관광.",
+        "Local_Cuisine": "나시 고렝, 사테, 가도 가도.",
+        "Green_Spaces": "꽃 정원, 폭포, 차 농장."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Italy",
+    "Cities": [
+      {
+        "City_Name": "Rome",
+        "Historical_Landmarks": "콜로세움, 트레비 분수, 바티칸, 판테온, 로마 포럼, 바티칸 박물관.",
+        "Tourist_Activities": "로마 유적 탐험, 독립 국가(바티칸) 방문, 아이스크림 맛보기.",
+        "Local_Cuisine": "카르보나라 파스타, 로마나 피자, 살팀보치, 아란치니.",
+        "Green_Spaces": "빌라 보르게세 공원, 오렌지 공원."
+      },
+      {
+        "City_Name": "Florence",
+        "Historical_Landmarks": "피렌체 대성당(두오모), 베키오 다리, 우피치 갤러리, 피티 궁전.",
+        "Tourist_Activities": "예술 및 역사 투어(르네상스 수도), 가죽 시장 쇼핑.",
+        "Local_Cuisine": "비스테카 알라 피오렌티나(스테이크), 리볼리타, 조토.",
+        "Green_Spaces": "보볼리 정원, 보볼리 정원, 바르디니 정원."
+      },
+      {
+        "City_Name": "Venice (Venezia)",
+        "Historical_Landmarks": "성 마르코 광장, 리알토 다리, 도지 궁전, 베네치아 운하.",
+        "Tourist_Activities": "곤돌라 타기, 섬 탐험, 역사적인 랜드마크 방문.",
+        "Local_Cuisine": "사르데 인 사오르, 비골리 인 소스.",
+        "Green_Spaces": "파파도폴리 정원, 산 조르지오 마조레 섬."
+      },
+      {
+        "City_Name": "Milan",
+        "Historical_Landmarks": "밀라노 대성당(두오모), 갈레리아 비토리오 에마누엘레 2세, 라 스칼라 극장, 스포르체스코 성.",
+        "Tourist_Activities": "세계적인 쇼핑(패션 수도), 오페라 공연 참석.",
+        "Local_Cuisine": "밀라노 리소토, 코톨레타 밀라네세, 오소부코.",
+        "Green_Spaces": "셈피오네 공원, 몬테 스텔라 공원."
+      },
+      {
+        "City_Name": "Naples",
+        "Historical_Landmarks": "나폴리 역사 중심부, 산 카를로 극장, 국립 고고학 박물관, 베수비오(도시 근처).",
+        "Tourist_Activities": "피자의 발상지 탐험, 폼페이와 헤르쿨라네움 방문.",
+        "Local_Cuisine": "오리지널 나폴리 피자, 라구와 함께하는 파스타, 바바(디저트), 리소토.",
+        "Green_Spaces": "빌라 플로리디아나 공원, 카포디몬테 공원."
+      },
+      {
+        "City_Name": "Bologna",
+        "Historical_Landmarks": "마조레 광장, 두 타워, 산 페트로니오 교회.",
+        "Tourist_Activities": "미식 투어(미식의 수도), 역사적인 아케이드 탐험.",
+        "Local_Cuisine": "볼로네제 라구, 육수에 있는 토르텔리니, 라자냐.",
+        "Green_Spaces": "몬타뇰라 공원, 마르가리타 공원."
+      },
+      {
+        "City_Name": "Genoa",
+        "Historical_Landmarks": "오래된 제노바 항구, 도지 궁전, 해양 박물관, 가리발디 거리(세계유산).",
+        "Tourist_Activities": "리구리아 항구 탐험, 세계유산지 방문.",
+        "Local_Cuisine": "제노바 페스토, 파리나타, 포카치아.",
+        "Green_Spaces": "빌라 두라초 팔라비치니 공원, 네리 공원."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Argentina",
+    "Cities": [
+      {
+        "City_Name": "Buenos Aires",
+        "Historical_Landmarks": "카사 로사다(대통령 궁전), 레콜레타(묘지), 라 보카 지구, 콜론 극장, 푸에르토 마데로.",
+        "Tourist_Activities": "탱고 쇼 참석, 역사적인 동네 투어, 스트리트 아트 탐험.",
+        "Local_Cuisine": "아사도(구운 고기), 엠파나다스, 둘세 데 레체, 밀라네사.",
+        "Green_Spaces": "트레스 데 페브레로 공원, 센테너리얼 공원."
+      },
+      {
+        "City_Name": "Cordoba",
+        "Historical_Landmarks": "예수회 블록(세계유산), 코르도바 대성당, 사르미네토 박물관.",
+        "Tourist_Activities": "종교 및 역사 유적지 탐험, 대학 관광.",
+        "Local_Cuisine": "아사도, 엠파나다스, 둘세 데 레체.",
+        "Green_Spaces": "사르미네토 공원, 산 마르틴 공원."
+      },
+      {
+        "City_Name": "Rosario",
+        "Historical_Landmarks": "국립 깃발 기념물, 오로니오 대로, 라 플로리다 비치 파크, 파라나 강.",
+        "Tourist_Activities": "파라나 강둑 산책, 미술 박물관 방문.",
+        "Local_Cuisine": "아사도, 엠파나다스, 둘세 데 레체.",
+        "Green_Spaces": "라 플로리다 비치 파크, 인데펜덴시아 공원."
+      },
+      {
+        "City_Name": "Mendoza",
+        "Historical_Landmarks": "산 마르틴 장군 공원, 아콩카과 산, 포도원(와인 지역), 독립 광장.",
+        "Tourist_Activities": "포도원 탐험 및 와인 시음, 안데스 산에서 모험.",
+        "Local_Cuisine": "아사도, 엠파나다스, 둘세 데 레체.",
+        "Green_Spaces": "산 마르틴 장군 공원, 포도원."
+      },
+      {
+        "City_Name": "San Carlos de Bariloche",
+        "Historical_Landmarks": "나우엘 우아피 호수, 세로 캄파나리오 케이블카, 세로 카테드랄 스키 리조트, 파타고니아 박물관.",
+        "Tourist_Activities": "겨울 스포츠, 파타고니아 모험 관광.",
+        "Local_Cuisine": "아사도, 엠파나다스, 둘세 데 레체.",
+        "Green_Spaces": "나우엘 우아피 호수, 나우엘 우아피 국립공원."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Jordan",
+    "Cities": [
+      {
+        "City_Name": "Amman",
+        "Historical_Landmarks": "로마 원형극장, 시타델 언덕, 요르단 박물관, 왕립 자동차 박물관, 시티 몰, 다운타운, 알후리야트 거리.",
+        "Tourist_Activities": "다운타운 산책, 박물관 방문, 쇼핑, 사해와 페트라로의 여행.",
+        "Local_Cuisine": "만사프(국민 요리), 마클루바, 라슈프(콩과 요거트 수프), 쿠나파, 자라브(모래 아래에 묻힌 고기).",
+        "Green_Spaces": "킹 후세인 공원, 레드 마운틴 공원."
+      },
+      {
+        "City_Name": "Petra",
+        "Historical_Landmarks": "알 시크, 재무고, 수도원, 주랑 거리, 자라 무덤, 법정.",
+        "Tourist_Activities": "장미색 돌 도시 탐험, 알 시크를 통한 장거리 하이킹.",
+        "Local_Cuisine": "만사프, 마클루바.",
+        "Green_Spaces": "와디 무사, 주변 사막 지역."
+      },
+      {
+        "City_Name": "Irbid",
+        "Historical_Landmarks": "이르비드 고고학 텔, 다르 알사라야 박물관, 야르무크 대학교.",
+        "Tourist_Activities": "박물관 및 유산지 방문, 움 카이스 근접, 티베리아스 호수와 야르무크 강 전망.",
+        "Local_Cuisine": "만사프, 라슈프.",
+        "Green_Spaces": "셰이크 하산 공원, 시골 지역."
+      },
+      {
+        "City_Name": "Aqaba",
+        "Historical_Landmarks": "아카바 맘루크 성, 아카바 고고학 박물관, 탈라 베이 해변, 홍해.",
+        "Tourist_Activities": "홍해에서 스노클링 및 다이빙, 해안 도시 탐험.",
+        "Local_Cuisine": "만사프, 생선.",
+        "Green_Spaces": "아카바 공원, 다나 보호구역(예정)."
+      },
+      {
+        "City_Name": "Jerash",
+        "Historical_Landmarks": "하드리아누스 아치, 오발 광장, 남부 제라시 극장, 주랑 거리.",
+        "Tourist_Activities": "보존된 로마 유적지 방문.",
+        "Local_Cuisine": "만사프, 마클루바.",
+        "Green_Spaces": "유적지 주변 녹지."
+      },
+      {
+        "City_Name": "Al Salt",
+        "Historical_Landmarks": "알 함마마트 거리, 알에이자리야 하우스, 알솔트 역사 박물관, 오스만 건축.",
+        "Tourist_Activities": "오스만 건축 탐험, 유산 관광(유네스코 세계유산).",
+        "Local_Cuisine": "만사프, 라슈프.",
+        "Green_Spaces": "알솔트 공원, 산악 지역."
+      },
+      {
+        "City_Name": "Umm Qais",
+        "Historical_Landmarks": "로마 유적, 서쪽 극장, 티베리아스 호수와 야르무크 강 전망.",
+        "Tourist_Activities": "역사 투어, 국경 경치 감상.",
+        "Local_Cuisine": "만사프, 마클루바.",
+        "Green_Spaces": "움 카이스 고고학 공원."
+      }
+    ]
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    "Cities": [
+      {
+        "City_Name": "Dubai",
+        "Historical_Landmarks": "부르즈 할리파, 부르즈 알 아랍, 두바이 몰, 미래 박물관, 팜 주메이라(인공 섬), 두바이 워터 캐널.",
+        "Tourist_Activities": "세계적인 쇼핑, 사막 사파리, 인공 섬 방문, 현대 오락, 현대 건축 탐험.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트(디저트), 카미르 빵, 발라리트.",
+        "Green_Spaces": "두바이 사파리 공원, 마슈레프 공원, 자벨."
+      },
+      {
+        "City_Name": "Abu Dhabi",
+        "Historical_Landmarks": "셰이크 자예드 그랜드 모스크, 알 와탄 궁전, 루브르 아부다비, 관광 섬, 아부다비 코니쉬, 페라리 월드.",
+        "Tourist_Activities": "문화 및 종교 관광, 예술 센터 방문, 가족 오락.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "알 칼리지 공원, 야스 섬, 알 아마나 공원."
+      },
+      {
+        "City_Name": "Sharjah",
+        "Historical_Landmarks": "샤르자 이슬람 문명 박물관, 샤르자 하트, 에미리트 오브 더 아이.",
+        "Tourist_Activities": "예술 및 문화 박물관 방문, 오래된 유산 탐험.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "칼리드 공원, 알 마자즈 공원."
+      },
+      {
+        "City_Name": "Ajman",
+        "Historical_Landmarks": "아지만 요새, 아지만 코니쉬, 아만 박물관.",
+        "Tourist_Activities": "해변 즐기기, 박물관 방문.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "아만 공원, 코니쉬."
+      },
+      {
+        "City_Name": "Ras Al Khaimah",
+        "Historical_Landmarks": "제벨 자이스(UAE 최고봉), 라스 알카이마 국립 박물관.",
+        "Tourist_Activities": "산악 등반 모험, 지프라인 스키.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "사드 공원, 와디 하이."
+      },
+      {
+        "City_Name": "Fujairah",
+        "Historical_Landmarks": "푸자이라 요새, 알 바디야 모스크, 오만 만의 해변.",
+        "Tourist_Activities": "다이빙 및 스노클링, 산악 관광.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "푸자이라 공원, 와디 우리아."
+      },
+      {
+        "City_Name": "Umm Al Quwain",
+        "Historical_Landmarks": "드림랜드 수상 공원, 시니아 섬, 오래된 요새.",
+        "Tourist_Activities": "수상 오락, 새와 야생 동물 관찰.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "드림랜드 공원, 시니아 섬."
+      },
+      {
+        "City_Name": "Khor Fakkan",
+        "Historical_Landmarks": "코르 파칸 해변, 리파 댐, 샤크 섬.",
+        "Tourist_Activities": "산악 및 해안 관광, 리파 댐 방문.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "코르 파칸 공원, 해변."
+      },
+      {
+        "City_Name": "Diba Al Husan",
+        "Historical_Landmarks": "디바 항구, 해변, 생선 시장.",
+        "Tourist_Activities": "현지 시장 및 해양 활동 방문.",
+        "Local_Cuisine": "하리스, 마브스, 루카이마트.",
+        "Green_Spaces": "해변, 산악 지역."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ecuador",
+    "Cities": [
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "구시가지(세계유산), 적도선(미타드 델 문도), 라 콤파냐 교회, 카론데레 궁전.",
+        "Tourist_Activities": "고원 탐험, 식민지 시대 랜드마크 방문, 적도선 탐험.",
+        "Local_Cuisine": "세비체(해산물), 로크로 데 파파(감자 수프), 오르나도(구운 돼지고기), 엠파나다스(페이스트리).",
+        "Green_Spaces": "라 카롤리나 공원, 에코 공원."
+      },
+      {
+        "City_Name": "Guayaquil",
+        "Historical_Landmarks": "말레콘 2000, 라스 페냐스 지구, 이구아나 공원, 산타 아나 언덕.",
+        "Tourist_Activities": "강둑 산책, 역사적인 계단 오르기.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "시몬 볼리바르 공원, 말레콘 2000."
+      },
+      {
+        "City_Name": "Quito",
+        "Historical_Landmarks": "구시가지(세계유산), 키토 대성당, 꽃 시장.",
+        "Tourist_Activities": "식민지 시대 건축 탐험, 파나모자 구매.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "칼데론 공원, 톰팜바 강둑."
+      },
+      {
+        "City_Name": "Galápagos",
+        "Historical_Landmarks": "독특한 야생 동물(거대한 거북), 시에라 네그라 화산, 다윈 연구 센터.",
+        "Tourist_Activities": "야생 동물 관찰, 다이빙 및 스노클링, 섬 탐험.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "국립공원, 자연 보호구역."
+      },
+      {
+        "City_Name": "Umbita",
+        "Historical_Landmarks": "산봉우리, 주간 시장.",
+        "Tourist_Activities": "산에서 장거리 하이킹, 움비타 시장(목요일) 쇼핑.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "산, 계곡."
+      },
+      {
+        "City_Name": "Riobamba",
+        "Historical_Landmarks": "침보라소 화산(태양에 가장 가까운), 악마의 기차.",
+        "Tourist_Activities": "산악 등반, 기차 여행.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "침보라소 국립공원."
+      },
+      {
+        "City_Name": "Loja",
+        "Historical_Landmarks": "보카르바 국립공원, 필팜바 계곡(도시 근처), 로하 박물관.",
+        "Tourist_Activities": "국립공원 방문, 남부 지역 탐험.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "보카르바 국립공원."
+      },
+      {
+        "City_Name": "Portoviejo",
+        "Historical_Landmarks": "포르토비에호 박물관, 중앙 공원.",
+        "Tourist_Activities": "마나비 지역 탐험.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "해변, 공원."
+      },
+      {
+        "City_Name": "Tena",
+        "Historical_Landmarks": "오니마 공원, 미사쿠일리 강, 열대우림.",
+        "Tourist_Activities": "열대우림 관광, 아마존에서 보트 타기.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "오니마 공원, 열대우림."
+      },
+      {
+        "City_Name": "Puerto Villamil (Galápagos)",
+        "Historical_Landmarks": "거북이 번식 센터, 시에라 네그라 화산, 갈라파고스 해변.",
+        "Tourist_Activities": "갈라파고스 섬 탐험, 독특한 야생 동물 보기.",
+        "Local_Cuisine": "세비체, 로크로 데 파파, 오르나도, 엠파나다스.",
+        "Green_Spaces": "국립공원, 자연 보호구역."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ireland",
+    "Cities": [
+      {
+        "City_Name": "Dublin",
+        "Historical_Landmarks": "더블린 성, 트리니티 칼리지, 기네스 스토어하우스, 피닉스 공원, 그래프턴 스트리트.",
+        "Tourist_Activities": "문화 및 문학 투어, 역사적인 펍 방문, 공원 탐험.",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌(매시드 포테이토), 소다 브레드.",
+        "Green_Spaces": "피닉스 공원, 세인트 스티븐스 그린."
+      },
+      {
+        "City_Name": "Cork",
+        "Historical_Landmarks": "코크 잉글리시 마켓, 핀바르 성, 피츠제럴드 공원.",
+        "Tourist_Activities": "현지 시장 방문, 리 강의 도시 탐험.",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌, 소다 브레드.",
+        "Green_Spaces": "피츠제럴드 공원, 더 하우스 공원."
+      },
+      {
+        "City_Name": "Galway",
+        "Historical_Landmarks": "스페인 광장, 시티 아치, 골웨이 시티 박물관.",
+        "Tourist_Activities": "축제 참석, 골웨이 만 해안 관광.",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌, 소다 브레드.",
+        "Green_Spaces": "에이리스 공원, 실버 비치."
+      },
+      {
+        "City_Name": "Limerick",
+        "Historical_Landmarks": "킹 존 성, 세인트 존 더 뱁티스트 성, 헌트 박물관.",
+        "Tourist_Activities": "성과 박물관 방문, 섀넌 강을 따라 산책.",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌, 소다 브레드.",
+        "Green_Spaces": "피플스 공원, 버나드 공원."
+      },
+      {
+        "City_Name": "Kilkerry",
+        "Historical_Landmarks": "킬케리 성, 세인트 케니스 성, 스미스 유산 센터.",
+        "Tourist_Activities": "킬케리 예술 축제(4월-10월) 참석.",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌, 소다 브레드.",
+        "Green_Spaces": "킬케리 성 공원, 노어 강."
+      },
+      {
+        "City_Name": "Waterford",
+        "Historical_Landmarks": "레지날드 타워, 워터포드 트레져스 박물관, 바이킹 쿼터.",
+        "Tourist_Activities": "바이킹 유산 탐험, 워터포드 크리스털 공장 방문.",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌, 소다 브레드.",
+        "Green_Spaces": "워터포드 공원, 트라모어 비치."
+      },
+      {
+        "City_Name": "Sligo",
+        "Historical_Landmarks": "벤벌벤 산, 슬라이고 수도원, 윌리엄 버틀러 예이츠 박물관.",
+        "Tourist_Activities": "주변 경치 탐험, 문학 투어(예이츠 유산).",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌, 소다 브레드.",
+        "Green_Spaces": "가르판 공원, 레크 길."
+      },
+      {
+        "City_Name": "Athlone",
+        "Historical_Landmarks": "애슬론 성, 섀넌 강, 아일랜드에서 가장 오래된 펍.",
+        "Tourist_Activities": "역사 및 문화 유적지 탐험, 주변 지역 탐험을 위한 편리한 기지.",
+        "Local_Cuisine": "아이리시 스튜, 콜캐넌, 소다 브레드.",
+        "Green_Spaces": "애슬론 공원, 섀넌 강둑."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Iceland",
+    "Cities": [
+      {
+        "City_Name": "Reykjavik",
+        "Historical_Landmarks":회프디 홀, 할그림스키르크야 교회, 블루 라군(온천 호수).",
+        "Tourist_Activities": "오로라 보레알리스 관찰, 고래 관찰 투어, 골든 서클 탐험, 역사 및 바이킹 박물관 방문.",
+        "Local_Cuisine": "한기쇠트(훈제 양고기), 스키르(요거트), KFC(생선 샌드위치).",
+        "Green_Spaces": "라우가르달루르 공원, 비데이 섬."
+      },
+      {
+        "City_Name": "Akureyri",
+        "Historical_Landmarks": "아쿠레이리 식물원, 아쿠레이리 교회.",
+        "Tourist_Activities": "북부 아이슬란드 탐험, 미술 박물관 방문.",
+        "Local_Cuisine": "한기쇠트, 스키르.",
+        "Green_Spaces": "아쿠레이리 식물원, 바들라헤이다르."
+      },
+      {
+        "City_Name": "Keflavik",
+        "Historical_Landmarks": "바이킹 박물관, 대륙 사이의 다리, 블루 라군 근접.",
+        "Tourist_Activities": "온천 관광, 해양 역사 탐험.",
+        "Local_Cuisine": "한기쇠트, 스키르.",
+        "Green_Spaces": "케플라비크 공원, 블루 라군 비치."
+      },
+      {
+        "City_Name": "Hvamm",
+        "Historical_Landmarks": "바트나외쿨 국립공원, 빙하 경치.",
+        "Tourist_Activities": "빙하 투어, 빙산 탐험, 현지 해산물 맛보기.",
+        "Local_Cuisine": "한기쇠트, 스키르.",
+        "Green_Spaces": "바트나외쿨 국립공원, 외쿨살라운 호수."
+      },
+      {
+        "City_Name": "Westman Islands (Vestmannaeyjar)",
+        "Historical_Landmarks": "화산 박물관, 활화산 분화구, 퍼핀 식민지.",
+        "Tourist_Activities": "대서양 횡단 보트 여행, 최근 화산 활동 탐험을 위한 하이킹 트레일.",
+        "Local_Cuisine": "한기쇠트, 스키르.",
+        "Green_Spaces": "엘드펠 산, 회르구다르 공원."
+      },
+      {
+        "City_Name": "Svalnas",
+        "Historical_Landmarks": "반도, 해안 절벽.",
+        "Tourist_Activities": "장거리 걷기, 하얀 모래 해변 탐험.",
+        "Local_Cuisine": "한기쇠트, 스키르.",
+        "Green_Spaces": "레니스피라 비치, 소르니르 화산."
+      },
+      {
+        "City_Name": "Grindavik",
+        "Historical_Landmarks": "자연 온천, 지질학 박물관.",
+        "Tourist_Activities": "자연 욕탕 즐기기.",
+        "Local_Cuisine": "한기쇠트, 스키르.",
+        "Green_Spaces": "그린다비크 공원, 군누헤버 화산."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Ethiopia",
+    "Cities": [
+      {
+        "City_Name": "Addis Ababa",
+        "Historical_Landmarks": "에티오피아 국립 박물관(루시), 성삼위 교회, 엔토토 산, 메르카토 시장.",
+        "Tourist_Activities": "국립 박물관 방문, 시장 투어, 역사 유적지 탐험.",
+        "Local_Cuisine": "인제라(발효 곡물 납작빵), 왓(스튜), 티브스(튀긴 고기), 도로 왓.",
+        "Green_Spaces": "기히 공원, 엔토토 산."
+      },
+      {
+        "City_Name": "Lalibela",
+        "Historical_Landmarks": "바위로 깎은 교회(세계유산).",
+        "Tourist_Activities": "바위로 깎은 교회(세계 7대 불가사의 중 하나) 방문.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "교회 주변 언덕."
+      },
+      {
+        "City_Name": "Axum",
+        "Historical_Landmarks": "악숌 오벨리스크, 성 마리아 시온 교회, 고대 궁전 유적.",
+        "Tourist_Activities": "고대 악숨 문명 탐험.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "도시 주변 언덕."
+      },
+      {
+        "City_Name": "Gonder",
+        "Historical_Landmarks": "파실 게비(세계유산), 파실 욕장, 데브레 비르한 셀라시에 교회.",
+        "Tourist_Activities": "오래된 왕실 성 방문.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "타나 호수(근처), 공원."
+      },
+      {
+        "City_Name": "Lake Tana",
+        "Historical_Landmarks": "블루 나일 폭포, 타나 호수, 주변 수도원.",
+        "Tourist_Activities": "호수의 역사적인 수도원 방문, 폭포 보기.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "타나 호수, 블루 나일 폭포."
+      },
+      {
+        "City_Name": "Dire Dawa",
+        "Historical_Landmarks": "현지 시장, 오래된 기차역.",
+        "Tourist_Activities": "상업 도시 탐험.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "카피라 공원."
+      },
+      {
+        "City_Name": "Dessie",
+        "Historical_Landmarks": "데시 시장, 주변 산 경치.",
+        "Tourist_Activities": "자연 관광, 지역 시장 쇼핑.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "산 경치."
+      },
+      {
+        "City_Name": "Harar",
+        "Historical_Landmarks": "성벽 도시(세계유산), 림바 하우스, 아르튀르 림보 하우스.",
+        "Tourist_Activities": "고대 이슬람 도시 탐험, 하이에나 먹이주기 관람.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "도시 주변 산."
+      },
+      {
+        "City_Name": "Shashamane",
+        "Historical_Landmarks": "라스타파리안 공동체, 문화 센터.",
+        "Tourist_Activities": "라스타파리안 문화 탐험.",
+        "Local_Cuisine": "인제라, 왓, 티브스.",
+        "Green_Spaces": "주변 시골 지역."
+      }
+    ]
+  }
+]

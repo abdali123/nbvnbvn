@@ -1,0 +1,2710 @@
+[
+  {
+    "Country_Name": "Mauritania",
+    " Cities": [
+        {
+          "City_Name": "Nouakchott",
+          "Historical_Landmarks": "大清真寺，国家博物馆",
+          "Tourist_Activities": "参观港口鱼市，探索当地市场",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "渔民海滩和沿海保护区"
+        },
+        {
+          "City_Name": "Chinguetti",
+          "Historical_Landmarks": "欣盖提古城（联合国教科文组织遗址）",
+          "Tourist_Activities": "探索古代图书馆和手稿，沙漠游猎之旅",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "金色的周围沙漠沙丘"
+        },
+        {
+          "City_Name": "Wad‑an",
+          "Historical_Landmarks": "瓦丹古城（联合国教科文组织遗址），瓦丹图书馆",
+          "Tourist_Activities": "参观古城和堡垒，夜晚在沙漠观星",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "撒哈拉沙漠中心和Adrar高原"
+        },
+        {
+          "City_Name": "Néma",
+          "Historical_Landmarks": "肉类市场，殖民建筑",
+          "Tourist_Activities": "毛里塔尼亚东门和传统市场",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "东部地区的丘陵"
+        },
+        {
+          "City_Name": "Nouadhibou",
+          "Historical_Landmarks": "渔港，努瓦迪布灯塔",
+          "Tourist_Activities": "参观船舶墓地和水上运动，钓鱼",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "布兰克角（努瓦迪布海角）红树林保护区"
+        },
+        {
+          "City_Name": "Tichit",
+          "Historical_Landmarks": "蒂希特古城（联合国教科文组织遗址）",
+          "Tourist_Activities": "在古代石建筑中漫步，探索沙漠",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "偏僻的绿洲"
+        },
+        {
+          "City_Name": "Atar",
+          "Historical_Landmarks": "阿塔尔堡垒，每周市场",
+          "Tourist_Activities": "沙漠探险基地，山地探索",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "棕榈绿洲和岩石山脉"
+        },
+        {
+          "City_Name": "Rosso",
+          "Historical_Landmarks": "罗索老城，中央市场",
+          "Tourist_Activities": "塞内加尔河渡轮旅行，观鸟",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "塞内加尔河的绿色河岸"
+        },
+        {
+          "City_Name": "Kiehidi",
+          "Historical_Landmarks": "周围的村庄，河岸",
+          "Tourist_Activities": "了解多样的河岸文化，看传统农业",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "肥沃的洪泛平原土地"
+        },
+        {
+          "City_Name": "Lake Arkein",
+          "Historical_Landmarks": "阿尔金湖国家保护区",
+          "Tourist_Activities": "观看候鸟（联合国教科文组织遗址），摄影",
+          "Local_Cuisine": "古斯米，maro和hake（米饭和鱼），mansha（羊肉），sherbet al‑zarq，bulgaman",
+          "Green_Spaces": "阿尔金湖国家保护区（沙漠-海洋交界处）"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Mauritius",
+      " Cities": [
+        {
+          "City_Name": "Port Louis",
+          "Historical_Landmarks": "时尚博物馆，中央市场",
+          "Tourist_Activities": "在科登海滨购物，参观博物馆",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "著名的庞普勒穆斯植物园"
+        },
+        {
+          "City_Name": "Grand Baie",
+          "Historical_Landmarks": "卡普马洛里教堂",
+          "Tourist_Activities": "帆船运动，水上运动和夜生活",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "公共拉科维特海滩"
+        },
+        {
+          "City_Name": "Flic en Flac",
+          "Historical_Landmarks": "弗利克恩弗拉克灯塔",
+          "Tourist_Activities": "潜水和与海豚游泳",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "珊瑚礁和长长的海滩"
+        },
+        {
+          "City_Name": "Le Morne",
+          "Historical_Landmarks": "勒莫恩布拉班山",
+          "Tourist_Activities": "攀登勒莫恩布拉班（联合国教科文组织）",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "勒莫恩半岛和周围景观"
+        },
+        {
+          "City_Name": "Bel Ombre",
+          "Historical_Landmarks": "贝尔翁布雷度假村",
+          "Tourist_Activities": "游猎旅行和豪华高尔夫",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "弗雷德里卡自然保护区"
+        },
+        {
+          "City_Name": "Chamarel",
+          "Historical_Landmarks": "七色土，夏马尔瀑布",
+          "Tourist_Activities": "参观七色土和朗姆酒工厂",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "夏马尔瀑布和彩色土地公园"
+        },
+        {
+          "City_Name": "Mahébourg",
+          "Historical_Landmarks": "马埃堡海事博物馆",
+          "Tourist_Activities": "参观海事博物馆和当地市场",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "蓝湾海洋公园"
+        },
+        {
+          "City_Name": "Tamatave",
+          "Historical_Landmarks": "塔马塔夫瀑布",
+          "Tourist_Activities": "冲浪和观看海豚",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "塔马塔夫瀑布和河口"
+        },
+        {
+          "City_Name": "Kouripou",
+          "Historical_Landmarks": "特罗旺或塞尔夫火山口",
+          "Tourist_Activities": "参观船舶模型展览和购物",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "特罗旺或塞尔夫火山口"
+        },
+        {
+          "City_Name": "Black River",
+          "Historical_Landmarks": "黑河峡谷国家公园",
+          "Tourist_Activities": "深海钓鱼",
+          "Local_Cuisine": "达普里，鱼咖喱，炒面（min frites），棕榈沙拉，贝伦门",
+          "Green_Spaces": "黑河峡谷国家公园（雨林）"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Mozambique",
+      " Cities": [
+        {
+          "City_Name": "Maputo",
+          "Historical_Landmarks": "圣塞巴斯蒂安堡垒，圣母无原罪大教堂",
+          "Tourist_Activities": "参观火车站和中央市场",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "通杜鲁植物园"
+        },
+        {
+          "City_Name": "Bazaruto Archipelago",
+          "Historical_Landmarks": "圣保罗遗址",
+          "Tourist_Activities": "浅潜和深潜（顶级目的地）",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "国家海洋公园和阿图姆保护区"
+        },
+        {
+          "City_Name": "Tofo",
+          "Historical_Landmarks": "巴拉多托福灯塔",
+          "Tourist_Activities": "与鲸鲨游泳",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "托福的开放沙滩"
+        },
+        {
+          "City_Name": "Mozambique Island",
+          "Historical_Landmarks": "莫桑比克岛博物馆，圣塞巴斯蒂安堡垒",
+          "Tourist_Activities": "探索殖民历史（联合国教科文组织遗址）",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "岩石海滩和绿松石色水域"
+        },
+        {
+          "City_Name": "Pira",
+          "Historical_Landmarks": "圣保罗大教堂，皮拉灯塔",
+          "Tourist_Activities": "参观灯塔和古老大教堂",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "马库蒂海滩"
+        },
+        {
+          "City_Name": "Vi lankulos",
+          "Historical_Landmarks": "圣安东尼教堂",
+          "Tourist_Activities": "岛屿门户和骑马",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "沿海鸟类保护区"
+        },
+        {
+          "City_Name": "Gorongosa",
+          "Historical_Landmarks": "戈龙戈萨国家公园",
+          "Tourist_Activities": "游猎之旅看狮子和大象",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "戈龙戈萨国家公园（巨大的生态多样性）"
+        },
+        {
+          "City_Name": "Bimba",
+          "Historical_Landmarks": "宾巴丘陵",
+          "Tourist_Activities": "在豪华度假村放松",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "温比海滩和海湾"
+        },
+        {
+          "City_Name": "Kirimbeas Archipelago",
+          "Historical_Landmarks": "传统渔村",
+          "Tourist_Activities": "乘坐传统帆船航行",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "基林比斯国家红树林保护区"
+        },
+        {
+          "City_Name": "Inhambane",
+          "Historical_Landmarks": "棕榈圣母教堂",
+          "Tourist_Activities": "参观历史市场",
+          "Local_Cuisine": "烤佩里佩里虾，matapa（木薯叶），葡萄牙面包（pãozinho），赞比西鸡",
+          "Green_Spaces": "海滨长廊和安静的海湾"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Moldova",
+      " Cities": [
+        {
+          "City_Name": "Chișinău",
+          "Historical_Landmarks": "胜利门，诞生大教堂",
+          "Tourist_Activities": "市中心和大教堂游览",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "中央斯特凡大公公园"
+        },
+        {
+          "City_Name": "Orheiul Vechi",
+          "Historical_Landmarks": "奥尔海伊修道院",
+          "Tourist_Activities": "参观岩石雕刻的修道院建筑群",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "拉措瓦河谷和风景优美的景观"
+        },
+        {
+          "City_Name": "Cricova",
+          "Historical_Landmarks": "葡萄酒博物馆",
+          "Tourist_Activities": "参观最大的地下酒窖",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "城镇周围的葡萄园"
+        },
+        {
+          "City_Name": "Tiraspol",
+          "Historical_Landmarks": "苏联纪念碑，蒂拉斯波尔堡垒",
+          "Tourist_Activities": "体验苏联时代的复古之旅（德涅斯特河沿岸）",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "博比达（胜利）公园和德涅斯特河岸"
+        },
+        {
+          "City_Name": "Suruceni",
+          "Historical_Landmarks": "苏鲁切尼堡垒",
+          "Tourist_Activities": "参观历史悠久的苏鲁切尼堡垒",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "森林和德涅斯特河岸"
+        },
+        {
+          "City_Name": "Mîlcușeni",
+          "Historical_Landmarks": "葡萄酒博物馆",
+          "Tourist_Activities": "参观地下葡萄酒城（吉尼斯世界纪录）",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "被葡萄藤覆盖的山丘"
+        },
+        {
+          "City_Name": "Bender (Tighina)",
+          "Historical_Landmarks": "本德尔堡垒",
+          "Tourist_Activities": "探索古老的奥斯曼堡垒",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "河滨公园"
+        },
+        {
+          "City_Name": "Saharna",
+          "Historical_Landmarks": "萨哈尔纳修道院",
+          "Tourist_Activities": "朝圣至圣三一修道院",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "萨哈尔纳瀑布和周围森林"
+        },
+        {
+          "City_Name": "Tipova",
+          "Historical_Landmarks": "蒂波瓦修道院",
+          "Tourist_Activities": "徒步旅行和参观岩石修道院",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "蒂波瓦自然保护区和瀑布"
+        },
+        {
+          "City_Name": "Gagauzia",
+          "Historical_Landmarks": "加告兹博物馆",
+          "Tourist_Activities": "探索独特的土耳其-基督教文化",
+          "Local_Cuisine": "Mămăligă（玉米粥），sarmale（卷心菜卷），plăcintă（馅饼），zama汤",
+          "Green_Spaces": "南部草原和乡村风光"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Monaco",
+      " Cities": [
+        {
+          "City_Name": "Monte Carlo",
+          "Historical_Landmarks": "蒙特卡洛赌场，歌剧院",
+          "Tourist_Activities": "参观著名赌场和歌剧院",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "宁静的日本花园"
+        },
+        {
+          "City_Name": "Monaco Ville",
+          "Historical_Landmarks": "亲王宫，摩纳哥大教堂",
+          "Tourist_Activities": "参观亲王宫和旧城区",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "俯瞰大海的圣马丁花园"
+        },
+        {
+          "City_Name": "La Condamine",
+          "Historical_Landmarks": "赫拉克勒斯港",
+          "Tourist_Activities": "在赫拉克勒斯港周围漫步看游艇",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "安托瓦内特公主花园（橄榄树）"
+        },
+        {
+          "City_Name": "Fontvieille",
+          "Historical_Landmarks": "路易二世赛道",
+          "Tourist_Activities": "参观汽车博物馆和足球比赛",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "格蕾丝王妃玫瑰园"
+        },
+        {
+          "City_Name": "Larvotto",
+          "Historical_Landmarks": "拉尔沃托博物馆",
+          "Tourist_Activities": "享受公共海滩和俱乐部",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "海洋保护区和沙滩"
+        },
+        {
+          "City_Name": "Jardin Exotique",
+          "Historical_Landmarks": "异国花园",
+          "Tourist_Activities": "探索地下洞穴（天文台洞穴）",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "异国花园（多肉植物）"
+        },
+        {
+          "City_Name": "Monéghetti",
+          "Historical_Landmarks": "莫内盖蒂花园",
+          "Tourist_Activities": "探索北部山区边界",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "俯瞰公国的小径"
+        },
+        {
+          "City_Name": "La Rousse",
+          "Historical_Landmarks": "摩天大楼",
+          "Tourist_Activities": "购物和观赏摩天大楼",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "垂直绿色空间"
+        },
+        {
+          "City_Name": "Monaco Harbor",
+          "Historical_Landmarks": "摩纳哥港",
+          "Tourist_Activities": "参加年度游艇展",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "海滨长廊"
+        },
+        {
+          "City_Name": "Oceanographic Museum",
+          "Historical_Landmarks": "海洋博物馆",
+          "Tourist_Activities": "观看巨大的水族箱",
+          "Local_Cuisine": "Barbagiuan（油炸馅饼），fougasse（甜面包），鳕鱼干，尼斯沙拉",
+          "Green_Spaces": "位于俯瞰大海的岩石悬崖上"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Montenegro (Crna Gora)",
+      " Cities": [
+        {
+          "City_Name": "Kotor",
+          "Historical_Landmarks": "古城墙，圣特里丰大教堂",
+          "Tourist_Activities": "攀登堡垒，漫步古城",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "科托尔湾（天然峡湾）"
+        },
+        {
+          "City_Name": "Budva",
+          "Historical_Landmarks": "古城，布德瓦堡垒",
+          "Tourist_Activities": "夜生活和历史悠久的海滩",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "圣尼古拉岛"
+        },
+        {
+          "City_Name": "Žabljak",
+          "Historical_Landmarks": "莫拉查修道院",
+          "Tourist_Activities": "冬季滑雪，夏季徒步",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "杜米托尔国家公园和黑湖"
+        },
+        {
+          "City_Name": "Perast",
+          "Historical_Landmarks": "岩石圣母教堂",
+          "Tourist_Activities": "乘船前往岩石圣母教堂",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "俯瞰海湾的山景"
+        },
+        {
+          "City_Name": "Herceg Novi",
+          "Historical_Landmarks": "福尔特马雷堡垒",
+          "Tourist_Activities": "参观城堡和无尽楼梯",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "萨维纳公园和卢什蒂察半岛"
+        },
+        {
+          "City_Name": "Ulcinj",
+          "Historical_Landmarks": "乌尔齐尼教堂",
+          "Tourist_Activities": "参观长滩（Velika Plaža）",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "沙什湖和鸟类保护区"
+        },
+        {
+          "City_Name": "Cetinje",
+          "Historical_Landmarks": "采蒂涅修道院",
+          "Tourist_Activities": "参观历史博物馆和旧首都遗址",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "洛夫琴国家公园"
+        },
+        {
+          "City_Name": "Tivat",
+          "Historical_Landmarks": "波尔托黑山",
+          "Tourist_Activities": "航行至豪华码头（波尔托黑山）",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "波尔托黑山（豪华码头）"
+        },
+        {
+          "City_Name": "Bar",
+          "Historical_Landmarks": "圣约万修道院",
+          "Tourist_Activities": "参观历史悠久的修道院和葡萄园",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "巴尔湾和周围海滩"
+        },
+        {
+          "City_Name": "Lake Skadar",
+          "Historical_Landmarks": "维尔帕扎尔修道院",
+          "Tourist_Activities": "乘船游览观鸟",
+          "Local_Cuisine": "帕尔玛火腿（Negroni），黑蛋糕，鱼汤，布雷克",
+          "Green_Spaces": "斯卡达尔湖国家公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Myanmar (Burma)",
+      " Cities": [
+        {
+          "City_Name": "Bagan",
+          "Historical_Landmarks": "阿难陀寺，达玛央吉寺",
+          "Tourist_Activities": "乘坐热气球俯瞰数千座古寺庙",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "蒲甘平原和伊洛瓦底江岸"
+        },
+        {
+          "City_Name": "Yangon",
+          "Historical_Landmarks": "瑞光大金塔，博塔唐市场",
+          "Tourist_Activities": "参观金色的瑞光大金塔",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "甘多基湖和人民公园"
+        },
+        {
+          "City_Name": "Mandalay",
+          "Historical_Landmarks": "曼德勒皇宫，乌本桥",
+          "Tourist_Activities": "参观皇宫和乌本桥",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "曼德勒山和全景风光"
+        },
+        {
+          "City_Name": "Inle Lake",
+          "Historical_Landmarks": "方多宝塔",
+          "Tourist_Activities": "观看传统渔民和浮动花园",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "茵莱湖湿地保护区"
+        },
+        {
+          "City_Name": "Naypyidaw",
+          "Historical_Landmarks": "乌桑达宝塔",
+          "Tourist_Activities": "参观乌桑达宝塔（首都）",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "国家植物园和喷泉公园"
+        },
+        {
+          "City_Name": "Ngapali",
+          "Historical_Landmarks": "纳帕里海滩",
+          "Tourist_Activities": "在原始海滩上放松",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "纳帕里海滩和椰子树"
+        },
+        {
+          "City_Name": "Hpa‑An",
+          "Historical_Landmarks": "萨丹洞穴",
+          "Tourist_Activities": "探索萨丹洞穴和兹韦加宾山",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "稻田和喀斯特山脉"
+        },
+        {
+          "City_Name": "Kyaung",
+          "Historical_Landmarks": "部落村庄",
+          "Tourist_Activities": "在村庄和部落地区之间徒步旅行",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "松林和绿色山丘"
+        },
+        {
+          "City_Name": "Pindaya",
+          "Historical_Landmarks": "宾达亚洞穴",
+          "Tourist_Activities": "乘坐马车和参观瀑布",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "国家植物园（甘多基）"
+        },
+        {
+          "City_Name": "Mawki‑Yo",
+          "Historical_Landmarks": "莫基约寺庙",
+          "Tourist_Activities": "探索古代石庙",
+          "Local_Cuisine": "茶叶沙拉（lahpet），鱼汤（mohinga），缅甸咖喱，掸族面条",
+          "Green_Spaces": "若开山脉"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Mexico",
+      " Cities": [
+        {
+          "City_Name": "Mexico City",
+          "Historical_Landmarks": "索卡洛广场，国家人类学博物馆",
+          "Tourist_Activities": "参观弗里达·卡罗博物馆和历史中心",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "查普尔特佩克森林（最大的城市公园）"
+        },
+        {
+          "City_Name": "Cancún",
+          "Historical_Landmarks": "奇琴伊察遗址，图卢姆遗址",
+          "Tourist_Activities": "享受海滩和夜生活",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "加勒比海滩和卡塞特公园"
+        },
+        {
+          "City_Name": "Tulum",
+          "Historical_Landmarks": "图卢姆遗址",
+          "Tourist_Activities": "参观俯瞰大海的玛雅遗址",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "锡安卡安生物圈保护区"
+        },
+        {
+          "City_Name": "Oaxaca",
+          "Historical_Landmarks": "蒙特阿尔班考古遗址",
+          "Tourist_Activities": "品尝传统美食和参观市场",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "埃尔阿瓜石化瀑布"
+        },
+        {
+          "City_Name": "Guadalajara",
+          "Historical_Landmarks": "历史悠久的瓜达拉哈拉广场",
+          "Tourist_Activities": "聆听马里亚奇音乐和参观龙舌兰酒厂",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "拉普里马维拉森林和查帕拉湖"
+        },
+        {
+          "City_Name": "Playa del Carmen",
+          "Historical_Landmarks": "普拉亚德尔卡曼海滩",
+          "Tourist_Activities": "漫步第五大道和潜水",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "充满水的岩石缝隙（天然井）"
+        },
+        {
+          "City_Name": "Cabo San Lucas",
+          "Historical_Landmarks": "岩石拱门（埃尔阿尔科）",
+          "Tourist_Activities": "观鲸和海上旅行",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "岩石拱门（埃尔阿尔科）和海滩"
+        },
+        {
+          "City_Name": "Merida",
+          "Historical_Landmarks": "梅里达大教堂",
+          "Tourist_Activities": "探索殖民时期的玛雅文化",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "塞莱斯顿生物圈保护区（火烈鸟）"
+        },
+        {
+          "City_Name": "Puerto Vallarta",
+          "Historical_Landmarks": "瓜达卢佩圣母教堂",
+          "Tourist_Activities": "漫步海滨长廊",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "植物园和马德雷山脉"
+        },
+        {
+          "City_Name": "San Miguel de Allende",
+          "Historical_Landmarks": "圣米格尔教堂",
+          "Tourist_Activities": "漫步色彩斑斓的街道和教堂",
+          "Local_Cuisine": "塔可，莫莱（巧克力香料酱），特拉尤达，鳄梨酱，玉米粽",
+          "Green_Spaces": "埃尔查科德尔因赫尼奥植物园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Micronesia",
+      " Cities": [
+        {
+          "City_Name": "Baker (Pohnpei)",
+          "Historical_Landmarks": "南马都尔（联合国教科文组织遗址）",
+          "Tourist_Activities": "参观南马都尔（太平洋威尼斯）",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "凯罗瀑布和绿色山脉"
+        },
+        {
+          "City_Name": "Colonia (Yap)",
+          "Historical_Landmarks": "巨型石钱",
+          "Tourist_Activities": "观看巨型石钱和与魔鬼鱼潜水",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "红树林森林和海滩"
+        },
+        {
+          "City_Name": "Chuuk Lagoon",
+          "Historical_Landmarks": "二战沉船",
+          "Tourist_Activities": "潜水探索世界著名的沉船",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "无人居住的热带岛屿"
+        },
+        {
+          "City_Name": "Kosrae",
+          "Historical_Landmarks": "莱卢考古遗址",
+          "Tourist_Activities": "乘船探索红树林森林",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "芬科尔山和珊瑚花园"
+        },
+        {
+          "City_Name": "Lelu Island",
+          "Historical_Landmarks": "古代莱卢遗址",
+          "Tourist_Activities": "参观古代莱卢遗址",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "火山海岸风光"
+        },
+        {
+          "City_Name": "Ant Atoll",
+          "Historical_Landmarks": "生物圈保护区",
+          "Tourist_Activities": "在清澈的水中游泳和浮潜",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "联合国教科文组织生物圈保护区"
+        },
+        {
+          "City_Name": "Jabor",
+          "Historical_Landmarks": "传统贾博村",
+          "Tourist_Activities": "体验传统岛屿生活",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "白沙滩"
+        },
+        {
+          "City_Name": "Mokil",
+          "Historical_Landmarks": "莫基尔湖",
+          "Tourist_Activities": "钓鱼和简单生活",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "绿松石色湖滩"
+        },
+        {
+          "City_Name": "Pingelap",
+          "Historical_Landmarks": "平格拉普珊瑚礁",
+          "Tourist_Activities": "了解岛上的色盲现象",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "原始珊瑚礁"
+        },
+        {
+          "City_Name": "Nolok",
+          "Historical_Landmarks": "诺洛克热带森林",
+          "Tourist_Activities": "远离世界的完全放松",
+          "Local_Cuisine": "椰子生鱼，芋头，面包果，密克罗尼西亚鸡",
+          "Green_Spaces": "茂密的热带森林"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Namibia",
+      " Cities": [
+        {
+          "City_Name": "Windhoek",
+          "Historical_Landmarks": "基督教堂，基督教堂城堡",
+          "Tourist_Activities": "参观基督教堂和国家博物馆",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "议会花园和动物园"
+        },
+        {
+          "City_Name": "Swakopmund",
+          "Historical_Landmarks": "斯瓦科普蒙德港，火车站",
+          "Tourist_Activities": "滑沙和跳伞",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "周围的沙漠和海滩"
+        },
+        {
+          "City_Name": "Etosha National Park",
+          "Historical_Landmarks": "埃托沙国家公园",
+          "Tourist_Activities": "游猎看犀牛和狮子",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "盐滩和水源地"
+        },
+        {
+          "City_Name": "Sossusvlei",
+          "Historical_Landmarks": "死亡谷",
+          "Tourist_Activities": "攀登红色沙丘（大爸爸）",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "死亡谷和石化树木"
+        },
+        {
+          "City_Name": "Walvis Bay",
+          "Historical_Landmarks": "鲸湾港",
+          "Tourist_Activities": "观看火烈鸟和划皮划艇",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "沿海湖泊和三明治港沙丘"
+        },
+        {
+          "City_Name": "Lüderitz",
+          "Historical_Landmarks": "鬼城科尔曼斯科普",
+          "Tourist_Activities": "参观鬼城科尔曼斯科普",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "岩石海岸和强风"
+        },
+        {
+          "City_Name": "Fish River Canyon",
+          "Historical_Landmarks": "鱼河峡谷",
+          "Tourist_Activities": "长途徒步（地球上第二大峡谷）",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "峡谷的岩石构造"
+        },
+        {
+          "City_Name": "Damara Land",
+          "Historical_Landmarks": "布兰德伯格山，岩刻",
+          "Tourist_Activities": "看沙漠大象和岩刻",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "布兰德伯格山（纳米比亚最高峰）"
+        },
+        {
+          "City_Name": "Caprivi Strip",
+          "Historical_Landmarks": "卡普里维河",
+          "Tourist_Activities": "河流乘船之旅",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "绿色河流和森林（与沙漠其他部分不同）"
+        },
+        {
+          "City_Name": "Kaokuland",
+          "Historical_Landmarks": "埃帕瀑布",
+          "Tourist_Activities": "遇见辛巴部落",
+          "Local_Cuisine": "羚羊肉（Orx），卡帕纳（街头烤肉），牛奶挞，丰富的糕点",
+          "Green_Spaces": "边境上的埃帕瀑布"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Nauru",
+      " Cities": [
+        {
+          "City_Name": "Yaren (capital)",
+          "Historical_Landmarks": "议会大厦，瑙鲁博物馆",
+          "Tourist_Activities": "参观议会大厦和二战遗迹",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "莫夸地下井"
+        },
+        {
+          "City_Name": "Anibare",
+          "Historical_Landmarks": "阿尼巴雷湾",
+          "Tourist_Activities": "在阿尼巴雷湾游泳（顶级海滩）",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "阿尼巴雷湾和海洋风光"
+        },
+        {
+          "City_Name": "Boada",
+          "Historical_Landmarks": "博阿达湖",
+          "Tourist_Activities": "在博阿达湖周围散步（淡水）",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "博阿达湖和周围热带植物"
+        },
+        {
+          "City_Name": "Meneng",
+          "Historical_Landmarks": "门eng酒店",
+          "Tourist_Activities": "参观门eng酒店和沿海景点",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "沿海珊瑚礁"
+        },
+        {
+          "City_Name": "Middle Highlands",
+          "Historical_Landmarks": "磷酸盐矿",
+          "Tourist_Activities": "探索磷酸盐开采遗迹（月球表面）",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "奇特的石灰岩峰顶地形"
+        },
+        {
+          "City_Name": "Iwa",
+          "Historical_Landmarks": "战争纪念碑",
+          "Tourist_Activities": "观看战争纪念碑",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "丘陵和高原"
+        },
+        {
+          "City_Name": "Aiwo",
+          "Historical_Landmarks": "工业港口",
+          "Tourist_Activities": "看工业港口和磷酸盐运输",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "西部沿海地带"
+        },
+        {
+          "City_Name": "Anetan",
+          "Historical_Landmarks": "当地历史遗迹",
+          "Tourist_Activities": "参观当地历史遗迹",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "岩石海滩"
+        },
+        {
+          "City_Name": "Baiti",
+          "Historical_Landmarks": "小型当地村庄",
+          "Tourist_Activities": "探索小型当地村庄",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "开垦的绿色区域"
+        },
+        {
+          "City_Name": "Nibok",
+          "Historical_Landmarks": "旧采矿作业",
+          "Tourist_Activities": "观看旧采矿作业",
+          "Local_Cuisine": "椰子鱼，烤猪肉，丰富的中式菜肴",
+          "Green_Spaces": "岩石间散布的植物"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Norway",
+      " Cities": [
+        {
+          "City_Name": "Oslo",
+          "Historical_Landmarks": "奥斯陆皇宫，当代艺术博物馆",
+          "Tourist_Activities": "维京船博物馆和歌剧院",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "维格兰雕塑公园和周围森林"
+        },
+        {
+          "City_Name": "Bergen",
+          "Historical_Landmarks": "布吕根汉萨码头（联合国教科文组织遗址）",
+          "Tourist_Activities": "参观布吕根汉萨码头和鱼市",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "周围七座山（弗洛伊恩山）"
+        },
+        {
+          "City_Name": "Tromsø",
+          "Historical_Landmarks": "北极大教堂",
+          "Tourist_Activities": "追逐北极光和雪橇之旅",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "极地山脉和北部峡湾"
+        },
+        {
+          "City_Name": "Stavanger",
+          "Historical_Landmarks": "斯塔万格大教堂",
+          "Tourist_Activities": "攀登布道石",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "吕瑟峡湾"
+        },
+        {
+          "City_Name": "Trondheim",
+          "Historical_Landmarks": "尼达罗斯大教堂",
+          "Tourist_Activities": "参观尼达罗斯大教堂",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "尼德瓦拉河和绿色山丘"
+        },
+        {
+          "City_Name": "Ålesund",
+          "Historical_Landmarks": "奥勒松港",
+          "Tourist_Activities": "观赏新艺术风格建筑",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "阿克斯拉山和全景视野"
+        },
+        {
+          "City_Name": "Lofoten Islands",
+          "Historical_Landmarks": "传统渔村",
+          "Tourist_Activities": "在渔村摄影和钓鱼",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "高耸的环海山脉"
+        },
+        {
+          "City_Name": "Geiranger",
+          "Historical_Landmarks": "盖朗厄尔木制教堂",
+          "Tourist_Activities": "在世界最美峡湾乘船游览（联合国教科文组织）",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "七姐妹瀑布"
+        },
+        {
+          "City_Name": "Flåm",
+          "Historical_Landmarks": "弗洛姆山谷",
+          "Tourist_Activities": "乘坐弗洛姆山地铁路",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "弗洛姆山谷和艾尔兰峡湾"
+        },
+        {
+          "City_Name": "Svalbard",
+          "Historical_Landmarks": "朗伊尔城",
+          "Tourist_Activities": "北极熊之旅和冰川洞穴",
+          "Local_Cuisine": "三文鱼，羊肉（Fårikål），棕色奶酪（Brunost），挪威华夫饼",
+          "Green_Spaces": "冰川河流和北极苔原"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Austria",
+      " Cities": [
+        {
+          "City_Name": "Vienna",
+          "Historical_Landmarks": "美泉宫，歌剧院",
+          "Tourist_Activities": "参观美泉宫和歌剧院",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "市民花园和维也纳森林"
+        },
+        {
+          "City_Name": "Salzburg",
+          "Historical_Landmarks": "霍亨萨尔茨堡堡垒，莫扎特出生地",
+          "Tourist_Activities": "参观霍亨萨尔茨堡堡垒和莫扎特出生地",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "米拉贝尔花园和周围阿尔卑斯山"
+        },
+        {
+          "City_Name": "Innsbruck",
+          "Historical_Landmarks": "黄金屋顶，因斯布鲁克大教堂",
+          "Tourist_Activities": "滑雪和参观黄金屋顶",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "北链山脉（缆车可达）"
+        },
+        {
+          "City_Name": "Hallstatt",
+          "Historical_Landmarks": "盐矿",
+          "Tourist_Activities": "参观盐矿和迷人村庄",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "哈尔施塔特湖和高耸的山脉"
+        },
+        {
+          "City_Name": "Graz",
+          "Historical_Landmarks": "钟楼，人工岛",
+          "Tourist_Activities": "参观钟楼和人工岛",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "施洛斯贝格山和花园"
+        },
+        {
+          "City_Name": "t Zell am See",
+          "Historical_Landmarks": "采尔教堂",
+          "Tourist_Activities": "在湖中游泳和滑冰",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "采尔湖和施米滕赫山"
+        },
+        {
+          "City_Name": "Linz",
+          "Historical_Landmarks": "玛利亚大教堂",
+          "Tourist_Activities": "参观未来电子博物馆",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "多瑙河岸和植物园"
+        },
+        {
+          "City_Name": "Bad Gastein",
+          "Historical_Landmarks": "加施泰因瀑布",
+          "Tourist_Activities": "在温泉和瀑布中放松",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "市中心的加施泰因瀑布和国家公园"
+        },
+        {
+          "City_Name": "Wachau Valley",
+          "Historical_Landmarks": "葡萄园农场",
+          "Tourist_Activities": "河上游览和参观葡萄园",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "多瑙河和绿色山丘"
+        },
+        {
+          "City_Name": "Bielach",
+          "Historical_Landmarks": "克恩滕湖",
+          "Tourist_Activities": "享受温暖的南部湖泊",
+          "Local_Cuisine": "维也纳炸肉排，苹果卷，萨赫蛋糕，土豆沙拉",
+          "Green_Spaces": "多布拉什自然公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Niger",
+      " Cities": [
+        {
+          "City_Name": "Niamey",
+          "Historical_Landmarks": "国家博物馆，大市场",
+          "Tourist_Activities": "参观国家博物馆和动物园",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "尼日尔河岸和绿带森林"
+        },
+        {
+          "City_Name": "Agadez",
+          "Historical_Landmarks": "大泥清真寺",
+          "Tourist_Activities": "看大泥清真寺和沙漠之门",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "艾尔山脉"
+        },
+        {
+          "City_Name": "Zinder",
+          "Historical_Landmarks": "大清真寺，津德尔居民",
+          "Tourist_Activities": "探索传统豪萨建筑",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "周围的岩石构造"
+        },
+        {
+          "City_Name": "W National Park",
+          "Historical_Landmarks": "W国家公园",
+          "Tourist_Activities": "游猎看野生动物",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "跨界自然保护区（联合国教科文组织）"
+        },
+        {
+          "City_Name": "Arlit",
+          "Historical_Landmarks": "泰内雷沙漠",
+          "Tourist_Activities": "通往泰内雷沙漠的门户",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "广阔的沙丘"
+        },
+        {
+          "City_Name": "Dossi",
+          "Historical_Landmarks": "传统多西王国",
+          "Tourist_Activities": "文化中心和传统王国",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "热带草原和森林地区"
+        },
+        {
+          "City_Name": "Ayorou",
+          "Historical_Landmarks": "牲畜市场",
+          "Tourist_Activities": "牲畜市场和河上旅行看河马",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "尼日尔河岛屿"
+        },
+        {
+          "City_Name": "Maradi",
+          "Historical_Landmarks": "马拉迪市场",
+          "Tourist_Activities": "经济和农业中心",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "周围的森林和农场"
+        },
+        {
+          "City_Name": "Kori",
+          "Historical_Landmarks": "科里保护区",
+          "Tourist_Activities": "看西非最后的长颈鹿群",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "金合欢灌木丛和平原"
+        },
+        {
+          "City_Name": "Bilma",
+          "Historical_Landmarks": "比尔马绿洲",
+          "Tourist_Activities": "观看传统盐商队",
+          "Local_Cuisine": "乔洛夫饭，东巴（肉和面团），尼日尔古斯米，基利希（干肉）",
+          "Green_Spaces": "比尔马绿洲和巨大沙丘"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Nigeria",
+      " Cities": [
+        {
+          "City_Name": "Lagos",
+          "Historical_Landmarks": "维多利亚岛，非洲市场",
+          "Tourist_Activities": "拉各斯莱基自然保护区和卡诺皮桥",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "塔尔瓦湾海滩和莱基花园"
+        },
+        {
+          "City_Name": "Abuja",
+          "Historical_Landmarks": "阿索岩，国家清真寺",
+          "Tourist_Activities": "攀登阿索岩和参观国家清真寺",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "千年公园"
+        },
+        {
+          "City_Name": "Calabar",
+          "Historical_Landmarks": "卡拉巴尔博物馆",
+          "Tourist_Activities": "卡拉巴尔节和蒂纳帕度假村",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "克罗斯河国家公园（大猩猩）"
+        },
+        {
+          "City_Name": "Ibadan",
+          "Historical_Landmarks": "伊巴丹大学",
+          "Tourist_Activities": "参观阿戈迪花园和动物园",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "周围的山丘和森林"
+        },
+        {
+          "City_Name": "Kano",
+          "Historical_Landmarks": "旧城墙",
+          "Tourist_Activities": "参观旧城墙和纺织品染坑",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "达拉山"
+        },
+        {
+          "City_Name": "Jos",
+          "Historical_Landmarks": "旧城墙",
+          "Tourist_Activities": "参观旧城墙和纺织品染坑",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "达拉山"
+        },
+        {
+          "City_Name": "Enugu",
+          "Historical_Landmarks": "国家博物馆",
+          "Tourist_Activities": "享受温和天气和博物馆",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "阿苏普瀑布和野生动物园"
+        },
+        {
+          "City_Name": "Enugu",
+          "Historical_Landmarks": "国家博物馆",
+          "Tourist_Activities": "享受温和天气和博物馆",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "阿苏普瀑布和野生动物园"
+        },
+        {
+          "City_Name": "Port Harcourt",
+          "Historical_Landmarks": "哈科特港",
+          "Tourist_Activities": "旅游花园和石油活动",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "哈科特港旅游花园"
+        },
+        {
+          "City_Name": "Osogbo",
+          "Historical_Landmarks": "奥松圣林",
+          "Tourist_Activities": "参观神圣的奥松森林（联合国教科文组织）",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "圣林和河流"
+        },
+        {
+          "City_Name": "Yankari",
+          "Historical_Landmarks": "扬卡里国家公园",
+          "Tourist_Activities": "尼日利亚最好的游猎保护区",
+          "Local_Cuisine": "原版乔洛夫饭，富富和埃古西汤，苏亚（辣烤肉），邦杜库山药",
+          "Green_Spaces": "温泉和扬卡里"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Nicaragua",
+      " Cities": [
+        {
+          "City_Name": "Granada",
+          "Historical_Landmarks": "老城，格拉纳达大教堂",
+          "Tourist_Activities": "殖民建筑和伊斯拉塔斯乘船游览",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "尼加拉瓜湖和莫莫通博火山"
+        },
+        {
+          "City_Name": "León",
+          "Historical_Landmarks": "莱昂大教堂，神话博物馆",
+          "Tourist_Activities": "在内格罗火山滑雪和大教堂",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "马里博斯火山链"
+        },
+        {
+          "City_Name": "San Juan del Sur",
+          "Historical_Landmarks": "拉维斯塔保护区",
+          "Tourist_Activities": "冲浪和海滩生活",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "海滩和海龟保护区"
+        },
+        {
+          "City_Name": "Isla Ometepe",
+          "Historical_Landmarks": "康塞普西翁火山，马德拉斯火山",
+          "Tourist_Activities": "攀登湖上的两座火山",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "查科韦尔德保护区和水眼"
+        },
+        {
+          "City_Name": "Managua",
+          "Historical_Landmarks": "旧港，革命广场",
+          "Tourist_Activities": "参观旧港（萨尔瓦多·阿连德）",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "马那瓜湖和蒂斯卡帕泻湖"
+        },
+        {
+          "City_Name": "Corn Islands",
+          "Historical_Landmarks": "大岛，小岛",
+          "Tourist_Activities": "加勒比海潜水和放松",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "珊瑚礁和绿松石色海滩"
+        },
+        {
+          "City_Name": "Matagalpa",
+          "Historical_Landmarks": "咖啡农场",
+          "Tourist_Activities": "参观咖啡农场和云雾森林",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "塞尔瓦内格拉保护区"
+        },
+        {
+          "City_Name": "Esteli",
+          "Historical_Landmarks": "雪茄工厂",
+          "Tourist_Activities": "参观雪茄工厂和瀑布",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "梅里弗洛自然保护区"
+        },
+        {
+          "City_Name": "Masaya",
+          "Historical_Landmarks": "马萨亚火山",
+          "Tourist_Activities": "参观手工艺品市场和活火山",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "马萨亚国家火山公园（可见熔岩）"
+        },
+        {
+          "City_Name": "Río San Juan",
+          "Historical_Landmarks": "因迪奥·玛伊斯生物保护区",
+          "Tourist_Activities": "乘船游览历史森林",
+          "Local_Cuisine": "加洛平托（米饭和豆子），纳卡塔马尔，维戈龙，炸奶酪",
+          "Green_Spaces": "因迪奥·玛伊斯生物保护区"
+        }
+      ]
+    },
+    {
+      "Country_Name": "New Zealand",
+      " Cities": [
+        {
+          "City_Name": "Auckland",
+          "Historical_Landmarks": "天空塔，奥克兰博物馆",
+          "Tourist_Activities": "攀登天空塔和航行海港",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "朗吉托托火山场和科罗曼德尔公园"
+        },
+        {
+          "City_Name": "Queenstown",
+          "Historical_Landmarks": "卡瓦劳峡谷",
+          "Tourist_Activities": "冒险之都（蹦极）和滑雪",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "瓦卡蒂普湖和雷马克山脉"
+        },
+        {
+          "City_Name": "Rotorua",
+          "Historical_Landmarks": "蒂普亚毛利村",
+          "Tourist_Activities": "温泉和毛利文化",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "红木森林和火山瓦伊芒阿谷"
+        },
+        {
+          "City_Name": "Wellington",
+          "Historical_Landmarks": "蒂帕帕博物馆，圣保罗大教堂",
+          "Tourist_Activities": "参观蒂帕帕和惠灵顿工作室",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "惠灵顿植物园和西兰迪亚保护区"
+        },
+        {
+          "City_Name": "Christchurch",
+          "Historical_Landmarks": "基督城大教堂",
+          "Tourist_Activities": "在雅芳河上乘船游览和参观花园",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "哈格利公园和植物园"
+        },
+        {
+          "City_Name": "Milford Sound",
+          "Historical_Landmarks": "峡湾国家公园",
+          "Tourist_Activities": "著名的海上峡湾乘船游览",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "峡湾国家公园（瀑布和森林）"
+        },
+        {
+          "City_Name": "Tobu",
+          "Historical_Landmarks": "汤加里罗国家公园",
+          "Tourist_Activities": "参观陶波湖和胡卡瀑布",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "汤加里罗国家公园（火山）"
+        },
+        {
+          "City_Name": "Kaikoura",
+          "Historical_Landmarks": "凯库拉半岛",
+          "Tourist_Activities": "观看鲸鱼和海豚",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "凯库拉半岛沿海步道"
+        },
+        {
+          "City_Name": "Wanaka",
+          "Historical_Landmarks": "瓦纳卡湖",
+          "Tourist_Activities": "拍摄孤独的树和徒步旅行",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "瓦纳卡湖和罗伊峰山"
+        },
+        {
+          "City_Name": "Bay of Islands",
+          "Historical_Landmarks": "拉塞尔岛",
+          "Tourist_Activities": "与海豚游泳和历史之旅",
+          "Local_Cuisine": "哈吉（地下烹饪），烤羊肉，巴甫洛娃，布拉夫生蚝",
+          "Green_Spaces": "绿色岛屿和偏僻海滩"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Haiti",
+      " Cities": [
+        {
+          "City_Name": "Cap-Haïtien",
+          "Historical_Landmarks": "拉维鲁瓦城堡",
+          "Tourist_Activities": "参观拉维鲁瓦城堡（美洲最大的城堡）",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "拉巴迪海滩（私人度假村和风景）"
+        },
+        {
+          "City_Name": "Port‑au‑Prince",
+          "Historical_Landmarks": "国家博物馆，铁市场",
+          "Tourist_Activities": "参观国家博物馆和铁市场",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "历史甘蔗田公园"
+        },
+        {
+          "City_Name": "Jacmel",
+          "Historical_Landmarks": "巴桑布勒",
+          "Tourist_Activities": "艺术中心，狂欢节和建筑",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "巴桑布勒（绿松石色水池和瀑布）"
+        },
+        {
+          "City_Name": "Île à Vache",
+          "Historical_Landmarks": "瓦什岛海滩",
+          "Tourist_Activities": "在偏远、安静的岛屿上放松",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "原始海滩和椰子树"
+        },
+        {
+          "City_Name": "Kass",
+          "Historical_Landmarks": "吉利海滩，玛丽-让洞穴",
+          "Tourist_Activities": "通往南部海滩和音乐节的门户",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "吉利海滩和玛丽-让洞穴"
+        },
+        {
+          "City_Name": "Gonaïves",
+          "Historical_Landmarks": "独立城",
+          "Tourist_Activities": "历史悠久的独立城",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "温泉和干燥景观"
+        },
+        {
+          "City_Name": "Côte des Arcadiens",
+          "Historical_Landmarks": "阿尔卡迪亚海岸海滩",
+          "Tourist_Activities": "海滩度假村和水上运动",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "沿海珊瑚礁"
+        },
+        {
+          "City_Name": "Le Havre",
+          "Historical_Landmarks": "勒阿弗尔渔村",
+          "Tourist_Activities": "传统渔村",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "小海湾和清澈的水"
+        },
+        {
+          "City_Name": "Fort de Duke",
+          "Historical_Landmarks": "艺术家村",
+          "Tourist_Activities": "艺术家村和铁匠铺",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "埃唐索马特尔湖（咸水）"
+        },
+        {
+          "City_Name": "Jeremie",
+          "Historical_Landmarks": "马基亚山脉",
+          "Tourist_Activities": "诗人城镇和老房子",
+          "Local_Cuisine": "格里约（炸猪肉），米饭和豆子（Diri ak pwa），朱穆汤，香蕉贝齐",
+          "Green_Spaces": "马基亚山脉和可可森林"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Honduras",
+      " Cities": [
+        {
+          "City_Name": "Roatán",
+          "Historical_Landmarks": "甘巴利姆巴公园",
+          "Tourist_Activities": "在世界第二大珊瑚礁潜水",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "卡兰博拉花园和甘巴利姆巴公园"
+        },
+        {
+          "City_Name": "Copán Ruinas",
+          "Historical_Landmarks": "科潘遗址",
+          "Tourist_Activities": "探索著名的玛雅遗址和雕塑",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "马科公园（鹦鹉鸟）和温泉"
+        },
+        {
+          "City_Name": "Utila",
+          "Historical_Landmarks": "乌蒂拉岛",
+          "Tourist_Activities": "学习廉价潜水和看鲸鲨",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "南瓜山和红树林森林"
+        },
+        {
+          "City_Name": "Tegucigalpa",
+          "Historical_Landmarks": "圣米格尔大教堂",
+          "Tourist_Activities": "参观圣米格尔大教堂和皮科博尼托公园",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "拉蒂格拉国家公园（雾林）"
+        },
+        {
+          "City_Name": "La Ceiba",
+          "Historical_Landmarks": "皮科博尼托国家公园",
+          "Tourist_Activities": "生态旅游之都和河流漂流",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "皮科博尼托国家公园（瀑布和森林）"
+        },
+        {
+          "City_Name": "Tela",
+          "Historical_Landmarks": "兰西特植物园",
+          "Tourist_Activities": "植物园和加勒比海滩",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "兰西特植物园和蓬塔萨尔"
+        },
+        {
+          "City_Name": "Lake Yojoa",
+          "Historical_Landmarks": "波尔哈班扎克瀑布",
+          "Tourist_Activities": "观鸟和皮划艇",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "波尔哈班扎克瀑布和湖泊"
+        },
+        {
+          "City_Name": "Cayos Cochinos",
+          "Historical_Landmarks": "科奇诺斯群岛",
+          "Tourist_Activities": "参观当地村庄和偏僻潜水",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "完全原始的海洋保护区"
+        },
+        {
+          "City_Name": "Comayagua",
+          "Historical_Landmarks": "美洲最古老的钟",
+          "Tourist_Activities": "看美洲最古老的钟和建筑",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "环绕山谷的山脉"
+        },
+        {
+          "City_Name": "Gracias",
+          "Historical_Landmarks": "圣克里斯托瓦尔城堡",
+          "Tourist_Activities": "温泉和圣克里斯托瓦尔城堡",
+          "Local_Cuisine": "巴莱亚达（填馅玉米饼），蜗牛汤，烤肉，玉米粽",
+          "Green_Spaces": "谢拉阿尔塔国家公园（最高峰）"
+        }
+      ]
+    },
+    {
+      "Country_Name": "India",
+      " Cities": [
+        {
+          "City_Name": "New Delhi",
+          "Historical_Landmarks": "红堡，库图布塔，印度门",
+          "Tourist_Activities": "红堡，库图布塔，印度门",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "洛迪花园和鹿园"
+        },
+        {
+          "City_Name": "Agra",
+          "Historical_Landmarks": "泰姬陵，阿格拉堡",
+          "Tourist_Activities": "参观泰姬陵和城堡",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "梅塔巴格花园（俯瞰泰姬陵）"
+        },
+        {
+          "City_Name": "Jaipur",
+          "Historical_Landmarks": "风之宫，琥珀堡",
+          "Tourist_Activities": "粉红城：风之宫和琥珀堡",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "西瑟万里花园和湖泊"
+        },
+        {
+          "City_Name": "Mumbai",
+          "Historical_Landmarks": "印度门，滨海大道",
+          "Tourist_Activities": "印度门和滨海大道",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "圣杰甘地国家公园（市内）"
+        },
+        {
+          "City_Name": "Goa",
+          "Historical_Landmarks": "耶稣圣体大教堂，圣凯瑟琳教堂",
+          "Tourist_Activities": "海滩，夜生活和葡萄牙教堂",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "杜德萨尔瀑布和香料种植园"
+        },
+        {
+          "City_Name": "Kerala (Monar)",
+          "Historical_Landmarks": "茶园",
+          "Tourist_Activities": "回水运河游览",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "莫纳尔和特卡迪茶园"
+        },
+        {
+          "City_Name": "Varanasi",
+          "Historical_Landmarks": "恒河台阶",
+          "Tourist_Activities": "恒河上的精神仪式",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "神圣的河岸"
+        },
+        {
+          "City_Name": "Udaipur",
+          "Historical_Landmarks": "湖宫，城市宫",
+          "Tourist_Activities": "湖城和浮动宫殿",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "皮乔拉湖和萨赫利永-哈斯花园"
+        },
+        {
+          "City_Name": "Rishikesh",
+          "Historical_Landmarks": "拉克什曼朱拉桥",
+          "Tourist_Activities": "瑜伽和恒河漂流",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "喜马拉雅山麓和森林"
+        },
+        {
+          "City_Name": "Ladakh (Leh)",
+          "Historical_Landmarks": "赫米斯修道院，蒂克西修道院",
+          "Tourist_Activities": "参观修道院和山地风光",
+          "Local_Cuisine": "比里亚尼，黄油鸡，马萨拉多萨，萨莫萨，茶卡拉",
+          "Green_Spaces": "班公湖和努布拉谷（冷沙漠）"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Hungary",
+      " Cities": [
+        {
+          "City_Name": "Budapest",
+          "Historical_Landmarks": "议会大厦，布达城堡",
+          "Tourist_Activities": "议会大厦和塞切尼温泉浴场",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "玛格丽特岛（多瑙河中的绿洲）"
+        },
+        {
+          "City_Name": "Debrecen",
+          "Historical_Landmarks": "大教堂，代里博物馆",
+          "Tourist_Activities": "参观大教堂和代里博物馆",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "霍尔托巴吉国家公园（大平原）"
+        },
+        {
+          "City_Name": "Eger",
+          "Historical_Landmarks": "埃格尔城堡",
+          "Tourist_Activities": "参观城堡和品尝葡萄酒（女人谷）",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "比克山脉和温泉度假村"
+        },
+        {
+          "City_Name": "Lake Balaton",
+          "Historical_Landmarks": "蒂哈尼修道院",
+          "Tourist_Activities": "游泳和航行（匈牙利海）",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "蒂哈尼半岛和薰衣草田"
+        },
+        {
+          "City_Name": "Pécs",
+          "Historical_Landmarks": "圣托马斯教堂",
+          "Tourist_Activities": "游泳和航行（匈牙利海）",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "梅基斯山脉和湖泊"
+        },
+        {
+          "City_Name": "Sopron",
+          "Historical_Landmarks": "清真寺教堂",
+          "Tourist_Activities": "清真寺教堂和陶瓷",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "梅克西克山脉和湖泊"
+        },
+        {
+          "City_Name": "Szentendre",
+          "Historical_Landmarks": "圣安德烈博物馆",
+          "Tourist_Activities": "艺术家小镇和露天博物馆",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "多瑙河岸"
+        },
+        {
+          "City_Name": "Győr",
+          "Historical_Landmarks": "巴洛克中心",
+          "Tourist_Activities": "巴洛克中心和水上乐园",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "三条河的汇合处"
+        },
+        {
+          "City_Name": "Heviz",
+          "Historical_Landmarks": "赫维兹湖",
+          "Tourist_Activities": "在世界最大的温泉湖中游泳",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "湖周围的花园和睡莲"
+        },
+        {
+          "City_Name": "Tokaj",
+          "Historical_Landmarks": "葡萄园农场",
+          "Tourist_Activities": "参观历史悠久的葡萄园农场（联合国教科文组织）",
+          "Local_Cuisine": "古拉什（肉汤），兰戈斯（油炸面团），红椒鸡，烟熏蛋糕",
+          "Green_Spaces": "葡萄园山丘和蒂萨-博德罗格汇合处"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Netherlands",
+      " Cities": [
+        {
+          "City_Name": "Amsterdam",
+          "Historical_Landmarks": "国家博物馆，梵高博物馆",
+          "Tourist_Activities": "国家博物馆和运河游船",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "冯德尔公园和阿姆斯特丹森林"
+        },
+        {
+          "City_Name": "Rotterdam",
+          "Historical_Landmarks": "立方体房屋，伊拉斯谟大桥",
+          "Tourist_Activities": "立方体房屋和伊拉斯谟大桥",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "克拉林塞博斯公园和温室"
+        },
+        {
+          "City_Name": "The Hague",
+          "Historical_Landmarks": "和平宫，毛里茨豪斯博物馆",
+          "Tourist_Activities": "和平宫和毛里茨豪斯博物馆",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "斯海弗宁恩海滩和沙丘"
+        },
+        {
+          "City_Name": "Utrecht",
+          "Historical_Landmarks": "多姆塔",
+          "Tourist_Activities": "攀登多姆塔和在运河咖啡馆小坐",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "植物园和马克西玛公园"
+        },
+        {
+          "City_Name": "Giethoorn",
+          "Historical_Landmarks": "德韦里本-维登国家公园",
+          "Tourist_Activities": "荷兰威尼斯（仅限船只）",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "德韦里本-维登国家公园"
+        },
+        {
+          "City_Name": "Maastricht",
+          "Historical_Landmarks": "地下洞穴",
+          "Tourist_Activities": "地下洞穴和旧城区",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "圣彼得伯格山"
+        },
+        {
+          "City_Name": "Delft",
+          "Historical_Landmarks": "蓝陶工厂",
+          "Tourist_Activities": "蓝陶制作和教堂",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "代尔夫特豪特公园"
+        },
+        {
+          "City_Name": "Lisse (Keukenhof)",
+          "Historical_Landmarks": "库肯霍夫花园",
+          "Tourist_Activities": "参观世界上最美丽的花园（春季）",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "广阔的郁金香田"
+        },
+        {
+          "City_Name": "Haarlem",
+          "Historical_Landmarks": "泰勒斯博物馆",
+          "Tourist_Activities": "购物和博物馆",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "南肯纳默兰国家公园（沙丘和海滩）"
+        },
+        {
+          "City_Name": "Wadden Islands (Texel)",
+          "Historical_Landmarks": "瓦登群岛",
+          "Tourist_Activities": "泥滩行走和观看海豹",
+          "Local_Cuisine": "生鲱鱼，焦糖华夫饼，小煎饼，荷兰奶酪",
+          "Green_Spaces": "沙质沙丘和自然海滩"
+        }
+      ]
+    },
+    {
+      "Country_Name": "United States of America",
+      " Cities": [
+        {
+          "City_Name": "New York",
+          "Historical_Landmarks": "自由女神像，时代广场",
+          "Tourist_Activities": "观看百老汇演出，参观博物馆",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "中央公园（纽约）"
+        },
+        {
+          "City_Name": "Los Angeles",
+          "Historical_Landmarks": "好莱坞标志，星光大道",
+          "Tourist_Activities": "参观电影制片厂",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "格里菲斯公园"
+        },
+        {
+          "City_Name": "Las Vegas",
+          "Historical_Landmarks": "贝拉吉奥喷泉，拉斯维加斯大道",
+          "Tourist_Activities": "参加世界级娱乐表演",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "红岩峡谷公园"
+        },
+        {
+          "City_Name": "Orlando",
+          "Historical_Landmarks": "华特迪士尼世界，环球影城",
+          "Tourist_Activities": "参观主题公园（迪士尼）",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "迪士尼世界度假村"
+        },
+        {
+          "City_Name": "San Francisco",
+          "Historical_Landmarks": "金门大桥，恶魔岛",
+          "Tourist_Activities": "乘坐历史悠久的缆车",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "金门公园"
+        },
+        {
+          "City_Name": "Miami",
+          "Historical_Landmarks": "南海滩，装饰艺术区",
+          "Tourist_Activities": "享受夜生活和海滩",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "费尔柴尔德热带植物园"
+        },
+        {
+          "City_Name": "Chicago",
+          "Historical_Landmarks": "豆子（千禧公园），威利斯大厦",
+          "Tourist_Activities": "河流建筑之旅",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "千禧公园（豆子）"
+        },
+        {
+          "City_Name": "Washington, D.C.",
+          "Historical_Landmarks": "白宫，林肯纪念堂",
+          "Tourist_Activities": "参观免费的国家博物馆",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "国家广场"
+        },
+        {
+          "City_Name": "Honolulu",
+          "Historical_Landmarks": "威基基海滩，珍珠港",
+          "Tourist_Activities": "冲浪和浮潜",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "威基基公园"
+        },
+        {
+          "City_Name": "New Orleans",
+          "Historical_Landmarks": "法国区，波旁街",
+          "Tourist_Activities": "聆听现场爵士乐",
+          "Local_Cuisine": "汉堡和芝士汉堡，苹果派，布法罗鸡翅，纽约披萨",
+          "Green_Spaces": "城市公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Japan",
+      " Cities": [
+        {
+          "City_Name": "Tokyo",
+          "Historical_Landmarks": "东京塔，涩谷十字路口",
+          "Tourist_Activities": "在涩谷购物，参观浅草寺",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "新宿御苑国立花园"
+        },
+        {
+          "City_Name": "Kyoto",
+          "Historical_Landmarks": "金阁寺，伏见稻荷",
+          "Tourist_Activities": "茶道，漫步竹林",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "奈良公园（鹿）"
+        },
+        {
+          "City_Name": "Osaka",
+          "Historical_Landmarks": "大阪城，环球影城",
+          "Tourist_Activities": "道顿堀街头美食",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "富士箱根伊豆国家公园"
+        },
+        {
+          "City_Name": "Hiroshima",
+          "Historical_Landmarks": "和平博物馆，宫岛",
+          "Tourist_Activities": "参观和平纪念馆",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "和平纪念公园"
+        },
+        {
+          "City_Name": "Nara",
+          "Historical_Landmarks": "东大寺（大佛）",
+          "Tourist_Activities": "在公共公园喂鹿",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "奈良公园（鹿）"
+        },
+        {
+          "City_Name": "Sapporo",
+          "Historical_Landmarks": "大通公园，啤酒博物馆",
+          "Tourist_Activities": "雪节（冬季），拉面品尝",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "大通公园"
+        },
+        {
+          "City_Name": "Fukuoka",
+          "Historical_Landmarks": "福冈塔，栉田神社",
+          "Tourist_Activities": "屋台（路边摊）",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "大濠公园"
+        },
+        {
+          "City_Name": "Kobe",
+          "Historical_Landmarks": "发现号船",
+          "Tourist_Activities": "品尝神户牛肉，乘坐缆车",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "诺拉基公园"
+        },
+        {
+          "City_Name": "Okinawa",
+          "Historical_Landmarks": "首里城，美丽海水族馆",
+          "Tourist_Activities": "在珊瑚礁中潜水",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "冲绳纪念公园"
+        },
+        {
+          "City_Name": "Nagoya",
+          "Historical_Landmarks": "名古屋城，丰田博物馆",
+          "Tourist_Activities": "参观汽车和技术博物馆",
+          "Local_Cuisine": "寿司，拉面，天妇罗，大阪烧",
+          "Green_Spaces": "东山公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Yemen",
+      " Cities": [
+        {
+          "City_Name": "Old Sana'a",
+          "Historical_Landmarks": "也门门，大清真寺",
+          "Tourist_Activities": "漫步旧市场，看泥砖建筑",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "萨菲河岸"
+        },
+        {
+          "City_Name": "Socotra (Hadibo)",
+          "Historical_Landmarks": "迪蒂瓦保护区，龙血树",
+          "Tourist_Activities": "看龙血树，露营",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "迪蒂瓦保护区"
+        },
+        {
+          "City_Name": "Shibam Hadramout",
+          "Historical_Landmarks": "旧城（沙漠曼哈顿）",
+          "Tourist_Activities": "拍摄泥砖摩天大楼",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "哈德拉毛谷"
+        },
+        {
+          "City_Name": "Aden",
+          "Historical_Landmarks": "亚丁油罐，萨伊拉城堡",
+          "Tourist_Activities": "享受海滩，参观油罐",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "亚丁海滩"
+        },
+        {
+          "City_Name": "Taiz",
+          "Historical_Landmarks": "开罗城堡，阿尔-马齐尔清真寺",
+          "Tourist_Activities": "参观历史悠久的清真寺和堡垒",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "萨布尔山脉"
+        },
+        {
+          "City_Name": "Zabid",
+          "Historical_Landmarks": "大清真寺，历史悠久的图书馆",
+          "Tourist_Activities": "探索伊斯兰和科学遗产",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "扎比德谷"
+        },
+        {
+          "City_Name": "Al‑Mokalla",
+          "Historical_Landmarks": "苏丹卡伊迪宫，阿尔-莫卡拉入口",
+          "Tourist_Activities": "漫步海滨长廊，参观博物馆",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "阿尔-莫卡拉入口"
+        },
+        {
+          "City_Name": "Ibb",
+          "Historical_Landmarks": "瓦迪阿纳，拉比山",
+          "Tourist_Activities": "享受绿色风光（绿色大道）",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "瓦迪阿纳"
+        },
+        {
+          "City_Name": "Tarim",
+          "Historical_Landmarks": "阿尔-塔姆达尔清真寺（泥砖）",
+          "Tourist_Activities": "参观历史悠久的清真寺和哈德拉毛谷",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "哈德拉毛谷"
+        },
+        {
+          "City_Name": "Al Hudaydah",
+          "Historical_Landmarks": "巴布穆沙拉夫，海滨长廊",
+          "Tourist_Activities": "参观港口和当地市场",
+          "Local_Cuisine": "萨尔塔，曼迪，法赫萨，宾特萨恩",
+          "Green_Spaces": "哈达亚海滩"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Greece",
+      " Cities": [
+        {
+          "City_Name": "Athens",
+          "Historical_Landmarks": "卫城，帕特农神庙",
+          "Tourist_Activities": "参观考古遗址，漫步普拉卡",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "国家花园"
+        },
+        {
+          "City_Name": "Santorini (Fira)",
+          "Historical_Landmarks": "蓝顶教堂，伊亚",
+          "Tourist_Activities": "观看日落，火山船游",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "阿西尼奥斯海滩"
+        },
+        {
+          "City_Name": "Mykonos",
+          "Historical_Landmarks": "风车，小威尼斯",
+          "Tourist_Activities": "夜生活，海滩",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "帕拉加海滩"
+        },
+        {
+          "City_Name": "Thessaloniki",
+          "Historical_Landmarks": "白塔，加莱里乌斯拱门",
+          "Tourist_Activities": "探索拜占庭历史和美食",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "西德里公园"
+        },
+        {
+          "City_Name": "Rhodes",
+          "Historical_Landmarks": "罗得旧城，蝴蝶谷",
+          "Tourist_Activities": "参观大团长宫殿",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "埃利海滩"
+        },
+        {
+          "City_Name": "Corfu",
+          "Historical_Landmarks": "旧堡垒，阿希利翁宫",
+          "Tourist_Activities": "漫步旧城（意大利风格）",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "蒙雷波斯公园"
+        },
+        {
+          "City_Name": "Nafplio",
+          "Historical_Landmarks": "帕拉米迪堡垒，布尔齐城堡",
+          "Tourist_Activities": "攀登堡垒，在咖啡馆放松",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "卡拉托纳公园"
+        },
+        {
+          "City_Name": "Heraklion (Crete)",
+          "Historical_Landmarks": "克诺索斯宫，考古博物馆",
+          "Tourist_Activities": "参观米诺斯宫殿克诺索斯",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "乔治奥斯公园"
+        },
+        {
+          "City_Name": "Patras",
+          "Historical_Landmarks": "帕特拉斯堡垒，里奥桥",
+          "Tourist_Activities": "参加年度狂欢节",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "阿吉亚公园"
+        },
+        {
+          "City_Name": "Delphi",
+          "Historical_Landmarks": "阿波罗神庙，古剧场",
+          "Tourist_Activities": "参观古代神谕遗址",
+          "Local_Cuisine": "穆萨卡，苏夫拉基，希腊沙拉，塔希基",
+          "Green_Spaces": "德尔菲公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "England",
+      " Cities": [
+        {
+          "City_Name": "London",
+          "Historical_Landmarks": "大本钟，伦敦塔",
+          "Tourist_Activities": "伦敦眼之旅，免费博物馆参观",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "海德公园（伦敦）"
+        },
+        {
+          "City_Name": "Manchester",
+          "Historical_Landmarks": "老特拉福德，北区",
+          "Tourist_Activities": "参观足球场，购物",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "希顿公园"
+        },
+        {
+          "City_Name": "Liverpool",
+          "Historical_Landmarks": "阿尔伯特码头，披头士博物馆",
+          "Tourist_Activities": "追随披头士的足迹",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "塞夫顿公园"
+        },
+        {
+          "City_Name": "Bath",
+          "Historical_Landmarks": "罗马浴场，皇家新月",
+          "Tourist_Activities": "在罗马浴场沐浴",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "悉尼花园"
+        },
+        {
+          "City_Name": "Oxford",
+          "Historical_Landmarks": "牛津大学，博德利图书馆",
+          "Tourist_Activities": "参观历史悠久的大学",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "牛津大学花园"
+        },
+        {
+          "City_Name": "Cambridge",
+          "Historical_Landmarks": "国王学院，运动桥",
+          "Tourist_Activities": "在河上划船",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "剑桥大学花园"
+        },
+        {
+          "City_Name": "York",
+          "Historical_Landmarks": "约克大教堂，谢姆伯尔斯街",
+          "Tourist_Activities": "漫步古城墙",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "约克花园"
+        },
+        {
+          "City_Name": "Bristol",
+          "Historical_Landmarks": "大不列颠号船",
+          "Tourist_Activities": "观看克利夫顿悬索桥",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "布兰登公园"
+        },
+        {
+          "City_Name": "Brighton",
+          "Historical_Landmarks": "布莱顿码头，皇家穹顶宫",
+          "Tourist_Activities": "享受海滩和码头",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "布莱顿花园"
+        },
+        {
+          "City_Name": "Stratford‑upon‑Avon",
+          "Historical_Landmarks": "皇家莎士比亚剧院",
+          "Tourist_Activities": "参观莎士比亚出生地",
+          "Local_Cuisine": "炸鱼薯条，英式早餐，下午茶，烤牛肉",
+          "Green_Spaces": "斯特拉特福花园"
+        }
+      ]
+    },
+    {
+       "Country_Name": "Scotland",
+       "Cities": [
+        {
+          "City_Name": "Edinburgh",
+          "Historical_Landmarks": "爱丁堡城堡，皇家英里",
+          "Tourist_Activities": "攀登亚瑟王座，艺术节",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "荷里路德公园（爱丁堡）"
+        },
+        {
+          "City_Name": "Glasgow",
+          "Historical_Landmarks": "格拉斯哥大教堂，凯尔文格罗夫博物馆",
+          "Tourist_Activities": "参观艺术博物馆，购物",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "凯尔文格罗夫公园"
+        },
+        {
+          "City_Name": "Inverness",
+          "Historical_Landmarks": "尼斯湖，厄克特城堡",
+          "Tourist_Activities": "寻找尼斯湖水怪",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "尼斯公园"
+        },
+        {
+          "City_Name": "Aberdeen",
+          "Historical_Landmarks": "杜蒂公园，海滩",
+          "Tourist_Activities": "观赏花岗岩建筑",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "杜蒂公园"
+        },
+        {
+          "City_Name": "Dundee",
+          "Historical_Landmarks": "发现号船",
+          "Tourist_Activities": "参观V&A设计博物馆",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "坎珀当公园"
+        },
+        {
+          "City_Name": "Stirling",
+          "Historical_Landmarks": "华莱士纪念碑，斯特灵城堡",
+          "Tourist_Activities": "探索威廉·华莱士的历史",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "国王公园"
+        },
+        {
+          "City_Name": "Fort William",
+          "Historical_Landmarks": "本尼维斯山，雅各布列车（哈利波特）",
+          "Tourist_Activities": "攀登本尼维斯山",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "格伦芬南公园"
+        },
+        {
+          "City_Name": "St Andrews",
+          "Historical_Landmarks": "废弃大教堂，大学",
+          "Tourist_Activities": "参观历史悠久的高尔夫球场",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "圣安德鲁斯公园"
+        },
+        {
+          "City_Name": "Oban",
+          "Historical_Landmarks": "麦基奥塔",
+          "Tourist_Activities": "海鲜用餐，岛屿之旅",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "奥本公园"
+        },
+        {
+          "City_Name": "Perth",
+          "Historical_Landmarks": "斯昆宫，泰河",
+          "Tourist_Activities": "参观斯昆宫",
+          "Local_Cuisine": "哈吉斯，卡伦斯克汤，酥饼饼干，苏格兰三文鱼",
+          "Green_Spaces": "詹姆斯国王公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Wales",
+      " Cities": [
+        {
+          "City_Name": "Cardiff",
+          "Historical_Landmarks": "卡迪夫城堡，卡迪夫湾",
+          "Tourist_Activities": "参观市中心的城堡",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "比特公园"
+        },
+        {
+          "City_Name": "Swansea",
+          "Historical_Landmarks": "海事博物馆，斯旺西湾",
+          "Tourist_Activities": "享受高尔半岛的海滩",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "斯旺西公园"
+        },
+        {
+          "City_Name": "St Davids",
+          "Historical_Landmarks": "圣大卫大教堂",
+          "Tourist_Activities": "英国最小的城市，参观大教堂",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "圣大卫公园"
+        },
+        {
+          "City_Name": "Conwy",
+          "Historical_Landmarks": "康威城堡，英国最小的房子",
+          "Tourist_Activities": "在城墙上行走",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "康威公园"
+        },
+        {
+          "City_Name": "Aberystwyth",
+          "Historical_Landmarks": "城堡，国家图书馆",
+          "Tourist_Activities": "乘坐山地铁路，沿海步行",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "阿伯里斯特威斯公园"
+        },
+        {
+          "City_Name": "Carnavon",
+          "Historical_Landmarks": "卡纳冯城堡（世界遗产）",
+          "Tourist_Activities": "参观皇家城堡",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "卡纳冯公园"
+        },
+        {
+          "City_Name": "Tenby",
+          "Historical_Landmarks": "城堡海滩，彩色房屋",
+          "Tourist_Activities": "在色彩斑斓的海滩上放松",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "滕比公园"
+        },
+        {
+          "City_Name": "Llangollen",
+          "Historical_Landmarks": "庞特塞特尔运河",
+          "Tourist_Activities": "乘船游览运河，音乐节",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "兰戈伦公园"
+        },
+        {
+          "City_Name": "Bangor",
+          "Historical_Landmarks": "班戈码头，班戈大教堂",
+          "Tourist_Activities": "漫步长长的海滨长廊",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "班戈公园"
+        },
+        {
+          "City_Name": "Hay-on-Wye",
+          "Historical_Landmarks": "海城堡，文学节",
+          "Tourist_Activities": "参观数十家二手书店",
+          "Local_Cuisine": "威尔士蛋糕，考尔汤，拉弗面包，威尔士奶酪",
+          "Green_Spaces": "海城公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Ireland",
+      " Cities": [
+        {
+          "City_Name": "Dublin",
+          "Historical_Landmarks": "都柏林城堡，吉尼斯仓库",
+          "Tourist_Activities": "参观三一学院图书馆，圣殿酒吧区",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "凤凰公园（都柏林）"
+        },
+        {
+          "City_Name": "Cork",
+          "Historical_Landmarks": "科克城监狱，布拉尼城堡",
+          "Tourist_Activities": "参观英语市场，香登钟声",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "菲茨威廉公园"
+        },
+        {
+          "City_Name": "Galway",
+          "Historical_Landmarks": "西班牙拱门，大教堂",
+          "Tourist_Activities": "聆听街头音乐，参加节日",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "艾尔公园"
+        },
+        {
+          "City_Name": "Killarney",
+          "Historical_Landmarks": "莫克罗丝故居，杜林峡谷",
+          "Tourist_Activities": "乘坐马车，探索国家公园",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "基拉尼国家公园"
+        },
+        {
+          "City_Name": "Limerick",
+          "Historical_Landmarks": "亨特博物馆，牛奶市场",
+          "Tourist_Activities": "参观约翰国王城堡",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "伯纳德公园"
+        },
+        {
+          "City_Name": "Waterford",
+          "Historical_Landmarks": "雷金纳德塔，沃特福德之家",
+          "Tourist_Activities": "参观水晶工厂，维京区",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "沃特福德公园"
+        },
+        {
+          "City_Name": "Kilkenny",
+          "Historical_Landmarks": "基尔肯尼城堡，圣卡尼斯大教堂",
+          "Tourist_Activities": "探索中世纪城市",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "基尔肯尼公园"
+        },
+        {
+          "City_Name": "Westport",
+          "Historical_Landmarks": "韦斯特波特之家，海湾",
+          "Tourist_Activities": "攀登克罗帕特里克山，骑行",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "韦斯特波特公园"
+        },
+        {
+          "City_Name": "Dingle",
+          "Historical_Landmarks": "丁格尔半岛，斯利海德大道",
+          "Tourist_Activities": "乘船看海豚",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "丁格尔公园"
+        },
+        {
+          "City_Name": "Sligo",
+          "Historical_Landmarks": "本布尔本山，斯莱戈修道院",
+          "Tourist_Activities": "探索诗人叶芝的遗址",
+          "Local_Cuisine": "爱尔兰炖菜，苏打面包，科尔坎农（土豆和卷心菜），博克蒂（土豆煎饼）",
+          "Green_Spaces": "斯莱戈公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Thailand",
+      " Cities": [
+        {
+          "City_Name": "Bangkok",
+          "Historical_Landmarks": "大皇宫，黎明寺",
+          "Tourist_Activities": "乘坐嘟嘟车，参观寺庙，购物",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "伦披尼公园"
+        },
+        {
+          "City_Name": "Chiang Mai",
+          "Historical_Landmarks": "素贴山，古城",
+          "Tourist_Activities": "参观大象保护区，山地寺庙",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "清迈公园"
+        },
+        {
+          "City_Name": "Phuket",
+          "Historical_Landmarks": "攀牙湾，芭东海滩",
+          "Tourist_Activities": "在海滩上放松，乘船游览",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "普吉公园"
+        },
+        {
+          "City_Name": "Ayutthaya",
+          "Historical_Landmarks": "大城历史公园",
+          "Tourist_Activities": "探索古代历史遗迹",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "大城公园"
+        },
+        {
+          "City_Name": "Krabi",
+          "Historical_Landmarks": "莱利海滩，虎穴寺",
+          "Tourist_Activities": "攀岩，在绿松石色水域游泳",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "甲米公园"
+        },
+        {
+          "City_Name": "Pattaya",
+          "Historical_Landmarks": "侬努查公园，真理寺",
+          "Tourist_Activities": "水上运动，植物园",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "侬努查公园"
+        },
+        {
+          "City_Name": "Hua Hin",
+          "Historical_Landmarks": "华欣火车站，夜市",
+          "Tourist_Activities": "在海滩上骑马，夜市",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "华欣公园"
+        },
+        {
+          "City_Name": "Pai (Pai)",
+          "Historical_Landmarks": "拜谷，瀑布",
+          "Tourist_Activities": "在温泉中放松，自然",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "拜公园"
+        },
+        {
+          "City_Name": "Kanchanaburi",
+          "Historical_Landmarks": "桂河大桥，爱侣湾瀑布",
+          "Tourist_Activities": "参观瀑布和历史遗址",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "北碧府公园"
+        },
+        {
+          "City_Name": "Sukhothai",
+          "Historical_Landmarks": "素可泰历史公园",
+          "Tourist_Activities": "在遗迹中骑行",
+          "Local_Cuisine": "泰式炒河粉，冬阴汤（汤），青木瓜沙拉，绿咖喱",
+          "Green_Spaces": "素可泰公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Peru",
+      " Cities": [
+        {
+          "City_Name": "Lima",
+          "Historical_Landmarks": "武器广场，米拉弗洛雷斯区",
+          "Tourist_Activities": "品尝世界美食，参观博物馆",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "拉尔科公园"
+        },
+        {
+          "City_Name": "Cusco",
+          "Historical_Landmarks": "武器广场，萨克赛瓦曼",
+          "Tourist_Activities": "探索印加首都，适应高原气候",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "萨帕公园"
+        },
+        {
+          "City_Name": "Machu Picchu (Aguas Calientes)",
+          "Historical_Landmarks": "马丘比丘遗址",
+          "Tourist_Activities": "参观失落的印加城市（世界奇迹）",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "马丘比丘公园"
+        },
+        {
+          "City_Name": "Arequipa",
+          "Historical_Landmarks": "圣卡塔利娜修道院，米斯蒂火山",
+          "Tourist_Activities": "看白色建筑（白色城市）",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "阿雷基帕公园"
+        },
+        {
+          "City_Name": "Puno",
+          "Historical_Landmarks": "的的喀喀湖，乌罗斯岛",
+          "Tourist_Activities": "参观的的喀喀湖上的浮岛",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "普诺公园"
+        },
+        {
+          "City_Name": "Iquitos",
+          "Historical_Landmarks": "亚马逊河，海狮救援中心",
+          "Tourist_Activities": "亚马逊雨林门户，河流之旅",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "伊基托斯公园"
+        },
+        {
+          "City_Name": "Nazca",
+          "Historical_Landmarks": "纳斯卡地画",
+          "Tourist_Activities": "飞越神秘的纳斯卡线条",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "纳斯卡公园"
+        },
+        {
+          "City_Name": "Paracas",
+          "Historical_Landmarks": "帕拉卡斯保护区，巴列斯塔斯群岛",
+          "Tourist_Activities": "乘船游览看海洋生物",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "帕拉卡斯公园"
+        },
+        {
+          "City_Name": "Huaraaz",
+          "Historical_Landmarks": "瓦斯卡兰国家公园",
+          "Tourist_Activities": "登山和安第斯山脉徒步",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "瓦拉兹公园"
+        },
+        {
+          "City_Name": "Trujillo",
+          "Historical_Landmarks": "昌昌，太阳和月亮神庙",
+          "Tourist_Activities": "参观前印加泥砖遗址",
+          "Local_Cuisine": "塞维切，洛莫萨尔塔多（炒牛肉），豚鼠（Cuy），阿吉德加利亚",
+          "Green_Spaces": "特鲁希略公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Belgium",
+      " Cities": [
+        {
+          "City_Name": "Brussels",
+          "Historical_Landmarks": "大广场，原子塔",
+          "Tourist_Activities": "参观大广场，欧盟总部",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "布鲁塞尔公园"
+        },
+        {
+          "City_Name": "Bruges",
+          "Historical_Landmarks": "钟楼，爱之湖",
+          "Tourist_Activities": "在运河上乘船游览（北方威尼斯）",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "布鲁日公园"
+        },
+        {
+          "City_Name": "Ghent",
+          "Historical_Landmarks": "格拉文斯滕城堡，圣巴夫大教堂",
+          "Tourist_Activities": "看市中心的城堡",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "根特公园"
+        },
+        {
+          "City_Name": "Antwerp",
+          "Historical_Landmarks": "圣母大教堂，钻石博物馆",
+          "Tourist_Activities": "参观钻石区，美丽的火车站",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "安特卫普公园"
+        },
+        {
+          "City_Name": "Leuven",
+          "Historical_Landmarks": "市政厅，大学图书馆",
+          "Tourist_Activities": "参观古老的大学，旧市场广场",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "鲁汶公园"
+        },
+        {
+          "City_Name": "Dinant",
+          "Historical_Landmarks": "城堡，拜亚德岩石",
+          "Tourist_Activities": "乘坐缆车到城堡，萨克斯管的诞生地",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "迪南公园"
+        },
+        {
+          "City_Name": "Liège",
+          "Historical_Landmarks": "蒙泰涅·德·比伦，吉耶曼火车站",
+          "Tourist_Activities": "攀登比伦山的台阶，品尝华夫饼",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "列日公园"
+        },
+        {
+          "City_Name": "Michelin",
+          "Historical_Landmarks": "玩具博物馆，大教堂",
+          "Tourist_Activities": "参观圣龙伯塔",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "米其林公园"
+        },
+        {
+          "City_Name": "Namur",
+          "Historical_Landmarks": "那慕尔城堡",
+          "Tourist_Activities": "探索两条河流交汇处的城堡",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "那慕尔公园"
+        },
+        {
+          "City_Name": "Ostend",
+          "Historical_Landmarks": "海滨长廊，海事博物馆",
+          "Tourist_Activities": "享受北海海滩",
+          "Local_Cuisine": "比利时华夫饼，巧克力，贻贝薯条，炸薯条",
+          "Green_Spaces": "奥斯坦德公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Poland",
+      " Cities": [
+        {
+          "City_Name": "Krakow",
+          "Historical_Landmarks": "瓦维尔城堡，纺织会馆",
+          "Tourist_Activities": "参观主广场，盐矿",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "克拉科夫公园"
+        },
+        {
+          "City_Name": "Warsaw",
+          "Historical_Landmarks": "皇家城堡，文化和科学宫",
+          "Tourist_Activities": "探索重建的旧城",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "瓦津基公园（华沙）"
+        },
+        {
+          "City_Name": "Gdansk",
+          "Historical_Landmarks": "海神喷泉，旧起重机",
+          "Tourist_Activities": "漫步历史悠久的港口，购买琥珀",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "格但斯克公园"
+        },
+        {
+          "City_Name": "Wroclaw",
+          "Historical_Landmarks": "市场广场，百年厅",
+          "Tourist_Activities": "寻找青铜小矮人雕像",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "弗罗茨瓦夫公园"
+        },
+        {
+          "City_Name": "Poznan",
+          "Historical_Landmarks": "市政厅，旧市场广场",
+          "Tourist_Activities": "观看钟楼上的机械山羊",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "波兹南公园"
+        },
+        {
+          "City_Name": "Zakopane",
+          "Historical_Landmarks": "塔特拉山，克鲁普夫斯基街",
+          "Tourist_Activities": "冬季滑雪，夏季登山",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "扎科帕内公园"
+        },
+        {
+          "City_Name": "Torun",
+          "Historical_Landmarks": "哥特式旧城",
+          "Tourist_Activities": "品尝姜饼，哥白尼出生地",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "托伦公园"
+        },
+        {
+          "City_Name": "Lublin",
+          "Historical_Landmarks": "卢布林城堡",
+          "Tourist_Activities": "参观城堡和安静的旧城",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "卢布林公园"
+        },
+        {
+          "City_Name": "Szczecin",
+          "Historical_Landmarks": "哈肯露台",
+          "Tourist_Activities": "参观波美拉尼亚公国城堡",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "什切青公园"
+        },
+        {
+          "City_Name": "Katowice",
+          "Historical_Landmarks": "西里西亚博物馆，斯波德克",
+          "Tourist_Activities": "探索现代建筑和旧矿场",
+          "Local_Cuisine": "波兰饺子，比戈斯（猎人炖菜），Żurek汤，基尔巴萨（香肠）",
+          "Green_Spaces": "卡托维兹公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Panama",
+      " Cities": [
+        {
+          "City_Name": "Panama City",
+          "Historical_Landmarks": "巴拿马运河（库莱布拉切口），旧城",
+          "Tourist_Activities": "参观运河，漫步卡斯科别霍",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "大都会公园"
+        },
+        {
+          "City_Name": "Bocas del Toro",
+          "Historical_Landmarks": "海星海滩，主岛",
+          "Tourist_Activities": "冲浪，在岛屿上放松",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "博卡斯公园"
+        },
+        {
+          "City_Name": "Boquete",
+          "Historical_Landmarks": "巴鲁火山，咖啡农场",
+          "Tourist_Activities": "攀登巴鲁火山，品尝咖啡",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "博克特公园"
+        },
+        {
+          "City_Name": "David",
+          "Historical_Landmarks": "米格尔·德·塞万提斯公园",
+          "Tourist_Activities": "购物中心和山地门户",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "戴维公园"
+        },
+        {
+          "City_Name": "Colón",
+          "Historical_Landmarks": "圣洛伦索城堡，运河",
+          "Tourist_Activities": "在自由贸易区购物，参观城堡",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "科隆公园"
+        },
+        {
+          "City_Name": "Portobelo",
+          "Historical_Landmarks": "皇家海关，黑教堂",
+          "Tourist_Activities": "探索历史悠久的堡垒和潜水",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "波托韦洛公园"
+        },
+        {
+          "City_Name": "Santa Catalina",
+          "Historical_Landmarks": "埃斯特罗海滩",
+          "Tourist_Activities": "在科伊巴岛冲浪和潜水",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "圣卡塔利娜公园"
+        },
+        {
+          "City_Name": "El Valle de Antón",
+          "Historical_Landmarks": "拉印度多姆达（山），动物园",
+          "Tourist_Activities": "参观查梅火山口的市场",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "埃尔瓦列公园"
+        },
+        {
+          "City_Name": "Chitré",
+          "Historical_Landmarks": "圣施洗约翰大教堂",
+          "Tourist_Activities": "探索传统文化和节日",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "奇特雷公园"
+        },
+        {
+          "City_Name": "San Blas Islands",
+          "Historical_Landmarks": "珊瑚岛",
+          "Tourist_Activities": "与库纳部落一起生活，原始海滩",
+          "Local_Cuisine": "塞维切，桑科乔（鸡汤），阿罗兹康波洛（米饭和鸡肉），霍尔达雷斯（炸糕点）",
+          "Green_Spaces": "圣布拉斯公园"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Selected Other Countries",
+      " Cities": [
+        {
+          "City_Name": "Botswana - Gaborone",
+          "Historical_Landmarks": "哈博罗内野生动物保护区",
+          "Tourist_Activities": "游猎和自然保护区",
+          "Local_Cuisine": "塞斯瓦（博茨瓦纳肉）",
+          "Green_Spaces": "哈博罗内野生动物保护区"
+        },
+        {
+          "City_Name": "Belize - Belize City",
+          "Historical_Landmarks": "伯利兹博物馆",
+          "Tourist_Activities": "潜入大蓝洞",
+          "Local_Cuisine": "海鲜（伯利兹）",
+          "Green_Spaces": "伯利兹博物馆"
+        },
+        {
+          "City_Name": "Bahamas - Nassau",
+          "Historical_Landmarks": "天堂岛",
+          "Tourist_Activities": "海滩和度假村",
+          "Local_Cuisine": "海螺沙拉（巴哈马）",
+          "Green_Spaces": "天堂岛"
+        },
+        {
+          "City_Name": "Bolivia - La Paz",
+          "Historical_Landmarks": "女巫市场",
+          "Tourist_Activities": "乘坐缆车（Mi Teleférico）",
+          "Local_Cuisine": "萨尔塔尼亚斯（玻利维亚）",
+          "Green_Spaces": "女巫市场"
+        },
+        {
+          "City_Name": "Bulgaria - Sofia",
+          "Historical_Landmarks": "亚历山大·涅夫斯基大教堂",
+          "Tourist_Activities": "参观东正教大教堂",
+          "Local_Cuisine": "巴尼察（保加利亚）",
+          "Green_Spaces": "索非亚公园"
+        },
+        {
+          "City_Name": "Bangladesh - Dhaka",
+          "Historical_Landmarks": "拉尔巴格堡",
+          "Tourist_Activities": "参观堡垒和熙熙攘攘的市场",
+          "Local_Cuisine": "比里亚尼（孟加拉国）",
+          "Green_Spaces": "达卡公园"
+        },
+        {
+          "City_Name": "Bhutan - Thimphu",
+          "Historical_Landmarks": "佛陀多登玛雕像",
+          "Tourist_Activities": "参观山地修道院",
+          "Local_Cuisine": "埃马达奇（不丹）",
+          "Green_Spaces": "廷布公园"
+        },
+        {
+          "City_Name": "Benin - Cotonou",
+          "Historical_Landmarks": "赞苏基金会",
+          "Tourist_Activities": "参观市场和海滩",
+          "Local_Cuisine": "阿卡萨（贝宁）",
+          "Green_Spaces": "科托努公园"
+        },
+        {
+          "City_Name": "Burkina Faso - Ouagadougou",
+          "Historical_Landmarks": "手工艺村",
+          "Tourist_Activities": "电影院和手工艺节",
+          "Local_Cuisine": "托（布基纳法索）",
+          "Green_Spaces": "瓦加杜古公园"
+        },
+        {
+          "City_Name": "Antigua - Saint Johns",
+          "Historical_Landmarks": "圣约翰大教堂",
+          "Tourist_Activities": "白沙海滩",
+          "Local_Cuisine": "丰吉（安提瓜）",
+          "Green_Spaces": "圣约翰公园"
+        }
+      ]
+    }
+  ]
+}

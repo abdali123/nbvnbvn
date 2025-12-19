@@ -1,0 +1,2103 @@
+[
+  {
+    "Country_Name": "Slovakia",
+    "Cities": [
+        {
+          "City_Name": "Bratislava (Bratislava)",
+          "Historical_Landmarks": "브라티슬라바 성, 미하엘 게이트 (중세), 대통령 궁전 (그라살코비치), 블루 교회 (엘리자베스), 구시가지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "사드 얀 코 크랄라 공원 (가장 오래된 공공 공원), 브라티슬라바 숲 공원, 다뉴브 강변."
+        },
+        {
+          "City_Name": "Košice (Košice)",
+          "Historical_Landmarks": "성 엘리자베스 대성당 (슬로바키아에서 가장 큰 교회), 어반 타워, 흘라브나 역사 거리.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "파볼 요제프 샤파리크 대학 식물원, 시티 파크 (메스트스키 파크)."
+        },
+        {
+          "City_Name": "Banská Štiavnica (Banská Štiavnica)",
+          "Historical_Landmarks": "구성과 신성 (유네스코 유산), 성삼위 광장, 야외 광산 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "산업 광산 호수 (타이치)와 숲으로 둘러싸인, 칼바리 파크."
+        },
+        {
+          "City_Name": "Piešťany (Piešťany)",
+          "Historical_Landmarks": "콜로나드 다리 (기능 건축), 나폴레옹 목욕 건물, 발네올로지 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "무성한 정원이 있는 스파 섬, 시티 파크."
+        },
+        {
+          "City_Name": "Trenčín (Trenčín)",
+          "Historical_Landmarks": "언덕 위의 웅장한 트렌친 성, 로마 바위 조각 (서기 179년), 구 유대교 회당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "성을 둘러싼 레소파크 브레지나 숲 공원."
+        },
+        {
+          "City_Name": "Levoča (Levoča)",
+          "Historical_Landmarks": "성 야고보 교회 (세계에서 가장 높은 나무 제단 보유), 구시청, 기둥.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "스피시를 둘러싼 녹색 언덕과 파노라마 뷰."
+        },
+        {
+          "City_Name": "Žilina (Žilina)",
+          "Historical_Landmarks": "마리안스케 광장, 보다틴 성 (강 합류지점), 성삼위 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "사드 SNP 공원, 질리나 물댐."
+        },
+        {
+          "City_Name": "Poprad (Poprad)",
+          "Historical_Landmarks": "역사적인 스피슈카 소보타 지구 (고딕 주택과 르네상스), 성 에기디우스 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "하이 타트라로 가는 관문, 아쿠아시티 워터 파크 (지하수)."
+        },
+        {
+          "City_Name": "Nitra (Nitra)",
+          "Historical_Landmarks": "니트라 성, 성 에메람 대성당, 조보르 수도원 (폐허).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "시호트 파크 (강변), 조보르 언덕과 산책로."
+        },
+        {
+          "City_Name": "Bardejov (Bardejov)",
+          "Historical_Landmarks": "시청 광장 (유네스코), 성 에기디우스 교회, 보존된 방어 요새.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "숲 속에 위치한 바르데요프스케 쿠펠레 스파 리조트."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Singapore",
+      "Cities": [
+        {
+          "City_Name": "Marina Bay (Marina Bay)",
+          "Historical_Landmarks": "풀러튼 호텔 (이전 우체국), 머라이언 공원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "거대한 나무가 있는 가든스 바이 더 베이, 플라워 돔."
+        },
+        {
+          "City_Name": "Chinatown (Chinatown)",
+          "Historical_Landmarks": "스리 센 부다 사원, 스리 마리암만 사원 (힌두교), 전통 상점 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "황림 공원 (스피커스 코너)."
+        },
+        {
+          "City_Name": "Sentosa (Sentosa)",
+          "Historical_Landmarks": "포트 실로소 (제2차 세계대전 요새).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "실로소, 팔라완, 탄종 해변, 자연 산책로."
+        },
+        {
+          "City_Name": "Civic District (Civic District)",
+          "Historical_Landmarks": "국립 갤러리 (이전 대법원), 구 의회 건물, 성 앤드루 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "역사적인 포트 캐닝 공원."
+        },
+        {
+          "City_Name": "Botanic Gardens (Botanic Gardens)",
+          "Historical_Landmarks": "보르켈 하우스, 비치 극장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "국립 난초원, 고대 열대우림 (유네스코 유산)."
+        },
+        {
+          "City_Name": "Little India (Little India)",
+          "Historical_Landmarks": "스리 비라마칼리암만 사원, 압둘 가푸르 모스크, 무스타파 센터.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "작은 녹지 공간과 커뮤니티 정원."
+        },
+        {
+          "City_Name": "Kampong Glam (Kampong Glam)",
+          "Historical_Landmarks": "황금 돔이 있는 술탄 모스크, 말레이 유산 센터 (이전 술탄 궁전).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "큰 공원은 없지만, 거리를 따라 심어진 야자나무로 유명."
+        },
+        {
+          "City_Name": "Katong (Katong)",
+          "Historical_Landmarks": "화려한 페라나칸 주택, 식민지 시대 건축물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "바다를 따라 뻗어있는 이스트 코스트 파크."
+        },
+        {
+          "City_Name": "Punggol (Punggol)",
+          "Historical_Landmarks": "올드 마틸다 하우스.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "코니 섬, 풍골 수로."
+        },
+        {
+          "City_Name": "Pulau Ubin (Pulau Ubin)",
+          "Historical_Landmarks": "남아있는 전통 마을 (캄폰), 오래된 화강암 채석장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "첵 자와 습지, 맹그로브 숲."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Switzerland",
+      "Cities": [
+        {
+          "City_Name": "Bern (Bern)",
+          "Historical_Landmarks": "구시가지 (유네스코), 치트글로게 시계탑, 연방 의회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "베른파크, 도시를 내려다보는 로즈 가든."
+        },
+        {
+          "City_Name": "Zurich (Zurich)",
+          "Historical_Landmarks": "그로스뮌스터 교회, 프라우뮌스터 교회 (샤갈 창문), 린덴호프 구역.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "취리히 호수, 하이킹을 위한 우틀리베르크 산."
+        },
+        {
+          "City_Name": "Geneva (Geneva)",
+          "Historical_Landmarks": "성 베드로 대성당, 유엔 궁전, 종교개혁 기념비.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "잉글리시 가든, 파크 라 그랑주, 제네바 호수와 분수."
+        },
+        {
+          "City_Name": "Lucerne (Lucerne)",
+          "Historical_Landmarks": "카펠브뤼케 목교, 무제크마우어 성벽, 사자 기념비.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "루체른 호수, 필라투스 산 (근처)."
+        },
+        {
+          "City_Name": "Basel (Basel)",
+          "Historical_Landmarks": "레드 대성당 (뮌스터), 스팔렌토어 문, 화려한 시청.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "바젤 대학교 식물원, 라인 강변."
+        },
+        {
+          "City_Name": "Lausanne (Lausanne)",
+          "Historical_Landmarks": "노트르담 대성당, 팔레 드 뤼민, 플롱 지구.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "올림픽 박물관 정원, 몽레보 파크, 근처 라보 포도원."
+        },
+        {
+          "City_Name": "Lugano (Lugano)",
+          "Historical_Landmarks": "성 로렌스 대성당, 피아자 델라 리포르마, 산타 마리아 데글리 안젤리 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "파르코 치아니, 루가노 호수, 몬테 브레."
+        },
+        {
+          "City_Name": "St. Gallen (St. Gallen)",
+          "Historical_Landmarks": "슈티프트비블리오테크 수도원 도서관 (유산), 바로크 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "피터와 폴 동물원, 드레이 바이어 초원 지역."
+        },
+        {
+          "City_Name": "Montreux (Montreux)",
+          "Historical_Landmarks": "실론 호수 성 역사적인 호숫가 성.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "호숫가를 따라 있는 꽃 산책로, 로셰르 드 나예."
+        },
+        {
+          "City_Name": "Zermatt (Zermatt)",
+          "Historical_Landmarks": "구 발레 마을 (전통 목조 주택), 마터호른 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "유명한 마터호른 산, 리펠제 호수, 고르너 협곡."
+        }
+      ]
+    },
+    {
+      "Country_Name": "France",
+      "Cities": [
+        {
+          "City_Name": "Paris",
+          "Historical_Landmarks": "에펠탑, 개선문, 루브르 박물관, 노트르담 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "룩셈부르크 정원, 튈르리 정원, 부아시 생 루이 숲."
+        },
+        {
+          "City_Name": "Lyon",
+          "Historical_Landmarks": "로마 극장, 노트르담 드 푸르비에르 교회, 트라블.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "테트 도르 대형 공원."
+        },
+        {
+          "City_Name": "Marseille",
+          "Historical_Landmarks": "노트르담 드 라 가르드 교회, 포르 생 장, 구 항구.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "칼랑크 국립 공원 (바위 만)."
+        },
+        {
+          "City_Name": "Bordeaux",
+          "Historical_Landmarks": "플라스 드 라 부르스, 생 앙드레 대성당, 그랑 테아트르.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "공공 정원 (자르뒹 퓌블릭), 가론 강변."
+        },
+        {
+          "City_Name": "Nice",
+          "Historical_Landmarks": "뷔 니스 (구시가지), 성 니콜라스 정교회 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "콜린 뒤 샤토 파크, 프로망나드 데 앵글레."
+        },
+        {
+          "City_Name": "Strasbourg",
+          "Historical_Landmarks": "스트라스부르 대성당, 프티트 프랑스 지구, 덮개 다리.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "파크 드 로랑주리."
+        },
+        {
+          "City_Name": "Toulouse",
+          "Historical_Landmarks": "성 세르냥 교회, 카피톨 광장, 아우구스티누스 수도원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "일본 정원, 가론 강과 남쪽 운하 강변."
+        },
+        {
+          "City_Name": "Nantes",
+          "Historical_Landmarks": "브르타뉴 공작 성, 부페이 지구, 낭트 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "자르뒹 데 플랑트, 일 드 베르사유."
+        },
+        {
+          "City_Name": "Aix‑en‑Provence",
+          "Historical_Landmarks": "쿠르 미라보, 성 소베르 대성당, 세잔 스튜디오.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "화가의 정원 (테렝 데 뱅티르), 몽 생 빅토르."
+        },
+        {
+          "City_Name": "Annecy",
+          "Historical_Landmarks": "팔레 드 릴, 구성.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "앙시 호수, 유럽 정원."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Syria",
+      "Cities": [
+        {
+          "City_Name": "Damascus",
+          "Historical_Landmarks": "우마이야 모스크, 알 하미디야 수크, 알 아즈 궁전, 바브 투마 문, 마론파 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "다마스커스 가우트 (역사적), 카시운 산, 티슈린 공원."
+        },
+        {
+          "City_Name": "Aleppo",
+          "Historical_Landmarks": "알레포 성, 덮인 시장 (구시가지), 위대한 모스크, 알 자디다 지구.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "공공 공원."
+        },
+        {
+          "City_Name": "Tadmur (Palmyra)",
+          "Historical_Landmarks": "벨 신전, 개선문, 로마 극장, 무덤의 계곡.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "팔미라 오아시스 (대추야자와 올리브), 우크바 샘."
+        },
+        {
+          "City_Name": "Homs",
+          "Historical_Landmarks": "성 마리아 수태고지 교회, 할리드 이븐 알 왈리드 모스크, 홈스 성.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "유프라테스 강변, 카티나 호수."
+        },
+        {
+          "City_Name": "Latakia",
+          "Historical_Landmarks": "로마 개선문, 바알베크 기둥, 국립 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "블루 비치, 근처 알 푸르칸 숲."
+        },
+        {
+          "City_Name": "Hama",
+          "Historical_Landmarks": "고대 물레방아, 알 아즈 궁전 (전통 박물관), 알 누리 모스크.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "오론테스 강을 따라 있는 물레방아 정원."
+        },
+        {
+          "City_Name": "Bosra",
+          "Historical_Landmarks": "로마 극장 (가장 잘 보존된 것 중 하나), 현무암 구시가지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "하우란 주변 평야."
+        },
+        {
+          "City_Name": "Tartus",
+          "Historical_Landmarks": "타르투스 대성당 (박물관), 구시가지, 마르카브 성 (근처).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아와드 섬, 해변 산책로."
+        },
+        {
+          "City_Name": "Ma‘loula",
+          "Historical_Landmarks": "성 타클라 수도원, 성 사르키스 수도원, 바위 절개 협곡.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "주변 바위 산과 동굴."
+        },
+        {
+          "City_Name": "Raqqa",
+          "Historical_Landmarks": "바그다드 문, 소녀들의 궁전 (아바스 왕조), 구 도시 성벽.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "유프라테스 강변."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Eswatini (Swaziland)",
+      "Cities": [
+        {
+          "City_Name": "Mbabane (Mbabane)",
+          "Historical_Landmarks": "음바바네 수공예품 시장 (문화적).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "시베베 바위 - 세계에서 두 번째로 큰 단암."
+        },
+        {
+          "City_Name": "Lobamba (Lobamba)",
+          "Historical_Landmarks": "의회, 국립 박물관, 소부자 2세 기념 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "믈릴와네 야생 보호 구역."
+        },
+        {
+          "City_Name": "Manzini (Manzini)",
+          "Historical_Landmarks": "만지니 대성당, 구 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "흘레인 왕립 공원 근처."
+        },
+        {
+          "City_Name": "Ezulwini (Ezulwini)",
+          "Historical_Landmarks": "왕들의 계곡, 만텐가 문화 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "만텐가 폭포, 시울라 보호 구역."
+        },
+        {
+          "City_Name": "Big Bend (Big Bend)",
+          "Historical_Landmarks": "역사적인 사탕수수 공장과 제분소.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "우수투 강 (악어 관찰), 루붐보 산."
+        },
+        {
+          "City_Name": "Piggs Peak (Piggs Peak)",
+          "Historical_Landmarks": "오래된 금광.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "부불라네 폭포, 마구가 댐."
+        },
+        {
+          "City_Name": "Simunye (Simunye)",
+          "Historical_Landmarks": "설탕 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "흘레인 왕립 국립 공원 - 사자의 서식지."
+        },
+        {
+          "City_Name": "Nhlangano (Nhlangano)",
+          "Historical_Landmarks": "조지 6세 왕이 소부자 왕을 만났던 장소.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "마함바 숲."
+        },
+        {
+          "City_Name": "Siteki (Siteki)",
+          "Historical_Landmarks": "오래된 선교 학교.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "마카야 게임 보호 구역 - 멸종 위기 종."
+        },
+        {
+          "City_Name": "Malkerns (Malkerns)",
+          "Historical_Landmarks": "스와지 촛불 작업장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "녹색 농지와 계곡."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Suriname",
+      "Cities": [
+        {
+          "City_Name": "Paramaribo",
+          "Historical_Landmarks": "역사적인 도시 (유네스코), 포트 질란디아, 성 베드로와 바울의 목조 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "팔멘투인 (야자 정원), 수리남 강변."
+        },
+        {
+          "City_Name": "Nieuw Nickerie",
+          "Historical_Landmarks": "도시 시장, 이주 기념물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "비기판 자연 보호 구역 - 새와 습지."
+        },
+        {
+          "City_Name": "Moengo",
+          "Historical_Landmarks": "보크사이트 채굴 역사, 현대 미술 설치물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "주변 숲과 강."
+        },
+        {
+          "City_Name": "Albina",
+          "Historical_Landmarks": "오래된 프랑스 교도소 (폐허), 식민지 시대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "갈리비 거북 보호 지역."
+        },
+        {
+          "City_Name": "Groningen",
+          "Historical_Landmarks": "네덜란드 이주 기념물, 중앙 광장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "사라마카 강."
+        },
+        {
+          "City_Name": "Jodensavanne",
+          "Historical_Landmarks": "아메리카에서 가장 오래된 유대교 회당 폐허, 역사적인 묘지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "수리남 강과 주변 밀림."
+        },
+        {
+          "City_Name": "Domburg",
+          "Historical_Landmarks": "오래된 농장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "강변의 화이트 비치 (산업)."
+        },
+        {
+          "City_Name": "Brokopondo",
+          "Historical_Landmarks": "댐 기념비.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "브로코폰도 저수지 (큰 호수), 통카 섬."
+        },
+        {
+          "City_Name": "Wageningen",
+          "Historical_Landmarks": "역사적인 벼 재배 중심지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "광범위한 벼 논."
+        },
+        {
+          "City_Name": "Totness",
+          "Historical_Landmarks": "오래된 위원 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "운하와 야자나무 (코로니)."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Vietnam",
+      "Cities": [
+        {
+          "City_Name": "Hanoi",
+          "Historical_Landmarks": "호치민 묘소, 문묘, 황성.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "호안끼엠 호수, 서호."
+        },
+        {
+          "City_Name": "Hoi An",
+          "Historical_Landmarks": "구시가지 (유네스코), 일본 다리, 중국 회관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "안방 해변, 트라 키우의 논."
+        },
+        {
+          "City_Name": "Ho Chi Minh City",
+          "Historical_Landmarks": "통일 궁, 노트르담 대성당, 중앙 우체국.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "타오단 공원, 사이공 강변."
+        },
+        {
+          "City_Name": "Hue",
+          "Historical_Landmarks": "황성 (성), 황제 무덤, 티엔 무 사원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "향강, 폰강 언덕."
+        },
+        {
+          "City_Name": "Ha Long",
+          "Historical_Landmarks": "바이차이 다리.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "하롱베이 (유네스코) - 석회암 섬과 동굴."
+        },
+        {
+          "City_Name": "Sapa (Sapa)",
+          "Historical_Landmarks": "오래된 돌 교회, 부족 마을 (캣 캣).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "판시판 산, 무옹호아 계곡, 은빛 폭포."
+        },
+        {
+          "City_Name": "Nha Trang",
+          "Historical_Landmarks": "포 나가르 탑 (참), 나트랑 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "나트랑 해변, 원숭이 섬."
+        },
+        {
+          "City_Name": "Da Nang",
+          "Historical_Landmarks": "용 다리, 참 조각 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "대리석 산, 미케 해변, 손트라 반도."
+        },
+        {
+          "City_Name": "Da Lat",
+          "Historical_Landmarks": "바오다이 황제의 여름 궁전, 오래된 기차역, 크레이지 하우스.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "쉬안황 호수, 다탄라 폭포, 러브 밸리."
+        },
+        {
+          "City_Name": "Ninh Binh",
+          "Historical_Landmarks": "바이디엔 사원, 고대 수도 호아루.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "탐콕 (야생 하롱베이), 반롱 자연 보호 구역."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Ghana",
+      "Cities": [
+        {
+          "City_Name": "Accra",
+          "Historical_Landmarks": "오수 성 (크리스티안스보르크), 독립 광장, 제임스 타운 등대.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "라바디 해변, 레곤 식물원."
+        },
+        {
+          "City_Name": "Cape Coast",
+          "Historical_Landmarks": "케이프 코스트 성 (노예 무역 역사), 식민지 시대 주택.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "케이프 코스트 해변."
+        },
+        {
+          "City_Name": "Elmina",
+          "Historical_Landmarks": "성 조지 성 (아프리카에서 가장 오래된 유럽 건물), 퀸스 래그 요새.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "벤냐 호수."
+        },
+        {
+          "City_Name": "Kumasi",
+          "Historical_Landmarks": "만히아 궁전 (아샨티 왕국), 오콤포 안오키 검 부지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "보수 모티 화산호, 쿠마시 정원."
+        },
+        {
+          "City_Name": "Tamale",
+          "Historical_Landmarks": "고대 진흙 모스크 (근처 라라방가), 타말레 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "몰레 국립 공원 (사파리)."
+        },
+        {
+          "City_Name": "Ho (Ho)",
+          "Historical_Landmarks": "지역 박물관, 오래된 독일 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아달카 산, 블리 폭포."
+        },
+        {
+          "City_Name": "Takoradi",
+          "Historical_Landmarks": "역사적인 항구, 마켓 서클 (로툰다).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "부수아 해변."
+        },
+        {
+          "City_Name": "Akwasombo",
+          "Historical_Landmarks": "아크와솜보 댐.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "볼타 호수, 도리 섬."
+        },
+        {
+          "City_Name": "Koforidua",
+          "Historical_Landmarks": "전통 구슬 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "와티 폭포, 우산 바위."
+        },
+        {
+          "City_Name": "Bolgatanga",
+          "Historical_Landmarks": "예술 및 공예 마을, 성심 대성당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "통고 바위 언덕."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Sierra Leone",
+      "Cities": [
+        {
+          "City_Name": "Freetown",
+          "Historical_Landmarks": "코튼 트리 (자유의 상징), 킹스 게이트, 철도 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "로메 해변, 타쿠가마 침팬지 보호소."
+        },
+        {
+          "City_Name": "Bans Island",
+          "Historical_Landmarks": "노예 성 폐허 (영향력 있는 역사적 장소).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "시에라리온 강과 숲으로 둘러싸인 섬."
+        },
+        {
+          "City_Name": "Bo (Bo)",
+          "Historical_Landmarks": "보 게이트, 정부 고등학교.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "주변 정원."
+        },
+        {
+          "City_Name": "Kenema",
+          "Historical_Landmarks": "다이아몬드 무역 센터.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "골라 우림 근처."
+        },
+        {
+          "City_Name": "Makeni",
+          "Historical_Landmarks": "중앙 모스크.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "마케니 언덕."
+        },
+        {
+          "City_Name": "Kabala",
+          "Historical_Landmarks": "오래된 식민지 시대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "비네타니 산, 경치 좋은 고원."
+        },
+        {
+          "City_Name": "Waterloo",
+          "Historical_Landmarks": "해방된 이주자 묘지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "근처 반도 해변."
+        },
+        {
+          "City_Name": "Shenge",
+          "Historical_Landmarks": "오래된 요새 잔재.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "터틀 섬."
+        },
+        {
+          "City_Name": "Bonti",
+          "Historical_Landmarks": "오래된 크리올 건축물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "셔브로 섬, 맹그로브 나무."
+        },
+        {
+          "City_Name": "Rokuper",
+          "Historical_Landmarks": "강 무역 역사.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "그레이트 카바 강."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Seychelles",
+      "Cities": [
+        {
+          "City_Name": "Victoria",
+          "Historical_Landmarks": "시계탑 (롤로즈), 아룰 미우 사원, 자연사 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "국립 식물원, 모른 세이셸로아 국립 공원."
+        },
+        {
+          "City_Name": "Port Glaud",
+          "Historical_Landmarks": "오래된 주거 지역.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "유명한 포르 글로 해변, 메리 메이저 트레일."
+        },
+        {
+          "City_Name": "Anse Royale",
+          "Historical_Landmarks": "향신료 정원 (자르뒤 루아).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "앙스 로얄 해변, 수정처럼 맑은 물."
+        },
+        {
+          "City_Name": "La Digue (La Passe)",
+          "Historical_Landmarks": "유니온 에스테이트, 플랜테이션 하우스.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "앙스 소르 다르군 (화강암 바위), 파리채새 보호 구역."
+        },
+        {
+          "City_Name": "Grand Anse (Praslin)",
+          "Historical_Landmarks": "지역 기념물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "발레 드 메 – 코코 드 메르의 서식지 (유네스코)."
+        },
+        {
+          "City_Name": "Takamaka",
+          "Historical_Landmarks": "지역 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "앙스 인텐던스 해변."
+        },
+        {
+          "City_Name": "Bel Ombre",
+          "Historical_Landmarks": "해적 보물 장소 라 부즈 (전설).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "앙스 마조레 트레일."
+        },
+        {
+          "City_Name": "Baie Saint Anne",
+          "Historical_Landmarks": "페리 터미널.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "폰디 페르디난드 보호 구역."
+        },
+        {
+          "City_Name": "Silhouette Island",
+          "Historical_Landmarks": "두반 가족 무덤, 오래된 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "밀집된 열대 우림과 해양 보호 구역."
+        },
+        {
+          "City_Name": "Anse Boileau",
+          "Historical_Landmarks": "전통 어촌.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "조용한 만과 맹그로브 나무."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Tajikistan",
+      "Cities": [
+        {
+          "City_Name": "Dushanbe",
+          "Historical_Landmarks": "이스마일 소모니 동상, 요새 (근처), 국립 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "루다키 공원, 콤소몰 호수, 승리 공원."
+        },
+        {
+          "City_Name": "Khujand",
+          "Historical_Landmarks": "후잔드 요새, 판잔셰베 시장, 셰이크 모슬레우딘 마솔레움.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "시르다리아 강변, 후잔드 카밀 정원."
+        },
+        {
+          "City_Name": "Banjikant",
+          "Historical_Landmarks": "고대 반지칸트 폐허 (중앙아시아의 폼페이), 루다키 출생지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "판 산 (하프 쿨) 판 산."
+        },
+        {
+          "City_Name": "Istaravshan",
+          "Historical_Landmarks": "오래된 요새 (무그 테페), 코크 곰바즈 학교.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "과수원과 주변 언덕."
+        },
+        {
+          "City_Name": "Khorugh",
+          "Historical_Landmarks": "지역 역사 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "식물원 (세계에서 두 번째로 높은), 파미르 산."
+        },
+        {
+          "City_Name": "Kulob",
+          "Historical_Landmarks": "미르 사이드 알리 함다니 마솔레움.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "야크슈오 계곡."
+        },
+        {
+          "City_Name": "Margab",
+          "Historical_Landmarks": "레닌 동상, 지역 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "높은 파미르 고원, 카라쿨 호수."
+        },
+        {
+          "City_Name": "Hisar",
+          "Historical_Landmarks": "히사르 요새, 오래된 학교.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "비옥한 주변 계곡."
+        },
+        {
+          "City_Name": "Nurek",
+          "Historical_Landmarks": "누렉 댐 (세계에서 가장 높은 흙채움 댐).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "누렉 저수지 (푸른 호수)."
+        },
+        {
+          "City_Name": "Isfara",
+          "Historical_Landmarks": "고대 이슬람 성소.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "살구 과수원, 바위 산."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Gambia",
+      "Cities": [
+        {
+          "City_Name": "Banjul",
+          "Historical_Landmarks": "아치 22, 국립 박물관, 앨버트 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "감비아 강 하구."
+        },
+        {
+          "City_Name": "Serrekunda",
+          "Historical_Landmarks": "북적이는 세레쿤다 시장, 전통 레슬링 경기장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아부코 자연 보호 구역."
+        },
+        {
+          "City_Name": "Bakau",
+          "Historical_Landmarks": "카치칼리 악어 박물관 (성스러운 장소).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "식물원, 악어 연못."
+        },
+        {
+          "City_Name": "Juffureh",
+          "Historical_Landmarks": "노예 박물관, 쿤타 킨테 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "강변."
+        },
+        {
+          "City_Name": "Kunta Kinte Island",
+          "Historical_Landmarks": "제임스 요새 (유네스코) – 역사적 폐허.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "강 섬."
+        },
+        {
+          "City_Name": "Janjanbureh",
+          "Historical_Landmarks": "와수 석원, 식민지 시대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "강 캠프, 하마 관찰."
+        },
+        {
+          "City_Name": "Tougi",
+          "Historical_Landmarks": "통기 마을 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "통기 새 보호 구역, 해변."
+        },
+        {
+          "City_Name": "Jongur",
+          "Historical_Landmarks": "지역 모스크.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "환경 보호 센터, 모래 해변."
+        },
+        {
+          "City_Name": "Briama",
+          "Historical_Landmarks": "목공예품 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "마카수토 문화 숲 (야자나무 숲)."
+        },
+        {
+          "City_Name": "Kartong",
+          "Historical_Landmarks": "감비아에서 가장 오래된 정착지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "할리나 강, 파충류 보호 구역."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Grenada",
+      "Cities": [
+        {
+          "City_Name": "St. George's",
+          "Historical_Landmarks": "조지 요새, 프레더릭 요새, 신달 터널, 국립 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "앤넌데일 폭포, 그랜드 앤스 해변."
+        },
+        {
+          "City_Name": "Gouyave",
+          "Historical_Landmarks": "너트메그 가공 공장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "콩코드 폭포."
+        },
+        {
+          "City_Name": "Grand Anse",
+          "Historical_Landmarks": "식민지 시대 건물, 초콜릿 공장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "앙투안 호수, 카르멜 산 폭포."
+        },
+        {
+          "City_Name": "Victoria",
+          "Historical_Landmarks": "전통 어촌.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "선셋 베이."
+        },
+        {
+          "City_Name": "Sauteurs",
+          "Historical_Landmarks": "리퍼스 언덕 역사적 장소.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "레베라 베이, 슈거 섬."
+        },
+        {
+          "City_Name": "Carriacou (Hillsborough)",
+          "Historical_Landmarks": "지역 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "산호 정원, 파라다이스 해변."
+        },
+        {
+          "City_Name": "St. David",
+          "Historical_Landmarks": "로라 허브 & 스파이스 정원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "라 사지스 해변."
+        },
+        {
+          "City_Name": "Tivoli",
+          "Historical_Landmarks": "역사적인 팔몽트 플랜테이션.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "유기농 정원."
+        },
+        {
+          "City_Name": "Grand Etang",
+          "Historical_Landmarks": "숲 센터.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "그랜드 에탕 호수 (화산 분화구), 열대우림."
+        },
+        {
+          "City_Name": "Morne Rouge",
+          "Historical_Landmarks": "역사적인 호텔.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "BBC 해변."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Malta",
+      "Cities": [
+        {
+          "City_Name": "Valletta",
+          "Historical_Landmarks": "성 요한 대성당, 그랜드마스터 궁전, 전쟁 박물관, 성 엘모 요새.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "상부 및 하부 바라카 정원 (파노라마 뷰)."
+        },
+        {
+          "City_Name": "Mdina",
+          "Historical_Landmarks": "성벽으로 둘러싸인 구시가지, 성 바울 대성당, 귀족 궁전.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "디나 도랑 (현재 정원)."
+        },
+        {
+          "City_Name": "Rabat",
+          "Historical_Landmarks": "카타콤, 로마 빌라.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "부스켓 정원 – 유일한 숲."
+        },
+        {
+          "City_Name": "Victoria (Gozo)",
+          "Historical_Landmarks": "치타델라, 오래된 감옥.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "빌라 랜들 정원."
+        },
+        {
+          "City_Name": "Three Cities (Birgu)",
+          "Historical_Landmarks": "성 안젤로 요새, 종교 재판관 궁전, 해양 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "요트 항구."
+        },
+        {
+          "City_Name": "Marsaxlokk",
+          "Historical_Landmarks": "델리마라 요새.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "성 베드로 풀, 델리마라 해안."
+        },
+        {
+          "City_Name": "Mellieha",
+          "Historical_Landmarks": "성 아가타 타워 (붉은 탑), 전쟁 대피소.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "가디라 새 보호 구역, 모래 해변."
+        },
+        {
+          "City_Name": "Tarxien",
+          "Historical_Landmarks": "타르시엔 사원 (선사시대).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "작은 현대 정원."
+        },
+        {
+          "City_Name": "Qrendi",
+          "Historical_Landmarks": "하가르 칸과 므나그라 사원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "블루 그로토, 바위 절벽."
+        },
+        {
+          "City_Name": "Mosta",
+          "Historical_Landmarks": "모스타 돔 (로툰다) – 세 번째로 큰 지지 없는 돔.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "스페란자 계곡."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cuba",
+      "Cities": [
+        {
+          "City_Name": "Havana",
+          "Historical_Landmarks": "아바나 구시가지, 카피톨리오, 카스티요 델 모로, 혁명 광장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아바나 숲 (보스케 데 라 아바나)."
+        },
+        {
+          "City_Name": "Trinidad",
+          "Historical_Landmarks": "식민지 시대 도시 (유네스코), 종탑, 설탕 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "토베스 데 쿠얀테스 폭포, 설탕 계곡."
+        },
+        {
+          "City_Name": "Varadero",
+          "Historical_Landmarks": "자나두 궁전.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "카요 히카코스 반도, 암브로시오 동굴."
+        },
+        {
+          "City_Name": "Sinfuegos",
+          "Historical_Landmarks": "발리 궁전 (무어 스타일), 테리 극장, 승리 아치.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "식물원, 엘 니초 폭포."
+        },
+        {
+          "City_Name": "Viñales",
+          "Historical_Landmarks": "선사 시대 벽화.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "비냘레스 계곡 (카르스트 산), 인디언 동굴."
+        },
+        {
+          "City_Name": "Santiago de Cuba",
+          "Historical_Landmarks": "산 페드로 데 라 로카 요새, 산타 이네스 묘지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "바코나와 공원, 주변 산."
+        },
+        {
+          "City_Name": "Camagüey",
+          "Historical_Landmarks": "카르멘 광장, 오래된 교회, 도자기 가마.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "카지노 캄비스터 도시 공원."
+        },
+        {
+          "City_Name": "Santa Clara",
+          "Historical_Landmarks": "체 게바라 기념비, 장갑열차.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "카피로 언덕."
+        },
+        {
+          "City_Name": "Baracoa",
+          "Historical_Landmarks": "누에스트라 세뇨라 데 라 칸델라리아 대성당, 마치엔 요새.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "윤케 산, 타와 강."
+        },
+        {
+          "City_Name": "Holguín",
+          "Historical_Landmarks": "크루즈 데 라 로마 언덕.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "나랑호 만, 과르다라바카 해변."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guatemala",
+      "Cities": [
+        {
+          "City_Name": "Antigua",
+          "Historical_Landmarks": "산타 카탈리나 아치, 라 메르세드 교회, 카푸친 수도원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아구아 화산, 중앙 공원."
+        },
+        {
+          "City_Name": "Tikal (Park)",
+          "Historical_Landmarks": "위대한 마야 피라미드, 사원 I과 II.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "주변 열대우림, 야생 동물."
+        },
+        {
+          "City_Name": "Lake Atitlán (Panajachel)",
+          "Historical_Landmarks": "전통 마야 마을, 식민지 시대 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "화산 호수, 아티틀란 보호 구역."
+        },
+        {
+          "City_Name": "Chichicastenango",
+          "Historical_Landmarks": "산토 토마스 교회 (마야-가톨릭 의식), 화려한 묘지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "신성한 언덕 (바스쿠알 아바이)."
+        },
+        {
+          "City_Name": "Quetzaltenango (Xela)",
+          "Historical_Landmarks": "역사적인 중심지, 시립 극장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "산타 마리아 화산, 고릴라 데 로스 리리오스 샘."
+        },
+        {
+          "City_Name": "Flores",
+          "Historical_Landmarks": "섬의 오래된 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "페텐 이사 호수."
+        },
+        {
+          "City_Name": "Cobán",
+          "Historical_Landmarks": "칼바리오 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "난초 보호 구역, 시목스 참페 (자연 수영장)."
+        },
+        {
+          "City_Name": "Livingston",
+          "Historical_Landmarks": "가리푸나 문화.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "리오 둘세, 일곱 폭포."
+        },
+        {
+          "City_Name": "Guatemala City",
+          "Historical_Landmarks": "국립 문화 궁전, 대성당, 지형도.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "라 아우로라 동물원."
+        },
+        {
+          "City_Name": "Rio Hondo",
+          "Historical_Landmarks": "화석 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "시에라 데 라스 미나스 구름 숲."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Luxembourg",
+      "Cities": [
+        {
+          "City_Name": "Luxembourg City",
+          "Historical_Landmarks": "카세마트 (방어 터널), 그랜드 듀칼 궁전, 아돌프 다리.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "페트뤼스 계곡, 미렐 공원."
+        },
+        {
+          "City_Name": "Vianden",
+          "Historical_Landmarks": "비안덴 성 (유럽에서 가장 아름다운 성 중 하나), 빅토르 위고 하우스.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "우어 강, 주변 숲 (케이블카 탑승)."
+        },
+        {
+          "City_Name": "Echternach",
+          "Historical_Landmarks": "베네딕트 수도원, 로마 바실리카.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "에흐테르나흐 호수, 몰레르탈 바위 형성."
+        },
+        {
+          "City_Name": "Clervaux",
+          "Historical_Landmarks": "성 (인간 박물관 전시), 수도원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아르덴의 자연 공원."
+        },
+        {
+          "City_Name": "Larochette",
+          "Historical_Landmarks": "라로슈트 성 폐허.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "몰레르탈 숲 (작은 스위스)."
+        },
+        {
+          "City_Name": "Bofferdange",
+          "Historical_Landmarks": "보퍼당지 성 (중세 및 르네상스).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "바위 하이킹 트레일."
+        },
+        {
+          "City_Name": "Mondorf‑les‑Bains",
+          "Historical_Landmarks": "항공 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "온천 공원."
+        },
+        {
+          "City_Name": "Esch‑sur‑Alzette",
+          "Historical_Landmarks": "높은 용광로 (비엘발 – 산업 유산).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "가엘그 비에르크 공원."
+        },
+        {
+          "City_Name": "Remich",
+          "Historical_Landmarks": "와인 게이트.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "하프 레미히 자연 보호 구역, 모젤 강."
+        },
+        {
+          "City_Name": "Wiltz",
+          "Historical_Landmarks": "빌츠 성, 국가 파업 기념비.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "빌츠 정원."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Costa Rica",
+      "Cities": [
+        {
+          "City_Name": "San José",
+          "Historical_Landmarks": "국립 극장, 금 박물관, 국립 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "라 사바나 공원, 스피로 나비 정원."
+        },
+        {
+          "City_Name": "La Fortuna",
+          "Historical_Landmarks": "지역 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아레날 화산, 라 포르투나 폭포, 온천."
+        },
+        {
+          "City_Name": "Monteverde",
+          "Historical_Landmarks": "치즈 공장 (퀘이커).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "안개 숲 (행어 다리), 코리 찬차 보호 구역."
+        },
+        {
+          "City_Name": "Manuel Antonio",
+          "Historical_Landmarks": "주목할 만한 건축 유산 없음.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "국립 공원 (해변, 원숭이, 나무늘보)."
+        },
+        {
+          "City_Name": "Tortuguero",
+          "Historical_Landmarks": "수로 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "토르투게로 국립 공원 (바다 거북 알낳기)."
+        },
+        {
+          "City_Name": "Liberia",
+          "Historical_Landmarks": "화이트 시티 (식민지 시대 주택).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "린콘 데 라 비에하 화산 공원."
+        },
+        {
+          "City_Name": "Puerto Viejo",
+          "Historical_Landmarks": "카리브 문화.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "코코 해변, 재규어 구조 센터."
+        },
+        {
+          "City_Name": "Tamarindo",
+          "Historical_Landmarks": "오래된 어촌.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "라스 바울라스 해양 보호 구역 (가죽등 거북)."
+        },
+        {
+          "City_Name": "Cartago",
+          "Historical_Landmarks": "천사의 성모 대성당, 교회 폐허.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "이라수 화산 호수."
+        },
+        {
+          "City_Name": "Ovita",
+          "Historical_Landmarks": "고래 꼬리 모양 바위 형성.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "마리노 발레나 국립 공원."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Serbia",
+      "Cities": [
+        {
+          "City_Name": "Belgrade",
+          "Historical_Landmarks": "칼레메그단 요새, 성 사바 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "아다 치간리야 섬."
+        },
+        {
+          "City_Name": "Novi Sad",
+          "Historical_Landmarks": "페트로바라딘 요새, 자유 광장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "다뉴브 공원."
+        },
+        {
+          "City_Name": "Niš",
+          "Historical_Landmarks": "해골 탑, 니시 요새.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "니슈카 반야 리조트."
+        },
+        {
+          "City_Name": "Subotica",
+          "Historical_Landmarks": "시청 (아르누보), 회당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "팔리치 호수."
+        },
+        {
+          "City_Name": "Kragujevac",
+          "Historical_Landmarks": "쇼메이커 기념 공원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "호수 그루니."
+        },
+        {
+          "City_Name": "Novi Pazar",
+          "Historical_Landmarks": "툰 세계 모스크, 수보티카 수도원.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "산 골리아."
+        },
+        {
+          "City_Name": "Zrenjanin",
+          "Historical_Landmarks": "시청.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "스타리 페기 자연 보호 구역."
+        },
+        {
+          "City_Name": "Smederevo",
+          "Historical_Landmarks": "스메데레보 요새 (가장 큰 저지대 요새).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "다뉴브 강."
+        },
+        {
+          "City_Name": "Sombor",
+          "Historical_Landmarks": "군청 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "고르니 부딤 국립 공원."
+        },
+        {
+          "City_Name": "Glogovac",
+          "Historical_Landmarks": "글로고바츠 성.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "제르다프 국립 공원 (아이언 게이트)."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Kiribati",
+      "Cities": [
+        {
+          "City_Name": "South Tarawa",
+          "Historical_Landmarks": "제2차 세계대전 전투 장소, 일본 총.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "해변과 해안 석호."
+        },
+        {
+          "City_Name": "Betio",
+          "Historical_Landmarks": "전쟁 묘지, 군사 벙커.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "해양 보호 구역."
+        },
+        {
+          "City_Name": "Ambo",
+          "Historical_Landmarks": "의회 건물 (마네아바).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "해안 워터프런트."
+        },
+        {
+          "City_Name": "Bonriki",
+          "Historical_Landmarks": "국제 공항.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "자연 물탱크."
+        },
+        {
+          "City_Name": "London (Kiritimati)",
+          "Historical_Landmarks": "이전 핵 실험 장소.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "새 보호 구역."
+        },
+        {
+          "City_Name": "Banana",
+          "Historical_Landmarks": "전통 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "숲과 야자나무 숲."
+        },
+        {
+          "City_Name": "Tabuaeran",
+          "Historical_Landmarks": "지역 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "바다 경치."
+        },
+        {
+          "City_Name": "Abariringa",
+          "Historical_Landmarks": "문화 유적지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "바다 경치."
+        },
+        {
+          "City_Name": "Butaritari",
+          "Historical_Landmarks": "전통 다리.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "맹그로브 나무."
+        },
+        {
+          "City_Name": "Berik",
+          "Historical_Landmarks": "정부 사무실.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "공공 광장."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Malawi",
+      "Cities": [
+        {
+          "City_Name": "Lilongwe",
+          "Historical_Landmarks": "제2차 세계대전 기념비, 오래된 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "야생 동물 센터, 식물원."
+        },
+        {
+          "City_Name": "Blantyre",
+          "Historical_Landmarks": "성 미카엘 교회, 만달라 박물관 (가장 오래된 건물).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "산 미시리."
+        },
+        {
+          "City_Name": "Zomba",
+          "Historical_Landmarks": "오래된 의회 건물, 기념비.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "좀바 고원, 윌리엄 폭포."
+        },
+        {
+          "City_Name": "Mangochi",
+          "Historical_Landmarks": "말라위 호수 박물관, 시계탑.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "말라위 호수, 라이언스 게이트 공원."
+        },
+        {
+          "City_Name": "Nkhatabay",
+          "Historical_Landmarks": "노예 무역 역사.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "치칼리 해변, 숲."
+        },
+        {
+          "City_Name": "Mzuzu",
+          "Historical_Landmarks": "므주주 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "페야 숲."
+        },
+        {
+          "City_Name": "Karonga",
+          "Historical_Landmarks": "문화 센터와 공룡 박물관.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "호수 호안."
+        },
+        {
+          "City_Name": "Salima",
+          "Historical_Landmarks": "지역 역사 유적지.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "센가 베이."
+        },
+        {
+          "City_Name": "Monkey Bay",
+          "Historical_Landmarks": "어업 항구.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "말라위 호수 국립 공원."
+        },
+        {
+          "City_Name": "Dedza",
+          "Historical_Landmarks": "바위 미술 (청고니 – 유네스코).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "산 데드자."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Curaçao",
+      "Cities": [
+        {
+          "City_Name": "Willemstad",
+          "Historical_Landmarks": "뜨는 엠마 여왕 다리, 유네스코 등재 푼다 지구, 미크베 이스라엘 회당.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "맘보 비치."
+        },
+        {
+          "City_Name": "Westpunt",
+          "Historical_Landmarks": "성 베드로 교회.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "플라야 포르티."
+        },
+        {
+          "City_Name": "Sint Michiel",
+          "Historical_Landmarks": "성트 미셸 요새.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "블루 베이."
+        },
+        {
+          "City_Name": "Lagoon",
+          "Historical_Landmarks": "오래된 플랜테이션 하우스 (란드하위스).",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "플라야 라군 (거북)."
+        },
+        {
+          "City_Name": "Barber",
+          "Historical_Landmarks": "오래된 카포크 나무, 시장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "호프 파스토르 공원."
+        },
+        {
+          "City_Name": "Sabana Westpunt",
+          "Historical_Landmarks": "어부 마을.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "그로트 크니페 해변."
+        },
+        {
+          "City_Name": "Terra Kora",
+          "Historical_Landmarks": "풍차.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "하토 평원."
+        },
+        {
+          "City_Name": "Soto",
+          "Historical_Landmarks": "오래된 소금 농장.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "산타 크루즈 해변."
+        },
+        {
+          "City_Name": "Julianadorp",
+          "Historical_Landmarks": "오래된 쉘 오일 빌라.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "사유 정원."
+        },
+        {
+          "City_Name": "Jan Thiel",
+          "Historical_Landmarks": "해안 요새 잔재.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "소금 밭 (플라밍고 서식지)."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guinea",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 2 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 3 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 4 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 5 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 6 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 7 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 8 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 9 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 10 in Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guinea‑Bissau",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 2 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 3 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 4 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 5 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 6 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 7 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 8 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 9 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 10 in Guinea‑Bissau",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Equatorial Guinea",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 2 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 3 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 4 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 5 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 6 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 7 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 8 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 9 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 10 in Equatorial Guinea",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cape Verde",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 2 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 3 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 4 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 5 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 6 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 7 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 8 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 9 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 10 in Cape Verde",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Kosovo",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 2 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 3 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 4 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 5 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 6 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 7 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 8 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 9 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        },
+        {
+          "City_Name": "Region 10 in Kosovo",
+          "Historical_Landmarks": "지역 역사 유적지와 고대 건물.",
+          "Tourist_Activities": "관광 활동 검색",
+          "Local_Cuisine": "인기 요리 검색",
+          "Green_Spaces": "지역 경치와 녹색 공원."
+        }
+      ]
+    }
+  ]
+]

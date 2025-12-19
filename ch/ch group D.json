@@ -1,0 +1,2103 @@
+[
+  {
+    "Country_Name": "Slovakia",
+    "Cities": [
+        {
+          "City_Name": "Bratislava (Bratislava)",
+          "Historical_Landmarks": "布拉迪斯拉发城堡，米歇尔门（中世纪），总统府（格拉萨尔科维奇），蓝色教堂（伊丽莎白），老城区。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "萨德扬科克拉公园（最古老的公共公园），布拉迪斯拉发森林公园，多瑙河岸。"
+        },
+        {
+          "City_Name": "Košice (Košice)",
+          "Historical_Landmarks": "圣伊丽莎白大教堂（斯洛伐克最大的教堂），城市塔，赫拉夫纳历史街道。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "帕沃尔·约瑟夫·沙法里克大学植物园，城市公园（Mestský Park）。"
+        },
+        {
+          "City_Name": "Banská Štiavnica (Banská Štiavnica)",
+          "Historical_Landmarks": "旧城堡和新城堡（联合国教科文组织遗产），圣三一广场，露天采矿博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "工业采矿湖泊（Tajchy）被森林环绕，卡尔瓦里公园。"
+        },
+        {
+          "City_Name": "Piešťany (Piešťany)",
+          "Historical_Landmarks": "科洛纳德桥（功能建筑），拿破仑浴场建筑，浴场学博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "拥有茂密花园的温泉岛，城市公园。"
+        },
+        {
+          "City_Name": "Trenčín (Trenčín)",
+          "Historical_Landmarks": "山上雄伟的特伦钦城堡，罗马岩石雕刻（可追溯至公元179年），老犹太教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "环绕城堡的莱斯帕克布雷济纳森林公园。"
+        },
+        {
+          "City_Name": "Levoča (Levoča)",
+          "Historical_Landmarks": "圣雅各教堂（拥有世界上最高的木制祭坛），旧市政厅，颈手枷。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "环绕斯皮什的绿色山丘，可欣赏全景。"
+        },
+        {
+          "City_Name": "Žilina (Žilina)",
+          "Historical_Landmarks": "玛丽安斯克广场，博达廷城堡（位于河流汇合处），圣三一教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "萨德SNP公园，日利纳水坝。"
+        },
+        {
+          "City_Name": "Poprad (Poprad)",
+          "Historical_Landmarks": "历史悠久的斯皮什斯卡索博塔区（哥特式房屋和文艺复兴建筑），圣吉迪乌斯教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "通往高塔特拉山脉的门户，阿夸城水上公园（地下水）。"
+        },
+        {
+          "City_Name": "Nitra (Nitra)",
+          "Historical_Landmarks": "尼特拉城堡，圣埃默拉姆大教堂，佐博尔修道院（废墟）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "西霍特公园（河边），佐博尔山和步行道。"
+        },
+        {
+          "City_Name": "Bardejov (Bardejov)",
+          "Historical_Landmarks": "市政厅广场（联合国教科文组织），圣吉迪乌斯教堂，保存完好的防御工事。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "巴尔德约夫温泉度假村，坐落在森林中。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Singapore",
+      "Cities": [
+        {
+          "City_Name": "Marina Bay (Marina Bay)",
+          "Historical_Landmarks": "富丽敦酒店（前身为邮局），鱼尾狮公园。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "滨海湾花园及其巨型树木，花穹。"
+        },
+        {
+          "City_Name": "Chinatown (Chinatown)",
+          "Historical_Landmarks": "斯里森布达寺，斯里马里安曼兴都庙，传统店屋建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "黄林公园（演说者角）。"
+        },
+        {
+          "City_Name": "Sentosa (Sentosa)",
+          "Historical_Landmarks": "西洛索堡（第二次世界大战堡垒）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "西洛索、帕拉万和丹戎海滩，自然步行道。"
+        },
+        {
+          "City_Name": "Civic District (Civic District)",
+          "Historical_Landmarks": "国家美术馆（前身为最高法院），旧国会大厦，圣安德烈教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "历史悠久的福康宁公园。"
+        },
+        {
+          "City_Name": "Botanic Gardens (Botanic Gardens)",
+          "Historical_Landmarks": "博克尔故居，海滩剧院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "国家胡姬花园，古老雨林（联合国教科文组织遗址）。"
+        },
+        {
+          "City_Name": "Little India (Little India)",
+          "Historical_Landmarks": "斯里维拉玛卡里亚曼兴都庙，阿卜杜勒加福尔清真寺，穆斯塔法中心。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "小型绿地和社区花园。"
+        },
+        {
+          "City_Name": "Kampong Glam (Kampong Glam)",
+          "Historical_Landmarks": "拥有金色圆顶的苏丹清真寺，马来遗产中心（前苏丹宫殿）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "没有大型公园，但以街道两旁的棕榈树而闻名。"
+        },
+        {
+          "City_Name": "Katong (Katong)",
+          "Historical_Landmarks": "色彩缤纷的土生华人房屋，殖民时期建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "东海岸公园，沿海岸延伸。"
+        },
+        {
+          "City_Name": "Punggol (Punggol)",
+          "Historical_Landmarks": "旧马蒂尔达故居。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "康尼岛，榜鹅水道。"
+        },
+        {
+          "City_Name": "Pulau Ubin (Pulau Ubin)",
+          "Historical_Landmarks": "保留的传统村庄（甘榜），旧花岗岩采石场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "仄爪哇湿地，红树林。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Switzerland",
+      "Cities": [
+        {
+          "City_Name": "Bern (Bern)",
+          "Historical_Landmarks": "老城区（联合国教科文组织），齐特格洛格钟楼，联邦议会。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "熊公园，俯瞰城市的玫瑰花园。"
+        },
+        {
+          "City_Name": "Zurich (Zurich)",
+          "Historical_Landmarks": "大教堂，圣母教堂（夏加尔窗户），林登霍夫区。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "苏黎世湖，于特利贝格山徒步。"
+        },
+        {
+          "City_Name": "Geneva (Geneva)",
+          "Historical_Landmarks": "圣彼得大教堂，联合国宫，宗教改革纪念碑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "英国花园，拉格兰奇公园，日内瓦湖及其喷泉。"
+        },
+        {
+          "City_Name": "Lucerne (Lucerne)",
+          "Historical_Landmarks": "卡佩尔木桥，穆塞格城墙，狮子纪念碑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "卢塞恩湖，皮拉图斯山（附近）。"
+        },
+        {
+          "City_Name": "Basel (Basel)",
+          "Historical_Landmarks": "红色大教堂（明斯特），斯帕伦托尔门，色彩缤纷的市政厅。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "巴塞尔大学植物园，莱茵河岸。"
+        },
+        {
+          "City_Name": "Lausanne (Lausanne)",
+          "Historical_Landmarks": "圣母大教堂，鲁米纳宫，弗隆区。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "奥林匹克博物馆花园，蒙雷博公园，附近的拉沃葡萄园。"
+        },
+        {
+          "City_Name": "Lugano (Lugano)",
+          "Historical_Landmarks": "圣劳伦斯大教堂，改革广场，圣玛丽亚德利安吉利教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "恰尼公园，卢加诺湖，蒙特布雷山。"
+        },
+        {
+          "City_Name": "St. Gallen (St. Gallen)",
+          "Historical_Landmarks": "圣加仑修道院图书馆（遗产），巴洛克式大教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "彼得和保罗动物园，德赖维伦草地区。"
+        },
+        {
+          "City_Name": "Montreux (Montreux)",
+          "Historical_Landmarks": "希隆城堡历史湖畔城堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "沿湖岸的花卉长廊，罗谢德奈山。"
+        },
+        {
+          "City_Name": "Zermatt (Zermatt)",
+          "Historical_Landmarks": "旧瓦莱村（传统木屋），马特洪峰博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "著名的马特洪峰，里弗尔湖，戈尔纳峡谷。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "France",
+      "Cities": [
+        {
+          "City_Name": "Paris",
+          "Historical_Landmarks": "埃菲尔铁塔，凯旋门，卢浮宫博物馆，巴黎圣母院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "卢森堡花园，杜伊勒里花园，布瓦西圣路易森林。"
+        },
+        {
+          "City_Name": "Lyon",
+          "Historical_Landmarks": "罗马剧场，富维耶圣母院，traboules（秘密通道）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "金头大公园。"
+        },
+        {
+          "City_Name": "Marseille",
+          "Historical_Landmarks": "守护圣母院，圣让堡，老港。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "卡朗格国家公园（岩石海湾）。"
+        },
+        {
+          "City_Name": "Bordeaux",
+          "Historical_Landmarks": "交易所广场，圣安德烈大教堂，大剧院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "公共花园（Jardin Public），加伦河岸。"
+        },
+        {
+          "City_Name": "Nice",
+          "Historical_Landmarks": "尼斯老城，圣尼古拉斯东正教大教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "城堡山公园，英国人散步大道。"
+        },
+        {
+          "City_Name": "Strasbourg",
+          "Historical_Landmarks": "斯特拉斯堡大教堂，小法兰西区，覆盖的桥梁。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "橘园公园。"
+        },
+        {
+          "City_Name": "Toulouse",
+          "Historical_Landmarks": "圣塞尔宁教堂，市政厅广场，奥古斯丁修道院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "日本花园，加伦河和南部运河岸。"
+        },
+        {
+          "City_Name": "Nantes",
+          "Historical_Landmarks": "布列塔尼公爵城堡，布费区，南特大教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "植物园，凡尔赛岛。"
+        },
+        {
+          "City_Name": "Aix‑en‑Provence",
+          "Historical_Landmarks": "米拉博大道，圣救世主大教堂，塞尚工作室。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "画家花园（Terrain des Peintres），圣维克多山。"
+        },
+        {
+          "City_Name": "Annecy",
+          "Historical_Landmarks": "岛屿宫，旧城堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安纳西湖，欧洲花园。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Syria",
+      "Cities": [
+        {
+          "City_Name": "Damascus",
+          "Historical_Landmarks": "倭马亚清真寺，哈米迪耶市场，阿兹姆宫，图马门，马龙派教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "大马士革河岸（历史悠久的），卡西翁山，十月公园。"
+        },
+        {
+          "City_Name": "Aleppo",
+          "Historical_Landmarks": "阿勒颇城堡，覆盖的市场（老城），大清真寺，贾迪达区。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "公共公园。"
+        },
+        {
+          "City_Name": "Tadmur (Palmyra)",
+          "Historical_Landmarks": "贝尔神庙，凯旋门，罗马剧院，墓地谷。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "帕尔米拉绿洲（枣椰树和橄榄树），奥克巴泉。"
+        },
+        {
+          "City_Name": "Homs",
+          "Historical_Landmarks": "圣母领报教堂，哈立德·本·瓦利德清真寺，霍姆斯城堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "幼发拉底河岸，卡蒂纳湖。"
+        },
+        {
+          "City_Name": "Latakia",
+          "Historical_Landmarks": "罗马凯旋门，巴尔贝克柱，国家博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "蓝色海滩，附近的阿尔弗尔坎森林。"
+        },
+        {
+          "City_Name": "Hama",
+          "Historical_Landmarks": "古老的水车，阿兹姆宫（传统博物馆），努里清真寺。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "沿奥龙特斯河的水车花园。"
+        },
+        {
+          "City_Name": "Bosra",
+          "Historical_Landmarks": "罗马剧院（保存最完好的之一），玄武岩老城。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "霍兰周围的平原。"
+        },
+        {
+          "City_Name": "Tartus",
+          "Historical_Landmarks": "塔尔图斯大教堂（博物馆），老城，马尔卡布城堡（附近）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "阿尔瓦德岛，海滨长廊。"
+        },
+        {
+          "City_Name": "Ma‘loula",
+          "Historical_Landmarks": "圣塔克拉修道院，圣萨吉斯修道院，岩石切割峡谷。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "周围岩石山脉和洞穴。"
+        },
+        {
+          "City_Name": "Raqqa",
+          "Historical_Landmarks": "巴格达门，少女宫（阿拔斯王朝），古城墙。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "幼发拉底河岸。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Eswatini (Swaziland)",
+      "Cities": [
+        {
+          "City_Name": "Mbabane (Mbabane)",
+          "Historical_Landmarks": "姆巴巴内手工艺品市场（文化）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "西贝贝岩 - 世界第二大单体岩石。"
+        },
+        {
+          "City_Name": "Lobamba (Lobamba)",
+          "Historical_Landmarks": "议会，国家博物馆，索布扎二世国王纪念村。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "姆利瓦内野生动物保护区。"
+        },
+        {
+          "City_Name": "Manzini (Manzini)",
+          "Historical_Landmarks": "曼齐尼大教堂，旧市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "靠近赫兰皇家公园。"
+        },
+        {
+          "City_Name": "Ezulwini (Ezulwini)",
+          "Historical_Landmarks": "国王谷，曼滕加文化村。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "曼滕加瀑布，希乌拉保护区。"
+        },
+        {
+          "City_Name": "Big Bend (Big Bend)",
+          "Historical_Landmarks": "历史悠久的糖厂和磨坊。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "乌苏图河（可观赏鳄鱼），卢邦博山脉。"
+        },
+        {
+          "City_Name": "Piggs Peak (Piggs Peak)",
+          "Historical_Landmarks": "旧金矿。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "武武拉内瀑布，马古加水坝。"
+        },
+        {
+          "City_Name": "Simunye (Simunye)",
+          "Historical_Landmarks": "糖博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "赫兰皇家国家公园 - 狮子的家园。"
+        },
+        {
+          "City_Name": "Nhlangano (Nhlangano)",
+          "Historical_Landmarks": "乔治六世国王会见索布扎国王的地点。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "马汉巴森林。"
+        },
+        {
+          "City_Name": "Siteki (Siteki)",
+          "Historical_Landmarks": "旧传教士学校。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "姆卡亚野生动物保护区 - 濒危物种。"
+        },
+        {
+          "City_Name": "Malkerns (Malkerns)",
+          "Historical_Landmarks": "斯威士蜡烛作坊。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "绿色农田和山谷。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Suriname",
+      "Cities": [
+        {
+          "City_Name": "Paramaribo",
+          "Historical_Landmarks": "历史悠久的城市（联合国教科文组织），西兰迪亚堡，圣彼得和保罗木制大教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "帕尔门图因（棕榈花园），苏里南河岸。"
+        },
+        {
+          "City_Name": "Nieuw Nickerie",
+          "Historical_Landmarks": "城市市场，移民纪念碑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "比吉潘自然保护区 - 鸟类和湿地。"
+        },
+        {
+          "City_Name": "Moengo",
+          "Historical_Landmarks": "铝土矿开采历史，现代艺术装置。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "周围的森林和河流。"
+        },
+        {
+          "City_Name": "Albina",
+          "Historical_Landmarks": "旧法国监狱（废墟），殖民建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "加利比海龟保护区。"
+        },
+        {
+          "City_Name": "Groningen",
+          "Historical_Landmarks": "荷兰移民纪念碑，主广场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "萨拉马卡河。"
+        },
+        {
+          "City_Name": "Jodensavanne",
+          "Historical_Landmarks": "美洲最古老的犹太教堂废墟，历史悠久的墓地。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "苏里南河和周围茂密的森林。"
+        },
+        {
+          "City_Name": "Domburg",
+          "Historical_Landmarks": "旧农场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "河上的白沙滩（工业）。"
+        },
+        {
+          "City_Name": "Brokopondo",
+          "Historical_Landmarks": "水坝纪念碑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "布罗科庞多水库（大湖），通卡岛。"
+        },
+        {
+          "City_Name": "Wageningen",
+          "Historical_Landmarks": "历史悠久的稻米种植中心。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "广阔的稻田。"
+        },
+        {
+          "City_Name": "Totness",
+          "Historical_Landmarks": "旧专员建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "运河和椰子树（科罗尼）。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Vietnam",
+      "Cities": [
+        {
+          "City_Name": "Hanoi",
+          "Historical_Landmarks": "胡志明陵墓，文庙，皇城。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "还剑湖，西湖。"
+        },
+        {
+          "City_Name": "Hoi An",
+          "Historical_Landmarks": "古城（联合国教科文组织），日本廊桥，华人会馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安邦海滩，克欧稻田。"
+        },
+        {
+          "City_Name": "Ho Chi Minh City",
+          "Historical_Landmarks": "统一宫，圣母大教堂，中央邮局。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "陶丹公园，西贡河岸。"
+        },
+        {
+          "City_Name": "Hue",
+          "Historical_Landmarks": "皇城（城堡），皇陵，天姥寺。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "香江，凤岗山。"
+        },
+        {
+          "City_Name": "Ha Long",
+          "Historical_Landmarks": "拜寨桥。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "下龙湾（联合国教科文组织） - 石灰岩岛屿和洞穴。"
+        },
+        {
+          "City_Name": "Sapa (Sapa)",
+          "Historical_Landmarks": "旧石教堂，部落村庄（卡特卡特）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "番西邦山，梦霍山谷，银瀑布。"
+        },
+        {
+          "City_Name": "Nha Trang",
+          "Historical_Landmarks": "婆那加塔（占族），芽庄大教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "芽庄海滩，猴子岛。"
+        },
+        {
+          "City_Name": "Da Nang",
+          "Historical_Landmarks": "龙桥，占族雕塑博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "大理石山，美溪海滩，山茶半岛。"
+        },
+        {
+          "City_Name": "Da Lat",
+          "Historical_Landmarks": "保大皇帝夏宫，旧火车站，疯狂屋。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "春黄湖，达坦拉瀑布，爱情谷。"
+        },
+        {
+          "City_Name": "Ninh Binh",
+          "Historical_Landmarks": "殿庙，古都华闾。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "三谷（野下龙湾），云龙自然保护区。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Ghana",
+      "Cities": [
+        {
+          "City_Name": "Accra",
+          "Historical_Landmarks": "奥苏城堡（克里斯蒂安堡），独立广场，詹姆斯镇灯塔。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "拉巴迪海滩，莱贡植物园。"
+        },
+        {
+          "City_Name": "Cape Coast",
+          "Historical_Landmarks": "海岸角城堡（奴隶贸易历史），殖民房屋。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "海岸角海滩。"
+        },
+        {
+          "City_Name": "Elmina",
+          "Historical_Landmarks": "圣乔治城堡（非洲最古老的欧洲建筑），皇后拉格堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "本尼亚湖。"
+        },
+        {
+          "City_Name": "Kumasi",
+          "Historical_Landmarks": "曼希亚宫（阿散蒂王国），奥科福安科耶剑遗址。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "博苏莫蒂火山口湖，库马西花园。"
+        },
+        {
+          "City_Name": "Tamale",
+          "Historical_Landmarks": "古老的泥清真寺（附近的拉兰班加），塔马莱市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "莫莱国家公园（野生动物园）。"
+        },
+        {
+          "City_Name": "Ho (Ho)",
+          "Historical_Landmarks": "地区博物馆，旧德国教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "阿达尔卡山，威利瀑布。"
+        },
+        {
+          "City_Name": "Takoradi",
+          "Historical_Landmarks": "历史悠久的港口，市场圈（圆形广场）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "布苏瓦海滩。"
+        },
+        {
+          "City_Name": "Akwasombo",
+          "Historical_Landmarks": "阿克松博水坝。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "沃尔特湖，多里岛。"
+        },
+        {
+          "City_Name": "Koforidua",
+          "Historical_Landmarks": "传统珠子市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "瓦蒂瀑布，雨伞岩。"
+        },
+        {
+          "City_Name": "Bolgatanga",
+          "Historical_Landmarks": "手工艺村，圣心大教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "通戈岩石山。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Sierra Leone",
+      "Cities": [
+        {
+          "City_Name": "Freetown",
+          "Historical_Landmarks": "棉花树（自由象征），国王门，铁路博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "洛美海滩，塔库加马黑猩猩保护区。"
+        },
+        {
+          "City_Name": "Bans Island",
+          "Historical_Landmarks": "奴隶城堡废墟（影响深远的历史遗址）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "被塞拉利昂河和森林环绕的岛屿。"
+        },
+        {
+          "City_Name": "Bo (Bo)",
+          "Historical_Landmarks": "博门，政府高中。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "周围的花园。"
+        },
+        {
+          "City_Name": "Kenema",
+          "Historical_Landmarks": "钻石贸易中心。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "靠近戈拉雨林。"
+        },
+        {
+          "City_Name": "Makeni",
+          "Historical_Landmarks": "中央清真寺。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "马肯尼山丘。"
+        },
+        {
+          "City_Name": "Kabala",
+          "Historical_Landmarks": "旧殖民建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "比南塔尼山，风景秀丽的高地。"
+        },
+        {
+          "City_Name": "Waterloo",
+          "Historical_Landmarks": "解放者定居者公墓。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "附近的半岛海滩。"
+        },
+        {
+          "City_Name": "Shenge",
+          "Historical_Landmarks": "旧堡垒遗迹。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "海龟岛。"
+        },
+        {
+          "City_Name": "Bonti",
+          "Historical_Landmarks": "旧克里奥尔建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "谢尔布罗岛，红树林。"
+        },
+        {
+          "City_Name": "Rokuper",
+          "Historical_Landmarks": "河流贸易历史。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "大卡巴河。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Seychelles",
+      "Cities": [
+        {
+          "City_Name": "Victoria",
+          "Historical_Landmarks": "钟楼（Lorloz），阿鲁尔米胡寺，自然历史博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "国家植物园，莫恩塞舌洛伊斯国家公园。"
+        },
+        {
+          "City_Name": "Port Glaud",
+          "Historical_Landmarks": "旧住宅区。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "著名的格劳德海滩，玛丽梅杰步道。"
+        },
+        {
+          "City_Name": "Anse Royale",
+          "Historical_Landmarks": "香料花园（Jardin du Roi）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安斯罗亚尔海滩，清澈的海水。"
+        },
+        {
+          "City_Name": "La Digue (La Passe)",
+          "Historical_Landmarks": "联合庄园，种植园房屋。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安斯苏达根（花岗岩），捕蝇鸟保护区。"
+        },
+        {
+          "City_Name": "Grand Anse (Praslin)",
+          "Historical_Landmarks": "当地纪念碑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "瓦莱德梅 - 海椰子的家园（联合国教科文组织）。"
+        },
+        {
+          "City_Name": "Takamaka",
+          "Historical_Landmarks": "当地教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安斯安坦斯海滩。"
+        },
+        {
+          "City_Name": "Bel Ombre",
+          "Historical_Landmarks": "海盗宝藏遗址拉布兹（传说）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安斯马约尔步道。"
+        },
+        {
+          "City_Name": "Baie Saint Anne",
+          "Historical_Landmarks": "渡轮码头。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "丰迪费迪南德保护区。"
+        },
+        {
+          "City_Name": "Silhouette Island",
+          "Historical_Landmarks": "杜班家族墓，旧村庄。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "茂密的热带森林和海洋保护区。"
+        },
+        {
+          "City_Name": "Anse Boileau",
+          "Historical_Landmarks": "传统渔村。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安静的海湾和红树林。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Tajikistan",
+      "Cities": [
+        {
+          "City_Name": "Dushanbe",
+          "Historical_Landmarks": "伊斯梅尔·索莫尼雕像，堡垒（附近），国家博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "鲁达基公园，共青团湖，胜利公园。"
+        },
+        {
+          "City_Name": "Khujand",
+          "Historical_Landmarks": "胡占德堡垒，潘尚别市场，谢赫·莫斯莱丁·丁陵墓。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "锡尔河岸，胡占德卡米尔花园。"
+        },
+        {
+          "City_Name": "Banjikant",
+          "Historical_Landmarks": "古代班吉坎特废墟（中亚的庞贝），鲁达基出生地。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "范山脉中的七湖（Haft Kul）。"
+        },
+        {
+          "City_Name": "Istaravshan",
+          "Historical_Landmarks": "旧堡垒（Mug Teppe），科克贡巴兹学校。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "果园和周围的山丘。"
+        },
+        {
+          "City_Name": "Khorugh",
+          "Historical_Landmarks": "地区历史博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "植物园（世界第二高），帕米尔山脉。"
+        },
+        {
+          "City_Name": "Kulob",
+          "Historical_Landmarks": "米尔·赛义德·阿里·哈姆达尼陵墓。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "亚赫舒奥山谷。"
+        },
+        {
+          "City_Name": "Margab",
+          "Historical_Landmarks": "列宁雕像，当地市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "高帕米尔高原，卡拉库尔湖。"
+        },
+        {
+          "City_Name": "Hisar",
+          "Historical_Landmarks": "希萨尔堡垒，旧学校。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "肥沃的周围山谷。"
+        },
+        {
+          "City_Name": "Nurek",
+          "Historical_Landmarks": "努列克水坝（世界最高的土石坝）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "努列克水库（蓝色湖泊）。"
+        },
+        {
+          "City_Name": "Isfara",
+          "Historical_Landmarks": "古老的伊斯兰圣地。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "杏园，岩石山脉。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Gambia",
+      "Cities": [
+        {
+          "City_Name": "Banjul",
+          "Historical_Landmarks": "拱门22，国家博物馆，阿尔伯特市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "冈比亚河河口。"
+        },
+        {
+          "City_Name": "Serrekunda",
+          "Historical_Landmarks": "繁忙的塞雷昆达市场，传统摔跤场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "阿布科自然保护区。"
+        },
+        {
+          "City_Name": "Bakau",
+          "Historical_Landmarks": "卡奇卡利鳄鱼博物馆（神圣遗址）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "植物园，鳄鱼池。"
+        },
+        {
+          "City_Name": "Juffureh",
+          "Historical_Landmarks": "奴隶博物馆，昆塔·金特村。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "河岸。"
+        },
+        {
+          "City_Name": "Kunta Kinte Island",
+          "Historical_Landmarks": "詹姆斯堡（联合国教科文组织） - 历史废墟。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "河岛。"
+        },
+        {
+          "City_Name": "Janjanbureh",
+          "Historical_Landmarks": "瓦苏石圈，殖民建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "河营地，观赏河马。"
+        },
+        {
+          "City_Name": "Tougi",
+          "Historical_Landmarks": "通吉村博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "通吉鸟类保护区，海滩。"
+        },
+        {
+          "City_Name": "Jongur",
+          "Historical_Landmarks": "当地清真寺。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "环境保护中心，沙滩。"
+        },
+        {
+          "City_Name": "Briama",
+          "Historical_Landmarks": "木制工艺品市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "马卡苏托文化森林（棕榈林）。"
+        },
+        {
+          "City_Name": "Kartong",
+          "Historical_Landmarks": "冈比亚最古老的定居点。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "哈利纳河，爬行动物保护区。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Grenada",
+      "Cities": [
+        {
+          "City_Name": "St. George's",
+          "Historical_Landmarks": "乔治堡，弗雷德里克堡，辛达尔隧道，国家博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安纳代尔瀑布，大安斯海滩。"
+        },
+        {
+          "City_Name": "Gouyave",
+          "Historical_Landmarks": "肉豆蔻加工站。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "康科德瀑布。"
+        },
+        {
+          "City_Name": "Grand Anse",
+          "Historical_Landmarks": "殖民建筑，巧克力工厂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "安托万湖，卡姆尔山瀑布。"
+        },
+        {
+          "City_Name": "Victoria",
+          "Historical_Landmarks": "传统渔村。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "日落湾。"
+        },
+        {
+          "City_Name": "Sauteurs",
+          "Historical_Landmarks": "跳崖者山历史遗址。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "莱瓦湾，糖岛。"
+        },
+        {
+          "City_Name": "Carriacou (Hillsborough)",
+          "Historical_Landmarks": "当地博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "珊瑚花园，天堂海滩。"
+        },
+        {
+          "City_Name": "St. David",
+          "Historical_Landmarks": "洛拉草药香料花园。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "拉萨格斯海滩。"
+        },
+        {
+          "City_Name": "Tivoli",
+          "Historical_Landmarks": "历史悠久的帕尔蒙特种植园。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "有机花园。"
+        },
+        {
+          "City_Name": "Grand Etang",
+          "Historical_Landmarks": "森林中心。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "大埃塘湖（火山口），雨林。"
+        },
+        {
+          "City_Name": "Morne Rouge",
+          "Historical_Landmarks": "历史悠久的酒店。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "BBC海滩。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Malta",
+      "Cities": [
+        {
+          "City_Name": "Valletta",
+          "Historical_Landmarks": "圣约翰联合大教堂，大总督宫，战争博物馆，圣埃尔莫堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "上、下巴拉卡花园（全景）。"
+        },
+        {
+          "City_Name": "Mdina",
+          "Historical_Landmarks": "城墙老城，圣保罗大教堂，贵族宫殿。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "姆迪纳沟（现为花园）。"
+        },
+        {
+          "City_Name": "Rabat",
+          "Historical_Landmarks": "地下墓穴，罗马别墅。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "布斯凯特花园 - 唯一的森林。"
+        },
+        {
+          "City_Name": "Victoria (Gozo)",
+          "Historical_Landmarks": "奇塔德拉，旧监狱。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "维拉兰德尔花园。"
+        },
+        {
+          "City_Name": "Three Cities (Birgu)",
+          "Historical_Landmarks": "圣安吉洛堡，宗教裁判官宫，海事博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "游艇港。"
+        },
+        {
+          "City_Name": "Marsaxlokk",
+          "Historical_Landmarks": "德里马拉堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "圣彼得池，德里马拉海岸。"
+        },
+        {
+          "City_Name": "Mellieha",
+          "Historical_Landmarks": "圣阿加莎塔（红塔），防空洞。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "加迪拉鸟类保护区，沙滩。"
+        },
+        {
+          "City_Name": "Tarxien",
+          "Historical_Landmarks": "塔尔欣神庙（史前）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "小型现代花园。"
+        },
+        {
+          "City_Name": "Qrendi",
+          "Historical_Landmarks": "哈加尔坎和姆纳格拉神庙。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "蓝洞，岩石悬崖。"
+        },
+        {
+          "City_Name": "Mosta",
+          "Historical_Landmarks": "莫斯塔圆顶（圆厅） - 第三大无支撑圆顶。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "斯佩兰萨谷。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cuba",
+      "Cities": [
+        {
+          "City_Name": "Havana",
+          "Historical_Landmarks": "哈瓦那老城，国会大厦，莫罗城堡，革命广场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "哈瓦那森林（Bosque de La Habana）。"
+        },
+        {
+          "City_Name": "Trinidad",
+          "Historical_Landmarks": "殖民城镇（联合国教科文组织），钟楼，糖博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "托贝斯德库扬特斯瀑布，糖谷。"
+        },
+        {
+          "City_Name": "Varadero",
+          "Historical_Landmarks": "扎纳杜宫。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "卡约伊卡科斯半岛，安布罗西奥洞穴。"
+        },
+        {
+          "City_Name": "Sinfuegos",
+          "Historical_Landmarks": "瓦利宫（摩尔风格），特里剧院，胜利拱门。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "植物园，埃尔尼乔瀑布。"
+        },
+        {
+          "City_Name": "Viñales",
+          "Historical_Landmarks": "史前壁画绘画。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "比尼亚莱斯谷（喀斯特山脉），印第安洞穴。"
+        },
+        {
+          "City_Name": "Santiago de Cuba",
+          "Historical_Landmarks": "圣佩德罗德拉罗卡堡垒，圣伊内斯公墓。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "巴科纳瓦公园，周围山脉。"
+        },
+        {
+          "City_Name": "Camagüey",
+          "Historical_Landmarks": "卡门广场，旧教堂，陶窑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "卡西诺坎比斯特城市公园。"
+        },
+        {
+          "City_Name": "Santa Clara",
+          "Historical_Landmarks": "切格瓦拉纪念碑，装甲列车。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "卡皮罗山。"
+        },
+        {
+          "City_Name": "Baracoa",
+          "Historical_Landmarks": "圣母烛光大教堂，马钦堡垒。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "云雀山，塔瓦河。"
+        },
+        {
+          "City_Name": "Holguín",
+          "Historical_Landmarks": "洛马十字架山。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "纳兰霍湾，瓜尔达拉瓦卡海滩。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guatemala",
+      "Cities": [
+        {
+          "City_Name": "Antigua",
+          "Historical_Landmarks": "圣卡塔琳娜拱门，拉梅塞德教堂，嘉布遣修道院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "阿瓜火山，中央公园。"
+        },
+        {
+          "City_Name": "Tikal (Park)",
+          "Historical_Landmarks": "伟大的玛雅金字塔，神庙I和II。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "周围的雨林，野生动物。"
+        },
+        {
+          "City_Name": "Lake Atitlán (Panajachel)",
+          "Historical_Landmarks": "传统玛雅村庄，殖民教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "火山湖，阿蒂特兰保护区。"
+        },
+        {
+          "City_Name": "Chichicastenango",
+          "Historical_Landmarks": "圣托马斯教堂（玛雅-天主教仪式），色彩缤纷的墓地。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "圣山（Baskual Abaj）。"
+        },
+        {
+          "City_Name": "Quetzaltenango (Xela)",
+          "Historical_Landmarks": "历史中心，市政剧院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "圣玛丽亚火山，戈里拉德洛斯利里奥斯泉。"
+        },
+        {
+          "City_Name": "Flores",
+          "Historical_Landmarks": "岛上的旧城。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "佩滕伊察湖。"
+        },
+        {
+          "City_Name": "Cobán",
+          "Historical_Landmarks": "卡尔瓦里奥教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "兰花保护区，西莫克斯尚佩（天然泳池）。"
+        },
+        {
+          "City_Name": "Livingston",
+          "Historical_Landmarks": "加里富纳文化。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "里奥杜尔塞，七瀑布。"
+        },
+        {
+          "City_Name": "Guatemala City",
+          "Historical_Landmarks": "国家文化宫，大教堂，地形图。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "拉奥罗拉动物园。"
+        },
+        {
+          "City_Name": "Rio Hondo",
+          "Historical_Landmarks": "化石博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "米纳斯云雾森林。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Luxembourg",
+      "Cities": [
+        {
+          "City_Name": "Luxembourg City",
+          "Historical_Landmarks": "地下工事（防御隧道），大公宫，阿道夫桥。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "佩特吕斯谷，米雷尔公园。"
+        },
+        {
+          "City_Name": "Vianden",
+          "Historical_Landmarks": "维安登城堡（欧洲最美丽的城堡之一），维克多雨果故居。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "乌尔河，周围森林（缆车）。"
+        },
+        {
+          "City_Name": "Echternach",
+          "Historical_Landmarks": "本笃会修道院，罗马大教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "埃希特纳赫湖，莫勒塔尔岩层。"
+        },
+        {
+          "City_Name": "Clervaux",
+          "Historical_Landmarks": "城堡（人类博物馆展览），修道院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "阿登自然公园。"
+        },
+        {
+          "City_Name": "Larochette",
+          "Historical_Landmarks": "拉罗谢特城堡废墟。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "莫勒塔尔森林（小瑞士）。"
+        },
+        {
+          "City_Name": "Bofferdange",
+          "Historical_Landmarks": "博费尔丹城堡（中世纪和文艺复兴）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "岩石徒步道。"
+        },
+        {
+          "City_Name": "Mondorf‑les‑Bains",
+          "Historical_Landmarks": "航空博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "温泉公园。"
+        },
+        {
+          "City_Name": "Esch‑sur‑Alzette",
+          "Historical_Landmarks": "高炉（Bielval - 工业遗产）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "盖尔格比格公园。"
+        },
+        {
+          "City_Name": "Remich",
+          "Historical_Landmarks": "葡萄酒门。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "哈夫雷米希自然保护区，摩泽尔河。"
+        },
+        {
+          "City_Name": "Wiltz",
+          "Historical_Landmarks": "维尔茨城堡，全国罢工纪念碑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "维尔茨花园。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Costa Rica",
+      "Cities": [
+        {
+          "City_Name": "San José",
+          "Historical_Landmarks": "国家剧院，黄金博物馆，国家博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "拉萨瓦纳公园，斯皮罗蝴蝶园。"
+        },
+        {
+          "City_Name": "La Fortuna",
+          "Historical_Landmarks": "当地教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "阿雷纳尔火山，拉福图纳瀑布，温泉。"
+        },
+        {
+          "City_Name": "Monteverde",
+          "Historical_Landmarks": "奶酪工厂（"贵格会"）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "云雾森林（吊桥），科里坎查保护区。"
+        },
+        {
+          "City_Name": "Manuel Antonio",
+          "Historical_Landmarks": "没有显著的建筑遗产。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "国家公园（海滩，猴子，树懒）。"
+        },
+        {
+          "City_Name": "Tortuguero",
+          "Historical_Landmarks": "水道村庄。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "托尔图格罗国家公园（海龟筑巢）。"
+        },
+        {
+          "City_Name": "Liberia",
+          "Historical_Landmarks": "白色城市（殖民房屋）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "林孔德拉维耶哈火山公园。"
+        },
+        {
+          "City_Name": "Puerto Viejo",
+          "Historical_Landmarks": "加勒比文化。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "可可海滩，美洲虎救援中心。"
+        },
+        {
+          "City_Name": "Tamarindo",
+          "Historical_Landmarks": "旧渔村。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "拉斯鲍拉斯海洋保护区（棱皮龟）。"
+        },
+        {
+          "City_Name": "Cartago",
+          "Historical_Landmarks": "天使圣母大教堂，教堂废墟。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "伊拉苏火山湖。"
+        },
+        {
+          "City_Name": "Ovita",
+          "Historical_Landmarks": "鲸尾岩层。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "马里诺巴莱纳国家公园。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Serbia",
+      "Cities": [
+        {
+          "City_Name": "Belgrade",
+          "Historical_Landmarks": "卡莱梅格丹堡垒，圣萨瓦教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "阿达齐甘利亚岛。"
+        },
+        {
+          "City_Name": "Novi Sad",
+          "Historical_Landmarks": "彼得罗瓦拉丁堡垒，自由广场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "多瑙河公园。"
+        },
+        {
+          "City_Name": "Niš",
+          "Historical_Landmarks": "骷髅塔，尼什堡垒。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "尼什卡尼亚温泉度假村。"
+        },
+        {
+          "City_Name": "Subotica",
+          "Historical_Landmarks": "市政厅（新艺术运动），犹太教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "帕利奇湖。"
+        },
+        {
+          "City_Name": "Kragujevac",
+          "Historical_Landmarks": "肖梅克纪念公园。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "格鲁尼湖。"
+        },
+        {
+          "City_Name": "Novi Pazar",
+          "Historical_Landmarks": "通世界清真寺，苏博蒂察修道院。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "戈利亚山。"
+        },
+        {
+          "City_Name": "Zrenjanin",
+          "Historical_Landmarks": "市政厅。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "斯塔里佩吉自然保护区。"
+        },
+        {
+          "City_Name": "Smederevo",
+          "Historical_Landmarks": "斯梅代雷沃堡垒（最大的低地堡垒）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "多瑙河。"
+        },
+        {
+          "City_Name": "Sombor",
+          "Historical_Landmarks": "县建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "戈尔尼布迪姆国家公园。"
+        },
+        {
+          "City_Name": "Glogovac",
+          "Historical_Landmarks": "格洛戈瓦茨城堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "杰尔达普国家公园（铁门）。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Kiribati",
+      "Cities": [
+        {
+          "City_Name": "South Tarawa",
+          "Historical_Landmarks": "第二次世界大战战场遗址，日本大炮。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "海滩和沿海泻湖。"
+        },
+        {
+          "City_Name": "Betio",
+          "Historical_Landmarks": "战争公墓，军事掩体。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "海洋保护区。"
+        },
+        {
+          "City_Name": "Ambo",
+          "Historical_Landmarks": "议会大厦（Maneaba）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "海滨。"
+        },
+        {
+          "City_Name": "Bonriki",
+          "Historical_Landmarks": "国际机场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "天然水箱。"
+        },
+        {
+          "City_Name": "London (Kiritimati)",
+          "Historical_Landmarks": "前核试验场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "鸟类保护区。"
+        },
+        {
+          "City_Name": "Banana",
+          "Historical_Landmarks": "传统村庄。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "森林和椰子林。"
+        },
+        {
+          "City_Name": "Tabuaeran",
+          "Historical_Landmarks": "当地教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "海洋风光。"
+        },
+        {
+          "City_Name": "Abariringa",
+          "Historical_Landmarks": "文化遗址。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "海洋风光。"
+        },
+        {
+          "City_Name": "Butaritari",
+          "Historical_Landmarks": "传统桥梁。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "红树林。"
+        },
+        {
+          "City_Name": "Berik",
+          "Historical_Landmarks": "政府办公室。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "公共广场。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Malawi",
+      "Cities": [
+        {
+          "City_Name": "Lilongwe",
+          "Historical_Landmarks": "第二次世界大战纪念碑，旧市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "野生动物中心，植物园。"
+        },
+        {
+          "City_Name": "Blantyre",
+          "Historical_Landmarks": "圣迈克尔教堂，曼达拉博物馆（最古老的建筑）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "米希里山。"
+        },
+        {
+          "City_Name": "Zomba",
+          "Historical_Landmarks": "旧议会大厦，纪念碑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "宗巴高原，威廉瀑布。"
+        },
+        {
+          "City_Name": "Mangochi",
+          "Historical_Landmarks": "马拉维湖博物馆，钟楼。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "马拉维湖，狮子门公园。"
+        },
+        {
+          "City_Name": "Nkhatabay",
+          "Historical_Landmarks": "奴隶贸易历史。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "奇卡利海滩，森林。"
+        },
+        {
+          "City_Name": "Mzuzu",
+          "Historical_Landmarks": "姆祖祖博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "费亚森林。"
+        },
+        {
+          "City_Name": "Karonga",
+          "Historical_Landmarks": "文化中心和恐龙博物馆。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "湖岸。"
+        },
+        {
+          "City_Name": "Salima",
+          "Historical_Landmarks": "当地历史遗址。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "森加湾。"
+        },
+        {
+          "City_Name": "Monkey Bay",
+          "Historical_Landmarks": "渔港。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "马拉维湖国家公园。"
+        },
+        {
+          "City_Name": "Dedza",
+          "Historical_Landmarks": "岩石艺术（Chengoni - 联合国教科文组织）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "德扎山。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Curaçao",
+      "Cities": [
+        {
+          "City_Name": "Willemstad",
+          "Historical_Landmarks": "浮动女王艾玛桥，联合国教科文组织列出的庞达区，米克维以色列犹太教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "曼博海滩。"
+        },
+        {
+          "City_Name": "Westpunt",
+          "Historical_Landmarks": "圣彼得教堂。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "普拉亚福蒂。"
+        },
+        {
+          "City_Name": "Sint Michiel",
+          "Historical_Landmarks": "圣米歇尔堡。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "蓝湾。"
+        },
+        {
+          "City_Name": "Lagoon",
+          "Historical_Landmarks": "旧种植园房屋（Landhuis）。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "普拉亚拉贡（海龟）。"
+        },
+        {
+          "City_Name": "Barber",
+          "Historical_Landmarks": "旧木棉树，市场。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "霍夫帕斯托尔公园。"
+        },
+        {
+          "City_Name": "Sabana Westpunt",
+          "Historical_Landmarks": "渔村。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "格罗特尼佩海滩。"
+        },
+        {
+          "City_Name": "Terra Kora",
+          "Historical_Landmarks": "风车。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "哈托平原。"
+        },
+        {
+          "City_Name": "Soto",
+          "Historical_Landmarks": "旧盐田。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "圣克鲁斯海滩。"
+        },
+        {
+          "City_Name": "Julianadorp",
+          "Historical_Landmarks": "旧壳牌石油别墅。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "私人花园。"
+        },
+        {
+          "City_Name": "Jan Thiel",
+          "Historical_Landmarks": "沿海堡垒遗迹。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "盐田（火烈鸟栖息地）。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guinea",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 2 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 3 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 4 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 5 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 6 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 7 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 8 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 9 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 10 in Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guinea‑Bissau",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 2 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 3 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 4 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 5 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 6 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 7 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 8 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 9 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 10 in Guinea‑Bissau",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Equatorial Guinea",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 2 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 3 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 4 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 5 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 6 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 7 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 8 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 9 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 10 in Equatorial Guinea",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cape Verde",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 2 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 3 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 4 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 5 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 6 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 7 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 8 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 9 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 10 in Cape Verde",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Kosovo",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 2 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 3 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 4 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 5 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 6 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 7 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 8 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 9 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        },
+        {
+          "City_Name": "Region 10 in Kosovo",
+          "Historical_Landmarks": "当地历史遗址和古老建筑。",
+          "Tourist_Activities": "搜索旅游活动",
+          "Local_Cuisine": "搜索流行菜肴",
+          "Green_Spaces": "当地景观和绿色公园。"
+        }
+      ]
+    }
+  ]
+]

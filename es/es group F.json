@@ -1,0 +1,854 @@
+[
+  {
+    "Country_Name": "Colombia",
+    "Cities": [
+      {
+        "City_Name": "Bogota",
+        "Historical_Landmarks": "Palacio de la Justicia, Catedral Primada, Museo del Oro, Montaña Monserrate, La Candelaria (el casco antiguo), Plaza Bolívar, recorridos de arte callejero.",
+        "Tourist_Activities": "Explorar recorridos de arte callejero, subir en teleférico a la Montaña Monserrate, visitar el Museo del Oro, explorar el casco antiguo.",
+        "Local_Cuisine": "Ajiaco (sopa de pollo y maíz), Bandeja Paisa (plato de carne y frijoles), Sancocho (sopa de maíz), Empanadas.",
+        "Green_Spaces": "Montaña Monserrate, La Candelaria (el casco antiguo)."
+      },
+      {
+        "City_Name": "Cartagena",
+        "Historical_Landmarks": "Ciudad Amurallada (Patrimonio de la Humanidad), Islas del Rosario, Castillo de San Felipe, Catedral de Cartagena.",
+        "Tourist_Activities": "Navegar entre islas alrededor de las Islas del Rosario (arrecifes de coral y arenas blancas), explorar la Ciudad Amurallada.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Islas del Rosario (arrecifes de coral y arenas blancas)."
+      },
+      {
+        "City_Name": "Medellin",
+        "Historical_Landmarks": "Plaza Boterro (distrito de artistas), Museo de Antioquia, Palacio Rafael Uribe, Metrocable TPRI (teleférico).",
+        "Tourist_Activities": "Explorar el casco antiguo, subir en teleférico para vistas panorámicas, recorridos de arte callejero.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Cali",
+        "Historical_Landmarks": "Distrito de la Salsa (centro cultural), Catedral Metropolitana, Teatro Municipal.",
+        "Tourist_Activities": "Bailar salsa (incluso si eres principiante), asistir al festival anual Feria de Cali.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Santa Marta",
+        "Historical_Landmarks": "Parque Nacional Tayrona, Sierra Nevada de Santa Marta (montañas nevadas).",
+        "Tourist_Activities": "Explorar el Parque Tayrona, visitar playas cercanas, excursión a la Ciudad Perdida.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Parque Nacional Tayrona, Sierra Nevada de Santa Marta (montañas nevadas)."
+      },
+      {
+        "City_Name": "Salento",
+        "Historical_Landmarks": "Valle de Cocora (palmas de cera), fincas de café (región cafetera), paisajes impresionantes.",
+        "Tourist_Activities": "Degustar café en su origen, montar a caballo en el Valle de Cocora, senderismo de larga distancia (6 horas).",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Valle de Cocora (palmas de cera), fincas de café (región cafetera), paisajes impresionantes."
+      },
+      {
+        "City_Name": "Popayan",
+        "Historical_Landmarks": "Ciudad Blanca (arquitectura religiosa), Universidad de Popayán, Catedral.",
+        "Tourist_Activities": "Explorar la arquitectura y la religión, visitar museos dedicados a la historia regional.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Pasto",
+        "Historical_Landmarks": "(Cerca de la frontera con Ecuador), Catedral, Laguna de la Cocha.",
+        "Tourist_Activities": "Explorar el sur de Colombia.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Laguna de la Cocha."
+      },
+      {
+        "City_Name": "Leticia",
+        "Historical_Landmarks": "Selva amazónica, Río Amazonas.",
+        "Tourist_Activities": "Turismo de selva (Río Amazonas), observación de fauna.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Selva amazónica, Río Amazonas."
+      },
+      {
+        "City_Name": "Barranquilla",
+        "Historical_Landmarks": "Carnaval de Barranquilla (Patrimonio de la Humanidad), Museo Caribeño.",
+        "Tourist_Activities": "Asistir al carnaval (uno de los festivales más grandes de América Latina).",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Comoros (Islands of the Comoros)",
+    "Cities": [
+      {
+        "City_Name": "Moroni",
+        "Historical_Landmarks": "Monte Karthala (volcán activo), Mezquita del Viernes (mezquita de playa), calles estrechas y cafés.",
+        "Tourist_Activities": "Senderismo de larga distancia en selvas, explorar playas de arena blanca.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Monte Karthala (volcán activo), selvas, playas de arena blanca."
+      },
+      {
+        "City_Name": "Mohéli",
+        "Historical_Landmarks": "Parque Nacional Marino (Parc Marin de Mohéli), encantadoras pequeñas islas.",
+        "Tourist_Activities": "Turismo de conservación marina, explorar áreas terrestres sin desarrollar.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Parque Nacional Marino, encantadoras pequeñas islas, áreas terrestres."
+      },
+      {
+        "City_Name": "Anjouan",
+        "Historical_Landmarks": "Antiguas granjas marroquíes, mercados de clavo.",
+        "Tourist_Activities": "Explorar granjas y aromas de clavo, paseos por la naturaleza.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Antiguas granjas marroquíes, naturaleza."
+      },
+      {
+        "City_Name": "Fomboni",
+        "Historical_Landmarks": "Pueblo histórico, museos.",
+        "Tourist_Activities": "Visitar el histórico pueblo costero.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Karthala",
+        "Historical_Landmarks": "Monte Karthala (volcán).",
+        "Tourist_Activities": "Escalar el volcán, explorar terreno volcánico.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Monte Karthala (volcán)."
+      },
+      {
+        "City_Name": "Mitsamiouli",
+        "Historical_Landmarks": "Puerto del norte, playas tranquilas.",
+        "Tourist_Activities": "Relajarse en las playas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playas tranquilas."
+      },
+      {
+        "City_Name": "Domoni",
+        "Historical_Landmarks": "Pueblo costero, playas.",
+        "Tourist_Activities": "Turismo de playa.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playas."
+      },
+      {
+        "City_Name": "Mitsamoudou",
+        "Historical_Landmarks": "(Pueblo histórico en la isla Anjouan).",
+        "Tourist_Activities": "Visitar sitios históricos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Simaoni",
+        "Historical_Landmarks": "(Pueblo costero).",
+        "Tourist_Activities": "Visitar las costas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Costas."
+      },
+      {
+        "City_Name": "Bumoni",
+        "Historical_Landmarks": "(Pueblo costero).",
+        "Tourist_Activities": "Visitar las costas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Costas."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Kiribati",
+    "Cities": [
+      {
+        "City_Name": "Tarawa",
+        "Historical_Landmarks": "Sitios históricos de la Segunda Guerra Mundial, Maniaba (casas de reunión tradicionales).",
+        "Tourist_Activities": "Tours culturales guiados, explorar restos de la Segunda Guerra Mundial.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Christmas Island (Kiritimati)",
+        "Historical_Landmarks": "Lagunas, bosques, playas de arena blanca, santuarios de aves migratorias.",
+        "Tourist_Activities": "Buceo y snorkel, observación de aves, kayak en extensos mares interiores.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Lagunas, bosques, playas de arena blanca, santuarios de aves migratorias."
+      },
+      {
+        "City_Name": "Phoenix Islands",
+        "Historical_Landmarks": "Área marina protegida (la mayor reserva marina del mundo), arrecifes de coral prístinos.",
+        "Tourist_Activities": "Buceo y snorkel avanzado (observación de tiburones y mantarrayas), explorar ecosistemas submarinos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Área marina protegida, arrecifes de coral prístinos."
+      },
+      {
+        "City_Name": "Banaba",
+        "Historical_Landmarks": "Sitios patrimoniales de fosfato de Banaba, paisajes restaurados.",
+        "Tourist_Activities": "Explorar la historia minera, eco-turismo emergente.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Paisajes restaurados."
+      },
+      {
+        "City_Name": "Abaiang",
+        "Historical_Landmarks": "Pueblos tradicionales, ruinas antiguas, islas de arena del norte.",
+        "Tourist_Activities": "Buceo cultural, conocimientos auténticos del pasado precolonial de Kiribati.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Islas de arena del norte."
+      },
+      {
+        "City_Name": "Tabiteuea",
+        "Historical_Landmarks": "Trampas de peces de piedra, sitios de historia oral.",
+        "Tourist_Activities": "Buceo cultural y patrimonio de pesca sostenible.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Nonouti",
+        "Historical_Landmarks": "Manglares e islas de arena de Nonouti, bosques costeros.",
+        "Tourist_Activities": "Caminata ecológica fácil, observación de aves.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Manglares e islas de arena de Nonouti, bosques costeros."
+      },
+      {
+        "City_Name": "Butaritari",
+        "Historical_Landmarks": "Aguas de la laguna de Butaritari, islotes de arena.",
+        "Tourist_Activities": "Kayak a través de lagunas, recorridos en bote escénicos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Aguas de la laguna de Butaritari, islotes de arena."
+      },
+      {
+        "City_Name": "Nauru",
+        "Historical_Landmarks": "(Islas de arena remotas), sitios de anidación de tortugas.",
+        "Tourist_Activities": "Explorar sitios remotos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Islas de arena remotas, sitios de anidación de tortugas."
+      },
+      {
+        "City_Name": "South Tarawa",
+        "Historical_Landmarks": "(Centro administrativo).",
+        "Tourist_Activities": "Visitar la capital administrativa.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Kenya",
+    "Cities": [
+      {
+        "City_Name": "Nairobi",
+        "Historical_Landmarks": "Museo Nacional de Nairobi, Parque Safari de Nairobi (dentro de la capital), Exhibición de Evolución Humana, Monte Lang'ata (terreno volcánico).",
+        "Tourist_Activities": "Safari en Nairobi (aventura de safari sin salir de la capital), compras en el Mercado Maasai, visita al Museo Nacional de Nairobi.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Parque Safari de Nairobi, Monte Lang'ata."
+      },
+      {
+        "City_Name": "Maasai Mara",
+        "Historical_Landmarks": "Reserva Nacional Maasai Mara, la Gran Migración de Ñus (estacional).",
+        "Tourist_Activities": "Viajes de safari en Maasai Mara, observar la gran migración, observación de fauna.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Reserva Nacional Maasai Mara."
+      },
+      {
+        "City_Name": "Mombasa",
+        "Historical_Landmarks": "Fuerte de Jesús, Casco Antiguo, perla de la costa keniana, playas costeras.",
+        "Tourist_Activities": "Turismo costero, explorar el Casco Antiguo, visitar las playas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playas costeras."
+      },
+      {
+        "City_Name": "Amboseli",
+        "Historical_Landmarks": "Parque Nacional Amboseli, vistas del Monte Kilimanjaro (elefantes gigantes y fondo montañoso).",
+        "Tourist_Activities": "Viajes de safari, observación de elefantes gigantes, fotografía.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Parque Nacional Amboseli, Monte Kilimanjaro (fondo montañoso)."
+      },
+      {
+        "City_Name": "Nakuru",
+        "Historical_Landmarks": "Lago Nakuru (hogar de flamencos rosados), Parque Nacional Nakuru.",
+        "Tourist_Activities": "Observación de flamencos, ecoturismo.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Lago Nakuru, Parque Nacional Nakuru."
+      },
+      {
+        "City_Name": "Lamu",
+        "Historical_Landmarks": "Pueblo histórico de Lamu (Patrimonio de la Humanidad), dhows tradicionales, mercados de artesanía.",
+        "Tourist_Activities": "Navegar dhows tradicionales, visitar mercados de artesanía, disfrutar de playas tranquilas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playas tranquilas."
+      },
+      {
+        "City_Name": "Kilifi",
+        "Historical_Landmarks": "Condado de Kilifi, playas encantadoras y rica cultura, granjas marinas.",
+        "Tourist_Activities": "Turismo de playa, visitar áreas costeras.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playas encantadoras."
+      },
+      {
+        "City_Name": "Watamu",
+        "Historical_Landmarks": "Playa Watamu (Perla del Océano), arrecifes de coral, reservas marinas.",
+        "Tourist_Activities": "Disfrutar de la playa, buceo y snorkel en reservas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playa Watamu, arrecifes de coral, reservas marinas."
+      },
+      {
+        "City_Name": "Malindi",
+        "Historical_Landmarks": "Reservas marinas, ruinas portuguesas.",
+        "Tourist_Activities": "Turismo marino, explorar las ruinas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Reservas marinas."
+      },
+      {
+        "City_Name": "Kisumu",
+        "Historical_Landmarks": "Lago Victoria, Museo de Kisumu.",
+        "Tourist_Activities": "Turismo lacustre, visitar el museo.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Lago Victoria."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Latvia",
+    "Cities": [
+      {
+        "City_Name": "Riga",
+        "Historical_Landmarks": "Casco Antiguo (Patrimonio de la Humanidad), Iglesia de San Pedro, Plaza del Ayuntamiento.",
+        "Tourist_Activities": "Explorar la arquitectura del Casco Antiguo.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Daugavpils",
+        "Historical_Landmarks": "Fortaleza de Daugavpils, Río Daugava.",
+        "Tourist_Activities": "Visitar la fortaleza histórica.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Río Daugava."
+      },
+      {
+        "City_Name": "Liepaja",
+        "Historical_Landmarks": "Playas costeras, puerto.",
+        "Tourist_Activities": "Turismo marino.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playas costeras."
+      },
+      {
+        "City_Name": "Ventspils",
+        "Historical_Landmarks": "Castillo de Ventspils, puerto.",
+        "Tourist_Activities": "Visitar el castillo y el puerto.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Jelgava",
+        "Historical_Landmarks": "Castillo de Jelgava, zona interior.",
+        "Tourist_Activities": "Explorar zonas interiores.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Zona interior."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Laos",
+    "Cities": [
+      {
+        "City_Name": "Vientiane",
+        "Historical_Landmarks": "Patuxai (Puerta de la Victoria), Wat Sisaket, That Luang.",
+        "Tourist_Activities": "Explorar sitios religiosos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Luang Prabang",
+        "Historical_Landmarks": "Casco Antiguo (Patrimonio de la Humanidad), templo Wat Xieng Thong, cascadas Kuang Si.",
+        "Tourist_Activities": "Explorar el Casco Antiguo, visitar cascadas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Cascadas Kuang Si."
+      },
+      {
+        "City_Name": "Savannakhet",
+        "Historical_Landmarks": "Casco Antiguo, Río Mekong.",
+        "Tourist_Activities": "Explorar el Casco Antiguo a orillas del río.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Río Mekong."
+      },
+      {
+        "City_Name": "Pakse",
+        "Historical_Landmarks": "Río Seh (4000 islas), Cataratas Khone Phapheng.",
+        "Tourist_Activities": "Explorar islas, visitar cascadas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Río Seh (4000 islas), Cataratas Khone Phapheng."
+      },
+      {
+        "City_Name": "Phong Sali",
+        "Historical_Landmarks": "Áreas montañosas, plantaciones de té.",
+        "Tourist_Activities": "Turismo de montaña.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Áreas montañosas, plantaciones de té."
+      },
+      {
+        "City_Name": "Sam Neua",
+        "Historical_Landmarks": "Granjas de arroz, áreas montañosas.",
+        "Tourist_Activities": "Turismo agrícola.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Granjas de arroz, áreas montañosas."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Lebanon",
+    "Cities": [
+      {
+        "City_Name": "Beirut",
+        "Historical_Landmarks": "Rochelle de Rouche, Museo Nacional, Calle Hamra, Plaza de los Mártires, Corniche.",
+        "Tourist_Activities": "Explorar sitios naturales (Rouche Rock), visitar museos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Corniche."
+      },
+      {
+        "City_Name": "Baalbek",
+        "Historical_Landmarks": "Templos romanos de Baalbek, ruinas históricas.",
+        "Tourist_Activities": "Visitar los enormes templos romanos, explorar ruinas romanas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Byblos",
+        "Historical_Landmarks": "Byblos (la ciudad habitada continuamente más antigua del mundo), viejo puerto, Castillo de Byblos.",
+        "Tourist_Activities": "Explorar el viejo puerto, visitar el castillo.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Jounieh",
+        "Historical_Landmarks": "Teleférico de Jounieh a Harissa, Señora del Líbano, Gruta de Jeita.",
+        "Tourist_Activities": "Subir en teleférico, parapente, visitar la Señora del Líbano.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Tripoli",
+        "Historical_Landmarks": "Castillo de Trípoli, mercados de Trípoli.",
+        "Tourist_Activities": "Explorar el castillo y los mercados.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Luxembourg",
+    "Cities": [
+      {
+        "City_Name": "Luxembourg",
+        "Historical_Landmarks": "Puente Adolphe, Palacio Gran Ducal, Casamates del Bock (túneles defensivos), Casco Antiguo (Patrimonio de la Humanidad).",
+        "Tourist_Activities": "Explorar la capital como centro financiero, visitar túneles defensivos, pasear por el Casco Antiguo.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Esch-sur-Alzette",
+        "Historical_Landmarks": "Áreas industriales históricas, museos.",
+        "Tourist_Activities": "Turismo industrial.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Differdange",
+        "Historical_Landmarks": "El castillo, áreas circundantes.",
+        "Tourist_Activities": "Visitar el castillo.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Áreas circundantes."
+      },
+      {
+        "City_Name": "Ettelbruck",
+        "Historical_Landmarks": "(Centro regional).",
+        "Tourist_Activities": "Visitar centros regionales.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Remich",
+        "Historical_Landmarks": "Río Mosela, viñedos.",
+        "Tourist_Activities": "Turismo agrícola.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Río Mosela, viñedos."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Libya",
+    "Cities": [
+      {
+        "City_Name": "Tripoli",
+        "Historical_Landmarks": "Ciudad Vieja, Arco de Marco Aurelio, Museo del Palacio Rojo.",
+        "Tourist_Activities": "Explorar la Ciudad Vieja.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Benghazi",
+        "Historical_Landmarks": "Ciudad costera.",
+        "Tourist_Activities": "Turismo costero.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Misrata",
+        "Historical_Landmarks": "Puerto.",
+        "Tourist_Activities": "Turismo marino.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Sebha",
+        "Historical_Landmarks": "(Centro regional), desierto.",
+        "Tourist_Activities": "Turismo desértico.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Ghat",
+        "Historical_Landmarks": "Antiguo pueblo del desierto, Montañas Aksakos.",
+        "Tourist_Activities": "Turismo desértico, explorar arte rupestre.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Zliten",
+        "Historical_Landmarks": "Universidad Al-Asmar, áreas religiosas.",
+        "Tourist_Activities": "Turismo religioso.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Sirte",
+        "Historical_Landmarks": "Ciudad costera.",
+        "Tourist_Activities": "Turismo costero.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Al-Bayda",
+        "Historical_Landmarks": "Montañas Jabal al-Akhdar.",
+        "Tourist_Activities": "Turismo de montaña.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Montañas Jabal al-Akhdar."
+      },
+      {
+        "City_Name": "Tubruq",
+        "Historical_Landmarks": "Puerto, áreas fronterizas.",
+        "Tourist_Activities": "Visitar áreas fronterizas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Derna",
+        "Historical_Landmarks": "Ciudad costera, áreas montañosas circundantes.",
+        "Tourist_Activities": "Turismo costero y de montaña.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Áreas montañosas circundantes."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Lithuania",
+    "Cities": [
+      {
+        "City_Name": "Vilnius",
+        "Historical_Landmarks": "Casco Antiguo (Patrimonio de la Humanidad), Castillo de Gediminas, Catedral de Vilna.",
+        "Tourist_Activities": "Explorar el Casco Antiguo, visitar castillos y museos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Kaunas",
+        "Historical_Landmarks": "Casco Antiguo, Castillo de Kaunas.",
+        "Tourist_Activities": "Visitar castillos y museos.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Klaipeda",
+        "Historical_Landmarks": "Ciudad costera, puerto de Klaipeda.",
+        "Tourist_Activities": "Turismo costero.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Palanga",
+        "Historical_Landmarks": "(Complejo de playa), playas de arena, Jardín Botánico de Palanga.",
+        "Tourist_Activities": "Turismo de playa.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Playas de arena, Jardín Botánico de Palanga."
+      },
+      {
+        "City_Name": "Šauli",
+        "Historical_Landmarks": "Colina de las Cruces (sitio religioso), zona interior.",
+        "Tourist_Activities": "Visitar la Colina de las Cruces.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Zona interior."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Lesotho",
+    "Cities": [
+      {
+        "City_Name": "Maseru",
+        "Historical_Landmarks": "Palacio Real, Museo Nacional.",
+        "Tourist_Activities": "Visitar la capital administrativa.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Maloeti",
+        "Historical_Landmarks": "Montañas Maloeti, zonas interiores.",
+        "Tourist_Activities": "Turismo de montaña.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Montañas Maloeti, zonas interiores."
+      },
+      {
+        "City_Name": "Simonkong",
+        "Historical_Landmarks": "Cascada Maletsunyane (la cascada más alta de África).",
+        "Tourist_Activities": "Visitar la cascada.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Cascada Maletsunyane."
+      },
+      {
+        "City_Name": "Mohale's Hoek",
+        "Historical_Landmarks": "Cueva Nizanaang, región sur.",
+        "Tourist_Activities": "Explorar cuevas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Mafeteng",
+        "Historical_Landmarks": "Ruinas de Dineo, áreas del sur.",
+        "Tourist_Activities": "Visitar las ruinas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Mali",
+    "Cities": [
+      {
+        "City_Name": "Bamako",
+        "Historical_Landmarks": "Torre BCEAO, Catedral de Bamako, Gran Mezquita de Bamako, Museo Nacional, Mercado Central, Parque Nacional.",
+        "Tourist_Activities": "Visitar el Museo Nacional, explorar mercados locales, paseos en barco por el río Níger, paseos en camello en el Sahara.",
+        "Local_Cuisine": "To (gachas servidas con salsas), Mâsa (dulces locales), arroz con carne y pescado, Djougou (sopa).",
+        "Green_Spaces": "Parque Nacional, Río Níger."
+      },
+      {
+        "City_Name": "Timbuktu",
+        "Historical_Landmarks": "Mesas de barro históricas, bibliotecas antiguas, desierto.",
+        "Tourist_Activities": "Explorar sitios históricos.",
+        "Local_Cuisine": "To, Mâsa.",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Mopti",
+        "Historical_Landmarks": "Gran Mezquita de Mopti, Río Níger, Lago Débo.",
+        "Tourist_Activities": "Turismo fluvial, explorar el río y el lago.",
+        "Local_Cuisine": "To, Mâsa.",
+        "Green_Spaces": "Río Níger, Lago Débo."
+      },
+      {
+        "City_Name": "Ségou",
+        "Historical_Landmarks": "Granjas de arroz, arquitectura histórica.",
+        "Tourist_Activities": "Turismo agrícola.",
+        "Local_Cuisine": "To, Mâsa.",
+        "Green_Spaces": "Granjas de arroz."
+      },
+      {
+        "City_Name": "Gao",
+        "Historical_Landmarks": "Mezquita de Gao, áreas históricas.",
+        "Tourist_Activities": "Visitar sitios históricos.",
+        "Local_Cuisine": "To, Mâsa.",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Sifari",
+        "Historical_Landmarks": "Río Níger, áreas rurales.",
+        "Tourist_Activities": "Turismo fluvial.",
+        "Local_Cuisine": "To, Mâsa.",
+        "Green_Spaces": "Río Níger, áreas rurales."
+      },
+      {
+        "City_Name": "Koro",
+        "Historical_Landmarks": "Áreas agrícolas.",
+        "Tourist_Activities": "Turismo agrícola.",
+        "Local_Cuisine": "To, Mâsa.",
+        "Green_Spaces": "Áreas agrícolas."
+      },
+      {
+        "City_Name": "Kidal",
+        "Historical_Landmarks": "Desierto del Sahara.",
+        "Tourist_Activities": "Turismo del desierto.",
+        "Local_Cuisine": "To, Mâsa.",
+        "Green_Spaces": "Buscar espacios verdes"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Malaysia",
+    "Cities": [
+      {
+        "City_Name": "Kuala Lumpur",
+        "Historical_Landmarks": "Torres Gemelas Petronas, Cuevas de Batu, Masjid Negara, Mercado Central.",
+        "Tourist_Activities": "Visitar las Torres Petronas, explorar las Cuevas de Batu.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "George Town",
+        "Historical_Landmarks": "Casco Antiguo (Patrimonio de la Humanidad), arte callejero, herencia china e india.",
+        "Tourist_Activities": "Explorar el Casco Antiguo, ver arte callejero.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Sabah (including Kota Kinabalu)",
+        "Historical_Landmarks": "Monte Kinabalu, Parque Nacional Kinabalu.",
+        "Tourist_Activities": "Escalada de montaña, turismo de naturaleza.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Monte Kinabalu, Parque Nacional Kinabalu."
+      },
+      {
+        "City_Name": "Sarawak",
+        "Historical_Landmarks": "Parque Nacional Bako, áreas interiores.",
+        "Tourist_Activities": "Explorar el parque nacional.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Parque Nacional Bako, áreas interiores."
+      },
+      {
+        "City_Name": "Malacca",
+        "Historical_Landmarks": "Casco Antiguo (Patrimonio de la Humanidad), iglesias históricas.",
+        "Tourist_Activities": "Explorar el patrimonio histórico.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Cameron Highlands",
+        "Historical_Landmarks": "Plantaciones de té, tierras altas.",
+        "Tourist_Activities": "Turismo de montaña.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Plantaciones de té, tierras altas."
+      },
+      {
+        "City_Name": "Moro Danau Dapa",
+        "Historical_Landmarks": "(Áreas naturales).",
+        "Tourist_Activities": "Explorar áreas naturales.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Áreas naturales."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Egypt",
+    "Cities": [
+      {
+        "City_Name": "Cairo",
+        "Historical_Landmarks": "Pirámides de Giza, Museo Egipcio, Khan El Khalili, Mezquita de Al-Azhar, Ciudadela de Saladino.",
+        "Tourist_Activities": "Visitar las pirámides y el museo, comprar en Khan El Khalili.",
+        "Local_Cuisine": "Koshari (arroz, lentejas, pasta, cebollas fritas), Molokhia, Fiteer Meshaltet, Mahshi, Falafel (Ta’ameya).",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Luxor",
+        "Historical_Landmarks": "Valle de los Reyes, Templo de Karnak, Templo de Luxor.",
+        "Tourist_Activities": "Visitar templos y sitios arqueológicos.",
+        "Local_Cuisine": "Koshari, Molokhia, Fiteer Meshaltet.",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Sharm El Sheikh",
+        "Historical_Landmarks": "Mar Rojo, Ras Muhammad (reserva natural), playas.",
+        "Tourist_Activities": "Buceo y snorkel, turismo de playa.",
+        "Local_Cuisine": "Koshari, Molokhia, Fiteer Meshaltet.",
+        "Green_Spaces": "Ras Muhammad (reserva natural), playas."
+      },
+      {
+        "City_Name": "Aswan",
+        "Historical_Landmarks": "Alto Embalse, Templo de Philae, Río Nilo.",
+        "Tourist_Activities": "Viajes por el Nilo (feluca), visitar templos.",
+        "Local_Cuisine": "Koshari, Molokhia, Fiteer Meshaltet.",
+        "Green_Spaces": "Río Nilo."
+      },
+      {
+        "City_Name": "Faiyum",
+        "Historical_Landmarks": "Wadi El Rayan, lagos de Faiyum.",
+        "Tourist_Activities": "Turismo de naturaleza.",
+        "Local_Cuisine": "Koshari, Molokhia, Fiteer Meshaltet.",
+        "Green_Spaces": "Wadi El Rayan, lagos de Faiyum."
+      },
+      {
+        "City_Name": "Tanta",
+        "Historical_Landmarks": "(Centro regional).",
+        "Tourist_Activities": "Visitar mercados.",
+        "Local_Cuisine": "Koshari, Molokhia, Fiteer Meshaltet.",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Mansoura",
+        "Historical_Landmarks": "(Centro regional).",
+        "Tourist_Activities": "Visitar centros regionales.",
+        "Local_Cuisine": "Koshari, Molokhia, Fiteer Meshaltet.",
+        "Green_Spaces": "Buscar espacios verdes"
+      }
+    ]
+  },
+  {
+    "Country_Name": "Mongolia",
+    "Cities": [
+      {
+        "City_Name": "Ulaanbaatar",
+        "Historical_Landmarks": "Monasterio Erdene Zuu (cerca de la ciudad), Plaza Sukhbaatar, Museo Nacional de Historia, teatros y ópera.",
+        "Tourist_Activities": "Explorar la capital (corazón cultural y económico), visitar museos y monasterios, montar a caballo.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Kharkhorin (Karakorum)",
+        "Historical_Landmarks": "Antigua capital (Patrimonio de la Humanidad), Monasterio Erdene Zuu.",
+        "Tourist_Activities": "Explorar ruinas históricas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Gobi Desert",
+        "Historical_Landmarks": "Dunas de arena (Khongoril Gobi), Valle del Águila (Yolyn Am).",
+        "Tourist_Activities": "Safari en el desierto, explorar valles y montañas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Valle del Águila (Yolyn Am)."
+      },
+      {
+        "City_Name": "Mörön",
+        "Historical_Landmarks": "Lago Khuvsgul (Océano Azul), Parque Nacional Khövsgöl.",
+        "Tourist_Activities": "Turismo lacustre, explorar el parque nacional.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Lago Khövsgöl, Parque Nacional Khövsgöl."
+      },
+      {
+        "City_Name": "Ulgii",
+        "Historical_Landmarks": "Montañas Altai (cultura del halcón).",
+        "Tourist_Activities": "Explorar la cultura del halcón, turismo de montaña.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Montañas Altai."
+      },
+      {
+        "City_Name": "Batsumber",
+        "Historical_Landmarks": "(Áreas fronterizas).",
+        "Tourist_Activities": "Explorar áreas fronterizas.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      },
+      {
+        "City_Name": "Arhangay",
+        "Historical_Landmarks": "Lago Terkhin Tsagaan Nuur.",
+        "Tourist_Activities": "Turismo lacustre.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Lago Terkhin Tsagaan Nuur."
+      },
+      {
+        "City_Name": "Darkhan",
+        "Historical_Landmarks": "(Centro regional).",
+        "Tourist_Activities": "Visitar centros regionales.",
+        "Local_Cuisine": "Buscar platos",
+        "Green_Spaces": "Buscar espacios verdes"
+      }
+    ]
+  }
+]

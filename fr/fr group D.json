@@ -1,0 +1,2103 @@
+[
+  {
+    "Country_Name": "Slovaquie",
+    "Cities": [
+        {
+          "City_Name": "Bratislava (Bratislava)",
+          "Historical_Landmarks": "Bratislava Castle, Michael Gate (medieval), Presidential Palace (Grasalkovich), Blue Church (Elizabeth), Old Town.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sad Jan Ko Krala Park (the oldest public park), Bratislava Forest Park, Danube River banks."
+        },
+        {
+          "City_Name": "Košice (Košice)",
+          "Historical_Landmarks": "St. Elizabeth Cathedral (the largest church in Slovakia), Urban Tower, Hlavna historic street.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Botanical Garden of Pavol Jozef Šafárik University, City Park (Mestský Park)."
+        },
+        {
+          "City_Name": "Banská Štiavnica (Banská Štiavnica)",
+          "Historical_Landmarks": "Old Castle and New Castle (UNESCO heritage), Holy Trinity Square, Open‑air Mining Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Industrial mining lakes (Tajchy) surrounded by forests, Calvary Park."
+        },
+        {
+          "City_Name": "Piešťany (Piešťany)",
+          "Historical_Landmarks": "Kolonad Bridge (functional architecture), Napoleon Bath Building, Balneology Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Spa Island with its lush gardens, City Park."
+        },
+        {
+          "City_Name": "Trenčín (Trenčín)",
+          "Historical_Landmarks": "Imposing Trenčín Castle on the hill, Roman rock carving (dating to 179 AD), Old Jewish synagogue.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lesopark Brezina forest park surrounding the castle."
+        },
+        {
+          "City_Name": "Levoča (Levoča)",
+          "Historical_Landmarks": "St. James Church (holds the highest wooden altar in the world), Old Town Hall, Pillory.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Green hills surrounding Spiš with panoramic views."
+        },
+        {
+          "City_Name": "Žilina (Žilina)",
+          "Historical_Landmarks": "Mariánske Square, Bodatin Castle (at river confluence), Holy Trinity Church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sad SNP park, Žilina water dam."
+        },
+        {
+          "City_Name": "Poprad (Poprad)",
+          "Historical_Landmarks": "Historic Spišská Sobota district (Gothic houses and Renaissance), St. Egidius Church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Gateway to the High Tatras, Aquacity water park (groundwater)."
+        },
+        {
+          "City_Name": "Nitra (Nitra)",
+          "Historical_Landmarks": "Nitra Castle, St. Emmeram Cathedral, Zobor Abbey (ruins).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sihot Park (by the river), Zobor Hill and walking trails."
+        },
+        {
+          "City_Name": "Bardejov (Bardejov)",
+          "Historical_Landmarks": "Town Hall Square (UNESCO), St. Egidius Church, Preserved defensive fortifications.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Bardejovské Kúpele spa resort amidst forests."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Singapour",
+      "Cities": [
+        {
+          "City_Name": "Marina Bay (Marina Bay)",
+          "Historical_Landmarks": "Fullerton Hotel (formerly a post office), Merlion Park.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Gardens by the Bay with its giant trees, Flower Dome."
+        },
+        {
+          "City_Name": "Chinatown (Chinatown)",
+          "Historical_Landmarks": "Sri Sen Buda Temple, Sri Mariamman Temple (Hindu), traditional shophouse buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Huang Lim Park (Speaker's Corner)."
+        },
+        {
+          "City_Name": "Sentosa (Sentosa)",
+          "Historical_Landmarks": "Fort Siloso (World War II fort).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Siloso, Palawan and Tanjong beaches, natural walking trails."
+        },
+        {
+          "City_Name": "Civic District (Civic District)",
+          "Historical_Landmarks": "National Gallery (formerly the Supreme Court), Old Parliament Building, St. Andrew's Cathedral.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Historic Fort Canning Park."
+        },
+        {
+          "City_Name": "Botanic Gardens (Botanic Gardens)",
+          "Historical_Landmarks": "Borkel House, Beach Theatre.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "National Orchid Garden, ancient rainforest (UNESCO site)."
+        },
+        {
+          "City_Name": "Little India (Little India)",
+          "Historical_Landmarks": "Sri Veeramakaliamman Temple, Abdul Ghaffur Mosque, Mustafa Centre.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Small green spaces and community gardens."
+        },
+        {
+          "City_Name": "Kampong Glam (Kampong Glam)",
+          "Historical_Landmarks": "Sultan Mosque with golden dome, Malay Heritage Centre (former Sultan's Palace).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "No large parks, but famous for street‑lined palm trees."
+        },
+        {
+          "City_Name": "Katong (Katong)",
+          "Historical_Landmarks": "Colorful Peranakan houses, colonial architecture.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "East Coast Park stretching along the sea."
+        },
+        {
+          "City_Name": "Punggol (Punggol)",
+          "Historical_Landmarks": "Old Matilda House.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Coney Island, Punggol Waterway."
+        },
+        {
+          "City_Name": "Pulau Ubin (Pulau Ubin)",
+          "Historical_Landmarks": "Remaining traditional villages (Kampongs), old granite quarries.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Chek Jawa Wetlands, mangrove forests."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Suisse",
+      "Cities": [
+        {
+          "City_Name": "Bern (Bern)",
+          "Historical_Landmarks": "Old Town (UNESCO), Zytglogge clock tower, Federal Parliament.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "BärenPark, Rose Garden overlooking the city."
+        },
+        {
+          "City_Name": "Zurich (Zurich)",
+          "Historical_Landmarks": "Grossmünster Church, Fraumünster Church (Chagall windows), Lindenhof quarter.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake Zurich, Uetliberg mountain for hiking."
+        },
+        {
+          "City_Name": "Geneva (Geneva)",
+          "Historical_Landmarks": "St. Peter's Cathedral, United Nations Palace, Reformation Monument.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Jardin Anglais, Parc La Grange, Lake Geneva and its fountains."
+        },
+        {
+          "City_Name": "Lucerne (Lucerne)",
+          "Historical_Landmarks": "Kapellbrücke wooden bridge, Museggmauer city wall, Lion Monument.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake Lucerne, Mount Pilatus (nearby)."
+        },
+        {
+          "City_Name": "Basel (Basel)",
+          "Historical_Landmarks": "Red Cathedral (Münster), Spalentor gate, colorful Town Hall.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "University of Basel Botanical Garden, Rhine river banks."
+        },
+        {
+          "City_Name": "Lausanne (Lausanne)",
+          "Historical_Landmarks": "Notre‑Dame Cathedral, Palais de Rumine, Flon district.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Olympic Museum Gardens, Mont‑Rebo Park, nearby Lavaux vineyards."
+        },
+        {
+          "City_Name": "Lugano (Lugano)",
+          "Historical_Landmarks": "St. Lawrence Cathedral, Piazza della Riforma, Santa Maria degli Angeli Church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Parco Ciani, Lake Lugano, Monte Brè."
+        },
+        {
+          "City_Name": "St. Gallen (St. Gallen)",
+          "Historical_Landmarks": "Stiftsbibliothek Abbey Library (heritage), Baroque cathedral.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Peter and Paul Zoo, Drei Weieren meadow area."
+        },
+        {
+          "City_Name": "Montreux (Montreux)",
+          "Historical_Landmarks": "Château de Chillon historic lakeside castle.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Flower promenade along the lake shore, Rochers de Naye."
+        },
+        {
+          "City_Name": "Zermatt (Zermatt)",
+          "Historical_Landmarks": "Old Valais village (traditional wooden houses), Matterhorn Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Famous Matterhorn mountain, Riffelsee lake, Gorner Gorge."
+        }
+      ]
+    },
+    {
+      "Country_Name": "France",
+      "Cities": [
+        {
+          "City_Name": "Paris",
+          "Historical_Landmarks": "Eiffel Tower, Arc de Triomphe, Louvre Museum, Notre‑Dame Cathedral.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Luxembourg Gardens, Tuileries Garden, Boissy‑Saint‑Louis forest."
+        },
+        {
+          "City_Name": "Lyon",
+          "Historical_Landmarks": "Roman theatre, Notre‑Dame de Fourvière Church, traboules.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Tête d'Or large park."
+        },
+        {
+          "City_Name": "Marseille",
+          "Historical_Landmarks": "Notre‑Dame de la Garde Church, Fort Saint‑Jean, Old Port.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Calanques National Park (rocky bays)."
+        },
+        {
+          "City_Name": "Bordeaux",
+          "Historical_Landmarks": "Place de la Bourse, Saint‑André Cathedral, Grand Théâtre.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Public Garden (Jardin Public), Garonne river banks."
+        },
+        {
+          "City_Name": "Nice",
+          "Historical_Landmarks": "Vieux‑Nice (Old Town), Saint‑Nicholas Orthodox Cathedral.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Colline du Château park, Promenade des Anglais."
+        },
+        {
+          "City_Name": "Strasbourg",
+          "Historical_Landmarks": "Strasbourg Cathedral, Petite France district, covered bridges.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Parc de l'Orangerie."
+        },
+        {
+          "City_Name": "Toulouse",
+          "Historical_Landmarks": "Saint‑Sernin Church, Capitole Square, Abbey of the Augustinians.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Japanese garden, Garonne river and southern canal banks."
+        },
+        {
+          "City_Name": "Nantes",
+          "Historical_Landmarks": "Ducal Castle of Brittany, Bouffay district, Nantes Cathedral.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Jardin des Plantes, Île de Versailles."
+        },
+        {
+          "City_Name": "Aix‑en‑Provence",
+          "Historical_Landmarks": "Cours Mirabeau, Saint‑Sauveur Cathedral, Cézanne’s studio.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Painters' Garden (Terrain des Peintres), Mont Saint‑Victor."
+        },
+        {
+          "City_Name": "Annecy",
+          "Historical_Landmarks": "Palais de l'Isle, Old Castle.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake Annecy, European Gardens."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Syrie",
+      "Cities": [
+        {
+          "City_Name": "Damascus",
+          "Historical_Landmarks": "Umayyad Mosque, Al‑Hamidiyeh Souk, Al‑Azm Palace, Bab Touma gate, Maronite Church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Damascus Ghaut (historical), Mount Qasioun, Tishreen Park."
+        },
+        {
+          "City_Name": "Aleppo",
+          "Historical_Landmarks": "Aleppo Citadel, Covered markets (Old City), Great Mosque, Al‑Jadida district.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Public park."
+        },
+        {
+          "City_Name": "Tadmur (Palmyra)",
+          "Historical_Landmarks": "Temple of Bel, Arch of Triumph, Roman theatre, Valley of the Tombs.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Palmyra oasis (date palms and olives), Oqba spring."
+        },
+        {
+          "City_Name": "Homs",
+          "Historical_Landmarks": "St. Mary of the Annunciation Church, Khalid ibn al‑Walid Mosque, Homs Castle.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Euphrates river banks, Qattinah Lake."
+        },
+        {
+          "City_Name": "Latakia",
+          "Historical_Landmarks": "Roman triumphal arch, Baalbek columns, National Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Blue beach, nearby forest of Al‑Furqan."
+        },
+        {
+          "City_Name": "Hama",
+          "Historical_Landmarks": "Ancient water wheels, Al‑Azm Palace (Tradition Museum), Al‑Nuri Mosque.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Water‑wheel gardens along the Orontes River."
+        },
+        {
+          "City_Name": "Bosra",
+          "Historical_Landmarks": "Roman theatre (one of the best preserved), basaltic Old Town.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Surrounding plains of Hauran."
+        },
+        {
+          "City_Name": "Tartus",
+          "Historical_Landmarks": "Tartus Cathedral (museum), Old City, Marqab Castle (nearby).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Arwad Island, seaside promenade."
+        },
+        {
+          "City_Name": "Ma‘loula",
+          "Historical_Landmarks": "Monastery of St. Takla, Monastery of St. Sarkis, Rock‑cut gorge.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Surrounding rocky mountains and caves."
+        },
+        {
+          "City_Name": "Raqqa",
+          "Historical_Landmarks": "Bab Baghdad gate, Palace of the Girls (Abbasid), old city walls.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Euphrates river banks."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Eswatini (Swaziland)",
+      "Cities": [
+        {
+          "City_Name": "Mbabane (Mbabane)",
+          "Historical_Landmarks": "Mbabane Handicrafts Market (cultural).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sibebe Rock – the second‑largest monolith in the world."
+        },
+        {
+          "City_Name": "Lobamba (Lobamba)",
+          "Historical_Landmarks": "Parliament, National Museum, King Sobhuza II Memorial Village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mlilwane Wildlife Sanctuary."
+        },
+        {
+          "City_Name": "Manzini (Manzini)",
+          "Historical_Landmarks": "Manzini Cathedral, Old market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Close to Hlane Royal Park."
+        },
+        {
+          "City_Name": "Ezulwini (Ezulwini)",
+          "Historical_Landmarks": "Valley of Kings, Mantenga Cultural Village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mantenga Falls, Shiwula Reserve."
+        },
+        {
+          "City_Name": "Big Bend (Big Bend)",
+          "Historical_Landmarks": "Historic sugar factories and mills.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Usutu River (crocodile viewing), Lubombo Mountains."
+        },
+        {
+          "City_Name": "Piggs Peak (Piggs Peak)",
+          "Historical_Landmarks": "Old gold mines.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Vuvulane Falls, Maguga Dam."
+        },
+        {
+          "City_Name": "Simunye (Simunye)",
+          "Historical_Landmarks": "Sugar Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Hlane Royal National Park – home to lions."
+        },
+        {
+          "City_Name": "Nhlangano (Nhlangano)",
+          "Historical_Landmarks": "Site where King George VI met King Sobhuza.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mahamba Forest."
+        },
+        {
+          "City_Name": "Siteki (Siteki)",
+          "Historical_Landmarks": "Old missionary schools.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mkhaya Game Reserve – endangered species."
+        },
+        {
+          "City_Name": "Malkerns (Malkerns)",
+          "Historical_Landmarks": "Swazi Candles workshop.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Green agricultural lands and valleys."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Suriname",
+      "Cities": [
+        {
+          "City_Name": "Paramaribo",
+          "Historical_Landmarks": "Historic city (UNESCO), Fort Zeelandia, wooden cathedral of St. Peter and Paul.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Palmentuin (palm garden), Suriname River banks."
+        },
+        {
+          "City_Name": "Nieuw Nickerie",
+          "Historical_Landmarks": "City market, migration monuments.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Bigi Pan nature reserve – birds and wetlands."
+        },
+        {
+          "City_Name": "Moengo",
+          "Historical_Landmarks": "Bauxite mining history, modern art installations.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Surrounding forests and rivers."
+        },
+        {
+          "City_Name": "Albina",
+          "Historical_Landmarks": "Old French prison (ruins), colonial buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Galibi Turtle Protection Area."
+        },
+        {
+          "City_Name": "Groningen",
+          "Historical_Landmarks": "Dutch migration monument, main square.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Saramaaka River."
+        },
+        {
+          "City_Name": "Jodensavanne",
+          "Historical_Landmarks": "Ruins of the oldest Jewish synagogue in the Americas, historic cemetery.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Suriname River and surrounding dense forests."
+        },
+        {
+          "City_Name": "Domburg",
+          "Historical_Landmarks": "Old farms.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "White Beach (industrial) on the river."
+        },
+        {
+          "City_Name": "Brokopondo",
+          "Historical_Landmarks": "Dam monument.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Brokopondo Reservoir (large lake), Tonka Island."
+        },
+        {
+          "City_Name": "Wageningen",
+          "Historical_Landmarks": "Historic rice‑cultivation centre.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Extensive rice fields."
+        },
+        {
+          "City_Name": "Totness",
+          "Historical_Landmarks": "Old commissioner building.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Canals and coconut trees (Coronie)."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Vietnam",
+      "Cities": [
+        {
+          "City_Name": "Hanoi",
+          "Historical_Landmarks": "Ho Chi Minh Mausoleum, Temple of Literature, Imperial Citadel.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Ho an Kiem Lake, West Lake."
+        },
+        {
+          "City_Name": "Hoi An",
+          "Historical_Landmarks": "Old Town (UNESCO), Japanese Covered Bridge, Chinese assembly halls.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "An Bang Beach, rice fields of Tra Kieu."
+        },
+        {
+          "City_Name": "Ho Chi Minh City",
+          "Historical_Landmarks": "Reunification Palace, Notre‑Dame Cathedral, Central Post Office.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Tao Đàn Park, Saigon River banks."
+        },
+        {
+          "City_Name": "Hue",
+          "Historical_Landmarks": "Imperial City (Citadel), imperial tombs, Thien Mo Temple.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Perfume River, Phong Kang Hill."
+        },
+        {
+          "City_Name": "Ha Long",
+          "Historical_Landmarks": "Bai Chai Bridge.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Ha Long Bay (UNESCO) – limestone islands and caves."
+        },
+        {
+          "City_Name": "Sapa (Sapa)",
+          "Historical_Landmarks": "Old stone church, tribal villages (Cat Cat).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Fansipan mountain, Muong Hoa Valley, Silver Waterfall."
+        },
+        {
+          "City_Name": "Nha Trang",
+          "Historical_Landmarks": "Po Nagar towers (Cham), Nha Trang Cathedral.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Nha Trang beach, Monkey Island."
+        },
+        {
+          "City_Name": "Da Nang",
+          "Historical_Landmarks": "Dragon Bridge, Cham Museum of Sculpture.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Marble Mountains, My Khe Beach, Son Tra Peninsula."
+        },
+        {
+          "City_Name": "Da Lat",
+          "Historical_Landmarks": "Summer Palace of King Bao Dai, old railway station, Crazy House.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Xuan Huang Lake, Datanla Waterfalls, Love Valley."
+        },
+        {
+          "City_Name": "Ninh Binh",
+          "Historical_Landmarks": "Bai Dien Temple, ancient capital Hoa Lu.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Tam Coc (wild Ha Long Bay), Van Long Nature Reserve."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Ghana",
+      "Cities": [
+        {
+          "City_Name": "Accra",
+          "Historical_Landmarks": "Osu Castle (Christiansborg), Independence Square, James Town Lighthouse.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Labadi Beach, Legon Botanical Gardens."
+        },
+        {
+          "City_Name": "Cape Coast",
+          "Historical_Landmarks": "Cape Coast Castle (slave trade history), colonial houses.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Cape Coast beaches."
+        },
+        {
+          "City_Name": "Elmina",
+          "Historical_Landmarks": "St. George's Castle (oldest European building in Africa), Fort Queens Rag.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Bennya Lake."
+        },
+        {
+          "City_Name": "Kumasi",
+          "Historical_Landmarks": "Manhyia Palace (Ashanti Kingdom), Okomfo Anokye sword site.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Bosu Moti crater lake, Kumasi Gardens."
+        },
+        {
+          "City_Name": "Tamale",
+          "Historical_Landmarks": "Ancient mud mosques (nearby Larabanga), Tamale market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mole National Park (safari)."
+        },
+        {
+          "City_Name": "Ho (Ho)",
+          "Historical_Landmarks": "Regional Museum, old German church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Adalca Mountain, Wli Waterfalls."
+        },
+        {
+          "City_Name": "Takoradi",
+          "Historical_Landmarks": "Historic harbour, Market Circle (Rotunda).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Busua beaches."
+        },
+        {
+          "City_Name": "Akwasombo",
+          "Historical_Landmarks": "Akwasombo Dam.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Volta Lake, Dori Island."
+        },
+        {
+          "City_Name": "Koforidua",
+          "Historical_Landmarks": "Traditional bead market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Wati Waterfalls, Umbrella Rock."
+        },
+        {
+          "City_Name": "Bolgatanga",
+          "Historical_Landmarks": "Arts and crafts village, Sacred Heart Cathedral.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Tongo Rocky hills."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Sierra Leone",
+      "Cities": [
+        {
+          "City_Name": "Freetown",
+          "Historical_Landmarks": "Cotton Tree (freedom symbol), King’s Gate, Railway Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lomé Beach, Tacugama Chimpanzee Sanctuary."
+        },
+        {
+          "City_Name": "Bans Island",
+          "Historical_Landmarks": "Ruins of Slave Castle (impactful historic site).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Island surrounded by the Sierra Leone River and forests."
+        },
+        {
+          "City_Name": "Bo (Bo)",
+          "Historical_Landmarks": "Bo Gate, Government High School.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Surrounding gardens."
+        },
+        {
+          "City_Name": "Kenema",
+          "Historical_Landmarks": "Diamond trade centre.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Near Gola Rainforest."
+        },
+        {
+          "City_Name": "Makeni",
+          "Historical_Landmarks": "Central Mosque.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Makeni hills."
+        },
+        {
+          "City_Name": "Kabala",
+          "Historical_Landmarks": "Old colonial buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Binentani mountain, scenic highlands."
+        },
+        {
+          "City_Name": "Waterloo",
+          "Historical_Landmarks": "Liberated Settlers’ Cemetery.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Near peninsula beaches."
+        },
+        {
+          "City_Name": "Shenge",
+          "Historical_Landmarks": "Remains of old forts.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Turtle Islands."
+        },
+        {
+          "City_Name": "Bonti",
+          "Historical_Landmarks": "Old Creole architecture.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sherbro Island, mangrove trees."
+        },
+        {
+          "City_Name": "Rokuper",
+          "Historical_Landmarks": "River trade history.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Great Kaba River."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Seychelles",
+      "Cities": [
+        {
+          "City_Name": "Victoria",
+          "Historical_Landmarks": "Clock Tower (Lorloz), Arul Mihou Temple, Natural History Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "National Botanical Gardens, Morne Seychellois National Park."
+        },
+        {
+          "City_Name": "Port Glaud",
+          "Historical_Landmarks": "Old residential area.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Famous Port Glaud beach, Mary Major trail."
+        },
+        {
+          "City_Name": "Anse Royale",
+          "Historical_Landmarks": "Spice Garden (Jardin du Roi).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Anse Royale beach, crystal‑clear waters."
+        },
+        {
+          "City_Name": "La Digue (La Passe)",
+          "Historical_Landmarks": "Union Estate, Plantation House.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Anse Sour Dargun (granite rocks), flycatcher reserve."
+        },
+        {
+          "City_Name": "Grand Anse (Praslin)",
+          "Historical_Landmarks": "Local monuments.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Vallee de Mai – home to the coco de mer (UNESCO)."
+        },
+        {
+          "City_Name": "Takamaka",
+          "Historical_Landmarks": "Local churches.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Anse Intendance beach."
+        },
+        {
+          "City_Name": "Bel Ombre",
+          "Historical_Landmarks": "Pirate treasure site La Bouz (legend).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Anse Majore trail."
+        },
+        {
+          "City_Name": "Baie Saint Anne",
+          "Historical_Landmarks": "Ferry terminal.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Fondi Ferdinand Reserve."
+        },
+        {
+          "City_Name": "Silhouette Island",
+          "Historical_Landmarks": "Duban family tomb, old village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Dense tropical forests and marine reserve."
+        },
+        {
+          "City_Name": "Anse Boileau",
+          "Historical_Landmarks": "Traditional fishing village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Quiet bay and mangrove trees."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Tadjikistan",
+      "Cities": [
+        {
+          "City_Name": "Dushanbe",
+          "Historical_Landmarks": "Ismaili Somoni Statue, Fortress (nearby), National Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Rudaki Park, Komsomol Lake, Victory Park."
+        },
+        {
+          "City_Name": "Khujand",
+          "Historical_Landmarks": "Khujand Fortress, Panjshanbe Market, Sheikh Mosleh‑ud‑Din Mausoleum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Syr Darya riverbanks, Khujand Kamil Garden."
+        },
+        {
+          "City_Name": "Banjikant",
+          "Historical_Landmarks": "Ancient Banjikant ruins (Central Asian Pompeii), Rudaki birthplace.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Seven Lakes (Haft Kul) in the Fann Mountains."
+        },
+        {
+          "City_Name": "Istaravshan",
+          "Historical_Landmarks": "Old fortress (Mug Teppe), Kok Gombaz school.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Fruit orchards and surrounding hills."
+        },
+        {
+          "City_Name": "Khorugh",
+          "Historical_Landmarks": "Regional History Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Botanical Garden (second‑highest in the world), Pamir Mountains."
+        },
+        {
+          "City_Name": "Kulob",
+          "Historical_Landmarks": "Myr‑Said Ali Hamdani Mausoleum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Yakhshuo Valley."
+        },
+        {
+          "City_Name": "Margab",
+          "Historical_Landmarks": "Lenin statue, local market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "High Pamir plateau, Karakul Lake."
+        },
+        {
+          "City_Name": "Hisar",
+          "Historical_Landmarks": "Hisar Fortress, old school.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Fertile surrounding valley."
+        },
+        {
+          "City_Name": "Nurek",
+          "Historical_Landmarks": "Nurek Dam (world’s highest earth‑fill dam).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Nurek Reservoir (blue lake)."
+        },
+        {
+          "City_Name": "Isfara",
+          "Historical_Landmarks": "Ancient Islamic shrines.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Apricot orchards, rocky mountains."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Gambie",
+      "Cities": [
+        {
+          "City_Name": "Banjul",
+          "Historical_Landmarks": "Arch 22, National Museum, Albert Market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Gambia River estuary."
+        },
+        {
+          "City_Name": "Serrekunda",
+          "Historical_Landmarks": "Busy Serrekunda market, traditional wrestling arena.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Abuko Nature Reserve."
+        },
+        {
+          "City_Name": "Bakau",
+          "Historical_Landmarks": "Kachikali Crocodile Museum (sacred site).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Botanical Gardens, crocodile pond."
+        },
+        {
+          "City_Name": "Juffureh",
+          "Historical_Landmarks": "Slavery Museum, Kunta Kinte village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "River banks."
+        },
+        {
+          "City_Name": "Kunta Kinte Island",
+          "Historical_Landmarks": "James Fort (UNESCO) – historic ruins.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "River island."
+        },
+        {
+          "City_Name": "Janjanbureh",
+          "Historical_Landmarks": "Wassu Stone Circles, colonial buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "River camps, hippo watching."
+        },
+        {
+          "City_Name": "Tougi",
+          "Historical_Landmarks": "Tongi Village Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Tongi Bird Reserve, beach."
+        },
+        {
+          "City_Name": "Jongur",
+          "Historical_Landmarks": "Local mosques.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Environmental Protection Centre, sandy beaches."
+        },
+        {
+          "City_Name": "Briama",
+          "Historical_Landmarks": "Wooden craft market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Makassuto cultural forest (palm woods)."
+        },
+        {
+          "City_Name": "Kartong",
+          "Historical_Landmarks": "Oldest settlement in Gambia.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Halina River, reptile reserve."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Grenade",
+      "Cities": [
+        {
+          "City_Name": "St. George's",
+          "Historical_Landmarks": "George Fort, Frederick Fort, Sindal Tunnel, National Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Annandale Falls, Grand Anse Beach."
+        },
+        {
+          "City_Name": "Gouyave",
+          "Historical_Landmarks": "Nutmeg Processing Station.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Concord Falls."
+        },
+        {
+          "City_Name": "Grand Anse",
+          "Historical_Landmarks": "Colonial buildings, chocolate factory.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Antoine Lake, Karml Mountain Falls."
+        },
+        {
+          "City_Name": "Victoria",
+          "Historical_Landmarks": "Traditional fishing village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sunset Bay."
+        },
+        {
+          "City_Name": "Sauteurs",
+          "Historical_Landmarks": "Leapers' Hill historic site.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Levera Bay, Sugar Island."
+        },
+        {
+          "City_Name": "Carriacou (Hillsborough)",
+          "Historical_Landmarks": "Local museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Coral gardens, Paradise Beach."
+        },
+        {
+          "City_Name": "St. David",
+          "Historical_Landmarks": "Lora Herb & Spice Garden.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "La Sages Beach."
+        },
+        {
+          "City_Name": "Tivoli",
+          "Historical_Landmarks": "Historic Palmont Plantation.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Organic gardens."
+        },
+        {
+          "City_Name": "Grand Etang",
+          "Historical_Landmarks": "Forest centre.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Grand Etang Lake (volcanic crater), rainforest."
+        },
+        {
+          "City_Name": "Morne Rouge",
+          "Historical_Landmarks": "Historic hotels.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "BBC Beach."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Malte",
+      "Cities": [
+        {
+          "City_Name": "Valletta",
+          "Historical_Landmarks": "St. John's Co‑Cathedral, Grandmaster's Palace, War Museum, Fort St. Elmo.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Upper and Lower Barrakka Gardens (panoramic views)."
+        },
+        {
+          "City_Name": "Mdina",
+          "Historical_Landmarks": "Walled Old City, St. Paul's Cathedral, noble palaces.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mdina Ditch (now gardens)."
+        },
+        {
+          "City_Name": "Rabat",
+          "Historical_Landmarks": "Catacombs, Roman villa.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Buskett Gardens – the only forest."
+        },
+        {
+          "City_Name": "Victoria (Gozo)",
+          "Historical_Landmarks": "Cittadella, old prison.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Villa Randle Gardens."
+        },
+        {
+          "City_Name": "Three Cities (Birgu)",
+          "Historical_Landmarks": "St. Angelo Fort, Palace of the Inquisitors, Maritime Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Yacht harbour."
+        },
+        {
+          "City_Name": "Marsaxlokk",
+          "Historical_Landmarks": "Delimara Fort.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "St. Peter's Pool, Delimara coast."
+        },
+        {
+          "City_Name": "Mellieha",
+          "Historical_Landmarks": "St. Agatha Tower (the red tower), war shelters.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Ghadira Bird Sanctuary, sandy beaches."
+        },
+        {
+          "City_Name": "Tarxien",
+          "Historical_Landmarks": "Tarxien Temples (prehistoric).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Small modern gardens."
+        },
+        {
+          "City_Name": "Qrendi",
+          "Historical_Landmarks": "Hagar Qan and Mnaġġra temples.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Blue Grotto, rocky cliffs."
+        },
+        {
+          "City_Name": "Mosta",
+          "Historical_Landmarks": "Mosta Dome (Rotunda) – third largest unsupported dome.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Speranza Valley."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cuba",
+      "Cities": [
+        {
+          "City_Name": "Havana",
+          "Historical_Landmarks": "Old Havana, Capitolio, Castillo del Morro, Plaza de la Revolución.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Havana Forest (Bosque de La Habana)."
+        },
+        {
+          "City_Name": "Trinidad",
+          "Historical_Landmarks": "Colonial town (UNESCO), bell tower, sugar museums.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Tobes de Cuyantes waterfalls, sugar valley."
+        },
+        {
+          "City_Name": "Varadero",
+          "Historical_Landmarks": "Zanadu Palace.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Cayo Hicacos peninsula, Ambrosio Caves."
+        },
+        {
+          "City_Name": "Sinfuegos",
+          "Historical_Landmarks": "Vali Palace (Moorish style), Terry Theatre, Victory Arch.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Botanical Garden, El Nicho waterfalls."
+        },
+        {
+          "City_Name": "Viñales",
+          "Historical_Landmarks": "Pre‑historic mural painting.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Viñales Valley (karst mountains), Indian Cave."
+        },
+        {
+          "City_Name": "Santiago de Cuba",
+          "Historical_Landmarks": "San Pedro de la Roca Fortress, Santa Inés Cemetery.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Baconawa Park, surrounding mountains."
+        },
+        {
+          "City_Name": "Camagüey",
+          "Historical_Landmarks": "Carmen Square, old churches, pottery kilns.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Cazino Cambister urban park."
+        },
+        {
+          "City_Name": "Santa Clara",
+          "Historical_Landmarks": "Che Guevara monument, armored train.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Capiro hill."
+        },
+        {
+          "City_Name": "Baracoa",
+          "Historical_Landmarks": "Nuestra Señora de la Candelaria Cathedral, Matcheen Fortress.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Yunque mountain, Tawa river."
+        },
+        {
+          "City_Name": "Holguín",
+          "Historical_Landmarks": "Cruz de la Loma hill.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Naranjo Bay, Guardalavaca beach."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guatemala",
+      "Cities": [
+        {
+          "City_Name": "Antigua",
+          "Historical_Landmarks": "Santa Catalina Arch, La Merced Church, Capuchin Monastery.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Agua Volcano, Central Park."
+        },
+        {
+          "City_Name": "Tikal (Park)",
+          "Historical_Landmarks": "Great Mayan pyramids, Temple I and II.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Surrounding rainforest, wildlife."
+        },
+        {
+          "City_Name": "Lake Atitlán (Panajachel)",
+          "Historical_Landmarks": "Traditional Maya villages, colonial churches.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Volcanic lake, Atitlán Reserve."
+        },
+        {
+          "City_Name": "Chichicastenango",
+          "Historical_Landmarks": "Santo Tomás Church (Maya‑Catholic rites), colorful cemetery.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sacred hills (Baskual Abaj)."
+        },
+        {
+          "City_Name": "Quetzaltenango (Xela)",
+          "Historical_Landmarks": "Historic centre, municipal theatre.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Santa María Volcano, Gorila de los Lirios springs."
+        },
+        {
+          "City_Name": "Flores",
+          "Historical_Landmarks": "Old town on the island.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake Petén Itzá."
+        },
+        {
+          "City_Name": "Cobán",
+          "Historical_Landmarks": "Calvario Church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Orchid Reserve, Simox Champe (natural pools)."
+        },
+        {
+          "City_Name": "Livingston",
+          "Historical_Landmarks": "Garifuna culture.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Río Dulce, Seven Waterfalls."
+        },
+        {
+          "City_Name": "Guatemala City",
+          "Historical_Landmarks": "National Palace of Culture, Cathedral, Relief Map.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "La Aurora Zoo."
+        },
+        {
+          "City_Name": "Rio Hondo",
+          "Historical_Landmarks": "Fossil Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Sierra de las Minas cloud forest."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Luxembourg",
+      "Cities": [
+        {
+          "City_Name": "Luxembourg City",
+          "Historical_Landmarks": "Casemates (defensive tunnels), Grand Ducal Palace, Adolphe Bridge.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Pétrusse Valley, Mirel Park."
+        },
+        {
+          "City_Name": "Vianden",
+          "Historical_Landmarks": "Vianden Castle (one of Europe’s most beautiful), Victor Hugo House.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Our River, surrounding forests (cable‑car rides)."
+        },
+        {
+          "City_Name": "Echternach",
+          "Historical_Landmarks": "Benedictine Abbey, Roman basilica.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Echternach Lake, Molertal rock formations."
+        },
+        {
+          "City_Name": "Clervaux",
+          "Historical_Landmarks": "Castle (Human Museum exhibition), Abbey.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Natural parks of the Ardennes."
+        },
+        {
+          "City_Name": "Larochette",
+          "Historical_Landmarks": "Ruins of Larochette Castle.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Molertal forests (little Switzerland)."
+        },
+        {
+          "City_Name": "Bofferdange",
+          "Historical_Landmarks": "Bofferdange Castle (medieval and Renaissance).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Rocky hiking trails."
+        },
+        {
+          "City_Name": "Mondorf‑les‑Bains",
+          "Historical_Landmarks": "Aviation Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Thermal park."
+        },
+        {
+          "City_Name": "Esch‑sur‑Alzette",
+          "Historical_Landmarks": "High furnaces (Bielval – industrial heritage).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Gaelg Bierg park."
+        },
+        {
+          "City_Name": "Remich",
+          "Historical_Landmarks": "Wine Gate.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Haff Remich nature reserve, Moselle River."
+        },
+        {
+          "City_Name": "Wiltz",
+          "Historical_Landmarks": "Wiltz Castle, National Strike Monument.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Wiltz Gardens."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Costa Rica",
+      "Cities": [
+        {
+          "City_Name": "San José",
+          "Historical_Landmarks": "National Theatre, Gold Museum, National Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "La Sabana Park, Spiro butterfly garden."
+        },
+        {
+          "City_Name": "La Fortuna",
+          "Historical_Landmarks": "Local church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Arenal Volcano, La Fortuna waterfall, hot springs."
+        },
+        {
+          "City_Name": "Monteverde",
+          "Historical_Landmarks": "Cheese factories (the \"quakers\").",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Cloud Forest (hanging bridges), Cori Cancha Reserve."
+        },
+        {
+          "City_Name": "Manuel Antonio",
+          "Historical_Landmarks": "No notable built heritage.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "National Park (beaches, monkeys, sloths)."
+        },
+        {
+          "City_Name": "Tortuguero",
+          "Historical_Landmarks": "Water‑canal village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Tortuguero National Park (sea‑turtle nesting)."
+        },
+        {
+          "City_Name": "Liberia",
+          "Historical_Landmarks": "White City (colonial houses).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Rincón de la Vieja volcanic park."
+        },
+        {
+          "City_Name": "Puerto Viejo",
+          "Historical_Landmarks": "Caribbean culture.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Coco beach, Jaguar rescue centre."
+        },
+        {
+          "City_Name": "Tamarindo",
+          "Historical_Landmarks": "Old fishing village.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Las Baulas Marine Reserve (leather‑back turtles)."
+        },
+        {
+          "City_Name": "Cartago",
+          "Historical_Landmarks": "Basilica of Our Lady of the Angels, church ruins.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Irazú Volcano lake."
+        },
+        {
+          "City_Name": "Ovita",
+          "Historical_Landmarks": "Whale‑tail rock formations.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Marino Ballena National Park."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Serbie",
+      "Cities": [
+        {
+          "City_Name": "Belgrade",
+          "Historical_Landmarks": "Kalemegdan Fortress, St. Sava Church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Ada Ciganlija island."
+        },
+        {
+          "City_Name": "Novi Sad",
+          "Historical_Landmarks": "Petrovaradin Fortress, Freedom Square.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Danube Park."
+        },
+        {
+          "City_Name": "Niš",
+          "Historical_Landmarks": "Skull Tower, Niš Fortress.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Niška Banja resort."
+        },
+        {
+          "City_Name": "Subotica",
+          "Historical_Landmarks": "City Hall (Art Nouveau), Synagogue.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Palić Lake."
+        },
+        {
+          "City_Name": "Kragujevac",
+          "Historical_Landmarks": "Schomaker Memorial Park.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake Gruni."
+        },
+        {
+          "City_Name": "Novi Pazar",
+          "Historical_Landmarks": "Tun world mosque, Subotica Monastery.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mount Golia."
+        },
+        {
+          "City_Name": "Zrenjanin",
+          "Historical_Landmarks": "Municipal Palace.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Stari Pegi nature reserve."
+        },
+        {
+          "City_Name": "Smederevo",
+          "Historical_Landmarks": "Smederevo Fortress (largest lowland fortress).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Danube River."
+        },
+        {
+          "City_Name": "Sombor",
+          "Historical_Landmarks": "County building.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Gornji Budim national park."
+        },
+        {
+          "City_Name": "Glogovac",
+          "Historical_Landmarks": "Glogovac Castle.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Džerdap national park (Iron Gate)."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Kiribati",
+      "Cities": [
+        {
+          "City_Name": "South Tarawa",
+          "Historical_Landmarks": "World War II battle sites, Japanese guns.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Beaches and coastal lagoons."
+        },
+        {
+          "City_Name": "Betio",
+          "Historical_Landmarks": "War cemetery, military bunkers.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Marine reserves."
+        },
+        {
+          "City_Name": "Ambo",
+          "Historical_Landmarks": "Parliament building (Maneaba).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Coastal waterfront."
+        },
+        {
+          "City_Name": "Bonriki",
+          "Historical_Landmarks": "International airport.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Natural water tanks."
+        },
+        {
+          "City_Name": "London (Kiritimati)",
+          "Historical_Landmarks": "Former nuclear test sites.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Bird sanctuaries."
+        },
+        {
+          "City_Name": "Banana",
+          "Historical_Landmarks": "Traditional villages.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Forests and coconut groves."
+        },
+        {
+          "City_Name": "Tabuaeran",
+          "Historical_Landmarks": "Local churches.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Ocean scenery."
+        },
+        {
+          "City_Name": "Abariringa",
+          "Historical_Landmarks": "Cultural sites.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Ocean scenery."
+        },
+        {
+          "City_Name": "Butaritari",
+          "Historical_Landmarks": "Traditional bridges.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mangrove trees."
+        },
+        {
+          "City_Name": "Berik",
+          "Historical_Landmarks": "Government offices.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Public square."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Malawi",
+      "Cities": [
+        {
+          "City_Name": "Lilongwe",
+          "Historical_Landmarks": "World War II memorial, old market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Wildlife centre, botanical garden."
+        },
+        {
+          "City_Name": "Blantyre",
+          "Historical_Landmarks": "St. Michael's Church, Mandala Museum (oldest building).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mount Mishiri."
+        },
+        {
+          "City_Name": "Zomba",
+          "Historical_Landmarks": "Old parliamentary buildings, monument.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Zomba plateau, William’s Falls."
+        },
+        {
+          "City_Name": "Mangochi",
+          "Historical_Landmarks": "Lake Malawi Museum, clock tower.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake Malawi, Lion’s Gate Park."
+        },
+        {
+          "City_Name": "Nkhatabay",
+          "Historical_Landmarks": "Slave‑trade history.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Chikali beach, forests."
+        },
+        {
+          "City_Name": "Mzuzu",
+          "Historical_Landmarks": "Mzuzu Museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Feya Forest."
+        },
+        {
+          "City_Name": "Karonga",
+          "Historical_Landmarks": "Cultural centre and dinosaur museum.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake shore."
+        },
+        {
+          "City_Name": "Salima",
+          "Historical_Landmarks": "Local historic sites.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Senga Bay."
+        },
+        {
+          "City_Name": "Monkey Bay",
+          "Historical_Landmarks": "Fishing harbour.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Lake Malawi National Park."
+        },
+        {
+          "City_Name": "Dedza",
+          "Historical_Landmarks": "Rock‑art (Chengoni – UNESCO).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mount Dedza."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Curaçao",
+      "Cities": [
+        {
+          "City_Name": "Willemstad",
+          "Historical_Landmarks": "Floating Queen Emma Bridge, UNESCO‑listed Punda district, Mikvé Israel Synagogue.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Mambo Beach."
+        },
+        {
+          "City_Name": "Westpunt",
+          "Historical_Landmarks": "St. Peter’s Church.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Playa Forti."
+        },
+        {
+          "City_Name": "Sint Michiel",
+          "Historical_Landmarks": "Fort Sint Michiel.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Blue Bay."
+        },
+        {
+          "City_Name": "Lagoon",
+          "Historical_Landmarks": "Old plantation houses (Landhuis).",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Playa Lagun (turtles)."
+        },
+        {
+          "City_Name": "Barber",
+          "Historical_Landmarks": "Old Kapok tree, market.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Hof Pastoor park."
+        },
+        {
+          "City_Name": "Sabana Westpunt",
+          "Historical_Landmarks": "Fishermen villages.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Groot Knipe beach."
+        },
+        {
+          "City_Name": "Terra Kora",
+          "Historical_Landmarks": "Windmills.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Hato plains."
+        },
+        {
+          "City_Name": "Soto",
+          "Historical_Landmarks": "Old salt farms.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Santa Cruz beach."
+        },
+        {
+          "City_Name": "Julianadorp",
+          "Historical_Landmarks": "Old Shell Oil Villas.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Private gardens."
+        },
+        {
+          "City_Name": "Jan Thiel",
+          "Historical_Landmarks": "Remains of coastal forts.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Salt pans (flamingo habitat)."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guinée",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 2 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 3 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 4 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 5 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 6 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 7 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 8 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 9 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 10 in Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guinée‑Bissau",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 2 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 3 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 4 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 5 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 6 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 7 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 8 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 9 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 10 in Guinea‑Bissau",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Guinée équatoriale",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 2 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 3 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 4 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 5 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 6 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 7 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 8 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 9 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 10 in Equatorial Guinea",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cap-Vert",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 2 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 3 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 4 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 5 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 6 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 7 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 8 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 9 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 10 in Cape Verde",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        }
+      ]
+    },
+    {
+      "Country_Name": "Kosovo",
+      "Cities": [
+        {
+          "City_Name": "Region 1 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 2 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 3 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 4 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 5 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 6 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 7 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 8 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 9 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        },
+        {
+          "City_Name": "Region 10 in Kosovo",
+          "Historical_Landmarks": "Local historic sites and ancient buildings.",
+          "Tourist_Activities": "Rechercher des activités touristiques",
+          "Local_Cuisine": "Rechercher des plats populaires",
+          "Green_Spaces": "Local landscapes and green parks."
+        }
+      ]
+    }
+  ]
+]

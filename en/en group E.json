@@ -1,0 +1,734 @@
+[
+  {
+    "Country_Name": "Iraq",
+    "Cities": [
+        {
+          "City_Name": "Baghdad",
+          "Historical_Landmarks": "Historical sites, palaces and museums, Katchawa Mosque, ancient bridges, Liberation Square",
+          "Tourist_Activities": "Visit the Iraqi National Museum, explore major markets and mosques",
+          "Local_Cuisine": "Masgouf (grilled river fish), Dolma (stuffed), Ozi (whole stuffed lamb), Tashreeb (winter stew), Iraqi kebab, Timman Bagilla",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Basra",
+          "Historical_Landmarks": "Shatt al-Arab, Old City, historic markets, Basra Palace",
+          "Tourist_Activities": "Boat trips on Shatt al-Arab, explore date markets",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi, Matbakh (fish with rice)",
+          "Green_Spaces": "Shatt al-Arab"
+        },
+        {
+          "City_Name": "Nineveh (Mosul)",
+          "Historical_Landmarks": "Ruins of ancient Nineveh, Assur ruins, archaeological sites",
+          "Tourist_Activities": "Visit archaeological sites, explore ancient history (Assyrian lands)",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi, Kibbeh",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Erbil",
+          "Historical_Landmarks": "Erbil Citadel (World Heritage), Al-Mazafiri Lighthouse, Old Bazaar",
+          "Tourist_Activities": "Visit the historic citadel, shop at the Old Bazaar",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Najaf",
+          "Historical_Landmarks": "Imam Ali Shrine, Najaf Lake, Old City",
+          "Tourist_Activities": "Religious tourism (visit the shrines), wander the Old City",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi",
+          "Green_Spaces": "Najaf Lake"
+        },
+        {
+          "City_Name": "Dhi Qar",
+          "Historical_Landmarks": "Ancient city of Ur (Ziggurat), Sumerian sites",
+          "Tourist_Activities": "Visit ancient civilizational sites, explore the Sumerian cradle",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Kirkuk",
+          "Historical_Landmarks": "Kirkuk Castle, Old City",
+          "Tourist_Activities": "Visit the historic castle",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Babylon",
+          "Historical_Landmarks": "Ruins of ancient Babylon, Babylon Lion, Ishtar Gate",
+          "Tourist_Activities": "Visit Babylonian sites",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Karbala",
+          "Historical_Landmarks": "Imam Hussein Shrine, holy shrines",
+          "Tourist_Activities": "Religious tourism and shrine visits",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Samarra",
+          "Historical_Landmarks": "Samarra Malwiya, historic mosques",
+          "Tourist_Activities": "Visit Islamic archaeological sites",
+          "Local_Cuisine": "Masgouf, Dolma, Ozi",
+          "Green_Spaces": "Search for green spaces"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Vatican",
+      "Cities": [
+        {
+          "City_Name": "Vatican City",
+          "Historical_Landmarks": "St. Peter's Basilica, St. Peter's Square, Vatican Museums, Sistine Chapel, Papal Palace, Papal Tombs, Vatican Gardens, Obelisk",
+          "Tourist_Activities": "Visit Vatican Museums (skip the line), tour the Sistine Chapel, climb the dome, visit the papal tombs",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Vatican Gardens"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Philippines",
+      "Cities": [
+        {
+          "City_Name": "Manila",
+          "Historical_Landmarks": "Intramuros (walled city), Manila Cathedral, Rizal Park, Ayala Museum, Mall of Asia",
+          "Tourist_Activities": "Explore historic Intramuros, shop at Mall of Asia, visit art museums, business tourism",
+          "Local_Cuisine": "Adobo (meat or chicken with soy and vinegar), Nasi Goreng, Satay, Gado-gado (salad), Lawar (spiced meat)",
+          "Green_Spaces": "Rizal Park"
+        },
+        {
+          "City_Name": "Cebu",
+          "Historical_Landmarks": "Tawist Temple, Magic Gardens, historic museums, coastal beaches",
+          "Tourist_Activities": "Diving and snorkeling, explore nearby islands (Mantawe and Panglao), coastal city tourism",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "Magic Gardens, coastal beaches"
+        },
+        {
+          "City_Name": "Palawan",
+          "Historical_Landmarks": "Kayangan Lake, Honda Bay (islands and snorkeling), rainforest, white sand beaches",
+          "Tourist_Activities": "Snorkeling and swimming, island trips (Honda Bay), explore rainforests",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "Rainforests, white sand beaches, Kayangan Lake"
+        },
+        {
+          "City_Name": "Boracay",
+          "Historical_Landmarks": "White Beach, Yapak Beach (Boca Chica Beach), clear turquoise waters",
+          "Tourist_Activities": "Relax and enjoy stunning scenery, swimming and diving, beach activities",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "White Beach, Yapak Beach"
+        },
+        {
+          "City_Name": "Davao",
+          "Historical_Landmarks": "Mount Apo (highest peak), Philippine Eagle Park, coastal beaches",
+          "Tourist_Activities": "Mountain climbing, see Philippine eagles, explore nature",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "Mount Apo, Philippine Eagle Park"
+        },
+        {
+          "City_Name": "Ilocos",
+          "Historical_Landmarks": "Old Town, historic churches, beaches",
+          "Tourist_Activities": "Explore historic architecture, religious tourism",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "Beaches"
+        },
+        {
+          "City_Name": "Bacolod",
+          "Historical_Landmarks": "Kanlaon Volcano, national parks",
+          "Tourist_Activities": "Explore volcanoes, adventure tourism",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "National parks"
+        },
+        {
+          "City_Name": "Puerto Princesa",
+          "Historical_Landmarks": "Honda Bay, waterways",
+          "Tourist_Activities": "Island trips, diving",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "Honda Bay, waterways"
+        },
+        {
+          "City_Name": "Cagayan de Oro",
+          "Historical_Landmarks": "Cagayan River (rafting), water adventures",
+          "Tourist_Activities": "White-water rafting",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "Cagayan River"
+        },
+        {
+          "City_Name": "Zamboanga",
+          "Historical_Landmarks": "Fort Pilar (Spanish fort), nearby islands",
+          "Tourist_Activities": "Visit historic forts",
+          "Local_Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+          "Green_Spaces": "Nearby islands"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Palestine",
+      "Cities": [
+        {
+          "City_Name": "Jerusalem",
+          "Historical_Landmarks": "Al-Aqsa Mosque, Dome of the Rock, Church of the Resurrection, Old City walls",
+          "Tourist_Activities": "Religious tourism, explore the Old City",
+          "Local_Cuisine": "Maqluba (rice, meat, vegetables), Palestinian Mansaf, Fattoush, Nablus Kunafa",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Nablus",
+          "Historical_Landmarks": "Old Town, Mount Gerizim, historic mosques and churches",
+          "Tourist_Activities": "Visit famous kunafa factories, stroll the old market",
+          "Local_Cuisine": "Nablus Kunafa, Maqluba, Palestinian Mansaf",
+          "Green_Spaces": "Mount Gerizim"
+        },
+        {
+          "City_Name": "Hebron",
+          "Historical_Landmarks": "Ibrahimi Mosque, Old City",
+          "Tourist_Activities": "Religious tourism, visit the shrine",
+          "Local_Cuisine": "Maqluba, Hebron pottery",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Bethlehem",
+          "Historical_Landmarks": "Church of the Nativity (birth of Christ), Old City",
+          "Tourist_Activities": "Religious tourism, visit the church",
+          "Local_Cuisine": "Maqluba, Hebron pottery",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Jericho",
+          "Historical_Landmarks": "Deir Qarnat al, Sultan's Hill, Hisham's Palace",
+          "Tourist_Activities": "Visit archaeological sites, explore the world's oldest city",
+          "Local_Cuisine": "Maqluba, Hebron pottery",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Gaza",
+          "Historical_Landmarks": "Gaza Port, Gaza beaches, historic sites (limited)",
+          "Tourist_Activities": "Beach tourism (limited)",
+          "Local_Cuisine": "Maqluba, Hebron pottery",
+          "Green_Spaces": "Gaza beaches"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Venezuela",
+      "Cities": [
+        {
+          "City_Name": "Caracas",
+          "Historical_Landmarks": "(Major cities), hotels and restaurants",
+          "Tourist_Activities": "Visit urban centers, business tourism",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Maracaibo",
+          "Historical_Landmarks": "General Rafael Ordoñez Bridge, Lake Maracaibo",
+          "Tourist_Activities": "Visit the lake, explore the urban city",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Lake Maracaibo"
+        },
+        {
+          "City_Name": "Valencia",
+          "Historical_Landmarks": "Valencia Cathedral, Boulevard Square, parks",
+          "Tourist_Activities": "Stroll in the parks",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Parks, Boulevard Square"
+        },
+        {
+          "City_Name": "Margarita",
+          "Historical_Landmarks": "Margarita Island beaches, historic forts, fishing villages",
+          "Tourist_Activities": "Beach tourism and recreation",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Margarita Island beaches"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Finland",
+      "Cities": [
+        {
+          "City_Name": "Helsinki",
+          "Historical_Landmarks": "Helsinki Cathedral, Senate Square, Suomenlinna Fortress (World Heritage)",
+          "Tourist_Activities": "Visit the sea fortress, walk the harbor",
+          "Local_Cuisine": "Karelian pasty (rice pie), Salmon noodle soup, Borsch",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Turku",
+          "Historical_Landmarks": "Turku Castle, Turku Cathedral, Market Square",
+          "Tourist_Activities": "Visit the historic castle and cathedral",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Porvoo",
+          "Historical_Landmarks": "Historic village, Porvoonjoki River",
+          "Tourist_Activities": "Tour the historic village, visit chocolate shop",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Porvoonjoki River"
+        },
+        {
+          "City_Name": "Tampere",
+          "Historical_Landmarks": "Tampere Cathedral, Lake Näsijärvi and Pyhäjärvi",
+          "Tourist_Activities": "Visit inland areas",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Lake Näsijärvi and Pyhäjärvi"
+        },
+        {
+          "City_Name": "Oulu",
+          "Historical_Landmarks": "Oulu Castle, Market Square",
+          "Tourist_Activities": "Explore the northern city",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Search for green spaces"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cyprus",
+      "Cities": [
+        {
+          "City_Name": "Nicosia",
+          "Historical_Landmarks": "Old Town, Famagusta Gate, Cyprus Museum",
+          "Tourist_Activities": "Visit the divided city, explore historic and cultural sites",
+          "Local_Cuisine": "Moussaka (eggplant and meat), shish kebab, maroti (pie), sevidis (grilled fish), bulgur salad",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Limassol",
+          "Historical_Landmarks": "Limassol Castle, waterfront, museums",
+          "Tourist_Activities": "Beach and harbor tourism, stroll the waterfront",
+          "Local_Cuisine": "Moussaka, shish kebab, sevidis",
+          "Green_Spaces": "Waterfront"
+        },
+        {
+          "City_Name": "Larnaca",
+          "Historical_Landmarks": "Larnaca Salt Lake, Finikoudes Beach",
+          "Tourist_Activities": "Dive at shipwrecks, visit the salt lake",
+          "Local_Cuisine": "Moussaka, shish kebab, sevidis",
+          "Green_Spaces": "Larnaca Salt Lake, Finikoudes Beach"
+        },
+        {
+          "City_Name": "Paphos",
+          "Historical_Landmarks": "Paphos Castle, Paphos Harbour",
+          "Tourist_Activities": "Visit the castle and harbour",
+          "Local_Cuisine": "Moussaka, shish kebab, sevidis",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Polis",
+          "Historical_Landmarks": "Polis Beach, Akamas Peninsula",
+          "Tourist_Activities": "Nature tourism and quiet beaches",
+          "Local_Cuisine": "Moussaka, shish kebab, sevidis",
+          "Green_Spaces": "Polis Beach, Akamas Peninsula"
+        },
+        {
+          "City_Name": "Lefkara",
+          "Historical_Landmarks": "Historic villages, handicrafts",
+          "Tourist_Activities": "Explore villages, buy handicrafts",
+          "Local_Cuisine": "Moussaka, shish kebab, sevidis",
+          "Green_Spaces": "Search for green spaces"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Kazakhstan",
+      "Cities": [
+        {
+          "City_Name": "Astana",
+          "Historical_Landmarks": "Baiterek Tower, Palace of Peace and Reconciliation, Nur Astana Mosque",
+          "Tourist_Activities": "Visit modern and impressive buildings",
+          "Local_Cuisine": "Beshbarmak (boiled meat with noodles), Qazi (horse meat sausage)",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Almaty",
+          "Historical_Landmarks": "Kok Tobe cable car, Central Kazakhstan Museum, 28 Panfilov Park",
+          "Tourist_Activities": "Visit the musical instruments museum, walk the park",
+          "Local_Cuisine": "Beshbarmak, Qazi",
+          "Green_Spaces": "28 Panfilov Park"
+        },
+        {
+          "City_Name": "Karaganda",
+          "Historical_Landmarks": "Environment Museum, Karaganda Hills",
+          "Tourist_Activities": "Visit the museum",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Karaganda Hills"
+        },
+        {
+          "City_Name": "Shymkent",
+          "Historical_Landmarks": "Ruins of ancient Sauran city, Seram mausoleums, famous SHYMKENT sign, Cinema Bar club, Aina Bazaar market",
+          "Tourist_Activities": "Explore ancient Sauran ruins, visit Aina Bazaar, visit mausoleums",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Turkestan",
+          "Historical_Landmarks": "Hazret Sultan Mosque, Ahmad Yasawi Mausoleum (World Heritage), ancient city ruins",
+          "Tourist_Activities": "Visit mausoleums and mosques",
+          "Local_Cuisine": "Beshbarmak, Qazi",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Baikonur",
+          "Historical_Landmarks": "Baikonur Cosmodrome",
+          "Tourist_Activities": "Watch rocket launches (if available)",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Baikas",
+          "Historical_Landmarks": "Baikas Lake, coastal resorts",
+          "Tourist_Activities": "Beach and water tourism",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Baikas Lake"
+        },
+        {
+          "City_Name": "Ural River",
+          "Historical_Landmarks": "Ural River (Yaik River), Gold Museum",
+          "Tourist_Activities": "Explore the capital, visit art museums",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Ural River (Yaik River)"
+        },
+        {
+          "City_Name": "Atyrau",
+          "Historical_Landmarks": "Ural River (Yaik River), coastal centers (near Caspian Sea)",
+          "Tourist_Activities": "Explore coastal areas",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Ural River (Yaik River), coastal centers"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Croatia",
+      "Cities": [
+        {
+          "City_Name": "Zagreb",
+          "Historical_Landmarks": "Upper Town (historic), Lotrščak Tower, Zagreb Cathedral, Maksimir Park",
+          "Tourist_Activities": "Explore Upper Town",
+          "Local_Cuisine": "Štrukli (stuffed pastries), Zagorski turkey with mlinc",
+          "Green_Spaces": "Maksimir Park"
+        },
+        {
+          "City_Name": "Split",
+          "Historical_Landmarks": "Diocletian Palace (World Heritage), Riva promenade",
+          "Tourist_Activities": "Visit the Roman palace, stroll the Riva promenade",
+          "Local_Cuisine": "Pašticada (stewed beef), Risotto (with mussels), krofi (pastries)",
+          "Green_Spaces": "Riva promenade"
+        },
+        {
+          "City_Name": "Dubrovnik",
+          "Historical_Landmarks": "Old City walls (World Heritage), Stradun street, Mount Srd",
+          "Tourist_Activities": "Walk the walls, take cable car to Mount Srd",
+          "Local_Cuisine": "Pašticada, Risotto, krofi",
+          "Green_Spaces": "Mount Srd"
+        },
+        {
+          "City_Name": "Zadar",
+          "Historical_Landmarks": "Solar device (Sun Salutation), Sea Organ, Old Town",
+          "Tourist_Activities": "Explore historic city",
+          "Local_Cuisine": "Pljeskavica, Burek, Ćevapi",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Pula",
+          "Historical_Landmarks": "Pula Roman Amphitheatre, Augustus Temple",
+          "Tourist_Activities": "Visit Roman ruins",
+          "Local_Cuisine": "Pljeskavica, Burek, Ćevapi",
+          "Green_Spaces": "Search for green spaces"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Cambodia",
+      "Cities": [
+        {
+          "City_Name": "Phnom Penh",
+          "Historical_Landmarks": "Royal Palace, Wat Phnom, National Museum, Killing Fields",
+          "Tourist_Activities": "Visit the palace, visit the Killing Fields for history",
+          "Local_Cuisine": "Amok (curry fish), Nasi Banchok (Cambodian noodles), Lok Lak (beef)",
+          "Green_Spaces": "Wat Phnom"
+        },
+        {
+          "City_Name": "Siem Reap",
+          "Historical_Landmarks": "Angkor Wat (World Heritage), Angkor temples",
+          "Tourist_Activities": "Explore Angkor temples",
+          "Local_Cuisine": "Amok, Nasi Banchok, Lok Lak",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Battambang",
+          "Historical_Landmarks": "French colonial architecture, Battambang River",
+          "Tourist_Activities": "Explore colonial architecture",
+          "Local_Cuisine": "Amok, Nasi Banchok, Lok Lak",
+          "Green_Spaces": "Battambang River"
+        },
+        {
+          "City_Name": "Kampong Cham",
+          "Historical_Landmarks": "Riverine areas (Mekong River)",
+          "Tourist_Activities": "River trips, explore rural villages",
+          "Local_Cuisine": "Amok, Nasi Banchok, Lok Lak",
+          "Green_Spaces": "Riverine areas (Mekong River)"
+        },
+        {
+          "City_Name": "Pailin",
+          "Historical_Landmarks": "Thai border (border tourism)",
+          "Tourist_Activities": "Explore the border area",
+          "Local_Cuisine": "Amok, Nasi Banchok, Lok Lak",
+          "Green_Spaces": "Search for green spaces"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Canada",
+      "Cities": [
+        {
+          "City_Name": "Toronto",
+          "Historical_Landmarks": "CN Tower, Royal Ontario Museum, Hockey Hall of Fame",
+          "Tourist_Activities": "Visit CN Tower, explore museums and art galleries",
+          "Local_Cuisine": "Poutine (fries with cheese curds and gravy), butter pie, multicultural cuisine",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Vancouver",
+          "Historical_Landmarks": "Stanley Park, Capilano Suspension Bridge",
+          "Tourist_Activities": "Visit Stanley Park, bike across Capilano Bridge",
+          "Local_Cuisine": "Poutine, butter pie, seafood",
+          "Green_Spaces": "Stanley Park"
+        },
+        {
+          "City_Name": "Montreal",
+          "Historical_Landmarks": "Old Montreal, Notre-Dame Basilica, Old Port, Mount Royal",
+          "Tourist_Activities": "Explore French heritage, attend festivals",
+          "Local_Cuisine": "Poutine, smoked beef (most famous)",
+          "Green_Spaces": "Mount Royal"
+        },
+        {
+          "City_Name": "Quebec",
+          "Historical_Landmarks": "Château Frontenac, Île d'Orléans, Old Quebec (walled)",
+          "Tourist_Activities": "Visit Old City",
+          "Local_Cuisine": "Poutine, butter pie, sponge sugar (Tire sur la neige)",
+          "Green_Spaces": "Île d'Orléans"
+        },
+        {
+          "City_Name": "Calgary",
+          "Historical_Landmarks": "Calgary Tower, horseback riding, Banff National Park (nearby)",
+          "Tourist_Activities": "Visit Calgary Stampede",
+          "Local_Cuisine": "Poutine, butter pie, beef",
+          "Green_Spaces": "Banff National Park (nearby)"
+        },
+        {
+          "City_Name": "Ottawa",
+          "Historical_Landmarks": "Parliament Buildings, Rideau Canal, National Museum",
+          "Tourist_Activities": "Visit Parliament Building",
+          "Local_Cuisine": "Poutine, butter pie",
+          "Green_Spaces": "Rideau Canal"
+        },
+        {
+          "City_Name": "Edmonton",
+          "Historical_Landmarks": "West Edmonton Mall, museums",
+          "Tourist_Activities": "Shopping, visit museums",
+          "Local_Cuisine": "Poutine, butter pie",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Halifax",
+          "Historical_Landmarks": "Waterfront, historic fortress",
+          "Tourist_Activities": "Explore maritime heritage, visit marine museum",
+          "Local_Cuisine": "Poutine, butter pie, seafood",
+          "Green_Spaces": "Waterfront"
+        },
+        {
+          "City_Name": "Winnipeg",
+          "Historical_Landmarks": "Human Rights Museum, Human Rights Memorial, The Forks National Historic Site",
+          "Tourist_Activities": "Visit national museums",
+          "Local_Cuisine": "Poutine, butter pie",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Victoria",
+          "Historical_Landmarks": "Parliament Buildings, Butchart Gardens, historic Empress Hotel",
+          "Tourist_Activities": "Visit historic gardens",
+          "Local_Cuisine": "Poutine, butter pie, seafood",
+          "Green_Spaces": "Butchart Gardens"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Congo",
+      "Cities": [
+        {
+          "City_Name": "Brazzaville",
+          "Historical_Landmarks": "Congo River, forests",
+          "Tourist_Activities": "River and forest tourism",
+          "Local_Cuisine": "Rozole, Sentié, Congolais",
+          "Green_Spaces": "Congo River, forests"
+        },
+        {
+          "City_Name": "Point Noire",
+          "Historical_Landmarks": "Point Noire beaches, forests",
+          "Tourist_Activities": "Beach tourism, explore forests",
+          "Local_Cuisine": "Rozole, Sentié, Congolais",
+          "Green_Spaces": "Point Noire beaches, forests"
+        },
+        {
+          "City_Name": "Owando",
+          "Historical_Landmarks": "Odzala National Park (gorillas)",
+          "Tourist_Activities": "Safari trips to observe gorillas",
+          "Local_Cuisine": "Rozole, Sentié, Congolais",
+          "Green_Spaces": "Odzala National Park"
+        },
+        {
+          "City_Name": "Ossu",
+          "Historical_Landmarks": "Inland areas",
+          "Tourist_Activities": "Ecotourism",
+          "Local_Cuisine": "Rozole, Sentié, Congolais",
+          "Green_Spaces": "Inland areas"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Democratic Republic of the Congo",
+      "Cities": [
+        {
+          "City_Name": "Kinshasa",
+          "Historical_Landmarks": "Congo River, forests",
+          "Tourist_Activities": "River and forest tourism",
+          "Local_Cuisine": "Pinzo, banana of heaven, sourdough",
+          "Green_Spaces": "Congo River, forests"
+        }
+      ]
+    },
+    {
+      "Country_Name": "South Korea",
+      "Cities": [
+        {
+          "City_Name": "Seoul",
+          "Historical_Landmarks": "Gyeongbokgung Palace, N Seoul Tower, Gangnam district, Bukchon Village",
+          "Tourist_Activities": "Explore royal history, shop in Gangnam, modern culture (K-Pop), visit interactive museums",
+          "Local_Cuisine": "Kimchi, Bulgogi, Bibimbap, Japchae",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Busan",
+          "Historical_Landmarks": "Haeundae Beach, Beomeosa Temple, Jagalchi Fish Market",
+          "Tourist_Activities": "Beach tourism, visit temples",
+          "Local_Cuisine": "Kimchi, Bulgogi, Bibimbap",
+          "Green_Spaces": "Haeundae Beach"
+        },
+        {
+          "City_Name": "Incheon",
+          "Historical_Landmarks": "Incheon Bridge, Chinatown",
+          "Tourist_Activities": "Explore Chinatown",
+          "Local_Cuisine": "Kimchi, Bulgogi, Bibimbap",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Daegu",
+          "Historical_Landmarks": "Daegu Museum of History, Mount Gyosan",
+          "Tourist_Activities": "Visit the museum",
+          "Local_Cuisine": "Kimchi, Bulgogi, Bibimbap",
+          "Green_Spaces": "Mount Gyosan"
+        },
+        {
+          "City_Name": "Suwon",
+          "Historical_Landmarks": "Hwaseong Fortress (World Heritage)",
+          "Tourist_Activities": "Visit the historic walled fortress",
+          "Local_Cuisine": "Kimchi, Bulgogi, Bibimbap",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Ulsan",
+          "Historical_Landmarks": "Onsun Palace (near city), Ulsan beaches",
+          "Tourist_Activities": "Visit the royal palace",
+          "Local_Cuisine": "Kimchi, Bulgogi, Bibimbap",
+          "Green_Spaces": "Ulsan beaches"
+        },
+        {
+          "City_Name": "Cheonan",
+          "Historical_Landmarks": "Independence Museum, historic areas",
+          "Tourist_Activities": "Visit historic areas",
+          "Local_Cuisine": "Kimchi, Bulgogi, Bibimbap",
+          "Green_Spaces": "Search for green spaces"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Costa Rica",
+      "Cities": [
+        {
+          "City_Name": "San Jose",
+          "Historical_Landmarks": "National Theater, Gold Museum",
+          "Tourist_Activities": "Explore the capital, visit art museums",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Search for green spaces"
+        },
+        {
+          "City_Name": "Naranya",
+          "Historical_Landmarks": "Coffee farms, mountainous areas",
+          "Tourist_Activities": "Tour coffee farms",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Coffee farms, mountainous areas"
+        },
+        {
+          "City_Name": "Limon",
+          "Historical_Landmarks": "Caribbean Sea beaches, natural parks",
+          "Tourist_Activities": "Beach tourism",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Caribbean Sea beaches, natural parks"
+        },
+        {
+          "City_Name": "Tamarindo",
+          "Historical_Landmarks": "Pacific Ocean beaches, surfing spots",
+          "Tourist_Activities": "Surfing, quiet beach tourism",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Pacific Ocean beaches"
+        },
+        {
+          "City_Name": "Tortuguero",
+          "Historical_Landmarks": "Tortuguero canals, Tortuguero National Park",
+          "Tourist_Activities": "Seasonal turtle watching, boat trips",
+          "Local_Cuisine": "Search for dishes",
+          "Green_Spaces": "Tortuguero canals, Tortuguero National Park"
+        }
+      ]
+    },
+    {
+      "Country_Name": "Uzbekistan",
+      "Cities": [
+        {
+          "City_Name": "Bukhara",
+          "Historical_Landmarks": "Kalyan Minaret, Ark Fortress, Samanid Dome, domed bazaars (for rugs and carpets), ancient madrasas, Samanid Mausoleum, Bolo Haouz Mosque",
+          "Tourist_Activities": "Discover ancient Islamic architecture, wander the Taqi markets",
+          "Local_Cuisine": "Plov, shashlik, mantı, samsa",
+          "Green_Spaces": "Samanid Park, Lyabi-Hauz Square"
+        },
+        {
+          "City_Name": "Tashkent",
+          "Historical_Landmarks": "Independence Square, Tashkent Metro (decorated with mosaics), Chorsu traditional market, National Museum of Uzbek History, Alisher Navoi Park",
+          "Tourist_Activities": "Visit museums and spacious parks, shop at Chorsu market",
+          "Local_Cuisine": "Plov, shashlik, mantı, lagman",
+          "Green_Spaces": "Alisher Navoi Park, Japanese Garden, Tashkent Botanical Garden"
+        },
+        {
+          "City_Name": "Khwarezm (Khiva)",
+          "Historical_Landmarks": "Old city walls, palaces and forts, watchtowers, ancient markets",
+          "Tourist_Activities": "Explore palaces and forts, see oases, visit ancient markets",
+          "Local_Cuisine": "Plov, shashlik, lagman",
+          "Green_Spaces": "Ichan-Qala internal park, Khiva Cultural and Recreation Park"
+        },
+        {
+          "City_Name": "Shahrisabz",
+          "Historical_Landmarks": "Aq Saray Palace (Timur's birthplace), historic gardens, beautiful mosaics",
+          "Tourist_Activities": "Visit historic gardens, view Timurid architecture",
+          "Local_Cuisine": "Plov, shashlik, samsa",
+          "Green_Spaces": "Amir Timur Square gardens, Kitob geological reserve"
+        },
+        {
+          "City_Name": "Namangan",
+          "Historical_Landmarks": "(Major city with historic sites and monuments)",
+          "Tourist_Activities": "Explore minarets and schools, visit flower garden",
+          "Local_Cuisine": "Namangan plov, shashlik, Fergana Valley fruits",
+          "Green_Spaces": "Babur Park, Afsana Park"
+        }
+      ]
+    }
+  ]
+]

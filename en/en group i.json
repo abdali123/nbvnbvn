@@ -1,0 +1,1059 @@
+[
+  {
+    "Country_Name": "Burkina Faso",
+    "Cities": [
+      {
+        "City_Name": "Ouagadougou",
+        "Historical_Landmarks": "The Great Mosque in Ouagadougou, Music Museum, Presidential Palace, National Heroes Monument.",
+        "Tourist_Activities": "Attend the FESPACO festival, visit the sacred Basuli crocodiles (near Ouagadougou).",
+        "Green_Spaces": "Loinbila Animal Park, Botanical Garden in Ouagadougou.",
+        "Local_Cuisine": "Riz Gras (fat rice), Poulet Bicyclette (spiced grilled chicken)."
+      },
+      {
+        "City_Name": "Bobo Dioulasso",
+        "Historical_Landmarks": "The Great Mud Mosque, Bobo Dioulasso Regional Museum, Historical Kome House.",
+        "Tourist_Activities": "Explore Sudanese architecture, visit the artisans' quarter.",
+        "Green_Spaces": "Kouba Forest.",
+        "Local_Cuisine": "To (millet/corn porridge with sauce), Brochettes (beef skewers)."
+      },
+      {
+        "City_Name": "Banfora",
+        "Historical_Landmarks": "Ruins of Lorobini (UNESCO site nearby), Old French colony.",
+        "Tourist_Activities": "Hiking among the Sindou peaks, swimming at Karfiguiola waterfalls.",
+        "Green_Spaces": "Karfiguiola waterfalls, Sindou rocky peaks (unique site).",
+        "Local_Cuisine": "Tô avec sauce Gombo (Tô with okra sauce)."
+      },
+      {
+        "City_Name": "Garoua",
+        "Historical_Landmarks": "Traditional markets, old Garoua mosques.",
+        "Tourist_Activities": "Buy hand‑woven fabrics, short safari trips.",
+        "Green_Spaces": "Part of Arly National Park (for safari access).",
+        "Local_Cuisine": "Fufu (fufu) with peanut sauce."
+      },
+      {
+        "City_Name": "Tiébil",
+        "Historical_Landmarks": "Ornate houses (Case à Palabre), village chief's house.",
+        "Tourist_Activities": "Cultural tour of painted houses, learn the art of the kasina.",
+        "Green_Spaces": "Southern Burkina landscapes.",
+        "Local_Cuisine": "Bière de Mil (traditional millet beer)."
+      },
+      {
+        "City_Name": "Koudougou",
+        "Historical_Landmarks": "Traditional weaving workshops, Koudougou Catholic Church.",
+        "Tourist_Activities": "Visit weaving workshops.",
+        "Green_Spaces": "Surrounding green agricultural areas.",
+        "Local_Cuisine": "Zamné (corn and sugar porridge)."
+      },
+      {
+        "City_Name": "Ziniare",
+        "Historical_Landmarks": "Carved animal park.",
+        "Tourist_Activities": "Watch crocodiles.",
+        "Green_Spaces": "Loinbila Park.",
+        "Local_Cuisine": "Gala (fried corn porridge)."
+      },
+      {
+        "City_Name": "Bama",
+        "Historical_Landmarks": "Old Bama Mosque.",
+        "Tourist_Activities": "Boat rides on the lake.",
+        "Green_Spaces": "Hébé Lake.",
+        "Local_Cuisine": "Grilled lake fish."
+      },
+      {
+        "City_Name": "Gouro",
+        "Historical_Landmarks": "Northern markets.",
+        "Tourist_Activities": "Driving across dunes.",
+        "Green_Spaces": "Sandy dune scenery.",
+        "Local_Cuisine": "Charcoal‑grilled goat meat."
+      },
+      {
+        "City_Name": "Sindou",
+        "Historical_Landmarks": "Old village in Sindou.",
+        "Tourist_Activities": "Hiking among rock formations.",
+        "Green_Spaces": "Sindou Peaks.",
+        "Local_Cuisine": "Fou-fou (fufu‑like dish)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Burundi",
+    "Cities": [
+      {
+        "City_Name": "Bujumbura",
+        "Historical_Landmarks": "Livingstone and Stanley monument, Regina Mundi Cathedral, Bujumbura Central Market.",
+        "Tourist_Activities": "Enjoy Sanga beach, visit Bujumbura market.",
+        "Green_Spaces": "Sanga beach, Richard Kandt Park, Rozo National Park.",
+        "Local_Cuisine": "Mukeke (grilled lake fish), Frites avec poulet (fried potatoes and chicken)."
+      },
+      {
+        "City_Name": "Gitega",
+        "Historical_Landmarks": "Gitega National Museum, old royal palace.",
+        "Tourist_Activities": "Watch sacred drum performances (near Gitega), explore the museum.",
+        "Green_Spaces": "Nearby forests.",
+        "Local_Cuisine": "Ndizi (cooked banana), Ibitoke (banana soup)."
+      },
+      {
+        "City_Name": "Mao",
+        "Historical_Landmarks": "Prince Louis Rwagasore mausoleum (nearby).",
+        "Tourist_Activities": "Hiking to explore waterfalls.",
+        "Green_Spaces": "Mao mountain forests, nearby Karera waterfalls.",
+        "Local_Cuisine": "Umuceri n'Ibiharage (rice and beans)."
+      },
+      {
+        "City_Name": "Ruyigi",
+        "Historical_Landmarks": "Traditional cultural sites.",
+        "Tourist_Activities": "Learn about local handicrafts.",
+        "Green_Spaces": "Green scenery.",
+        "Local_Cuisine": "Boko Boko (chicken and bulgur)."
+      },
+      {
+        "City_Name": "Ngozi",
+        "Historical_Landmarks": "Ngozi central market.",
+        "Tourist_Activities": "Tour tea farms.",
+        "Green_Spaces": "Tea and coffee farms, Ngozi mountains.",
+        "Local_Cuisine": "Premium Burundian coffee."
+      },
+      {
+        "City_Name": "Bururi",
+        "Historical_Landmarks": "Traditional houses.",
+        "Tourist_Activities": "Bird watching.",
+        "Green_Spaces": "Mogira Valley forests.",
+        "Local_Cuisine": "Brochettes (goat meat skewers)."
+      },
+      {
+        "City_Name": "Kayanza",
+        "Historical_Landmarks": "Kayanza Church.",
+        "Tourist_Activities": "Explore highland areas.",
+        "Green_Spaces": "Hills and Kayanza farms.",
+        "Local_Cuisine": "Amashaza (cooked peas)."
+      },
+      {
+        "City_Name": "Romonji",
+        "Historical_Landmarks": "Romonji market.",
+        "Tourist_Activities": "Relax on the beach.",
+        "Green_Spaces": "Romonji beaches.",
+        "Local_Cuisine": "Dried Kapenta fish."
+      },
+      {
+        "City_Name": "Sebitokie",
+        "Historical_Landmarks": "Border sites.",
+        "Tourist_Activities": "Visit agricultural lands.",
+        "Green_Spaces": "Green agricultural fields.",
+        "Local_Cuisine": "Bugali (cassava porridge)."
+      },
+      {
+        "City_Name": "Kirundo",
+        "Historical_Landmarks": "Old hunting sites.",
+        "Tourist_Activities": "Watch migratory birds.",
+        "Green_Spaces": "Lake Rwihoro, Kirundo bird sanctuary.",
+        "Local_Cuisine": "Ikiryango (traditional stew)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Chad",
+    "Cities": [
+      {
+        "City_Name": "N'Djamena",
+        "Historical_Landmarks": "Chadian National Museum, Great N'Djamena Mosque, Presidential Palace.",
+        "Tourist_Activities": "Visit the national museum, shop at the central market.",
+        "Green_Spaces": "N'Djamena Zoo, banks of the Chari River.",
+        "Local_Cuisine": "Daraba (okra stew), Karkanji (hibiscus drink)."
+      },
+      {
+        "City_Name": "Moundou",
+        "Historical_Landmarks": "Historic cotton factories, Moundou Cathedral.",
+        "Tourist_Activities": "Visit cotton farms.",
+        "Green_Spaces": "Surrounding green plains.",
+        "Local_Cuisine": "Moussos (peanut dish)."
+      },
+      {
+        "City_Name": "Sarh",
+        "Historical_Landmarks": "Sarh central market, ancient Sarh ruins.",
+        "Tourist_Activities": "Boat rides on the river.",
+        "Green_Spaces": "Banks of the Chari River (for walking).",
+        "Local_Cuisine": "La Boule (corn or millet porridge)."
+      },
+      {
+        "City_Name": "Abéché",
+        "Historical_Landmarks": "Royal palace in Abéché (Sultanate of Wadai), Old Abéché Mosque.",
+        "Tourist_Activities": "Explore ancient Islamic architecture.",
+        "Green_Spaces": "Desert landscapes.",
+        "Local_Cuisine": "Aish (wheat flour porridge)."
+      },
+      {
+        "City_Name": "Faya-Largeau",
+        "Historical_Landmarks": "Remains of old forts.",
+        "Tourist_Activities": "Enjoy desert tranquility.",
+        "Green_Spaces": "Palm oases.",
+        "Local_Cuisine": "Date palms."
+      },
+      {
+        "City_Name": "Boulboul",
+        "Historical_Landmarks": "Traditional markets.",
+        "Tourist_Activities": "Buy Chadian handicrafts.",
+        "Green_Spaces": "Near Zakouma National Park.",
+        "Local_Cuisine": "Kisra (thin bread)."
+      },
+      {
+        "City_Name": "Zakouma",
+        "Historical_Landmarks": "Wildlife protection station.",
+        "Tourist_Activities": "Elephant safari in Zakouma.",
+        "Green_Spaces": "Zakouma National Park (for safari).",
+        "Local_Cuisine": "Grilled goat meat (Kabab)."
+      },
+      {
+        "City_Name": "Koulou",
+        "Historical_Landmarks": "Local mosques.",
+        "Tourist_Activities": "Visit farms.",
+        "Green_Spaces": "Green agricultural fields.",
+        "Local_Cuisine": "Peanut soup."
+      },
+      {
+        "City_Name": "Bala",
+        "Historical_Landmarks": "Old government buildings.",
+        "Tourist_Activities": "Learn about local tribes.",
+        "Green_Spaces": "Rural scenery.",
+        "Local_Cuisine": "Jarret de boeuf (braised beef shank)."
+      },
+      {
+        "City_Name": "Great Ounianga",
+        "Historical_Landmarks": "Rock engravings at Enedi (near Great Ounianga).",
+        "Tourist_Activities": "Visit colored lakes, explore rock formations.",
+        "Green_Spaces": "Ounianga Lakes.",
+        "Local_Cuisine": "Traditional nomadic foods."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Togo",
+    "Cities": [
+      {
+        "City_Name": "Lomé",
+        "Historical_Landmarks": "Sacred Heart Cathedral, Togo National Museum, Voodoo Market (Fetish Market).",
+        "Tourist_Activities": "Tour the large market, visit the Voodoo Market (Fetish Market).",
+        "Green_Spaces": "Lomé Beach, green areas around the Presidential Palace.",
+        "Local_Cuisine": "Gboma Dessi (spinach and meat stew), Pâte (traditional porridge)."
+      },
+      {
+        "City_Name": "Kpalimé",
+        "Historical_Landmarks": "Handicraft center, old churches.",
+        "Tourist_Activities": "Climb Kpalimé hills, buy wooden crafts.",
+        "Green_Spaces": "Kpim waterfalls, green Kpalimé hills.",
+        "Local_Cuisine": "Fufu (fufu) with eggplant sauce."
+      },
+      {
+        "City_Name": "Kara",
+        "Historical_Landmarks": "Independence Monument, Regional Museum of Kara.",
+        "Tourist_Activities": "Depart to visit Kotokou.",
+        "Green_Spaces": "Northern mountain scenery.",
+        "Local_Cuisine": "Ablo (light rice cake), Djenkoume (tomato porridge)."
+      },
+      {
+        "City_Name": "Koutamako",
+        "Historical_Landmarks": "Takienta (defensive mud houses).",
+        "Tourist_Activities": "Learn about Batammariba culture, explore mud houses.",
+        "Green_Spaces": "Rural mountain scenery.",
+        "Local_Cuisine": "Local porridge dish."
+      },
+      {
+        "City_Name": "Togoville",
+        "Historical_Landmarks": "Local temples and shrines, old Portuguese churches.",
+        "Tourist_Activities": "Lake Togoville tour, learn Voodoo traditions.",
+        "Green_Spaces": "Lake Togoville.",
+        "Local_Cuisine": "Grilled lake fish."
+      },
+      {
+        "City_Name": "Aniho",
+        "Historical_Landmarks": "Slave house in Agbodrafo (nearby), historic market.",
+        "Tourist_Activities": "Visit Agbodrafo.",
+        "Green_Spaces": "Nearby forests.",
+        "Local_Cuisine": "Yovo Doko (fried dough)."
+      },
+      {
+        "City_Name": "Atakpamé",
+        "Historical_Landmarks": "Old railway stations.",
+        "Tourist_Activities": "Shop at local markets.",
+        "Green_Spaces": "Atakpamé hills.",
+        "Local_Cuisine": "Akoumé (grain dish)."
+      },
+      {
+        "City_Name": "Badu",
+        "Historical_Landmarks": "Traditional houses.",
+        "Tourist_Activities": "Access the waterfalls.",
+        "Green_Spaces": "Badu (Qouarou) Falls.",
+        "Local_Cuisine": "Dishes based on cocoa and coffee."
+      },
+      {
+        "City_Name": "Sokodé",
+        "Historical_Landmarks": "Old mosques.",
+        "Tourist_Activities": "Watch local dances.",
+        "Green_Spaces": "Surrounding savanna scenery.",
+        "Local_Cuisine": "Wagashi (fried cheese)."
+      },
+      {
+        "City_Name": "Town of Anyi",
+        "Historical_Landmarks": "Old Anyi Church.",
+        "Tourist_Activities": "Explore the rural area.",
+        "Green_Spaces": "Nearby cocoa farms.",
+        "Local_Cuisine": "Fonio (fonio grains)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Fiji",
+    "Cities": [
+      {
+        "City_Name": "Suva",
+        "Historical_Landmarks": "Fiji Museum, Parliament Buildings, old colonial buildings.",
+        "Tourist_Activities": "Visit the museum, tour the botanical garden.",
+        "Green_Spaces": "Botanical Garden in Thurston, Kulo‑i‑Suva Forest Park.",
+        "Local_Cuisine": "Kokoda (Fijian ceviche), Duruka (Fijian asparagus)."
+      },
+      {
+        "City_Name": "Nadi",
+        "Historical_Landmarks": "Sri Siva Subramaniya Temple (large Hindu temple).",
+        "Tourist_Activities": "Depart to visit the Mamanutha Islands, tour the temple.",
+        "Green_Spaces": "Sleeping Giant Garden.",
+        "Local_Cuisine": "Lovo (traditional underground cooked feast)."
+      },
+      {
+        "City_Name": "Lautoka",
+        "Historical_Landmarks": "Historical houses, commercial port.",
+        "Tourist_Activities": "Visit local markets.",
+        "Green_Spaces": "Botanical garden, Lautoka promenade.",
+        "Local_Cuisine": "Rourou (taro leaves with coconut milk)."
+      },
+      {
+        "City_Name": "Savusavu",
+        "Historical_Landmarks": "Natural hot springs.",
+        "Tourist_Activities": "Relax in the springs, diving.",
+        "Green_Spaces": "Savusavu Bay, coral reefs.",
+        "Local_Cuisine": "Kava (traditional drink)."
+      },
+      {
+        "City_Name": "Levuka",
+        "Historical_Landmarks": "Historic Levuka town (UNESCO site), colonial buildings.",
+        "Tourist_Activities": "Tour the historic town.",
+        "Green_Spaces": "Surrounding Levuka hills.",
+        "Local_Cuisine": "Palusami (meat or fish wrapped in taro leaves)."
+      },
+      {
+        "City_Name": "Siga‑toka",
+        "Historical_Landmarks": "Traditional Navala village.",
+        "Tourist_Activities": "Explore sand dunes, kayak on Navua River.",
+        "Green_Spaces": "Siga‑toka national sand dunes, Navua River valley.",
+        "Local_Cuisine": "Fish in Lolo (fish cooked in coconut milk)."
+      },
+      {
+        "City_Name": "Samana",
+        "Historical_Landmarks": "Labasa Mosque.",
+        "Tourist_Activities": "Diving and snorkeling.",
+        "Green_Spaces": "Nearby coral reefs, forest areas.",
+        "Local_Cuisine": "Vakalolo (coconut sweet)."
+      },
+      {
+        "City_Name": "Tavua",
+        "Historical_Landmarks": "International Date Line route.",
+        "Tourist_Activities": "Hiking to explore waterfalls.",
+        "Green_Spaces": "Bumaz National Park, Tavuro Falls.",
+        "Local_Cuisine": "Taro Leaf Soup."
+      },
+      {
+        "City_Name": "Bati",
+        "Historical_Landmarks": "Fire-walking ritual sites.",
+        "Tourist_Activities": "Watch fire‑walking rituals.",
+        "Green_Spaces": "Bati beaches.",
+        "Local_Cuisine": "Ika Vakalolo (fish with coconut cream)."
+      },
+      {
+        "City_Name": "Rakiraki",
+        "Historical_Landmarks": "Udre‑Udre tomb.",
+        "Tourist_Activities": "Explore the coast.",
+        "Green_Spaces": "Coastal scenery.",
+        "Local_Cuisine": "Koumi (traditional food)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Djibouti",
+    "Cities": [
+      {
+        "City_Name": "Djibouti City",
+        "Historical_Landmarks": "Hammoudi Mosque, Presidential Palace, old train station, central market.",
+        "Tourist_Activities": "Shopping at the central market, visit old city mosques.",
+        "Green_Spaces": "Central public gardens, seaside promenade.",
+        "Local_Cuisine": "Skoudehkaris (rice with lamb or goat meat), Laxoox (flatbread)."
+      },
+      {
+        "City_Name": "Tajoura",
+        "Historical_Landmarks": "Old white houses, old Tajoura port.",
+        "Tourist_Activities": "Diving and snorkeling at the Moucha Islands.",
+        "Green_Spaces": "Tajoura Bay beaches, Moucha Islands.",
+        "Local_Cuisine": "Grilled fish (Poisson Braisé)."
+      },
+      {
+        "City_Name": "Ali Sabieh",
+        "Historical_Landmarks": "Historic military sites.",
+        "Tourist_Activities": "Hiking and desert exploration.",
+        "Green_Spaces": "Desert and mountain scenery.",
+        "Local_Cuisine": "Fatira (fried bread)."
+      },
+      {
+        "City_Name": "Dikhil",
+        "Historical_Landmarks": "Local villages around the lake.",
+        "Tourist_Activities": "Watch limestone chimneys at sunrise.",
+        "Green_Spaces": "Lake Abbé.",
+        "Local_Cuisine": "Harira (lentil soup)."
+      },
+      {
+        "City_Name": "Lake Assal",
+        "Historical_Landmarks": "Natural salt mines.",
+        "Tourist_Activities": "Photo of unique salt scenery.",
+        "Green_Spaces": "Lake Assal.",
+        "Local_Cuisine": "Traditional Djiboutian coffee."
+      },
+      {
+        "City_Name": "Obock",
+        "Historical_Landmarks": "Old French colony.",
+        "Tourist_Activities": "Explore quiet beaches.",
+        "Green_Spaces": "Pristine northern beaches.",
+        "Local_Cuisine": "Asida (flour porridge)."
+      },
+      {
+        "City_Name": "Day Forest",
+        "Historical_Landmarks": "Traditional Afar houses.",
+        "Tourist_Activities": "Hike the forest and birdwatch.",
+        "Green_Spaces": "Day National Forest (Forêt du Day).",
+        "Local_Cuisine": "Canjeero (Somali pancake)."
+      },
+      {
+        "City_Name": "Ali Adde",
+        "Historical_Landmarks": "Ali Adde center.",
+        "Tourist_Activities": "Learn about the humanitarian side of the country.",
+        "Green_Spaces": "Harsh desert scenery.",
+        "Local_Cuisine": "Samusa (samosa)."
+      },
+      {
+        "City_Name": "Yoboki",
+        "Historical_Landmarks": "Hunting sites.",
+        "Tourist_Activities": "Explore dormant volcanoes.",
+        "Green_Spaces": "Volcanic lava fields.",
+        "Local_Cuisine": "Laxoox (flatbread)."
+      },
+      {
+        "City_Name": "Shark Bay",
+        "Historical_Landmarks": "Arob volcano, diving sites.",
+        "Tourist_Activities": "Swim with whale sharks.",
+        "Green_Spaces": "Bay of Ghoubbet.",
+        "Local_Cuisine": "Fresh seafood dishes."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Dominican Republic",
+    "Cities": [
+      {
+        "City_Name": "Santo Domingo",
+        "Historical_Landmarks": "Colonial Zone (Zona Colonial), Minor St. Mary's Cathedral, Ozama Fortress.",
+        "Tourist_Activities": "Stroll the Colonial Zone (UNESCO), visit the Los Tres Ojos cave complex.",
+        "Green_Spaces": "Mirador Sur Park, National Botanical Garden.",
+        "Local_Cuisine": "La Bandera (rice, beans, meat), Mangu (mashed green plantains)."
+      },
+      {
+        "City_Name": "Bona Cana",
+        "Historical_Landmarks": "Major resort areas.",
+        "Tourist_Activities": "Diving and snorkeling, relax on the beach.",
+        "Green_Spaces": "Bavaro Beach, Ojos Indigenas (Indigenous Eyes).",
+        "Local_Cuisine": "Pastelón (sweet meat pie)."
+      },
+      {
+        "City_Name": "Puerto Plata",
+        "Historical_Landmarks": "San Felipe Fortress, Dominican Amber Museum.",
+        "Tourist_Activities": "Cable car to mountain summit, explore Victorian architecture.",
+        "Green_Spaces": "Mount Isabel de Torres (cable car), Sosua Beach.",
+        "Local_Cuisine": "Tostones (fried green plantains), Pescado con Coco (fish with coconut)."
+      },
+      {
+        "City_Name": "La Romana",
+        "Historical_Landmarks": "Altos de Chavón (Mediterranean‑style artistic village), Las Maravillas cave.",
+        "Tourist_Activities": "Tour Altos de Chavón, trip to Saona Island.",
+        "Green_Spaces": "Los Haitises National Park (nearby), Saona Island.",
+        "Local_Cuisine": "Sancocho (traditional stew)."
+      },
+      {
+        "City_Name": "Samana",
+        "Historical_Landmarks": "Santa Barbara de Samana town, Santa Barbara pedestrian bridge.",
+        "Tourist_Activities": "Whale watching (in winter), horse ride to El Limon waterfall.",
+        "Green_Spaces": "El Limon waterfall, Los Haitises park (boat area).",
+        "Local_Cuisine": "Chenchén (Dominican couscous dish)."
+      },
+      {
+        "City_Name": "Santiago",
+        "Historical_Landmarks": "Monument to the Heroes (Monumento a los Héroes), cigar factories.",
+        "Tourist_Activities": "Visit a cigar factory, shop at the artisans market.",
+        "Green_Spaces": "Mirador del Yuna Park, Duarte Park.",
+        "Local_Cuisine": "Chicharrón (fried pork skin)."
+      },
+      {
+        "City_Name": "Jarabacoa",
+        "Historical_Landmarks": "Jarabacoa Church.",
+        "Tourist_Activities": "River rafting, mountain hiking.",
+        "Green_Spaces": "Yamna waterfalls, Armando Bermudez National Park.",
+        "Local_Cuisine": "Mofongo (fried and mashed plantains)."
+      },
+      {
+        "City_Name": "Cabarete",
+        "Historical_Landmarks": "Tourist center.",
+        "Tourist_Activities": "Kite surfing, surfing.",
+        "Green_Spaces": "Cabarete Beach, Encanto Beach.",
+        "Local_Cuisine": "Asopao (thick rice soup)."
+      },
+      {
+        "City_Name": "El Seibo",
+        "Historical_Landmarks": "El Seibo mountain lodge.",
+        "Tourist_Activities": "Climb Pico Duarte.",
+        "Green_Spaces": "Pico Duarte (highest Caribbean peak), pine forests.",
+        "Local_Cuisine": "Locrio (rice with meat)."
+      },
+      {
+        "City_Name": "San Juan de la Maguana",
+        "Historical_Landmarks": "Taíno ritual sites (indigenous).",
+        "Tourist_Activities": "Explore Taíno culture.",
+        "Green_Spaces": "Rural scenery.",
+        "Local_Cuisine": "Chambre (spicy stew)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Central African Republic",
+    "Cities": [
+      {
+        "City_Name": "Bangui",
+        "Historical_Landmarks": "Notre-Dame Cathedral Bangui, Boganda National Museum, old Presidential Palace.",
+        "Tourist_Activities": "River cruise on the Oubangui, visit Bangui central market.",
+        "Green_Spaces": "Botanical Garden in Bangui, Oubangui River banks.",
+        "Local_Cuisine": "Foutou (cassava porridge), Liboke (fish or meat stew in banana leaves)."
+      },
+      {
+        "City_Name": "Berbérati",
+        "Historical_Landmarks": "Historical houses, old mining area.",
+        "Tourist_Activities": "Explore forests, learn about mining.",
+        "Green_Spaces": "Surrounding dense forests, Mambere River.",
+        "Local_Cuisine": "Kanda (meatballs and pumpkin seeds)."
+      },
+      {
+        "City_Name": "Nola",
+        "Historical_Landmarks": "Indigenous (Pygmy) villages.",
+        "Tourist_Activities": "Track gorillas and elephants, learn about Baaka tribes (Pygmies).",
+        "Green_Spaces": "Dzanga‑Sangha Reserve, Bayanga forests.",
+        "Local_Cuisine": "Maboké (fish cooked in banana leaves)."
+      },
+      {
+        "City_Name": "Boali",
+        "Historical_Landmarks": "Hydroelectric power station.",
+        "Tourist_Activities": "View the waterfalls.",
+        "Green_Spaces": "Boali Falls.",
+        "Local_Cuisine": "Gari (cassava flour)."
+      },
+      {
+        "City_Name": "Bambari",
+        "Historical_Landmarks": "Local mosques and churches.",
+        "Tourist_Activities": "Walk along river banks.",
+        "Green_Spaces": "Waka River.",
+        "Local_Cuisine": "Yassa (chicken or fish with onion and lemon)."
+      },
+      {
+        "City_Name": "Bousangua",
+        "Historical_Landmarks": "Local market.",
+        "Tourist_Activities": "Northern safari trips (if safe).",
+        "Green_Spaces": "Manovo‑Gounda National Park (north).",
+        "Local_Cuisine": "Mbaqanga (southern dish)."
+      },
+      {
+        "City_Name": "Bria",
+        "Historical_Landmarks": "Diamond mines.",
+        "Tourist_Activities": "Visit small mining workshops.",
+        "Green_Spaces": "Mountain scenery.",
+        "Local_Cuisine": "Green banana stew."
+      },
+      {
+        "City_Name": "Pimbo",
+        "Historical_Landmarks": "Large market.",
+        "Tourist_Activities": "Shopping at the market.",
+        "Green_Spaces": "Agricultural areas.",
+        "Local_Cuisine": "Billi‑billi (traditional drink)."
+      },
+      {
+        "City_Name": "Bakaranga",
+        "Historical_Landmarks": "Old colonial buildings.",
+        "Tourist_Activities": "Learn about agriculture.",
+        "Green_Spaces": "Rural areas.",
+        "Local_Cuisine": "Grilled goat meat."
+      },
+      {
+        "City_Name": "Impfondo",
+        "Historical_Landmarks": "River port.",
+        "Tourist_Activities": "Simple fishing trips.",
+        "Green_Spaces": "Oubangui River.",
+        "Local_Cuisine": "Grilled river fish."
+      }
+    ]
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Cities": [
+      {
+        "City_Name": "Juba",
+        "Historical_Landmarks": "John Garang Mausoleum (national monument), Nile Bridge, Juba Cathedral.",
+        "Tourist_Activities": "Nile tour, visit Garang mausoleum.",
+        "Green_Spaces": "White Nile banks (promenade), public parks.",
+        "Local_Cuisine": "Kisra (thin bread), Ful Sudani (cooked Sudanese beans)."
+      },
+      {
+        "City_Name": "Wau",
+        "Historical_Landmarks": "Old colonial buildings, central market.",
+        "Tourist_Activities": "Explore old architecture, visit markets.",
+        "Green_Spaces": "Nearby forest reserves.",
+        "Local_Cuisine": "Combo (okra and meat stew), Asida (porridge)."
+      },
+      {
+        "City_Name": "Malakal",
+        "Historical_Landmarks": "Malakal river port.",
+        "Tourist_Activities": "Watch waterbirds at the dams.",
+        "Green_Spaces": "Sudd swamps – major natural site.",
+        "Local_Cuisine": "Gorosasa (traditional bread)."
+      },
+      {
+        "City_Name": "Bor",
+        "Historical_Landmarks": "Ancient Bor ruins, historic church.",
+        "Tourist_Activities": "Visit religious and historic sites.",
+        "Green_Spaces": "Nile River banks.",
+        "Local_Cuisine": "Aseeda (porridge dish)."
+      },
+      {
+        "City_Name": "Turit",
+        "Historical_Landmarks": "Traditional villages of the Lango tribes.",
+        "Tourist_Activities": "Hiking in the Imatong Mountains.",
+        "Green_Spaces": "Imatong Mountains, nearby Nimoli National Park.",
+        "Local_Cuisine": "Grilled lamb."
+      },
+      {
+        "City_Name": "Rumbek",
+        "Historical_Landmarks": "Popular markets.",
+        "Tourist_Activities": "Learn Dinka (cattle) traditions.",
+        "Green_Spaces": "Seasonal lake areas, pastoral scenery.",
+        "Local_Cuisine": "Milk and Honey (traditional main dish)."
+      },
+      {
+        "City_Name": "Boma",
+        "Historical_Landmarks": "Wildlife protection center.",
+        "Tourist_Activities": "Watch the great wildebeest migration (seasonal).",
+        "Green_Spaces": "Boma National Park.",
+        "Local_Cuisine": "Dried fish dish."
+      },
+      {
+        "City_Name": "Owel",
+        "Historical_Landmarks": "Old railway station.",
+        "Tourist_Activities": "Tour agricultural areas.",
+        "Green_Spaces": "Northern savanna plains.",
+        "Local_Cuisine": "Grilled liver (Kemeyu)."
+      },
+      {
+        "City_Name": "Kajok",
+        "Historical_Landmarks": "Heritage sites of the Dinka tribes.",
+        "Tourist_Activities": "Observe pastoral life.",
+        "Green_Spaces": "Vast plains.",
+        "Local_Cuisine": "Cow yogurt."
+      },
+      {
+        "City_Name": "Yida",
+        "Historical_Landmarks": "Old buildings.",
+        "Tourist_Activities": "Learn about regional history.",
+        "Green_Spaces": "Desert scenery.",
+        "Local_Cuisine": "Aish (bread)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "South Africa",
+    "Cities": [
+      {
+        "City_Name": "Cape Town",
+        "Historical_Landmarks": "Robben Island (Mandela prison), Table Mountain, Victoria & Alfred Waterfront.",
+        "Tourist_Activities": "Cable car to Table Mountain, tour Robben Island, wine tasting at nearby Cape farms.",
+        "Green_Spaces": "Table Mountain National Park, Cape of Good Hope, Kirstenbosch Botanical Gardens.",
+        "Local_Cuisine": "Bobotie (sweet‑spicy minced meat dish), Cape Malay Curry."
+      },
+      {
+        "City_Name": "Johannesburg",
+        "Historical_Landmarks": "Apartheid Museum, Soweto district, Mary Fitzgerald Square.",
+        "Tourist_Activities": "Visit the Apartheid Museum, tour Soweto and house 8115.",
+        "Green_Spaces": "Golden Gate National Park, reptile park.",
+        "Local_Cuisine": "Biltong (dried meat), Boerewors (farm sausages), Pap and Vleis (maize porridge and meat)."
+      },
+      {
+        "City_Name": "Nelspruit",
+        "Historical_Landmarks": "Kruger wildlife centre, Kolvin houses and art centre.",
+        "Tourist_Activities": "Big Five safari in Kruger.",
+        "Green_Spaces": "Kruger National Park (nearest gate), Waldridge Botanical Gardens.",
+        "Local_Cuisine": "Shisa Nyama (traditional meat barbecue)."
+      },
+      {
+        "City_Name": "Durban",
+        "Historical_Landmarks": "Juma Mosque, Tropical Plants Garden.",
+        "Tourist_Activities": "Surfing, explore Indian culture.",
+        "Green_Spaces": "Golden Mile beach, Eastgate Nature Reserve (north).",
+        "Local_Cuisine": "Bunny Chow (curry‑filled bread), Vetkoek (fried dough stuffed)."
+      },
+      {
+        "City_Name": "Bretoria",
+        "Historical_Landmarks": "Union Buildings, Fort Rykker, Kruger House Museum.",
+        "Tourist_Activities": "Visit Union Buildings, stroll under jacaranda trees (in spring).",
+        "Green_Spaces": "Kuthbert Folk Gardens, Magaliesberg mountain.",
+        "Local_Cuisine": "Potjiekos (stew cooked in cast‑iron pot)."
+      },
+      {
+        "City_Name": "Stellenbosch",
+        "Historical_Landmarks": "Dorp Street historic, Stellenbosch University.",
+        "Tourist_Activities": "Wine tasting at farms, tour historic town.",
+        "Green_Spaces": "Wine farms, Jonkershoek Nature Reserve.",
+        "Local_Cuisine": "Amasi (traditional yoghurt) with corn bread."
+      },
+      {
+        "City_Name": "Knysna",
+        "Historical_Landmarks": "Knysna Anglican Church, harbor promenade.",
+        "Tourist_Activities": "Boat trips on lakes, shop at waterfront.",
+        "Green_Spaces": "Knysna lakes, Tsitsikamma National Forest (nearby).",
+        "Local_Cuisine": "Knysna Oysters, grilled kingklip fish."
+      },
+      {
+        "City_Name": "Port Elizabeth",
+        "Historical_Landmarks": "Clock Tower, Port Elizabeth Museum, historic Donkin district.",
+        "Tourist_Activities": "Visit Addo Park, enjoy beaches.",
+        "Green_Spaces": "Homewood Beach, Addo Elephant National Park (nearby).",
+        "Local_Cuisine": "Gatsby (huge sandwich)."
+      },
+      {
+        "City_Name": "Hermanus",
+        "Historical_Landmarks": "Whale Museum.",
+        "Tourist_Activities": "Watch southern right and southern fin whales (seasonal), coastal walks.",
+        "Green_Spaces": "Cliff Path, Walker Bay.",
+        "Local_Cuisine": "Karoo Lamb."
+      },
+      {
+        "City_Name": "Bloemfontein",
+        "Historical_Landmarks": "Anglo‑Boer War Museum, Old Justice Hall.",
+        "Tourist_Activities": "Visit Franklin Game Reserve, explore historic museums.",
+        "Green_Spaces": "Rose Gardens, Franklin Game Reserve.",
+        "Local_Cuisine": "Mala Mogodu (stewed intestines)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Sudan",
+    "Cities": [
+      {
+        "City_Name": "Khartoum",
+        "Historical_Landmarks": "Confluence of the Two Niles (Al-Muqran), Sudan National Museum, Presidential Palace.",
+        "Tourist_Activities": "Watch the meeting of the two Niles, tour Tuti Island, visit the museum.",
+        "Green_Spaces": "Tuti Island (park and farm), zoo.",
+        "Local_Cuisine": "Ful Medames (breakfast dish), Kamounia (liver stew)."
+      },
+      {
+        "City_Name": "Omdurman",
+        "Historical_Landmarks": "Khalifa House (museum), Mahdi's tomb, Omdurman market (the big market).",
+        "Tourist_Activities": "Watch the dervish dance, shop at Omdurman market.",
+        "Green_Spaces": "Nile River Park.",
+        "Local_Cuisine": "Kisra and mulah wiqa (porridge with dried okra stew), gurasa (semolina bread)."
+      },
+      {
+        "City_Name": "Meroe",
+        "Historical_Landmarks": "Meroe pyramids (Bajrawiya – UNESCO site), Sun Temple.",
+        "Tourist_Activities": "Visit the pyramids at sunset, explore Kushite ruins.",
+        "Green_Spaces": "Bajrawiya desert area.",
+        "Local_Cuisine": "Aseeda (yeast bread)."
+      },
+      {
+        "City_Name": "Port Sudan",
+        "Historical_Landmarks": "Port Sudan lighthouse, old port.",
+        "Tourist_Activities": "Diving and snorkeling, enjoy beaches.",
+        "Green_Spaces": "Red Sea coral reefs, Wali Beach.",
+        "Local_Cuisine": "Fresh grilled fish, cane juice."
+      },
+      {
+        "City_Name": "Karima",
+        "Historical_Landmarks": "Jebel Barkal (UNESCO site), Nuri pyramids.",
+        "Tourist_Activities": "Climb Jebel Barkal, visit Amun temple.",
+        "Green_Spaces": "Nile banks near Barkal.",
+        "Local_Cuisine": "Meat skewers (Agashe)."
+      },
+      {
+        "City_Name": "Suakin",
+        "Historical_Landmarks": "Ruins of old Suakin city, ruined Ottoman port.",
+        "Tourist_Activities": "Tour the ancient city ruins.",
+        "Green_Spaces": "Coastal sea views.",
+        "Local_Cuisine": "Fatta (bread with broth)."
+      },
+      {
+        "City_Name": "Kassala",
+        "Historical_Landmarks": "Large mosques, Kassala market.",
+        "Tourist_Activities": "Walk around Tuti Mountains.",
+        "Green_Spaces": "Tuti Mountains, Kassala River.",
+        "Local_Cuisine": "Aseeda with mulah al-taqlya."
+      },
+      {
+        "City_Name": "Al‑Ubayyid",
+        "Historical_Landmarks": "Gum Arabic market, Al‑Ubayyid Museum.",
+        "Tourist_Activities": "Visit the gum Arabic market.",
+        "Green_Spaces": "Desert scenery.",
+        "Local_Cuisine": "Marara (raw liver)."
+      },
+      {
+        "City_Name": "Dungaila",
+        "Historical_Landmarks": "Ancient Nubian archaeological sites.",
+        "Tourist_Activities": "Explore Nubian ruins.",
+        "Green_Spaces": "Nubian Nile banks.",
+        "Local_Cuisine": "Dooka Bread."
+      },
+      {
+        "City_Name": "Wad Medani",
+        "Historical_Landmarks": "Gezira University, old administrative buildings.",
+        "Tourist_Activities": "Farm tour.",
+        "Green_Spaces": "Blue Nile.",
+        "Local_Cuisine": "Dried okra stew."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Somalia",
+    "Cities": [
+      {
+        "City_Name": "Mogadishu",
+        "Historical_Landmarks": "Fakhr al-Din Mosque, Old Mogadishu Cathedral building, Mogadishu lighthouse.",
+        "Tourist_Activities": "Swim at Liido Beach, tour the old city.",
+        "Green_Spaces": "Liido Beach, Hawaa Island park.",
+        "Local_Cuisine": "Bariis Iskukaris (spiced rice), Baasto iyo Hilib (pasta with meat)."
+      },
+      {
+        "City_Name": "Hargeisa",
+        "Historical_Landmarks": "Las Gil caves (ancient drawings), National Museum, Currency market.",
+        "Tourist_Activities": "Visit Las Gil caves, shop at the currency market.",
+        "Green_Spaces": "Hargeisa National Park, Dalo mountains (near Hargeisa).",
+        "Local_Cuisine": "Canjeero (Somali pancake), Lahoh (flatbread)."
+      },
+      {
+        "City_Name": "Berbera",
+        "Historical_Landmarks": "Old Ottoman houses, Berbera lighthouse.",
+        "Tourist_Activities": "Enjoy the calm beach.",
+        "Green_Spaces": "Berbera beach, old Berbera port.",
+        "Local_Cuisine": "Maraq (meat stew), Sambusa (samosa)."
+      },
+      {
+        "City_Name": "Bosaaso",
+        "Historical_Landmarks": "Bosaaso port, central market.",
+        "Tourist_Activities": "Shop at the market, tour the port.",
+        "Green_Spaces": "Jalgalal mountains (near Bosaaso), public beach.",
+        "Local_Cuisine": "Suqaar (fried diced meat), Malawax (sweet bread)."
+      },
+      {
+        "City_Name": "Kismaayo",
+        "Historical_Landmarks": "Old lighthouse, government buildings.",
+        "Tourist_Activities": "Boat trips to islands.",
+        "Green_Spaces": "Bajuni islands, Kismaayo beach.",
+        "Local_Cuisine": "Iskudhexkaris (rice cooked with vegetables)."
+      },
+      {
+        "City_Name": "Merca",
+        "Historical_Landmarks": "Old Arabic buildings, central mosque.",
+        "Tourist_Activities": "Explore old architecture.",
+        "Green_Spaces": "White Merca beach.",
+        "Local_Cuisine": "Qado (traditional Somali lunch)."
+      },
+      {
+        "City_Name": "Marka",
+        "Historical_Landmarks": "Old central mosque.",
+        "Tourist_Activities": "Explore the historic sites.",
+        "Green_Spaces": "Nearby beach.",
+        "Local_Cuisine": "Oodkac (dried meat)."
+      },
+      {
+        "City_Name": "Zila",
+        "Historical_Landmarks": "Ancient Zila ruins, historic mosques.",
+        "Tourist_Activities": "Visit historic ruins.",
+        "Green_Spaces": "Nearby beach.",
+        "Local_Cuisine": "Oodkac (dried meat)."
+      },
+      {
+        "City_Name": "Burama",
+        "Historical_Landmarks": "Burama University, old mosques.",
+        "Tourist_Activities": "Hike the hills.",
+        "Green_Spaces": "Burama hills, Burama lake.",
+        "Local_Cuisine": "Mashidani (noodle dish)."
+      },
+      {
+        "City_Name": "Eyli",
+        "Historical_Landmarks": "Old colonial buildings.",
+        "Tourist_Activities": "Watch fishing boats.",
+        "Green_Spaces": "Eyli beach, coastal area.",
+        "Local_Cuisine": "Fresh tuna fish."
+      },
+      {
+        "City_Name": "Afgooye",
+        "Historical_Landmarks": "Banana and mango farms.",
+        "Tourist_Activities": "Visit farms.",
+        "Green_Spaces": "Shabelle River banks (for walks).",
+        "Local_Cuisine": "Muufo (corn flour bread)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "China",
+    "Cities": [
+      {
+        "City_Name": "Beijing",
+        "Historical_Landmarks": "Forbidden City, Great Wall of China (Badaling and Mutianyu sections), Tiananmen Square, Temple of Heaven.",
+        "Tourist_Activities": "Walk on a part of the Great Wall, visit the Forbidden City, watch a Chinese opera performance.",
+        "Green_Spaces": "Summer Palace (imperial garden), Beihai Park.",
+        "Local_Cuisine": "Peking Duck, Zhajiangmian (fried sauce noodles)."
+      },
+      {
+        "City_Name": "Shanghai",
+        "Historical_Landmarks": "The Bund (waterfront), Oriental Pearl Tower, Zhujiajiao water town.",
+        "Tourist_Activities": "Night tour of the Bund, visit Shanghai Museum.",
+        "Green_Spaces": "Yuyuan Garden, Century Park.",
+        "Local_Cuisine": "Xiaolongbao (soup dumplings), Mooncake."
+      },
+      {
+        "City_Name": "Xi'an",
+        "Historical_Landmarks": "Terracotta Army, Xi'an City Wall, Giant Wild Goose Pagoda.",
+        "Tourist_Activities": "Visit the Terracotta Army, bike on the city wall.",
+        "Green_Spaces": "Fortune Park, Qingjing Lake.",
+        "Local_Cuisine": "Roujiamo (Chinese burger), Baozi (steamed buns)."
+      },
+      {
+        "City_Name": "Chengdu",
+        "Historical_Landmarks": "Ancient Jinli Street, Wuhou Shrine.",
+        "Tourist_Activities": "Watch pandas in the reserve, try spicy Sichuan dishes.",
+        "Green_Spaces": "Chengdu Giant Panda Base, Renmin Park.",
+        "Local_Cuisine": "Sichuan Hot Pot, Kung Pao chicken."
+      },
+      {
+        "City_Name": "Guilin",
+        "Historical_Landmarks": "Guilin water canals, Elephant Trunk Hill.",
+        "Tourist_Activities": "Li River cruise, tour karst areas.",
+        "Green_Spaces": "Fubo Hill, Reed Flute Cave.",
+        "Local_Cuisine": "Guilin rice noodles, Beer Duck."
+      },
+      {
+        "City_Name": "Hangzhou",
+        "Historical_Landmarks": "Lingyin Buddhist Temple, National Tea Museum.",
+        "Tourist_Activities": "Boat ride on West Lake, taste Longjing tea.",
+        "Green_Spaces": "West Lake (UNESCO), Xiling Falls.",
+        "Local_Cuisine": "West Lake vinegar fish, Beggar's Chicken."
+      },
+      {
+        "City_Name": "Hong Kong",
+        "Historical_Landmarks": "Big Buddha statue, Avenue of Stars, Space Museum.",
+        "Tourist_Activities": "Watch Symphony of Lights, take tram to the Peak.",
+        "Green_Spaces": "The Peak, Hong Kong Park.",
+        "Local_Cuisine": "Dim sum, Egg Waffles."
+      },
+      {
+        "City_Name": "Lhasa",
+        "Historical_Landmarks": "Potala Palace (old Dalai Lama palace), Jokhang Temple.",
+        "Tourist_Activities": "Visit Potala Palace, tour Sera Monastery.",
+        "Green_Spaces": "Nobulingka Park.",
+        "Local_Cuisine": "Yak Mo Mo (yak meat dumplings), Tsampa (barley dough)."
+      },
+      {
+        "City_Name": "Suzhou",
+        "Historical_Landmarks": "Tiger Hill, Regional Museum, ancient water canals.",
+        "Tourist_Activities": "Tour classical gardens, boat rides on canals.",
+        "Green_Spaces": "Humble Administrator's Garden (UNESCO), Liu Garden.",
+        "Local_Cuisine": "Suzhou smoked fish, Dandan Noodles."
+      },
+      {
+        "City_Name": "Zhangjiajie",
+        "Historical_Landmarks": "Glass Bridge (Zhangjiajie Grand Canyon).",
+        "Tourist_Activities": "Cable car to Tianmen Mountain, walk on glass bridge.",
+        "Green_Spaces": "Zhangjiajie Forest National Park, Tianmen Mountain (Heaven's Gate).",
+        "Local_Cuisine": "Zhangjiajie pastry."
+      }
+    ]
+  },
+  {
+    "Country_Name": "Cameroon",
+    "Cities": [
+      {
+        "City_Name": "Yaoundé",
+        "Historical_Landmarks": "Reunification Monument, National Museum, Notre-Dame de Victoire Cathedral.",
+        "Tourist_Activities": "Visit the National Museum, explore Yaoundé's artistic markets.",
+        "Green_Spaces": "Faml Nkok (Foulassi) mountain, Yaoundé Zoo.",
+        "Local_Cuisine": "Ndole (national dish: spinach with peanuts), Poulet DG (chicken with green plantain)."
+      },
+      {
+        "City_Name": "Douala",
+        "Historical_Landmarks": "Bonaberi Bridge, Contemporary Art Museum, Arts Center and Library.",
+        "Tourist_Activities": "Port tour, explore the art scene.",
+        "Green_Spaces": "Douala Lake Park, Douala beaches.",
+        "Local_Cuisine": "Poisson Braisé (spicy grilled fish), Miondo (cassava bread)."
+      },
+      {
+        "City_Name": "Kribi",
+        "Historical_Landmarks": "Kribi lighthouse, fishermen villages.",
+        "Tourist_Activities": "Visit Lobe Falls, relax on the beach.",
+        "Green_Spaces": "Lobe Falls, sandy beaches.",
+        "Local_Cuisine": "Eru (green stew), fresh fish and seafood."
+      },
+      {
+        "City_Name": "Foumban",
+        "Historical_Landmarks": "Sultan Bamum royal palace, palace museum (traditional arts).",
+        "Tourist_Activities": "Visit the Sultan's palace and arts museum.",
+        "Green_Spaces": "Green plains.",
+        "Local_Cuisine": "Achombo (traditional meat dish)."
+      },
+      {
+        "City_Name": "Limbé",
+        "Historical_Landmarks": "Chimpanzee rescue centre.",
+        "Tourist_Activities": "Visit the chimpanzee centre, relax on the black sand beach.",
+        "Green_Spaces": "Limbé Botanical Garden, volcanic black sand beaches.",
+        "Local_Cuisine": "Congo (cooked beans)."
+      },
+      {
+        "City_Name": "Buea",
+        "Historical_Landmarks": "Old colonial buildings, University of Buea.",
+        "Tourist_Activities": "Start climbing Mount Cameroon, city tours.",
+        "Green_Spaces": "Mount Cameroon, Mount Cameroon National Park.",
+        "Local_Cuisine": "Water fufu and Eru (fufu with sauce)."
+      },
+      {
+        "City_Name": "Garoua",
+        "Historical_Landmarks": "Northern markets.",
+        "Tourist_Activities": "Safari trips to Waza.",
+        "Green_Spaces": "Near Waza and Bingou parks, Benue River.",
+        "Local_Cuisine": "Wagashi (fried cheese)."
+      },
+      {
+        "City_Name": "Bafang",
+        "Historical_Landmarks": "Traditional market.",
+        "Tourist_Activities": "Watch traditional dances.",
+        "Green_Spaces": "Western hills and farms.",
+        "Local_Cuisine": "Koki (beans wrapped in leaves)."
+      },
+      {
+        "City_Name": "Maroua",
+        "Historical_Landmarks": "Great mosque in Maroua.",
+        "Tourist_Activities": "Shop at Maroua market, hike the mountains.",
+        "Green_Spaces": "Maroua mountains (for hiking), savanna plains.",
+        "Local_Cuisine": "Couscous, corn soup."
+      },
+      {
+        "City_Name": "Ebolowa",
+        "Historical_Landmarks": "Historical sites of Bantu tribes.",
+        "Tourist_Activities": "Explore forests.",
+        "Green_Spaces": "Rainforests.",
+        "Local_Cuisine": "Maboke (fish cooked in leaves)."
+      }
+    ]
+  }
+]

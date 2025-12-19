@@ -1,0 +1,1052 @@
+[
+  {
+    "Country_Name": "بوركينا فاسو",
+    "Cities": [
+      {
+        "City_Name": "واغادوغو",
+        "Historical_Landmarks": "المسجد الكبير في واغادوغو، متحف الموسيقى، القصر الرئاسي، النصب التذكاري للأبطال الوطنيين.",
+        "Tourist_Activities": "حضور مهرجان FESPACO، زيارة تماسيح بازولي المقدسة (قرب واغادوغو).",
+        "Green_Spaces": "منتزه لؤنبيلة للحيوانات، الحديقة النباتية في واغادوغو.",
+        "Local_Cuisine": "Riz Gras (الأرز الدسم)، Poulet Bicyclette (دجاج مشوي بالتوابل)."
+      },
+      {
+        "City_Name": "بوبو ديولاسو",
+        "Historical_Landmarks": "المسجد الكبير الطيني، متحف بوبو ديولاسو الإقليمي، منزل كومي التاريخي.",
+        "Tourist_Activities": "استكشاف العمارة السودانية، زيارة حي الحرفيين.",
+        "Green_Spaces": "غابة كوبا (Kouba Forest).",
+        "Local_Cuisine": "To (عصيدة الدخن/الذرة مع صلصة)، Brochettes (أسياخ لحم البقر)."
+      },
+      {
+        "City_Name": "بانفورا",
+        "Historical_Landmarks": "أطلال لوروبيني (موقع يونسكو قريب)، المستعمرة الفرنسية القديمة.",
+        "Tourist_Activities": "التنزه بين قمم سيندو، السباحة في شلالات كارفيغويلا.",
+        "Green_Spaces": "شلالات كارفيغويلا، قمم سيندو الصخرية (موقع فريد).",
+        "Local_Cuisine": "Tô avec sauce Gombo (تُو مع صلصة البامية)."
+      },
+      {
+        "City_Name": "غاروا",
+        "Historical_Landmarks": "الأسواق التقليدية، مساجد غاروا القديمة.",
+        "Tourist_Activities": "شراء الأقمشة المنسوجة يدوياً، رحلات سفاري قصيرة.",
+        "Green_Spaces": "جزء من منتزه آرلي الوطني (للوصول للسفاري).",
+        "Local_Cuisine": "Fufu (فوفو) بصلصة الفول السوداني."
+      },
+      {
+        "City_Name": "تييبيل",
+        "Historical_Landmarks": "المنازل المزخرفة (Case à Palabre)، بيت زعيم القرية.",
+        "Tourist_Activities": "جولة ثقافية في المنازل المرسومة، التعرف على فن الكاسِينة.",
+        "Green_Spaces": "المناظر الطبيعية لجنوب بوركينا.",
+        "Local_Cuisine": "Bière de Mil (جعة الدخن التقليدية)."
+      },
+      {
+        "City_Name": "كودوغو",
+        "Historical_Landmarks": "ورش النسيج التقليدية، كنيسة كودوغو الكاثوليكية.",
+        "Tourist_Activities": "زيارة ورش النسيج.",
+        "Green_Spaces": "مناطق زراعية خضراء محيطة.",
+        "Local_Cuisine": "Zamné (عصيدة من الذرة والسكر)."
+      },
+      {
+        "City_Name": "زينيري",
+        "Historical_Landmarks": "حديقة الحيوانات المنحوتة.",
+        "Tourist_Activities": "مشاهدة التماسيح.",
+        "Green_Spaces": "منتزه لؤنبيلة.",
+        "Local_Cuisine": "Gala (عصيدة دخن مقلية)."
+      },
+      {
+        "City_Name": "باما",
+        "Historical_Landmarks": "مسجد باما القديم.",
+        "Tourist_Activities": "ركوب القوارب في البحيرة.",
+        "Green_Spaces": "بحيرة الهبي (Hébé Lake).",
+        "Local_Cuisine": "سمك مشوي من البحيرة."
+      },
+      {
+        "City_Name": "غورو",
+        "Historical_Landmarks": "الأسواق الشمالية.",
+        "Tourist_Activities": "القيادة عبر الكثبان.",
+        "Green_Spaces": "مناظر الكثبان الرملية.",
+        "Local_Cuisine": "لحم الماعز المشوي على الفحم."
+      },
+      {
+        "City_Name": "سيندو",
+        "Historical_Landmarks": "القرية القديمة في سيندو.",
+        "Tourist_Activities": "التنزه بين التكوينات الصخرية.",
+        "Green_Spaces": "قمم سيندو الصخرية (Sindou Peaks).",
+        "Local_Cuisine": "Fou-fou (طبق مشابه للفوفو)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "بوروندي",
+    "Cities": [
+      {
+        "City_Name": "بوجومبورا",
+        "Historical_Landmarks": "نصب ليفينغستون وستانلي، كاتدرائية ريجينا موندي، سوق بوجومبورا المركزي.",
+        "Tourist_Activities": "الاستمتاع بشاطئ ساغا، زيارة سوق بوجومبورا.",
+        "Green_Spaces": "شاطئ ساغا، حديقة ريتشارد كاندت، منتزه روزو الوطني.",
+        "Local_Cuisine": "Mukeke (سمك البحيرة المشوي)، Frites avec poulet (بطاطا مقلية ودجاج)."
+      },
+      {
+        "City_Name": "غيتغا",
+        "Historical_Landmarks": "متحف غيتغا الوطني، قصر ملكي قديم.",
+        "Tourist_Activities": "مشاهدة عروض الطبول المقدسة (قرب غيتغا)، استكشاف المتحف.",
+        "Green_Spaces": "غابات قريبة.",
+        "Local_Cuisine": "Ndizi (موز مطبوخ)، Ibitoke (حساء الموز)."
+      },
+      {
+        "City_Name": "موارو",
+        "Historical_Landmarks": "ضريح الأمير لويس رواجاسوري (قريب).",
+        "Tourist_Activities": "التنزه لاستكشاف الشلالات.",
+        "Green_Spaces": "غابات موارو الجبلية، شلالات كاريرا القريبة.",
+        "Local_Cuisine": "Umuceri n'Ibiharage (أرز وفاصوليا)."
+      },
+      {
+        "City_Name": "رويغي",
+        "Historical_Landmarks": "مواقع ثقافية تقليدية.",
+        "Tourist_Activities": "التعرف على الحرف اليدوية المحلية.",
+        "Green_Spaces": "المناظر الطبيعية الخضراء.",
+        "Local_Cuisine": "Boko Boko (دجاج وبرغل)."
+      },
+      {
+        "City_Name": "نغوزي",
+        "Historical_Landmarks": "سوق نغوزي المركزي.",
+        "Tourist_Activities": "جولة في مزارع الشاي.",
+        "Green_Spaces": "مزارع الشاي والقهوة، جبال نغوزي.",
+        "Local_Cuisine": "القهوة البوروندية الفاخرة."
+      },
+      {
+        "City_Name": "بوروري",
+        "Historical_Landmarks": "منازل تقليدية.",
+        "Tourist_Activities": "مشاهدة الطيور.",
+        "Green_Spaces": "غابات وادي موغيرا.",
+        "Local_Cuisine": "أسياخ لحم الماعز (Brochettes)."
+      },
+      {
+        "City_Name": "كايانزا",
+        "Historical_Landmarks": "كنيسة كايانزا.",
+        "Tourist_Activities": "استكشاف مناطق المرتفعات.",
+        "Green_Spaces": "تلال ومزارع كايانزا.",
+        "Local_Cuisine": "Amashaza (البازلاء المطبوخة)."
+      },
+      {
+        "City_Name": "رومونغي",
+        "Historical_Landmarks": "سوق رومونغي.",
+        "Tourist_Activities": "الاسترخاء على الشاطئ.",
+        "Green_Spaces": "شواطئ رومونغي.",
+        "Local_Cuisine": "سمك Kapenta المجفف."
+      },
+      {
+        "City_Name": "سيبيتوكي",
+        "Historical_Landmarks": "المواقع الحدودية.",
+        "Tourist_Activities": "زيارة الأراضي الزراعية.",
+        "Green_Spaces": "الحقول الزراعية الخضراء.",
+        "Local_Cuisine": "Bugali (عصيدة الكسافا)."
+      },
+      {
+        "City_Name": "كيروندو",
+        "Historical_Landmarks": "مواقع الصيد القديمة.",
+        "Tourist_Activities": "مشاهدة الطيور المهاجرة.",
+        "Green_Spaces": "بحيرة روشورو، محمية الطيور في كيروندو.",
+        "Local_Cuisine": "Ikiryango (يخنة تقليدية)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "تشاد",
+    "Cities": [
+      {
+        "City_Name": "نجامينا",
+        "Historical_Landmarks": "المتحف الوطني التشادي، جامع نجامينا الكبير، القصر الرئاسي.",
+        "Tourist_Activities": "زيارة المتحف الوطني، التسوق في السوق المركزي.",
+        "Green_Spaces": "حديقة حيوانات نجامينا، ضفاف نهر شاري.",
+        "Local_Cuisine": "Daraba (يخنة البامية)، Karkanji (مشروب الكركديه)."
+      },
+      {
+        "City_Name": "موندو",
+        "Historical_Landmarks": "مصانع القطن التاريخية، كاتدرائية موندو.",
+        "Tourist_Activities": "زيارة مزارع القطن.",
+        "Green_Spaces": "السهول الخضراء المحيطة.",
+        "Local_Cuisine": "Moussos (طبق من الفول السوداني)."
+      },
+      {
+        "City_Name": "سار",
+        "Historical_Landmarks": "سوق سار المركزي، آثار سار القديمة.",
+        "Tourist_Activities": "ركوب القوارب على النهر.",
+        "Green_Spaces": "ضفاف نهر شاري (للتنزه).",
+        "Local_Cuisine": "La Boule (عصيدة الذرة أو الدخن)."
+      },
+      {
+        "City_Name": "أبشي",
+        "Historical_Landmarks": "القصر الملكي في أبشي (سلطنة وداي)، جامع أبشي القديم.",
+        "Tourist_Activities": "استكشاف العمارة الإسلامية القديمة.",
+        "Green_Spaces": "مناظر طبيعية صحراوية.",
+        "Local_Cuisine": "Aish (عصيدة دقيق القمح)."
+      },
+      {
+        "City_Name": "فايا-لارجو",
+        "Historical_Landmarks": "بقايا الحصون القديمة.",
+        "Tourist_Activities": "الاستمتاع بهدوء الصحراء.",
+        "Green_Spaces": "واحات النخيل.",
+        "Local_Cuisine": "تمر الواحات."
+      },
+      {
+        "City_Name": "بلبول",
+        "Historical_Landmarks": "الأسواق التقليدية.",
+        "Tourist_Activities": "شراء الحرف التشادية.",
+        "Green_Spaces": "قرب منتزه زكيوما الوطني.",
+        "Local_Cuisine": "كسرة (خبز رقيق)."
+      },
+      {
+        "City_Name": "زكيوما",
+        "Historical_Landmarks": "محطة حماية الحياة البرية.",
+        "Tourist_Activities": "سفاري الأفيال في زكيوما.",
+        "Green_Spaces": "منتزه زكيوما الوطني (للسفاري).",
+        "Local_Cuisine": "لحم الماعز المشوي (Kabab)."
+      },
+      {
+        "City_Name": "كلو",
+        "Historical_Landmarks": "المساجد المحلية.",
+        "Tourist_Activities": "زيارة المزارع.",
+        "Green_Spaces": "الحقول الزراعية الخضراء.",
+        "Local_Cuisine": "شوربة الفول السوداني."
+      },
+      {
+        "City_Name": "بالا",
+        "Historical_Landmarks": "المباني الحكومية القديمة.",
+        "Tourist_Activities": "التعرف على القبائل المحلية.",
+        "Green_Spaces": "مناظر ريفية.",
+        "Local_Cuisine": "Jarret de boeuf (لحم بقر مطبوخ)."
+      },
+      {
+        "City_Name": "أونيانغا الكبير",
+        "Historical_Landmarks": "النقوش الصخرية في إنيدي (قرب أونيانغا).",
+        "Tourist_Activities": "زيارة البحيرات الملونة، استكشاف التكوينات الصخرية.",
+        "Green_Spaces": "بحيرات أونيانغا (Ounianga Lakes).",
+        "Local_Cuisine": "الأطعمة البدوية التقليدية."
+      }
+    ]
+  },
+  {
+    "Country_Name": "توغو",
+    "Cities": [
+      {
+        "City_Name": "لومي",
+        "Historical_Landmarks": "كاتدرائية القلب المقدس، متحف توغو الوطني، سوق الفودو (Fetish Market).",
+        "Tourist_Activities": "جولة في السوق الكبير، زيارة سوق الفودو (Fetish Market).",
+        "Green_Spaces": "شاطئ لومي، المساحات الخضراء حول قصر الرئاسة.",
+        "Local_Cuisine": "Gboma Dessi (يخنة سبانخ باللحم)، Pâte (عصيدة تقليدية)."
+      },
+      {
+        "City_Name": "كباليمي",
+        "Historical_Landmarks": "مركز الحرف اليدوية، الكنائس القديمة.",
+        "Tourist_Activities": "تسلق تلال كباليمي، شراء الحرف الخشبية.",
+        "Green_Spaces": "شلالات كبيم، تلال كباليمي الخضراء.",
+        "Local_Cuisine": "Fufu (فوفو) بصلصة الباذنجان."
+      },
+      {
+        "City_Name": "كارا",
+        "Historical_Landmarks": "نصب الاستقلال، متحف كارا الإقليمي.",
+        "Tourist_Activities": "الانطلاق لزيارة كوتاماكو.",
+        "Green_Spaces": "مناظر جبلية شمالية.",
+        "Local_Cuisine": "Ablo (كعك أرز خفيف)، Djenkoume (عصيدة طماطم)."
+      },
+      {
+        "City_Name": "كوتاماكو",
+        "Historical_Landmarks": "تاكيينتا (منازل الطين الدفاعية).",
+        "Tourist_Activities": "التعرف على ثقافة باتاماريبا، استكشاف منازل الطين.",
+        "Green_Spaces": "مناظر طبيعية ريفية جبلية.",
+        "Local_Cuisine": "طبق العصيدة المحلي."
+      },
+      {
+        "City_Name": "توجوفيل",
+        "Historical_Landmarks": "المعابد والمزارات المحلية، الكنائس البرتغالية القديمة.",
+        "Tourist_Activities": "جولة في بحيرة توغو، التعرف على تقاليد الفودو.",
+        "Green_Spaces": "بحيرة توغو.",
+        "Local_Cuisine": "سمك مشوي من البحيرة."
+      },
+      {
+        "City_Name": "أنيي هو",
+        "Historical_Landmarks": "بيت العبيد في أغبودرافو (قريب)، السوق التاريخي.",
+        "Tourist_Activities": "زيارة أغبودرافو.",
+        "Green_Spaces": "غابات قريبة.",
+        "Local_Cuisine": "Yovo Doko (عجين مقلي)."
+      },
+      {
+        "City_Name": "أتاكبامي",
+        "Historical_Landmarks": "محطات السكك الحديدية القديمة.",
+        "Tourist_Activities": "التسوق في الأسواق المحلية.",
+        "Green_Spaces": "تلال أتاكبامي.",
+        "Local_Cuisine": "Akoumé (طبق دقيق)."
+      },
+      {
+        "City_Name": "بادو",
+        "Historical_Landmarks": "المنازل التقليدية.",
+        "Tourist_Activities": "الوصول إلى الشلالات.",
+        "Green_Spaces": "شلالات بادو (Qouarou Falls).",
+        "Local_Cuisine": "أطباق تعتمد على الكاكاو والبن."
+      },
+      {
+        "City_Name": "سوكودي",
+        "Historical_Landmarks": "المساجد القديمة.",
+        "Tourist_Activities": "مشاهدة الرقصات المحلية.",
+        "Green_Spaces": "مناظر السافانا المحيطة.",
+        "Local_Cuisine": "Wagashi (جبن مقلي)."
+      },
+      {
+        "City_Name": "بلدة أنيه",
+        "Historical_Landmarks": "كنيسة أنيه القديمة.",
+        "Tourist_Activities": "استكشاف المنطقة الريفية.",
+        "Green_Spaces": "مزارع الكاكاو القريبة.",
+        "Local_Cuisine": "Fonio (حبوب الفونييو)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "جزر فيجي",
+    "Cities": [
+      {
+        "City_Name": "سوفا",
+        "Historical_Landmarks": "متحف فيجي، مباني البرلمان، المباني الكولونيالية القديمة.",
+        "Tourist_Activities": "زيارة المتحف، جولة في الحديقة النباتية.",
+        "Green_Spaces": "الحديقة النباتية في ثورستون، منتزه كولو-إي-سوفا للغابات.",
+        "Local_Cuisine": "Kokoda (سيفيتشي فيجي)، Duruka (هليون فيجي)."
+      },
+      {
+        "City_Name": "نادي",
+        "Historical_Landmarks": "معبد سري سيفا سوبرامانيا (معبد هندوسي ضخم).",
+        "Tourist_Activities": "الانطلاق لزيارة جزر مامانوثا، جولة في المعبد.",
+        "Green_Spaces": "حديقة سليبينغ جاينت (Sleeping Giant Garden).",
+        "Local_Cuisine": "Lovo (وليمة تقليدية مطبوخة تحت الأرض)."
+      },
+      {
+        "City_Name": "لوتوكا",
+        "Historical_Landmarks": "منازل تاريخية، الميناء التجاري.",
+        "Tourist_Activities": "زيارة الأسواق المحلية.",
+        "Green_Spaces": "الحديقة النباتية، كورنيش لواركا.",
+        "Local_Cuisine": "Rourou (أوراق التارو مع حليب جوز الهند)."
+      },
+      {
+        "City_Name": "سافوسافو",
+        "Historical_Landmarks": "الينابيع الحارة الطبيعية.",
+        "Tourist_Activities": "الاسترخاء في الينابيع، الغوص.",
+        "Green_Spaces": "خليج سافوسافو، الشعاب المرجانية.",
+        "Local_Cuisine": "Kava (مشروب تقليدي)."
+      },
+      {
+        "City_Name": "ليفوكا",
+        "Historical_Landmarks": "بلدة ليفوكا التاريخية (موقع يونسكو)، المباني الكولونيالية.",
+        "Tourist_Activities": "جولة في البلدة التاريخية.",
+        "Green_Spaces": "تلال ليفوكا المحيطة.",
+        "Local_Cuisine": "Palusami (لحم أو سمك ملفوف في أوراق التارو)."
+      },
+      {
+        "City_Name": "سيجاتوكا",
+        "Historical_Landmarks": "قرية نافالا التقليدية.",
+        "Tourist_Activities": "استكشاف الكثبان الرملية، التجديف في نهر نافوا.",
+        "Green_Spaces": "كثبان سيجاتوكا الرملية الوطنية، وادي نهر سيجاتوكا.",
+        "Local_Cuisine": "Fish in Lolo (سمك مطبوخ في حليب جوز الهند)."
+      },
+      {
+        "City_Name": "سامانا",
+        "Historical_Landmarks": "مسجد لاباسا.",
+        "Tourist_Activities": "الغوص والسنوركلينغ.",
+        "Green_Spaces": "الشعاب المرجانية القريبة، مناطق الغابات.",
+        "Local_Cuisine": "Vakalolo (حلوى جوز الهند)."
+      },
+      {
+        "City_Name": "تافوني",
+        "Historical_Landmarks": "مسار خط التاريخ الدولي (International Date Line).",
+        "Tourist_Activities": "المشي لمسافات طويلة لاستكشاف الشلالات.",
+        "Green_Spaces": "منتزه بوموز الوطني، شلالات تافورو.",
+        "Local_Cuisine": "Taro Leaf Soup (حساء أوراق التارو)."
+      },
+      {
+        "City_Name": "باتي",
+        "Historical_Landmarks": "مواقع طقوس المشي على النار.",
+        "Tourist_Activities": "مشاهدة طقوس المشي على النار.",
+        "Green_Spaces": "شواطئ باتي.",
+        "Local_Cuisine": "Ika Vakalolo (سمك مع كريمة جوز الهند)."
+      },
+      {
+        "City_Name": "راكيركي",
+        "Historical_Landmarks": "قبر أودري (Tomb of Udre-Udre).",
+        "Tourist_Activities": "استكشاف الساحل.",
+        "Green_Spaces": "المناظر الساحلية.",
+        "Local_Cuisine": "Koumi (طعام تقليدي)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "جيبوتي",
+    "Cities": [
+      {
+        "City_Name": "مدينة جيبوتي",
+        "Historical_Landmarks": "مسجد حمودي، القصر الرئاسي، محطة القطار القديم، السوق المركزي.",
+        "Tourist_Activities": "التسوق في السوق المركزي، زيارة مساجد المدينة القديمة.",
+        "Green_Spaces": "الحدائق العامة المركزية، الكورنيش البحري.",
+        "Local_Cuisine": "Skoudehkaris (أرز باللحم الضأن أو الماعز)، Laxoox (خبز مسطح)."
+      },
+      {
+        "City_Name": "تاجورا",
+        "Historical_Landmarks": "المنازل البيضاء القديمة، ميناء تاجورا القديم.",
+        "Tourist_Activities": "الغوص والسنوركلينغ في جزر موشا.",
+        "Green_Spaces": "شواطئ خليج تاجورا، جزر موشا.",
+        "Local_Cuisine": "سمك مشوي (Poisson Braisé)."
+      },
+      {
+        "City_Name": "علي صبيح",
+        "Historical_Landmarks": "المواقع العسكرية التاريخية.",
+        "Tourist_Activities": "التنزه واستكشاف الصحراء.",
+        "Green_Spaces": "المناظر الصحراوية والجبلية.",
+        "Local_Cuisine": "Fatira (خبز مقلي)."
+      },
+      {
+        "City_Name": "دخيل",
+        "Historical_Landmarks": "القرى المحلية حول البحيرة.",
+        "Tourist_Activities": "مشاهدة مداخن الحجر الجيري عند الشروق.",
+        "Green_Spaces": "بحيرة آبي (Lake Abbé).",
+        "Local_Cuisine": "شوربة العدس (Harira)."
+      },
+      {
+        "City_Name": "بحيرة عسل",
+        "Historical_Landmarks": "مناجم الملح الطبيعية.",
+        "Tourist_Activities": "التقاط الصور للمناظر الملحية الفريدة.",
+        "Green_Spaces": "بحيرة عسل (Lake Assal).",
+        "Local_Cuisine": "القهوة الجيبوتية التقليدية."
+      },
+      {
+        "City_Name": "أوبوك",
+        "Historical_Landmarks": "المستعمرة الفرنسية القديمة.",
+        "Tourist_Activities": "استكشاف الشواطئ الهادئة.",
+        "Green_Spaces": "الشواطئ الشمالية البكر.",
+        "Local_Cuisine": "Asida (عصيدة دقيق)."
+      },
+      {
+        "City_Name": "غابة داي",
+        "Historical_Landmarks": "منازل عفار التقليدية.",
+        "Tourist_Activities": "التنزه في الغابة ومشاهدة الطيور.",
+        "Green_Spaces": "غابة داي الوطنية (Forêt du Day).",
+        "Local_Cuisine": "Canjeero (بان كيك صومالي)."
+      },
+      {
+        "City_Name": "علي أدّه",
+        "Historical_Landmarks": "مركز علي أدّه.",
+        "Tourist_Activities": "التعرف على الجانب الإنساني للبلاد.",
+        "Green_Spaces": "مناظر صحراوية قاسية.",
+        "Local_Cuisine": "Samusa (سمبوسة)."
+      },
+      {
+        "City_Name": "يوبوكي",
+        "Historical_Landmarks": "مواقع الصيد.",
+        "Tourist_Activities": "استكشاف البراكين الخامدة.",
+        "Green_Spaces": "حقول الحمم البركانية.",
+        "Local_Cuisine": "خبز اللاوكسوكس (Laxoox)."
+      },
+      {
+        "City_Name": "خليج القروش",
+        "Historical_Landmarks": "بركان أروب، مناطق الغوص.",
+        "Tourist_Activities": "السباحة مع أسماك القرش الحوت.",
+        "Green_Spaces": "خليج القروش (Bay of Ghoubbet).",
+        "Local_Cuisine": "أطباق بحرية طازجة."
+      }
+    ]
+  },
+  {
+    "Country_Name": "الجمهورية الدومينيكية",
+    "Cities": [
+      {
+        "City_Name": "سانتو دومينغو",
+        "Historical_Landmarks": "المنطقة الاستعمارية (Zona Colonial)، كاتدرائية سانت ماري الصغرى، حصن أوزاما.",
+        "Tourist_Activities": "التجول في المنطقة الاستعمارية (يونسكو)، زيارة مجمع لوس تريس أوجوس الكهفي.",
+        "Green_Spaces": "حديقة ميرادور سور، الحديقة النباتية الوطنية.",
+        "Local_Cuisine": "La Bandera (أرز، فاصوليا، لحم)، Mangu (موز أخضر مهروس)."
+      },
+      {
+        "City_Name": "بونتا كانا",
+        "Historical_Landmarks": "مناطق المنتجع الكبرى.",
+        "Tourist_Activities": "الغوص والسنوركلينغ، الاسترخاء على الشاطئ.",
+        "Green_Spaces": "شاطئ بافارو، عيون السكان الأصليين (Ojos Indigenas).",
+        "Local_Cuisine": "Pastelón (فطيرة اللحم الحلوة)."
+      },
+      {
+        "City_Name": "بويرتو بلاتا",
+        "Historical_Landmarks": "قلعة سان فيليب، المتحف الدومينيكي للعنبر.",
+        "Tourist_Activities": "ركوب التلفريك إلى قمة الجبل، استكشاف الهندسة المعمارية الفيكتورية.",
+        "Green_Spaces": "جبل إيزابيل دي توريس (تلفريك)، شاطئ سوسوا.",
+        "Local_Cuisine": "Tostones (موز أخضر مقلي)، Pescado con Coco (سمك مع جوز الهند)."
+      },
+      {
+        "City_Name": "لا رومانيا",
+        "Historical_Landmarks": "ألتوس دي شافون (قرية فنية على الطراز المتوسطي)، مغارة لاس مارافياس.",
+        "Tourist_Activities": "جولة في ألتوس دي شافون، رحلة إلى جزيرة ساونا.",
+        "Green_Spaces": "منتزه لوس هايتيسس الوطني (قريب)، جزيرة ساونا.",
+        "Local_Cuisine": "Sancocho (يخنة تقليدية)."
+      },
+      {
+        "City_Name": "سامانا",
+        "Historical_Landmarks": "مدينة سانتا باربرا دي سامانا، جسر المشاة في سانتا باربرا.",
+        "Tourist_Activities": "مشاهدة الحيتان (في الشتاء)، ركوب الخيل إلى شلال إيل ليمون.",
+        "Green_Spaces": "شلال إيل ليمون، منتزه لوس هايتيسس (منطقة القوارب).",
+        "Local_Cuisine": "Chenchén (طبق كسكس دومينيكي)."
+      },
+      {
+        "City_Name": "سانتياغو",
+        "Historical_Landmarks": "نصب الأبطال (Monumento a los Héroes)، مصانع السيجار.",
+        "Tourist_Activities": "زيارة مصنع سيجار، التسوق في سوق الحرفيين.",
+        "Green_Spaces": "حديقة ميرادور ديل يونا، حديقة دوارتي.",
+        "Local_Cuisine": "Chicharrón (جلد الخنزير المقلي)."
+      },
+      {
+        "City_Name": "جاراباكوا",
+        "Historical_Landmarks": "كنيسة جاراباكوا.",
+        "Tourist_Activities": "التجديف في النهر، التنزه في الجبال.",
+        "Green_Spaces": "شلالات يمنا، منتزه أرماندو بيرموديز الوطني.",
+        "Local_Cuisine": "Mofongo (موز مقلي ومهروس)."
+      },
+      {
+        "City_Name": "كابريتي",
+        "Historical_Landmarks": "المركز السياحي.",
+        "Tourist_Activities": "ركوب الأمواج بالطائرة الورقية، ركوب الأمواج.",
+        "Green_Spaces": "شاطئ كابريتي، شاطئ إنكوانترو.",
+        "Local_Cuisine": "Asopao (حساء أرز كثيف)."
+      },
+      {
+        "City_Name": "إل سيياو",
+        "Historical_Landmarks": "نزل إل سيياو الجبلي.",
+        "Tourist_Activities": "تسلق بيكو دوارتي.",
+        "Green_Spaces": "بيكو دوارتي (أعلى قمة في الكاريبي)، غابات الصنوبر.",
+        "Local_Cuisine": "Locrio (طبق أرز باللحم)."
+      },
+      {
+        "City_Name": "سان خوان دي لا ماغوانا",
+        "Historical_Landmarks": "مواقع طقوس التاينو (سكان أصليين).",
+        "Tourist_Activities": "استكشاف ثقافة التاينو.",
+        "Green_Spaces": "مناظر ريفية.",
+        "Local_Cuisine": "Chambre (يخنة حارة)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "جمهورية إفريقيا الوسطى",
+    "Cities": [
+      {
+        "City_Name": "بانغي",
+        "Historical_Landmarks": "كاتدرائية نوتردام بانغي، متحف بوغندا الوطني، القصر الرئاسي القديم.",
+        "Tourist_Activities": "رحلة نهرية في أوبانغي، زيارة سوق بانغي المركزي.",
+        "Green_Spaces": "الحديقة النباتية في بانغي، ضفاف نهر أوبانغي.",
+        "Local_Cuisine": "Foutou (عصيدة الكسافا)، Liboke (يخنة السمك أو اللحم في أوراق الموز)."
+      },
+      {
+        "City_Name": "بيرباراتي",
+        "Historical_Landmarks": "منازل تاريخية، منطقة التعدين القديمة.",
+        "Tourist_Activities": "استكشاف الغابات، التعرف على التعدين.",
+        "Green_Spaces": "الغابات الكثيفة المحيطة، نهر مامبيري.",
+        "Local_Cuisine": "Kanda (كرات لحم وبذور اليقطين)."
+      },
+      {
+        "City_Name": "نولا",
+        "Historical_Landmarks": "قرى السكان الأصليين (بيغمي).",
+        "Tourist_Activities": "تتبع الغوريلا والفيلة، التعرف على قبائل الباكا (البيغمي).",
+        "Green_Spaces": "محمية دزانغا-سانغا (Dzanga-Sangha)، غابات بايا-بينغا.",
+        "Local_Cuisine": "Maboké (سمك مطبوخ في أوراق الموز)."
+      },
+      {
+        "City_Name": "بوالي",
+        "Historical_Landmarks": "محطة الطاقة الكهرومائية.",
+        "Tourist_Activities": "مشاهدة الشلالات.",
+        "Green_Spaces": "شلالات بوالي (Boali Falls).",
+        "Local_Cuisine": "Gari (دقيق الكسافا)."
+      },
+      {
+        "City_Name": "بامباري",
+        "Historical_Landmarks": "المساجد والكنائس المحلية.",
+        "Tourist_Activities": "التنزه على ضفاف النهر.",
+        "Green_Spaces": "نهر واكا.",
+        "Local_Cuisine": "Yassa (طبق دجاج أو سمك بالبصل والليمون)."
+      },
+      {
+        "City_Name": "بوسانغوا",
+        "Historical_Landmarks": "السوق المحلي.",
+        "Tourist_Activities": "رحلات سفاري في الشمال (إذا كانت آمنة).",
+        "Green_Spaces": "منتزه مانوفو-غوندا سانت فلوريس (شمالاً).",
+        "Local_Cuisine": "Mbaqanga (طبق جنوبي)."
+      },
+      {
+        "City_Name": "بريا",
+        "Historical_Landmarks": "مناجم الماس.",
+        "Tourist_Activities": "زيارة ورش التعدين الصغيرة.",
+        "Green_Spaces": "مناظر طبيعية جبلية.",
+        "Local_Cuisine": "يخنة الموز الأخضر."
+      },
+      {
+        "City_Name": "بيمبو",
+        "Historical_Landmarks": "السوق الكبير.",
+        "Tourist_Activities": "التسوق في السوق.",
+        "Green_Spaces": "مناطق زراعية.",
+        "Local_Cuisine": "Billi-billi (مشروب تقليدي)."
+      },
+      {
+        "City_Name": "باكارينغا",
+        "Historical_Landmarks": "مباني المستعمرة القديمة.",
+        "Tourist_Activities": "التعرف على الزراعة.",
+        "Green_Spaces": "المناطق الريفية.",
+        "Local_Cuisine": "لحم الماعز المشوي."
+      },
+      {
+        "City_Name": "إيمفوندو",
+        "Historical_Landmarks": "الميناء النهري.",
+        "Tourist_Activities": "رحلات صيد بسيطة.",
+        "Green_Spaces": "نهر أوبانغي.",
+        "Local_Cuisine": "السمك المشوي على النهر."
+      }
+    ]
+  },
+  {
+    "Country_Name": "جنوب السودان",
+    "Cities": [
+      {
+        "City_Name": "جوبا",
+        "Historical_Landmarks": "ضريح جون قرنق (نصب وطني)، جسر النيل، كاتدرائية جوبا.",
+        "Tourist_Activities": "جولة على النيل، زيارة ضريح قرنق.",
+        "Green_Spaces": "ضفاف النيل الأبيض (كورنيش)، الحدائق العامة.",
+        "Local_Cuisine": "Kisra (خبز رقيق)، Ful Sudani (فول سوداني مطبوخ)."
+      },
+      {
+        "City_Name": "واو",
+        "Historical_Landmarks": "المباني الاستعمارية القديمة، السوق المركزي.",
+        "Tourist_Activities": "استكشاف العمارة القديمة، زيارة الأسواق.",
+        "Green_Spaces": "محميات غابات قريبة.",
+        "Local_Cuisine": "Combo (يخنة بامية ولحم)، Asida (عصيدة)."
+      },
+      {
+        "City_Name": "ملكال",
+        "Historical_Landmarks": "ميناء ملكال النهري.",
+        "Tourist_Activities": "مشاهدة الطيور المائية في السدود.",
+        "Green_Spaces": "مستنقعات السدود (Sudd) - أهم موقع طبيعي.",
+        "Local_Cuisine": "Gorosasa (خبز تقليدي)."
+      },
+      {
+        "City_Name": "بور",
+        "Historical_Landmarks": "آثار بور القديمة، الكنيسة التاريخية.",
+        "Tourist_Activities": "زيارة الأماكن الدينية والتاريخية.",
+        "Green_Spaces": "ضفاف نهر النيل.",
+        "Local_Cuisine": "Aseeda (طبق عصيدة)."
+      },
+      {
+        "City_Name": "توريت",
+        "Historical_Landmarks": "القرى التقليدية لقبائل اللانغو.",
+        "Tourist_Activities": "التنزه في جبال إيماتونغ.",
+        "Green_Spaces": "جبال إيماتونغ، منتزه نيمولي الوطني (قريب).",
+        "Local_Cuisine": "لحم الضأن المشوي."
+      },
+      {
+        "City_Name": "رومبيك",
+        "Historical_Landmarks": "الأسواق الشعبية.",
+        "Tourist_Activities": "التعرف على تقاليد الدينكا (الماشية).",
+        "Green_Spaces": "مناطق البحيرات الموسمية، المناظر الرعوية.",
+        "Local_Cuisine": "Milk and Honey (الطبق الرئيسي تقليدياً)."
+      },
+      {
+        "City_Name": "باما",
+        "Historical_Landmarks": "مركز حماية الحياة البرية.",
+        "Tourist_Activities": "مشاهدة الهجرة الكبرى للظباء (موسمياً).",
+        "Green_Spaces": "منتزه بوما الوطني (Boma National Park).",
+        "Local_Cuisine": "طبق من السمك المجفف."
+      },
+      {
+        "City_Name": "أويل",
+        "Historical_Landmarks": "محطة السكك الحديدية القديمة.",
+        "Tourist_Activities": "جولة في مناطق الزراعة.",
+        "Green_Spaces": "سهول السافانا الشمالية.",
+        "Local_Cuisine": "كبد مشوي (Kemeyu)."
+      },
+      {
+        "City_Name": "كواجوك",
+        "Historical_Landmarks": "المواقع التراثية لقبائل الدينكا.",
+        "Tourist_Activities": "مشاهدة الحياة الرعوية.",
+        "Green_Spaces": "سهول شاسعة.",
+        "Local_Cuisine": "زبادي البقر."
+      },
+      {
+        "City_Name": "ييدا",
+        "Historical_Landmarks": "المباني القديمة.",
+        "Tourist_Activities": "التعرف على تاريخ المنطقة.",
+        "Green_Spaces": "المناظر الصحراوية.",
+        "Local_Cuisine": "خبز العيش (Aish)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "جنوب إفريقيا",
+    "Cities": [
+      {
+        "City_Name": "كيب تاون",
+        "Historical_Landmarks": "جزيرة روبن (سجن مانديلا)، قلعة الرجاء الصالح، رصيف فيكتوريا وألفريد (V&A Waterfront).",
+        "Tourist_Activities": "ركوب التلفريك إلى جبل الطاولة، جولة في جزيرة روبن، تذوق النبيذ في مزارع كيب القريبة.",
+        "Green_Spaces": "جبل الطاولة الوطني (Table Mountain)، رأس الرجاء الصالح، حدائق كيرستنبوش النباتية.",
+        "Local_Cuisine": "Bobotie (طبق لحم مفروم حلو وحار)، Cape Malay Curry (كاري الملايو)."
+      },
+      {
+        "City_Name": "جوهانسبرغ",
+        "Historical_Landmarks": "متحف التمييز العنصري (Apartheid Museum)، حي سويتو (Soweto)، ماريو سيتي (Mary Fitzgerald Square).",
+        "Tourist_Activities": "زيارة متحف الأبارتايد، جولة في سويتو والمنزل رقم 8115.",
+        "Green_Spaces": "حديقة جولدن جيت الوطنية، حديقة الزواحف.",
+        "Local_Cuisine": "Biltong (لحم مجفف)، Boerewors (نقانق المزارع)، Pap and Vleis (عصيدة ولحم)."
+      },
+      {
+        "City_Name": "نيلسبرويت",
+        "Historical_Landmarks": "مركز الحياة البرية كروغر، منازل كولفين ومركز الفنون.",
+        "Tourist_Activities": "سفاري الخمسة الكبار في كروغر.",
+        "Green_Spaces": "حديقة كروغر الوطنية (Kruger National Park) - أقرب بوابة، حدائق لوالدونيا النباتية.",
+        "Local_Cuisine": "Shisa Nyama (شواء لحم تقليدي)."
+      },
+      {
+        "City_Name": "ديربان",
+        "Historical_Landmarks": "مسجد جوما، حديقة النباتات الاستوائية.",
+        "Tourist_Activities": "ركوب الأمواج، استكشاف الثقافة الهندية.",
+        "Green_Spaces": "الميل الذهبي (Golden Mile) الشاطئي، حديقة إيسيماغاليسو ويتلاند (شمالاً).",
+        "Local_Cuisine": "Bunny Chow (خبز محشو بالكاري)، Vetkoek (عجين مقلي ومحشو)."
+      },
+      {
+        "City_Name": "بريتوريا",
+        "Historical_Landmarks": "مباني الاتحاد (Union Buildings)، نصب الفورتريكر، متحف كروغر هاوس.",
+        "Tourist_Activities": "زيارة مباني الاتحاد، التنزه تحت أشجار الجاكاراندا (في الربيع).",
+        "Green_Spaces": "حدائق كوثبرت الفلكلورية، جبل ماجاليسبرج (Magaliesberg).",
+        "Local_Cuisine": "Potjiekos (يخنة مطبوخة في وعاء من الحديد الزهر)."
+      },
+      {
+        "City_Name": "ستيلينبوش",
+        "Historical_Landmarks": "شارع دورب (Dorp Street) التاريخي، جامعة ستيلينبوش.",
+        "Tourist_Activities": "تذوق النبيذ في المزارع، جولة في المدينة التاريخية.",
+        "Green_Spaces": "مزارع النبيذ، حديقة جونكرزهوك الطبيعية.",
+        "Local_Cuisine": "Amasi (زبادي تقليدي) مع خبز الذرة."
+      },
+      {
+        "City_Name": "نايسنا",
+        "Historical_Landmarks": "كنيسة نايسنا الإنجيلية، منطقة رصيف الميناء.",
+        "Tourist_Activities": "رحلات القوارب في البحيرات، التسوق في الواجهة البحرية.",
+        "Green_Spaces": "بحيرات نايسنا، غابات تسيتسيكاما الوطنية (قربها).",
+        "Local_Cuisine": "محار نايسنا (Knysna Oysters)، سمك الكينجكليب المشوي."
+      },
+      {
+        "City_Name": "بورت إليزابيث",
+        "Historical_Landmarks": "برج الساعة، متحف بورت إليزابيث، حي دونكين التاريخي.",
+        "Tourist_Activities": "زيارة منتزه أدو، الاستمتاع بالشواطئ.",
+        "Green_Spaces": "شاطئ هوم وود، منتزه أدو الفيلة الوطني (قريب).",
+        "Local_Cuisine": "Gatsby (ساندويتش ضخم)."
+      },
+      {
+        "City_Name": "هيرمانوس",
+        "Historical_Landmarks": "متحف الحيتان.",
+        "Tourist_Activities": "مشاهدة الحيتان الحدباء والجنوبية (موسمياً)، التنزه على المسار الساحلي.",
+        "Green_Spaces": "مسار كليف ووك (Cliff Path)، خليج ووكر.",
+        "Local_Cuisine": "Karoo Lamb (لحم الضأن كارو)."
+      },
+      {
+        "City_Name": "بلومفونتين",
+        "Historical_Landmarks": "متحف الحرب الأنغلو-بوير، قاعة العدل القديمة.",
+        "Tourist_Activities": "زيارة محمية فرانك كلير، استكشاف المتاحف التاريخية.",
+        "Green_Spaces": "حدائق الورود، محمية فرانك كلير (Franklin Game Reserve).",
+        "Local_Cuisine": "Mala Mogodu (أمعاء مطبوخة)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "السودان",
+    "Cities": [
+      {
+        "City_Name": "الخرطوم",
+        "Historical_Landmarks": "ملتقى النيلين (المقرن)، المتحف القومي السوداني، القصر الرئاسي.",
+        "Tourist_Activities": "مشاهدة التقاء النيلين، جولة في جزيرة توتي، زيارة المتحف.",
+        "Green_Spaces": "جزيرة توتي (حديقة ومزرعة)، حديقة الحيوان.",
+        "Local_Cuisine": "الفول المصلح (طبق إفطار)، الكمونية (يخنة كبد)."
+      },
+      {
+        "City_Name": "أم درمان",
+        "Historical_Landmarks": "بيت الخليفة (متحف)، قبر المهدي، سوق أم درمان (السوق الكبير).",
+        "Tourist_Activities": "مشاهدة رقصة الدراويش، التسوق في سوق أم درمان.",
+        "Green_Spaces": "حديقة النيلين.",
+        "Local_Cuisine": "الكسرة وملاح الويكة (عصيدة ومرق بامية مجففة)، القراصة (خبز السميد)."
+      },
+      {
+        "City_Name": "مروي",
+        "Historical_Landmarks": "أهرامات مروي (البجراوية - موقع يونسكو)، معبد الشمس.",
+        "Tourist_Activities": "زيارة الأهرامات عند الغروب، استكشاف الآثار الكوشية.",
+        "Green_Spaces": "منطقة البجراوية الصحراوية.",
+        "Local_Cuisine": "خبز الخميرة (Aseeda)."
+      },
+      {
+        "City_Name": "بورتسودان",
+        "Historical_Landmarks": "منارة بورتسودان، الميناء القديم.",
+        "Tourist_Activities": "الغوص والسنوركلينغ، الاستمتاع بالشواطئ.",
+        "Green_Spaces": "الشعاب المرجانية في البحر الأحمر، شاطئ الوالي.",
+        "Local_Cuisine": "سمك مشوي طازج، عصير القنقليس."
+      },
+      {
+        "City_Name": "كريمة",
+        "Historical_Landmarks": "جبل البركل (جبل نبتة - موقع يونسكو)، أهرامات نوري.",
+        "Tourist_Activities": "تسلق جبل البركل، زيارة معبد آمون.",
+        "Green_Spaces": "ضفاف النيل بالقرب من البركل.",
+        "Local_Cuisine": "أسياخ اللحم (Agashe)."
+      },
+      {
+        "City_Name": "سواكن",
+        "Historical_Landmarks": "أطلال مدينة سواكن القديمة، الميناء العثماني المدمر.",
+        "Tourist_Activities": "جولة في أطلال المدينة القديمة.",
+        "Green_Spaces": "مناظر ساحلية بحرية.",
+        "Local_Cuisine": "فتة (خبز مع مرق)."
+      },
+      {
+        "City_Name": "كسلا",
+        "Historical_Landmarks": "المساجد الكبيرة، سوق كسلا الشعبي.",
+        "Tourist_Activities": "التنزه حول جبال توتيل.",
+        "Green_Spaces": "جبال توتيل، نهر القاش.",
+        "Local_Cuisine": "العصيدة مع ملاح التقلية."
+      },
+      {
+        "City_Name": "الأبيض",
+        "Historical_Landmarks": "سوق الصمغ العربي، متحف الأبيض.",
+        "Tourist_Activities": "زيارة سوق الصمغ العربي.",
+        "Green_Spaces": "المناظر الصحراوية.",
+        "Local_Cuisine": "المرارة (كبد نيئ)."
+      },
+      {
+        "City_Name": "دنقلا",
+        "Historical_Landmarks": "المواقع الأثرية النوبية القديمة.",
+        "Tourist_Activities": "استكشاف الآثار النوبية.",
+        "Green_Spaces": "ضفاف النيل النوبي.",
+        "Local_Cuisine": "خبز الدوكة (Dooka Bread)."
+      },
+      {
+        "City_Name": "ود مدني",
+        "Historical_Landmarks": "جامعة الجزيرة، المباني الإدارية القديمة.",
+        "Tourist_Activities": "جولة في المزارع.",
+        "Green_Spaces": "نهر النيل الأزرق.",
+        "Local_Cuisine": "يخنة البامية المجففة."
+      }
+    ]
+  },
+  {
+    "Country_Name": "الصومال",
+    "Cities": [
+      {
+        "City_Name": "مقديشو",
+        "Historical_Landmarks": "مسجد فخر الدين، مبنى كاتدرائية مقديشو القديم، منارة مقديشو.",
+        "Tourist_Activities": "السباحة في شاطئ ليدو، جولة في المدينة القديمة.",
+        "Green_Spaces": "شاطئ ليدو، حديقة جزيرة حواء عابدي.",
+        "Local_Cuisine": "Bariis Iskukaris (أرز متبل بالبهارات)، Baasto iyo Hilib (مكرونة باللحم)."
+      },
+      {
+        "City_Name": "هرجيسا",
+        "Historical_Landmarks": "كهوف لاس غيل (رسومات قديمة)، المتحف الوطني، سوق العملات.",
+        "Tourist_Activities": "زيارة كهوف لاس غيل، التسوق في سوق العملات.",
+        "Green_Spaces": "منتزه هرجيسا الوطني، جبال داالو (قرب هرجيسا).",
+        "Local_Cuisine": "Canjeero (بان كيك صومالي)، Lahoh (خبز مسطح)."
+      },
+      {
+        "City_Name": "بربرة",
+        "Historical_Landmarks": "البيوت العثمانية القديمة، منارة بربرة.",
+        "Tourist_Activities": "الاستمتاع بالشاطئ الهادئ.",
+        "Green_Spaces": "شاطئ بربرة، ميناء بربرة القديم.",
+        "Local_Cuisine": "Maraq (يخنة لحم)، Sambusa (سمبوسة)."
+      },
+      {
+        "City_Name": "بوصاصو",
+        "Historical_Landmarks": "ميناء بوصاصو، السوق المركزي.",
+        "Tourist_Activities": "التسوق في السوق، جولة في الميناء.",
+        "Green_Spaces": "جبال جالجالا (قرب بوصاصو)، الشاطئ العام.",
+        "Local_Cuisine": "Suqaar (لحم مقطع ومقلي)، Malawax (خبز حلو)."
+      },
+      {
+        "City_Name": "كيسمايو",
+        "Historical_Landmarks": "المنارة القديمة، المباني الحكومية.",
+        "Tourist_Activities": "رحلات بحرية إلى الجزر.",
+        "Green_Spaces": "جزر الباجوني، شاطئ كيسمايو.",
+        "Local_Cuisine": "Iskudhexkaris (أرز مطبوخ مع الخضار)."
+      },
+      {
+        "City_Name": "مركا",
+        "Historical_Landmarks": "المباني العربية القديمة، المسجد المركزي.",
+        "Tourist_Activities": "استكشاف العمارة القديمة.",
+        "Green_Spaces": "شاطئ مركا الأبيض.",
+        "Local_Cuisine": "Qado (غداء صومالي تقليدي)."
+      },
+      {
+        "City_Name": "زيلا",
+        "Historical_Landmarks": "أطلال زيلا القديمة، المساجد التاريخية.",
+        "Tourist_Activities": "زيارة الأطلال التاريخية.",
+        "Green_Spaces": "الشاطئ القريب.",
+        "Local_Cuisine": "Oodkac (لحم مجفف)."
+      },
+      {
+        "City_Name": "بوراما",
+        "Historical_Landmarks": "جامعة بوراما، المساجد القديمة.",
+        "Tourist_Activities": "التنزه في التلال.",
+        "Green_Spaces": "تلال بوراما، بحيرة بوراما.",
+        "Local_Cuisine": "Mashidani (طبق شعيرية)."
+      },
+      {
+        "City_Name": "إييل",
+        "Historical_Landmarks": "المباني الاستعمارية القديمة.",
+        "Tourist_Activities": "مشاهدة قوارب الصيد.",
+        "Green_Spaces": "شاطئ إييل، المنطقة الساحلية.",
+        "Local_Cuisine": "سمك التونة الطازج."
+      },
+      {
+        "City_Name": "أفجوي",
+        "Historical_Landmarks": "مزارع الموز والمانجو.",
+        "Tourist_Activities": "زيارة المزارع.",
+        "Green_Spaces": "ضفاف نهر شبيلي (لنزهة).",
+        "Local_Cuisine": "Muufo (خبز دقيق الذرة)."
+      }
+    ]
+  },
+  {
+    "Country_Name": "الصين",
+    "Cities": [
+      {
+        "City_Name": "بكين",
+        "Historical_Landmarks": "المدينة المحرمة، سور الصين العظيم (أقسام بادالينغ وموتيان يو)، ساحة تيانانمن، معبد السماء.",
+        "Tourist_Activities": "المشي على جزء من السور العظيم، زيارة المدينة المحرمة، مشاهدة عرض الأوبرا الصينية.",
+        "Green_Spaces": "قصر الصيف (حديقة إمبراطورية)، حديقة بيهاي.",
+        "Local_Cuisine": "بط بكين المشوي (Peking Duck)، نودلز زاجيانغ (Zhajiangmian)."
+      },
+      {
+        "City_Name": "شانغهاي",
+        "Historical_Landmarks": "البوند (The Bund - الواجهة البحرية)، برج لؤلؤة الشرق، قرية جوجيازياو المائية.",
+        "Tourist_Activities": "جولة في البوند ليلاً، زيارة متحف شانغهاي.",
+        "Green_Spaces": "حديقة يويوان (Yuyuan Garden)، حديقة القرن.",
+        "Local_Cuisine": "شياو لونغ باو (شوربة الزلابية)، كعكة القمر (Mooncake)."
+      },
+      {
+        "City_Name": "شيآن",
+        "Historical_Landmarks": "جيش التيراكوتا، سور مدينة شيآن، معبد الإوزة البرية الكبير.",
+        "Tourist_Activities": "زيارة جيش التيراكوتا، ركوب الدراجات على سور المدينة.",
+        "Green_Spaces": "حديقة فورتون، بحيرة شينغ جينغ.",
+        "Local_Cuisine": "روموجياو (برغر صيني)، باو زي (فطائر مطهوة على البخار)."
+      },
+      {
+        "City_Name": "تشنغدو",
+        "Historical_Landmarks": "ممر جينلي القديم، معبد ووهو هاو.",
+        "Tourist_Activities": "مشاهدة الباندا في المحمية، تجربة أطباق السيتشوان الحارة.",
+        "Green_Spaces": "قاعدة تشنغدو للباندا العملاقة، حديقة رينمين.",
+        "Local_Cuisine": "هوت بوت سيتشوان (Hot Pot)، كونغ باو دجاج."
+      },
+      {
+        "City_Name": "غويلين",
+        "Historical_Landmarks": "قنوات غويلين المائية، تلة الجذع الفيل.",
+        "Tourist_Activities": "رحلة نهرية في نهر لي، جولة في المناطق الكارستية.",
+        "Green_Spaces": "تلة فوبو (Fubo Hill)، كهف ريد فلوت.",
+        "Local_Cuisine": "نودلز الأرز الغويلينية، بط البيرة (Beer Duck)."
+      },
+      {
+        "City_Name": "هانغتشو",
+        "Historical_Landmarks": "معبد لينجينغ البوذي، متحف الشاي الوطني.",
+        "Tourist_Activities": "ركوب القوارب في البحيرة الغربية، تذوق شاي لونغ جينغ.",
+        "Green_Spaces": "البحيرة الغربية (West Lake - يونسكو)، شلالات شي لانغ.",
+        "Local_Cuisine": "سمك البحيرة الغربية بالخل، دجاج المتسولين (Beggar's Chicken)."
+      },
+      {
+        "City_Name": "هونغ كونغ",
+        "Historical_Landmarks": "تمثال بوذا الكبير، شارع النجوم، متحف الفضاء.",
+        "Tourist_Activities": "مشاهدة عرض الأضواء (Symphony of Lights)، ركوب الترام إلى القمة.",
+        "Green_Spaces": "القمة (The Peak)، حديقة هونغ كونغ.",
+        "Local_Cuisine": "ديم سوم، بيض الفطائر (Egg Waffles)."
+      },
+      {
+        "City_Name": "لاسة",
+        "Historical_Landmarks": "قصر بوتالا (قصر الدالاي لاما القديم)، معبد جوخانغ.",
+        "Tourist_Activities": "زيارة قصر بوتالا، جولة في دير سيرا.",
+        "Green_Spaces": "حديقة نوبولينغكا.",
+        "Local_Cuisine": "ياك مو مو (زلابية لحم الياك)، تسيمبا (عجين الشعير)."
+      },
+      {
+        "City_Name": "سوتشو",
+        "Historical_Landmarks": "جبل النمر (Tiger Hill)، المتحف الإقليمي، القنوات المائية القديمة.",
+        "Tourist_Activities": "جولة في الحدائق الكلاسيكية، ركوب القوارب في القنوات.",
+        "Green_Spaces": "حديقة المسؤول المتواضع (يونسكو)، حديقة ليو.",
+        "Local_Cuisine": "سمك السوتشو المدخن، نودلز داندو (Dandan Noodles)."
+      },
+      {
+        "City_Name": "تشانغجياجيه",
+        "Historical_Landmarks": "الجسر الزجاجي (Zhangjiajie Grand Canyon).",
+        "Tourist_Activities": "ركوب التلفريك إلى جبل تيانمن، المشي على الجسر الزجاجي.",
+        "Green_Spaces": "منتزه تشانغجياجيه الغابات الوطني، جبل تيانمن (بوابة السماء).",
+        "Local_Cuisine": "فطيرة تشانغجياجيه."
+      }
+    ]
+  },
+  {
+    "Country_Name": "الكاميرون",
+    "Cities": [
+      {
+        "City_Name": "ياوندي",
+        "Historical_Landmarks": "نصب التوحيد (Reunification Monument)، المتحف الوطني، كاتدرائية نوتردام دو فيكتوار.",
+        "Tourist_Activities": "زيارة المتحف الوطني، استكشاف أسواق ياوندي الفنية.",
+        "Green_Spaces": "جبل فام نكوج (Foulassi)، حديقة حيوانات ياوندي.",
+        "Local_Cuisine": "Ndole (الطبق الوطني: سبانخ ومكسرات الفول السوداني)، Poulet DG (دجاج مع الموز الأخضر)."
+      },
+      {
+        "City_Name": "دوالا",
+        "Historical_Landmarks": "جسر بونابيري، متحف الفن المعاصر، دار الفنون والمكتبة.",
+        "Tourist_Activities": "جولة في الميناء، استكشاف المشهد الفني.",
+        "Green_Spaces": "منتزه دوالا لاك، شواطئ دوالا.",
+        "Local_Cuisine": "Poisson Braisé (سمك مشوي مع صلصة حارة)، Miondo (خبز من الكسافا)."
+      },
+      {
+        "City_Name": "كريبي",
+        "Historical_Landmarks": "منارة كريبي، قرى صيادي الأسماك.",
+        "Tourist_Activities": "زيارة شلالات لوبي، الاسترخاء على الشاطئ.",
+        "Green_Spaces": "شلالات لوبي (Lobe Falls)، الشواطئ الرملية.",
+        "Local_Cuisine": "Eru (يخنة خضراء)، أطباق الأسماك والمأكولات البحرية الطازجة."
+      },
+      {
+        "City_Name": "فومبان",
+        "Historical_Landmarks": "قصر سلطان باموم الملكي، متحف القصر (متحف الفنون التقليدية).",
+        "Tourist_Activities": "زيارة قصر السلطان ومتحف الفنون.",
+        "Green_Spaces": "السهول الخضراء.",
+        "Local_Cuisine": "Achombo (طبق لحم تقليدي)."
+      },
+      {
+        "City_Name": "ليمبي",
+        "Historical_Landmarks": "مركز إنقاذ الشمبانزي.",
+        "Tourist_Activities": "زيارة مركز الشمبانزي، الاسترخاء على الشاطئ الأسود.",
+        "Green_Spaces": "الحديقة النباتية في ليمبي، شواطئ رملية بركانية سوداء.",
+        "Local_Cuisine": "Congo (فاصوليا مطبوخة)."
+      },
+      {
+        "City_Name": "بويا",
+        "Historical_Landmarks": "مباني المستعمرة القديمة، جامعة بويا.",
+        "Tourist_Activities": "بدء تسلق جبل الكاميرون، جولات في المدينة.",
+        "Green_Spaces": "جبل الكاميرون (Mount Cameroon)، المنتزه الوطني لجبل الكاميرون.",
+        "Local_Cuisine": "Water fufu and Eru (فوفو مع صلصة)."
+      },
+      {
+        "City_Name": "غاروا",
+        "Historical_Landmarks": "الأسواق الشمالية.",
+        "Tourist_Activities": "رحلات سفاري إلى وازا.",
+        "Green_Spaces": "قرب منتزهات وازا وبينجو، نهر بنوي.",
+        "Local_Cuisine": "Wagashi (جبن مقلي)."
+      },
+      {
+        "City_Name": "باغوانغ",
+        "Historical_Landmarks": "متحف باغوانغ، القصر التقليدي.",
+        "Tourist_Activities": "مشاهدة الرقصات التقليدية.",
+        "Green_Spaces": "تلال ومزارع الغرب.",
+        "Local_Cuisine": "Koki (فاصوليا ملفوفة في أوراق)."
+      },
+      {
+        "City_Name": "ماروا",
+        "Historical_Landmarks": "المسجد الكبير في ماروا.",
+        "Tourist_Activities": "التسوق في سوق ماروا، التنزه في الجبال.",
+        "Green_Spaces": "جبال ماروا (للتنزه)، سهول السافانا.",
+        "Local_Cuisine": "Couscous (كسكس)، شوربة الذرة."
+      },
+      {
+        "City_Name": "إيبولوا",
+        "Historical_Landmarks": "المواقع التاريخية لقبائل البانتو.",
+        "Tourist_Activities": "استكشاف الغابات.",
+        "Green_Spaces": "الغابات المطيرة.",
+        "Local_Cuisine": "Maboke (سمك مطبوخ في أوراق)."
+      }
+    ]
+  }
+]

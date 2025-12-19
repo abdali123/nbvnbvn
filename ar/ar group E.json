@@ -1,0 +1,734 @@
+[
+  {
+    "Country_Name": "العراق",
+    "Cities": [
+        {
+          "City_Name": "بغداد",
+          "Historical_Landmarks": "المواقع التاريخية، القصور والمتاحف، مسجد كتشاوة، الجسور القديمة، ساحة التحرير",
+          "Tourist_Activities": "زيارة المتحف الوطني العراقي، استكشاف الأسواق والمساجد الكبرى",
+          "Local_Cuisine": "المسكوف (سمك نهري مشوي)، الدولمة (محشي)، الأوزي (خروف كامل محشي)، التشريب (يخنة شتوية)، الكباب العراقي، التمن باقلاء",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "البصرة",
+          "Historical_Landmarks": "شط العرب، المدينة القديمة، الأسواق التاريخية، قصر البصرة",
+          "Tourist_Activities": "رحلات القوارب في شط العرب، استكشاف أسواق التمور",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي، المطبك (سمك بالرز)",
+          "Green_Spaces": "شط العرب"
+        },
+        {
+          "City_Name": "نينوى (الموصل)",
+          "Historical_Landmarks": "بقايا مدينة نينوى الأثرية، أطلال آشور، المواقع الأثرية",
+          "Tourist_Activities": "زيارة المواقع الأثرية، استكشاف التاريخ القديم (بلاد آشور)",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي، الكبة",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "أربيل",
+          "Historical_Landmarks": "قلعة أربيل (تراث عالمي)، منارة المظفرية، السوق القديم",
+          "Tourist_Activities": "زيارة القلعة التاريخية، التسوق في السوق القديم",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "النجف",
+          "Historical_Landmarks": "مرقد الإمام علي، بحر النجف، المدينة القديمة",
+          "Tourist_Activities": "سياحة دينية (زيارة العتبات)، التجول في المدينة القديمة",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي",
+          "Green_Spaces": "بحر النجف"
+        },
+        {
+          "City_Name": "ذي قار",
+          "Historical_Landmarks": "مدينة أور الأثرية (الزقورة)، المواقع السومرية",
+          "Tourist_Activities": "زيارة المواقع الحضارية القديمة، استكشاف مهد السومريين",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "كركوك",
+          "Historical_Landmarks": "قلعة كركوك، المدينة القديمة",
+          "Tourist_Activities": "زيارة القلعة التاريخية",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بابل",
+          "Historical_Landmarks": "بقايا مدينة بابل الأثرية، أسد بابل، بوابة عشتار",
+          "Tourist_Activities": "زيارة المواقع البابلية",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "كربلاء",
+          "Historical_Landmarks": "مرقد الإمام الحسين، العتبات المقدسة",
+          "Tourist_Activities": "سياحة دينية وزيارات العتبات",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "سامراء",
+          "Historical_Landmarks": "ملوية سامراء، مساجد أثرية",
+          "Tourist_Activities": "زيارة المواقع الأثرية الإسلامية",
+          "Local_Cuisine": "المسكوف، الدولمة، الأوزي",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        }
+      ]
+    },
+    {
+      "Country_Name": "الفاتيكان",
+      "Cities": [
+        {
+          "City_Name": "مدينة الفاتيكان",
+          "Historical_Landmarks": "كاتدرائية القديس بطرس، ساحة القديس بطرس، متاحف الفاتيكان، كنيسة سيستين، القصر الرسولي، المقابر البابوية، حدائق الفاتيكان، المسلة",
+          "Tourist_Activities": "زيارة متاحف الفاتيكان (تخطي الطابور)، جولة في كنيسة سيستين، تسلق القبة، زيارة المقابر البابوية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "حدائق الفاتيكان"
+        }
+      ]
+    },
+    {
+      "Country_Name": "الفلبين",
+      "Cities": [
+        {
+          "City_Name": "مانيلا",
+          "Historical_Landmarks": "إنتراموروس (المدينة المسورة)، كاتدرائية مانيلا الكبيرة، حدائق ريزال، متحف أيالا، مول آسيا (Mall of Asia)",
+          "Tourist_Activities": "استكشاف إنتراموروس التاريخية، التسوق في مول آسيا، زيارة المتاحف الفنية، سياحة الأعمال",
+          "Local_Cuisine": "أدوبو (طبق لحم أو دجاج بصلصة الصويا والخل)، ناسي غورينغ، ساتاي، غادو غادو (سلطة)، لاوار (لحم متبل)",
+          "Green_Spaces": "حدائق ريزال"
+        },
+        {
+          "City_Name": "سيبو",
+          "Historical_Landmarks": "معبد تاويست، حدائق ماجيك، متاحف تاريخية، الشواطئ الساحلية",
+          "Tourist_Activities": "الغوص والغطس، استكشاف الجزر القريبة (مانتاوي وبانغل)، سياحة Cities الساحلية",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "حدائق ماجيك، الشواطئ الساحلية"
+        },
+        {
+          "City_Name": "بالاوان",
+          "Historical_Landmarks": "بحيرة كايانجان، خليج هوندا (جزر وغطس)، غابات مطيرة، شواطئ رملية بيضاء",
+          "Tourist_Activities": "ممارسة الغطس والسباحة، رحلات الجزر (خليج هوندا)، استكشاف الغابات المطيرة",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "غابات مطيرة، شواطئ رملية بيضاء، بحيرة كايانجان"
+        },
+        {
+          "City_Name": "بوراكاي",
+          "Historical_Landmarks": "شاطئ وايت بيتش الأبيض الناصع، شاطئ ياباك (شاطئ بوكا شيل)، المياه الفيروزية الصافية",
+          "Tourist_Activities": "الاسترخاء والتمتع بالمناظر الطبيعية الخلابة، السباحة والغوص، أنشطة شاطئية",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "شاطئ وايت بيتش الأبيض الناصع، شاطئ ياباك"
+        },
+        {
+          "City_Name": "دافاو",
+          "Historical_Landmarks": "جبل آبو (أعلى قمة)، منتزه فيلبين إيغل، الشواطئ الساحلية",
+          "Tourist_Activities": "تسلق الجبال، مشاهدة النسور الفلبينية، استكشاف الطبيعة",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "جبل آبو، منتزه فيلبين إيغل"
+        },
+        {
+          "City_Name": "إيلويلو",
+          "Historical_Landmarks": "المدينة القديمة، كنائس تاريخية، الشواطئ",
+          "Tourist_Activities": "استكشاف العمارة القديمة، السياحة الدينية",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "الشواطئ"
+        },
+        {
+          "City_Name": "باكولود",
+          "Historical_Landmarks": "بركان كانلاون، الحدائق الوطنية",
+          "Tourist_Activities": "استكشاف البراكين، سياحة المغامرات",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "الحدائق الوطنية"
+        },
+        {
+          "City_Name": "بويرتو برينسيسا",
+          "Historical_Landmarks": "خليج هوندا، الممرات المائية",
+          "Tourist_Activities": "رحلات الجزر، الغوص",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "خليج هوندا، الممرات المائية"
+        },
+        {
+          "City_Name": "كاجايان دي أورو",
+          "Historical_Landmarks": "نهر كاجايان (التجديف)، المغامرات المائية",
+          "Tourist_Activities": "التجديف في المياه البيضاء",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "نهر كاجايان"
+        },
+        {
+          "City_Name": "زامبوانجا",
+          "Historical_Landmarks": "قلعة بيلار (حصن إسباني)، الجزر القريبة",
+          "Tourist_Activities": "زيارة الحصون التاريخية",
+          "Local_Cuisine": "أدوبو، ناسي غورينغ، ساتاي، غادو غادو",
+          "Green_Spaces": "الجزر القريبة"
+        }
+      ]
+    },
+    {
+      "Country_Name": "فلسطين",
+      "Cities": [
+        {
+          "City_Name": "القدس",
+          "Historical_Landmarks": "المسجد الأقصى، قبة الصخرة، كنيسة القيامة، أسوار البلدة القديمة",
+          "Tourist_Activities": "سياحة دينية، استكشاف البلدة القديمة",
+          "Local_Cuisine": "المقلوبة (أرز ولحم وخضار)، المنسف الفلسطيني، الفتوش، الكنافة النابلسية",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "نابلس",
+          "Historical_Landmarks": "البلدة القديمة، جبل جرزيم، المساجد والكنائس التاريخية",
+          "Tourist_Activities": "زيارة مصانع الكنافة (شهرتها)، التجول في السوق القديم",
+          "Local_Cuisine": "الكنافة النابلسية، المقلوبة، المنسف الفلسطيني",
+          "Green_Spaces": "جبل جرزيم"
+        },
+        {
+          "City_Name": "الخليل",
+          "Historical_Landmarks": "الحرم الإبراهيمي، المدينة القديمة",
+          "Tourist_Activities": "سياحة دينية، زيارة الحرم",
+          "Local_Cuisine": "المقلوبة، القدرة الخليلية",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بيت لحم",
+          "Historical_Landmarks": "كنيسة المهد (ميلاد المسيح)، المدينة القديمة",
+          "Tourist_Activities": "سياحة دينية، زيارة الكنيسة",
+          "Local_Cuisine": "المقلوبة، القدرة الخليلية",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "أريحا",
+          "Historical_Landmarks": "دير قرنطل، تل السلطان، قصر هشام",
+          "Tourist_Activities": "زيارة المواقع الأثرية، استكشاف أقدم مدينة في العالم",
+          "Local_Cuisine": "المقلوبة، القدرة الخليلية",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "غزة",
+          "Historical_Landmarks": "ميناء غزة، شواطئ غزة، المواقع التاريخية (محدودة)",
+          "Tourist_Activities": "السياحة الشاطئية (محدودة)",
+          "Local_Cuisine": "المقلوبة، القدرة الخليلية",
+          "Green_Spaces": "شواطئ غزة"
+        }
+      ]
+    },
+    {
+      "Country_Name": "فنزويلا",
+      "Cities": [
+        {
+          "City_Name": "كاراكاس",
+          "Historical_Landmarks": "(مدن كبرى)، الفنادق والمطاعم",
+          "Tourist_Activities": "زيارة المراكز الحضرية، سياحة الأعمال",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "ماراكايبو",
+          "Historical_Landmarks": "جسر جنرال رافائيل أوردانيتا، بحيرة ماراكايبو",
+          "Tourist_Activities": "زيارة البحيرة، استكشاف المدينة الحضرية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "بحيرة ماراكايبو"
+        },
+        {
+          "City_Name": "فالنسيا",
+          "Historical_Landmarks": "كاتدرائية فالنسيا، ساحة بوليفار، المنتزهات",
+          "Tourist_Activities": "التجول في المنتزهات",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "المنتزهات، ساحة بوليفار"
+        },
+        {
+          "City_Name": "مارغريتا",
+          "Historical_Landmarks": "شواطئ جزيرة مارغريتا، قلاع تاريخية، قرى صيد",
+          "Tourist_Activities": "السياحة الشاطئية والترفيه",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "شواطئ جزيرة مارغريتا"
+        }
+      ]
+    },
+    {
+      "Country_Name": "فنلندا",
+      "Cities": [
+        {
+          "City_Name": "هلسنكي",
+          "Historical_Landmarks": "كاتدرائية هلسنكي، ساحة مجلس الشيوخ، قلعة سومنلينا (تراث عالمي)",
+          "Tourist_Activities": "زيارة القلعة البحرية، التجول في الميناء",
+          "Local_Cuisine": "كاريلين باستي (فطيرة الأرز)، سلمون نيلي كيكو (حساء سمك)، بورش",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "توركو",
+          "Historical_Landmarks": "قلعة توركو، كاتدرائية توركو، ساحة السوق",
+          "Tourist_Activities": "زيارة القلعة والكاتدرائية التاريخية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بورفو",
+          "Historical_Landmarks": "القرية التاريخية، نهر بورفونيوكي",
+          "Tourist_Activities": "جولة في القرية التاريخية، زيارة متجر الشوكولاتة",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "نهر بورفونيوكي"
+        },
+        {
+          "City_Name": "تامبيري",
+          "Historical_Landmarks": "كاتدرائية تامبيري، بحيرة ناسي وجارفي",
+          "Tourist_Activities": "زيارة المناطق الداخلية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "بحيرة ناسي وجارفي"
+        },
+        {
+          "City_Name": "أولو",
+          "Historical_Landmarks": "قلعة أولو، ساحة السوق",
+          "Tourist_Activities": "استكشاف المدينة الشمالية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        }
+      ]
+    },
+    {
+      "Country_Name": "قبرص",
+      "Cities": [
+        {
+          "City_Name": "نيقوسيا",
+          "Historical_Landmarks": "المدينة القديمة، بوابة فاماغوستا، متحف قبرص",
+          "Tourist_Activities": "زيارة المدينة المقسمة، استكشاف المعالم التاريخية والثقافية",
+          "Local_Cuisine": "الموساكا (باذنجان ولحم)، الشيش كباب، الماروتي (فطيرة)، السيفيديس (سمك مشوي)، البرغول (سلطة)",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "ليماسول",
+          "Historical_Landmarks": "قلعة ليماسول، الواجهة البحرية، المتاحف",
+          "Tourist_Activities": "السياحة الشاطئية والميناء، التجول على الواجهة البحرية",
+          "Local_Cuisine": "الموساكا، الشيش كباب، السيفيديس",
+          "Green_Spaces": "الواجهة البحرية"
+        },
+        {
+          "City_Name": "لارنكا",
+          "Historical_Landmarks": "بحيرة لارنكا المالحة، شاطئ فينيكودس",
+          "Tourist_Activities": "الغوص في سفن الغارقة، زيارة بحيرة الملح",
+          "Local_Cuisine": "الموساكا، الشيش كباب، السيفيديس",
+          "Green_Spaces": "بحيرة لارنكا المالحة، شاطئ فينيكودس"
+        },
+        {
+          "City_Name": "بافوس",
+          "Historical_Landmarks": "قلعة بافوس، ميناء بافوس",
+          "Tourist_Activities": "زيارة القلعة والميناء",
+          "Local_Cuisine": "الموساكا، الشيش كباب، السيفيديس",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بوليس",
+          "Historical_Landmarks": "شاطئ بوليس، شبه جزيرة أكاماس",
+          "Tourist_Activities": "سياحة طبيعية وشواطئ هادئة",
+          "Local_Cuisine": "الموساكا، الشيش كباب، السيفيديس",
+          "Green_Spaces": "شاطئ بوليس، شبه جزيرة أكاماس"
+        },
+        {
+          "City_Name": "ليفركا",
+          "Historical_Landmarks": "القرى التاريخية، الحرف اليدوية",
+          "Tourist_Activities": "استكشاف القرى، شراء الحرف اليدوية",
+          "Local_Cuisine": "الموساكا، الشيش كباب، السيفيديس",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        }
+      ]
+    },
+    {
+      "Country_Name": "كازاخستان",
+      "Cities": [
+        {
+          "City_Name": "أستانا",
+          "Historical_Landmarks": "برج بايتيريك، قصر السلام والمصالحة، مسجد نور أستانا",
+          "Tourist_Activities": "زيارة المباني الحديثة والآسرة",
+          "Local_Cuisine": "بشبارماك (لحم مسلوق ونودلز)، قازي (سجق لحم الحصان)",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "ألماتي",
+          "Historical_Landmarks": "تلفريك كوك توبيه، متحف كازاخستان المركزي، حديقة 28 بانفيلوف",
+          "Tourist_Activities": "زيارة متحف الآلات الموسيقية، التجول في الحديقة",
+          "Local_Cuisine": "بشبارماك، قازي",
+          "Green_Spaces": "حديقة 28 بانفيلوف"
+        },
+        {
+          "City_Name": "كاراغاندا",
+          "Historical_Landmarks": "متحف البيئة، تلال كاراغاندا",
+          "Tourist_Activities": "زيارة المتحف",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "تلال كاراغاندا"
+        },
+        {
+          "City_Name": "شيمكنت",
+          "Historical_Landmarks": "أطلال مدينة سوران القديمة، أضرحة سيرام، علامة SHYMKENT الشهيرة، نادي Cinema Bar، سوق Aina Bazaar",
+          "Tourist_Activities": "استكشاف أطلال سوران القديمة، زيارة سوق Aina Bazaar، زيارة الأضرحة",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "توركستان",
+          "Historical_Landmarks": "مسجد Hazret Sultan، ضريح أحمد ياساوي (تراث عالمي)، أطلال مدن قديمة",
+          "Tourist_Activities": "زيارة الأضرحة والمساجد",
+          "Local_Cuisine": "بشبارماك، قازي",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بايكونور",
+          "Historical_Landmarks": "مركز بايكونور الفضائي",
+          "Tourist_Activities": "مشاهدة إطلاق الصواريخ (إذا كانت متاحة)",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بايكاش",
+          "Historical_Landmarks": "بحيرة بايكاش، المراكز الساحلية",
+          "Tourist_Activities": "السياحة الشاطئية والمائية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "بحيرة بايكاش"
+        },
+        {
+          "City_Name": "أورال",
+          "Historical_Landmarks": "نهر أورال (نهر يايك)، متحف الذهب",
+          "Tourist_Activities": "استكشاف العاصمة، زيارة المتاحف الفنية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "نهر أورال (نهر يايك)"
+        },
+        {
+          "City_Name": "أتيراو",
+          "Historical_Landmarks": "نهر أورال (نهر يايك)، المراكز الساحلية (قرب بحر قزوين)",
+          "Tourist_Activities": "استكشاف المناطق الساحلية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "نهر أورال (نهر يايك)، المراكز الساحلية"
+        }
+      ]
+    },
+    {
+      "Country_Name": "كرواتيا",
+      "Cities": [
+        {
+          "City_Name": "زغرب",
+          "Historical_Landmarks": "المدينة العليا (تاريخية)، برج لوتركشاك، كاتدرائية زغرب، حديقة ماكسيمير",
+          "Tourist_Activities": "استكشاف المدينة العليا",
+          "Local_Cuisine": "Štrukli (فطائر محشوة)، Zagorski puran s mlincima (ديك رومي)",
+          "Green_Spaces": "حديقة ماكسيمير"
+        },
+        {
+          "City_Name": "سبليت",
+          "Historical_Landmarks": "قصر دقلديانوس (تراث عالمي)، كورنيش ريفا",
+          "Tourist_Activities": "زيارة القصر الروماني، التجول على كورنيش ريفا",
+          "Local_Cuisine": "باشتيكادا (لحم بقر مطهو)، ريزوتو (محار)، كروفي (فطائر)",
+          "Green_Spaces": "كورنيش ريفا"
+        },
+        {
+          "City_Name": "دوبروفنيك",
+          "Historical_Landmarks": "أسوار المدينة القديمة (تراث عالمي)، شارع سترادون، جبل سرد",
+          "Tourist_Activities": "المشي على الأسوار، ركوب التلفريك إلى جبل سرد",
+          "Local_Cuisine": "باشتيكادا، ريزوتو، كروفي",
+          "Green_Spaces": "جبل سرد"
+        },
+        {
+          "City_Name": "زادار",
+          "Historical_Landmarks": "الجهاز الشمسي (Sun Salutation)، أورغان البحر (Sea Organ)، المدينة القديمة",
+          "Tourist_Activities": "استكشاف المدينة التاريخية",
+          "Local_Cuisine": "Pljeskavica، Burek، Ćevapi",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بولا",
+          "Historical_Landmarks": "مدرج بولا الروماني، معبد أغسطس",
+          "Tourist_Activities": "زيارة الآثار الرومانية",
+          "Local_Cuisine": "Pljeskavica، Burek، Ćevapi",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        }
+      ]
+    },
+    {
+      "Country_Name": "كمبوديا",
+      "Cities": [
+        {
+          "City_Name": "بنوم بنه",
+          "Historical_Landmarks": "القصر الملكي، وات فنوم (Wat Phnom)، المتحف الوطني، حقول القتل (Killing Fields)",
+          "Tourist_Activities": "زيارة القصر، زيارة حقول القتل للتاريخ",
+          "Local_Cuisine": "أموك (سمك بالكاري)، نوم بانشوك (نودلز الكمبودية)، لوك لاك (لحم بقر)",
+          "Green_Spaces": "وات فنوم"
+        },
+        {
+          "City_Name": "سيام ريب",
+          "Historical_Landmarks": "أنغكور وات (تراث عالمي)، معابد أنغكور",
+          "Tourist_Activities": "استكشاف معابد أنغكور",
+          "Local_Cuisine": "أموك، نوم بانشوك، لوك لاك",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "باتامبانغ",
+          "Historical_Landmarks": "العمارة الاستعمارية الفرنسية، نهر باتامبانغ",
+          "Tourist_Activities": "استكشاف العمارة الاستعمارية",
+          "Local_Cuisine": "أموك، نوم بانشوك، لوك لاك",
+          "Green_Spaces": "نهر باتامبانغ"
+        },
+        {
+          "City_Name": "كامبونغ تشانغ",
+          "Historical_Landmarks": "المناطق النهرية (نهر ميكونغ)",
+          "Tourist_Activities": "رحلات في النهر، استكشاف القرى الريفية",
+          "Local_Cuisine": "أموك، نوم بانشوك، لوك لاك",
+          "Green_Spaces": "المناطق النهرية (نهر ميكونغ)"
+        },
+        {
+          "City_Name": "بايفيت",
+          "Historical_Landmarks": "الحدود التايلاندية (سياحة حدودية)",
+          "Tourist_Activities": "التجول في منطقة الحدود",
+          "Local_Cuisine": "أموك، نوم بانشوك، لوك لاك",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        }
+      ]
+    },
+    {
+      "Country_Name": "كندا",
+      "Cities": [
+        {
+          "City_Name": "تورنتو",
+          "Historical_Landmarks": "برج سي إن (CN Tower)، متحف أونتاريو الملكي، قاعة مشاهير الهوكي",
+          "Tourist_Activities": "زيارة برج سي إن، استكشاف المتاحف والمعارض الفنية",
+          "Local_Cuisine": "Poutine (بطاطس مقلية بالجبن والمرق)، فطيرة الزبدة، المأكولات المتعددة الثقافات",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "فانكوفر",
+          "Historical_Landmarks": "حديقة ستانلي (Stanley Park)، جسر كابيلانو المعلق",
+          "Tourist_Activities": "زيارة حديقة ستانلي، ركوب الدراجات في جسر كابيلانو",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة، المأكولات البحرية",
+          "Green_Spaces": "حديقة ستانلي"
+        },
+        {
+          "City_Name": "مونتريال",
+          "Historical_Landmarks": "المدينة القديمة (Old Montreal)، كاتدرائية نوتردام، الميناء القديم، جبل رويال",
+          "Tourist_Activities": "استكشاف التراث الفرنسي، حضور المهرجانات",
+          "Local_Cuisine": "Poutine، لحم البقر المدخن (الأكثر شهرة)",
+          "Green_Spaces": "جبل رويال"
+        },
+        {
+          "City_Name": "كيبيك",
+          "Historical_Landmarks": "قلعة فرونتناك (Château Frontenac)، سهول إبراهيم، مدينة كيبيك القديمة (مسورة)",
+          "Tourist_Activities": "زيارة المدينة القديمة",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة، السكر الإسفنجي (Tire sur la neige)",
+          "Green_Spaces": "سهول إبراهيم"
+        },
+        {
+          "City_Name": "كالجاري",
+          "Historical_Landmarks": "برج كالجاري، ركوب الخيل، منتزه بانف (قريب)",
+          "Tourist_Activities": "زيارة مهرجان كالجاري ستمبيد",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة، اللحم البقري",
+          "Green_Spaces": "منتزه بانف (قريب)"
+        },
+        {
+          "City_Name": "أوتاوا",
+          "Historical_Landmarks": "مباني البرلمان، القناة المائية (Rideau Canal)، المتحف الوطني",
+          "Tourist_Activities": "زيارة مبنى البرلمان",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة",
+          "Green_Spaces": "القناة المائية (Rideau Canal)"
+        },
+        {
+          "City_Name": "إدمنتون",
+          "Historical_Landmarks": "مول ويست إدمنتون، المتاحف",
+          "Tourist_Activities": "التسوق، زيارة المتاحف",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "هاليفاكس",
+          "Historical_Landmarks": "الواجهة البحرية، القلعة التاريخية",
+          "Tourist_Activities": "استكشاف التراث البحري، زيارة المتحف البحري",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة، المأكولات البحرية",
+          "Green_Spaces": "الواجهة البحرية"
+        },
+        {
+          "City_Name": "وينيبيغ",
+          "Historical_Landmarks": "متحف حقوق الإنسان، النصب التذكاري لحقوق الإنسان، Forks National Historic Site",
+          "Tourist_Activities": "زيارة المتاحف الوطنية",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "فيكتوريا",
+          "Historical_Landmarks": "مبنى البرلمان، حدائق بوتشارت، الفندق التاريخي فيرمونت إمبراطورة",
+          "Tourist_Activities": "زيارة الحدائق التاريخية",
+          "Local_Cuisine": "Poutine، فطيرة الزبدة، المأكولات البحرية",
+          "Green_Spaces": "حدائق بوتشارت"
+        }
+      ]
+    },
+    {
+      "Country_Name": "الكونغو",
+      "Cities": [
+        {
+          "City_Name": "برازافيل",
+          "Historical_Landmarks": "نهر الكونغو، الغابات",
+          "Tourist_Activities": "سياحة نهرية وغابات",
+          "Local_Cuisine": "الروزولي، السنطيانة، الكونغولايس",
+          "Green_Spaces": "الغابات، نهر الكونغو"
+        },
+        {
+          "City_Name": "بوانت نوار",
+          "Historical_Landmarks": "شواطئ بوانت نوار، الغابات",
+          "Tourist_Activities": "السياحة الشاطئية، استكشاف الغابات",
+          "Local_Cuisine": "الروزولي، السنطيانة، الكونغولايس",
+          "Green_Spaces": "الشواطئ، الغابات"
+        },
+        {
+          "City_Name": "أويندو",
+          "Historical_Landmarks": "منتزه أودزالا الوطني (الغوريلا)",
+          "Tourist_Activities": "رحلات سفاري لرصد الغوريلا",
+          "Local_Cuisine": "الروزولي، السنطيانة، الكونغولايس",
+          "Green_Spaces": "منتزه أودزالا الوطني"
+        },
+        {
+          "City_Name": "أوسو",
+          "Historical_Landmarks": "المناطق الداخلية",
+          "Tourist_Activities": "سياحة بيئية",
+          "Local_Cuisine": "الروزولي، السنطيانة، الكونغولايس",
+          "Green_Spaces": "المناطق الداخلية"
+        }
+      ]
+    },
+    {
+      "Country_Name": "الكونغو الديمقراطية",
+      "Cities": [
+        {
+          "City_Name": "كينشاسا",
+          "Historical_Landmarks": "نهر الكونغو، الغابات",
+          "Tourist_Activities": "سياحة نهرية وغابات",
+          "Local_Cuisine": "البينزو، موز الجنة، الخبز الحامض",
+          "Green_Spaces": "نهر الكونغو، الغابات"
+        }
+      ]
+    },
+    {
+      "Country_Name": "كوريا الجنوبية",
+      "Cities": [
+        {
+          "City_Name": "سيول",
+          "Historical_Landmarks": "قصر جيونج بوكجونج، برج إن سيول (N Seoul Tower)، منطقة جانجنام، قرية بوكتشون",
+          "Tourist_Activities": "استكشاف التاريخ الملكي، التسوق في جانجنام، الثقافة العصرية (K-Pop)، زيارة المتاحف التفاعلية",
+          "Local_Cuisine": "كيمتشي (ملفوف مخلل)، بولغوجي (لحم بقري متبل ومشوي)، بيبيمباب (أرز مختلط بالخضار)، جابتشي (نودلز)",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "بوسان",
+          "Historical_Landmarks": "شاطئ هايونداي، معبد بيوموسا، سوق جاغالتشي للأسماك",
+          "Tourist_Activities": "السياحة الشاطئية، زيارة المعابد",
+          "Local_Cuisine": "كيمتشي، بولغوجي، بيبيمباب",
+          "Green_Spaces": "شاطئ هايونداي"
+        },
+        {
+          "City_Name": "إنتشون",
+          "Historical_Landmarks": "جسر إنتشون، الحي الصيني (Chinatown)",
+          "Tourist_Activities": "استكشاف الحي الصيني",
+          "Local_Cuisine": "كيمتشي، بولغوجي، بيبيمباب",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "دايجون",
+          "Historical_Landmarks": "متحف دايجون للتاريخ، جبل جيوسان",
+          "Tourist_Activities": "زيارة المتحف",
+          "Local_Cuisine": "كيمتشي، بولغوجي، بيبيمباب",
+          "Green_Spaces": "جبل جيوسان"
+        },
+        {
+          "City_Name": "سوون",
+          "Historical_Landmarks": "قلعة هواسونغ (تراث عالمي)",
+          "Tourist_Activities": "زيارة القلعة التاريخية المسورة",
+          "Local_Cuisine": "كيمتشي، بولغوجي، بيبيمباب",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "أولسان",
+          "Historical_Landmarks": "قصر أونسون (قرب المدينة)، شواطئ أولسان",
+          "Tourist_Activities": "زيارة القصر الملكي",
+          "Local_Cuisine": "كيمتشي، بولغوجي، بيبيمباب",
+          "Green_Spaces": "شواطئ أولسان"
+        },
+        {
+          "City_Name": "تشيونان",
+          "Historical_Landmarks": "المتحف المستقل، المناطق التاريخية",
+          "Tourist_Activities": "زيارة المناطق التاريخية",
+          "Local_Cuisine": "كيمتشي، بولغوجي، بيبيمباب",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        }
+      ]
+    },
+    {
+      "Country_Name": "كوستاريكا",
+      "Cities": [
+        {
+          "City_Name": "سان خوسيه",
+          "Historical_Landmarks": "المسرح الوطني، متحف الذهب",
+          "Tourist_Activities": "استكشاف العاصمة، زيارة المتاحف الفنية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "ابحث عن ساحات خضراء"
+        },
+        {
+          "City_Name": "نارانيا",
+          "Historical_Landmarks": "مزارع البن، المناطق الجبلية",
+          "Tourist_Activities": "جولة في مزارع البن",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "مزارع البن، المناطق الجبلية"
+        },
+        {
+          "City_Name": "ليمون",
+          "Historical_Landmarks": "شواطئ البحر الكاريبي، المتنزهات الطبيعية",
+          "Tourist_Activities": "السياحة الشاطئية",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "شواطئ البحر الكاريبي، المتنزهات الطبيعية"
+        },
+        {
+          "City_Name": "تاماريندو",
+          "Historical_Landmarks": "شواطئ المحيط الهادئ، مناطق ركوب الأمواج",
+          "Tourist_Activities": "ركوب الأمواج، السياحة الشاطئية الهادئة",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "شواطئ المحيط الهادئ"
+        },
+        {
+          "City_Name": "تورتوغويرو",
+          "Historical_Landmarks": "قنوات تورتوغويرو، حديقة تورتوغويرو الوطنية",
+          "Tourist_Activities": "مشاهدة السلاحف (موسمي)، رحلات القوارب",
+          "Local_Cuisine": "ابحث عن أطباق",
+          "Green_Spaces": "قنوات تورتوغويرو، حديقة تورتوغويرو الوطنية"
+        }
+      ]
+    },
+    {
+      "Country_Name": "أوزبكستان",
+      "Cities": [
+        {
+          "City_Name": "بخارى",
+          "Historical_Landmarks": "مئذنة كاليان، قلعة الأرك، قبة السامانيين، الأسواق المقببة (للحقير والسجاد)، المدارس القديمة، ضريح ساماني، مسجد بولا حوض.",
+          "Tourist_Activities": "اكتشاف فن العمارة الإسلامية القديمة، التجول في أسواق تاكي.",
+          "Local_Cuisine": "البلوف، شاشليك، مانتي، سمسا .",
+          "Green_Spaces": "منتزه ساماني (Samanid Park)، ميدان ليابي حوض (Lyab-i Hauz)."
+        },
+        {
+          "City_Name": "طشقند",
+          "Historical_Landmarks": "ساحة الاستقلال، مترو طشقند (المزين بلوحات فسيفساء)، سوق تشورسو التقليدي، المتحف الوطني لتاريخ أوزبكستان، حديقة \"ألشير نافوي\".",
+          "Tourist_Activities": "زيارة المتاحف والحدائق الواسعة، التسوق في سوق تشورسو.",
+          "Local_Cuisine": "البلوف، شاشليك، مانتي، لغمان .",
+          "Green_Spaces": "حديقة أليشر نافوي الوطنية (Alisher Navoi Park)، الحديقة اليابانية، حديقة طشقند النباتية."
+        },
+        {
+          "City_Name": "خوارزم (خيوة)",
+          "Historical_Landmarks": "أسوار المدينة القديمة، القصور والقلاع، الأبراج (للمراقبة)، الأسواق القديمة.",
+          "Tourist_Activities": "استكشاف القصور والقلاع ومشاهدة الواحات، زيارة الأسواق القديمة.",
+          "Local_Cuisine": "البلوف، شاشليك، لغمان .",
+          "Green_Spaces": "منتزه إيجان قلعة (Ichan-Qala) الداخلي، منتزه خيوة للثقافة والراحة."
+        },
+        {
+          "City_Name": "شهرسبز",
+          "Historical_Landmarks": "قصر آق سراي (مسقط رأس تيمورلنك)، الحدائق التاريخية، الفسيفساء الجميلة.",
+          "Tourist_Activities": "زيارة الحدائق التاريخية، مشاهدة فن العمارة التيمورية.",
+          "Local_Cuisine": "البلوف، شاشليك، سمسا .",
+          "Green_Spaces": "حدائق ساحة تيمور (Amir Timur Square)، محمية كيتوب الجيولوجية."
+        },
+        {
+          "City_Name": "نمنجان",
+          "Historical_Landmarks": "(مدينة كبرى ذات آثار ومعالم تاريخية).",
+          "Tourist_Activities": "استكشاف المآذن والمدارس، زيارة حديقة الزهور.",
+          "Local_Cuisine": "البلوف النمنجاني، شاشليك، فواكه وادي فرغانة .",
+          "Green_Spaces": "حديقة ظهير الدين بابور (Babur Park)، حديقة أفسونا (Afsana Park)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مخطط السفر العالمي</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">
+            <i class="fas fa-globe-americas"></i>
+            <span id="ui-logo">مخطط السفر</span>
+        </div>
+        <div class="lang-wrapper">
+            <i class="fas fa-language"></i>
+            <select id="langSelect">
+                <option value="ar">العربية</option>
+                <option value="en">English</option>
+                <option value="fr">Français</option>
+                <option value="es">Español</option>
+                <option value="it">Italiano</option>
+                <option value="po">Português</option>
+                <option value="ge">Deutsch</option>
+                <option value="ru">Русский</option>
+                <option value="ko">한국어</option>
+                <option value="ja">日本語</option>
+                <option value="ch">中文</option>
+            </select>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <h1 id="ui-title">أين تود الذهاب؟</h1>
+        <div class="search-container">
+            <input type="text" id="countryInput" placeholder="الدولة...">
+            <input type="text" id="cityInput" placeholder="المدينة...">
+            <button id="searchBtn">
+                <i class="fas fa-search"></i>
+                <span id="ui-search-text">بحث</span>
+            </button>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="results" class="hidden">
+            <h2 id="cityNameDisplay" class="city-title"></h2>
+            <div class="info-grid">
+                <div class="info-card">
+                    <h3><i class="fas fa-landmark"></i> <span id="ui-landmarks">المعالم</span></h3>
+                    <p id="res-landmarks"></p>
+                </div>
+                <div class="info-card">
+                    <h3><i class="fas fa-utensils"></i> <span id="ui-cuisine">المطبخ</span></h3>
+                    <p id="res-cuisine"></p>
+                </div>
+                <div class="info-card">
+                    <h3><i class="fas fa-walking"></i> <span id="ui-activities">الأنشطة</span></h3>
+                    <p id="res-activities"></p>
+                </div>
+                <div class="info-card">
+                    <h3><i class="fas fa-tree"></i> <span id="ui-green">طبيعة</span></h3>
+                    <p id="res-green"></p>
+                </div>
+            </div>
+        </div>
+
+        <div id="not-found" class="hidden alert">
+            <i class="fas fa-clock"></i>
+            <p id="ui-not-found">نحن نتأسف، هذه المدينة ستتوفر معلوماتها قريباً.</p>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
